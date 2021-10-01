@@ -18,3 +18,6 @@ This datasets **do not** have the information about everyone that was on the lis
 Last but not least to [Emma](https://stackoverflow.com/users/2956135/emma?tab=profile) for providing such an elegant solution to the unnesting of the json files. 
 
 
+# Contributing and Usage of these files
+
+Everyone is most welcome to contribute with scripts that analyse this data. If you use these files please let me know, so we can add to this section. 
