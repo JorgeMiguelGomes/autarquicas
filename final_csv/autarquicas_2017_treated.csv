@@ -1,0 +1,1302 @@
+,mandates,party,presidents,votes.absoluteMajority,votes.constituenctyCounter,votes.mandates,votes.percentage,votes.presidents,votes.validVotesPercentage,votes.votes,county,district,availableMandates,blankVotes,blankVotesPercentage,displayMessage,hasNoVoting,nullVotes,nullVotesPercentage,numberParishes,numberVoters,percentageVoters,candidatos,year
+0,0,B.E.,0,0,1,0,1.55,0,1.63,203,Albergaria-a-Velha,Aveiro,0,387,2.95,,False,276,2.11,6,13110,57.47,Rui Manuel Pinto Chagas Câncio Ferreira,2017
+1,4,CDS-PP,1,1,1,4,43.49,1,45.8,5701,Albergaria-a-Velha,Aveiro,0,387,2.95,,False,276,2.11,6,13110,57.47,António Augusto Amaral Loureiro e Santos,2017
+2,0,PCP - PEV,0,0,1,0,2.89,0,3.04,379,Albergaria-a-Velha,Aveiro,0,387,2.95,,False,276,2.11,6,13110,57.47,Bruno Miguel Alves Bento,2017
+3,3,PPD/PSD,0,0,1,3,37.05,0,39.02,4857,Albergaria-a-Velha,Aveiro,0,387,2.95,,False,276,2.11,6,13110,57.47,José Licínio Tavares Pimenta,2017
+4,0,PS,0,0,1,0,9.97,0,10.5,1307,Albergaria-a-Velha,Aveiro,0,387,2.95,,False,276,2.11,6,13110,57.47,Elísio Apolinário Simões da Silva,2017
+5,0,CDS-PP,0,0,1,0,3.61,0,3.87,556,Anadia,Aveiro,0,586,3.81,,False,426,2.77,10,15395,54.16,João Tiago Castelo Branco Charuca de Azevedo,2017
+6,3,III,1,0,1,3,41.42,1,44.34,6377,Anadia,Aveiro,0,586,3.81,,False,426,2.77,10,15395,54.16,Maria Teresa Belém Correia Cardoso,2017
+7,0,PCP - PEV,0,0,1,0,3.09,0,3.31,476,Anadia,Aveiro,0,586,3.81,,False,426,2.77,10,15395,54.16,Maria de Fátima Gomes Martins da Costa Henriques Flores,2017
+8,3,PPD/PSD,0,0,1,3,31.48,0,33.69,4846,Anadia,Aveiro,0,586,3.81,,False,426,2.77,10,15395,54.16,José Manuel Ferreira Nunes Ribeiro,2017
+9,1,PS,0,0,1,1,13.82,0,14.8,2128,Anadia,Aveiro,0,586,3.81,,False,426,2.77,10,15395,54.16,Lino Jorge Cerveira Pintado,2017
+10,0,CDS-PP,0,0,1,0,5.24,0,5.46,726,Arouca,Aveiro,0,312,2.25,,False,260,1.87,16,13867,66.32,Adriano de Jesus Brandão,2017
+11,0,PCP - PEV,0,0,1,0,2.81,0,2.93,390,Arouca,Aveiro,0,312,2.25,,False,260,1.87,16,13867,66.32,Francisco Manuel da Cunha Gonçalves,2017
+12,2,PPD/PSD,0,0,1,2,28.35,0,29.57,3931,Arouca,Aveiro,0,312,2.25,,False,260,1.87,16,13867,66.32,José Luís Alves da Silva,2017
+13,5,PS,1,1,1,5,59.48,1,62.04,8248,Arouca,Aveiro,0,312,2.25,,False,260,1.87,16,13867,66.32,José Artur Tavares Neves,2017
+14,0,B.E.,0,0,1,0,3.98,0,4.33,1366,Aveiro,Aveiro,0,1830,5.33,,False,971,2.83,10,34330,48.95,Nelson Ricardo Esteves Peralta,2017
+15,1,IX,0,0,1,1,10.14,0,11.04,3480,Aveiro,Aveiro,0,1830,5.33,,False,971,2.83,10,34330,48.95,Élio Manuel Delgado da Maia,2017
+16,0,PCP - PEV,0,0,1,0,3.67,0,3.99,1259,Aveiro,Aveiro,0,1830,5.33,,False,971,2.83,10,34330,48.95,Miguel Lopes Batista Viegas,2017
+17,0,PCTP/MRPP,0,0,1,0,0.68,0,0.75,235,Aveiro,Aveiro,0,1830,5.33,,False,971,2.83,10,34330,48.95,Luís Fernando Ferreira Monteiro Rebocho,2017
+18,0,PNR,0,0,1,0,0.36,0,0.39,123,Aveiro,Aveiro,0,1830,5.33,,False,971,2.83,10,34330,48.95,Vitor Manuel Duarte Ferreira Ramalho,2017
+19,5,PPD/PSD.CDS-PP.PPM,1,1,1,5,48.63,1,52.95,16694,Aveiro,Aveiro,0,1830,5.33,,False,971,2.83,10,34330,48.95,José Agostinho Ribau Esteves,2017
+20,3,PS,0,0,1,3,24.39,0,26.55,8372,Aveiro,Aveiro,0,1830,5.33,,False,971,2.83,10,34330,48.95,Eduardo Elísio Silva Peralta Feio,2017
+21,0,B.E.,0,0,1,0,0.64,0,0.66,72,Castelo de Paiva,Aveiro,0,132,1.18,,False,157,1.4,6,11221,75.91,Abílio Augusto Carrazedo Guerra,2017
+22,0,CDS-PP,0,0,1,0,0.84,0,0.86,94,Castelo de Paiva,Aveiro,0,132,1.18,,False,157,1.4,6,11221,75.91,Paulo Fernando Nogueira Martel da Silva,2017
+23,0,PCP - PEV,0,0,1,0,0.94,0,0.97,106,Castelo de Paiva,Aveiro,0,132,1.18,,False,157,1.4,6,11221,75.91,Manuel da Rocha Vieira,2017
+24,3,PPD/PSD,0,0,1,3,35.97,0,36.92,4036,Castelo de Paiva,Aveiro,0,132,1.18,,False,157,1.4,6,11221,75.91,Norberto dos Santos Rodrigues Moreira,2017
+25,4,PS,1,1,1,4,59.03,1,60.59,6624,Castelo de Paiva,Aveiro,0,132,1.18,,False,157,1.4,6,11221,75.91,Gonçalo Fernando da Rocha de Jesus,2017
+26,0,B.E.,0,0,1,0,3.37,0,3.59,641,Espinho,Aveiro,0,654,3.43,,False,517,2.71,4,19044,61.82,António Manuel de Sousa Andrade,2017
+27,0,CDS-PP,0,0,1,0,2.42,0,2.57,460,Espinho,Aveiro,0,654,3.43,,False,517,2.71,4,19044,61.82,Diogo Silva Pardilhó Duarte de Campos,2017
+28,0,PCP - PEV,0,0,1,0,6.25,0,6.66,1191,Espinho,Aveiro,0,654,3.43,,False,517,2.71,4,19044,61.82,Fausto Manuel da Silva Neves,2017
+29,4,PPD/PSD,1,1,1,4,47.22,1,50.32,8993,Espinho,Aveiro,0,654,3.43,,False,517,2.71,4,19044,61.82,Joaquim José Pinto Moreira,2017
+30,3,PS,0,0,1,3,34.59,0,36.86,6588,Espinho,Aveiro,0,654,3.43,,False,517,2.71,4,19044,61.82,José Barbosa da Mota,2017
+31,0,I,0,0,1,0,8.01,0,8.57,978,Estarreja,Aveiro,0,455,3.73,,False,348,2.85,5,12214,49.15,José Artur Pereira de Pinho,2017
+32,0,PCP - PEV,0,0,1,0,8.33,0,8.91,1017,Estarreja,Aveiro,0,455,3.73,,False,348,2.85,5,12214,49.15,Américo Rodrigues Soares,2017
+33,4,PPD/PSD.CDS-PP,1,1,1,4,43.01,1,46.03,5253,Estarreja,Aveiro,0,455,3.73,,False,348,2.85,5,12214,49.15,Diamantino Manuel Sabina,2017
+34,3,PS,0,0,1,3,34.08,0,36.48,4163,Estarreja,Aveiro,0,455,3.73,,False,348,2.85,5,12214,49.15,Fernando Manuel Mendonça Albergaria Matos,2017
+35,0,PCP - PEV,0,0,1,0,7.89,0,8.48,751,Mealhada,Aveiro,0,420,4.41,,False,247,2.59,6,9521,50.52,João Manuel Lima Louceiro,2017
+36,3,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,3,36.5,0,39.25,3475,Mealhada,Aveiro,0,420,4.41,,False,247,2.59,6,9521,50.52,Gonçalo Nuno Vigária Santos Louzada,2017
+37,4,PS,1,1,1,4,46.88,1,50.41,4463,Mealhada,Aveiro,0,420,4.41,,False,247,2.59,6,9521,50.52,Rui Manuel Leal Marqueiro,2017
+38,0,CDS-PP,0,0,1,0,5.67,0,5.95,275,Murtosa,Aveiro,0,125,2.58,,False,107,2.21,4,4852,48.19,Eduardo Nunes Marques,2017
+39,0,PCP - PEV,0,0,1,0,2.35,0,2.47,114,Murtosa,Aveiro,0,125,2.58,,False,107,2.21,4,4852,48.19,Jorge Augusto Portela Vieira,2017
+40,6,PPD/PSD,1,1,1,6,70.92,1,74.48,3441,Murtosa,Aveiro,0,125,2.58,,False,107,2.21,4,4852,48.19,Joaquim Manuel dos Santos Baptista,2017
+41,1,PS,0,0,1,1,16.28,0,17.1,790,Murtosa,Aveiro,0,125,2.58,,False,107,2.21,4,4852,48.19,António Jorge Feio Bacelar Vilar,2017
+42,0,B.E.,0,0,1,0,2.04,0,2.19,702,Oliveira de Azeméis,Aveiro,0,1372,3.99,,False,919,2.67,12,34414,56.17,Diogo André Silva Barbosa,2017
+43,0,CDS-PP,0,0,1,0,7.36,0,7.88,2532,Oliveira de Azeméis,Aveiro,0,1372,3.99,,False,919,2.67,12,34414,56.17,Miguel Angelo de Carvalho Santos Portela,2017
+44,0,PCP - PEV,0,0,1,0,2.84,0,3.04,977,Oliveira de Azeméis,Aveiro,0,1372,3.99,,False,919,2.67,12,34414,56.17,João Miguel Tavares Carmo,2017
+45,5,PPD/PSD,1,1,1,5,41.55,1,44.51,14298,Oliveira de Azeméis,Aveiro,0,1372,3.99,,False,919,2.67,12,34414,56.17,Hermínio José Sobral de Loureiro Gonçalves,2017
+46,4,PS,0,0,1,4,39.56,0,42.38,13614,Oliveira de Azeméis,Aveiro,0,1372,3.99,,False,919,2.67,12,34414,56.17,Joaquim Jorge Ferreira,2017
+47,3,CDS-PP,0,0,1,3,37.35,0,40.21,4068,Oliveira do Bairro,Aveiro,0,452,4.15,,False,323,2.97,4,10891,51.8,Paulo Jorge Caiado Santos,2017
+48,0,PCP - PEV,0,0,1,0,2.84,0,3.05,309,Oliveira do Bairro,Aveiro,0,452,4.15,,False,323,2.97,4,10891,51.8,Artur Pereira Ramísio,2017
+49,4,PPD/PSD,1,1,1,4,44.06,1,47.44,4799,Oliveira do Bairro,Aveiro,0,452,4.15,,False,323,2.97,4,10891,51.8,Mário João Ferreira da Silva Oliveira,2017
+50,0,PS,0,0,1,0,8.63,0,9.29,940,Oliveira do Bairro,Aveiro,0,452,4.15,,False,323,2.97,4,10891,51.8,Manuel Ferreira Bôrras,2017
+51,0,B.E.,0,0,1,0,4.77,0,5.14,1218,Ovar,Aveiro,0,1133,4.44,,False,729,2.85,5,25541,51.3,Pedro Miguel Moreira Rodrigues,2017
+52,0,CDS-PP,0,0,1,0,2.95,0,3.18,753,Ovar,Aveiro,0,1133,4.44,,False,729,2.85,5,25541,51.3,António Manuel França de Jesus,2017
+53,0,PCP - PEV,0,0,1,0,6.01,0,6.48,1535,Ovar,Aveiro,0,1133,4.44,,False,729,2.85,5,25541,51.3,Dinis de Pinho Silveira,2017
+54,4,PPD/PSD,1,1,1,4,43.86,1,47.31,11202,Ovar,Aveiro,0,1133,4.44,,False,729,2.85,5,25541,51.3,Salvador Malheiro Ferreira da Silva,2017
+55,3,PS,0,0,1,3,35.12,0,37.89,8971,Ovar,Aveiro,0,1133,4.44,,False,729,2.85,5,25541,51.3,Vítor Manuel Gouveia Ferreira,2017
+56,0,B.E.,0,0,1,0,4.01,0,4.36,2792,Santa Maria da Feira,Aveiro,0,3593,5.16,,False,2068,2.97,21,69667,55.41,António Manuel Mendes Torres,2017
+57,0,CDS-PP,0,0,1,0,3.84,0,4.18,2675,Santa Maria da Feira,Aveiro,0,3593,5.16,,False,2068,2.97,21,69667,55.41,Manuel José Alferes Pereira,2017
+58,0,PCP - PEV,0,0,1,0,4.24,0,4.62,2955,Santa Maria da Feira,Aveiro,0,3593,5.16,,False,2068,2.97,21,69667,55.41,Antero de Oliveira Resende,2017
+59,6,PPD/PSD,1,1,1,6,44.52,1,48.46,31019,Santa Maria da Feira,Aveiro,0,3593,5.16,,False,2068,2.97,21,69667,55.41,Emídio Ferreira dos Santos Sousa,2017
+60,5,PS,0,0,1,5,35.26,0,38.38,24565,Santa Maria da Feira,Aveiro,0,3593,5.16,,False,2068,2.97,21,69667,55.41,Eduardo Marques dos Santos Cavaco,2017
+61,0,CDS-PP,0,0,1,0,8.64,0,9.13,670,Sever do Vouga,Aveiro,0,217,2.8,,False,203,2.62,7,7759,66.12,Ercília Maria Marques da Silva Pedro,2017
+62,0,PCP - PEV,0,0,1,0,2.06,0,2.18,160,Sever do Vouga,Aveiro,0,217,2.8,,False,203,2.62,7,7759,66.12,Raul Nogueira Tavares,2017
+63,3,PPD/PSD,0,0,1,3,37.58,0,39.73,2916,Sever do Vouga,Aveiro,0,217,2.8,,False,203,2.62,7,7759,66.12,João Miguel Tavares Almeida,2017
+64,4,PS,1,1,1,4,46.31,1,48.96,3593,Sever do Vouga,Aveiro,0,217,2.8,,False,203,2.62,7,7759,66.12,António José Martins Coutinho,2017
+65,0,B.E.,0,0,1,0,2.25,0,2.38,225,São João da Madeira,Aveiro,0,363,3.62,,False,191,1.91,1,10016,49.28,André Pereira de Oliveira,2017
+66,0,CDS-PP,0,0,1,0,2.96,0,3.13,296,São João da Madeira,Aveiro,0,363,3.62,,False,191,1.91,1,10016,49.28,Rogério Soares Leite da Silva,2017
+67,1,I,0,0,1,1,9.98,0,10.57,1000,São João da Madeira,Aveiro,0,363,3.62,,False,191,1.91,1,10016,49.28,Jorge Manuel dos Santos Lima,2017
+68,0,PCP - PEV,0,0,1,0,6.19,0,6.55,620,São João da Madeira,Aveiro,0,363,3.62,,False,191,1.91,1,10016,49.28,Rita Susana Bastos de Oliveira Mendes,2017
+69,3,PPD/PSD,1,0,1,3,38.02,1,40.25,3808,São João da Madeira,Aveiro,0,363,3.62,,False,191,1.91,1,10016,49.28,Ricardo Nicolau Soares Terra de Oliveira Figueiredo,2017
+70,3,PS,0,0,1,3,35.07,0,37.13,3513,São João da Madeira,Aveiro,0,363,3.62,,False,191,1.91,1,10016,49.28,Luís Miguel dos Santos Ferreira,2017
+71,2,CDS-PP,0,0,1,2,32.88,0,34.75,3903,Vagos,Aveiro,0,367,3.09,,False,273,2.3,8,11872,52.41,Maria do Céu Pereira Sarabando Marques,2017
+72,0,PCP - PEV,0,0,1,0,2.0,0,2.12,238,Vagos,Aveiro,0,367,3.09,,False,273,2.3,8,11872,52.41,Alexandre Claro Loff,2017
+73,4,PPD/PSD,1,1,1,4,48.52,1,51.28,5760,Vagos,Aveiro,0,367,3.09,,False,273,2.3,8,11872,52.41,Silvério Rodrigues Regalado,2017
+74,1,PS,0,0,1,1,11.21,0,11.85,1331,Vagos,Aveiro,0,367,3.09,,False,273,2.3,8,11872,52.41,Mário dos Santos Martins Júnior,2017
+75,4,CDS-PP,1,1,1,4,45.97,1,48.79,6382,Vale de Cambra,Aveiro,0,377,2.72,,False,427,3.08,7,13884,62.1,José Alberto Freitas Soares Pinheiro e Silva,2017
+76,0,PCP - PEV,0,0,1,0,2.86,0,3.04,397,Vale de Cambra,Aveiro,0,377,2.72,,False,427,3.08,7,13884,62.1,José Agostinho Gaspar Ferreira,2017
+77,2,PPD/PSD,0,0,1,2,33.73,0,35.8,4683,Vale de Cambra,Aveiro,0,377,2.72,,False,427,3.08,7,13884,62.1,José António Bastos da Silva,2017
+78,1,PS,0,0,1,1,11.65,0,12.37,1618,Vale de Cambra,Aveiro,0,377,2.72,,False,427,3.08,7,13884,62.1,Nelson da Silva Martins,2017
+79,0,PCP - PEV,0,0,1,0,3.87,0,4.15,910,Águeda,Aveiro,0,1047,4.45,,False,558,2.37,11,23521,53.75,Nelson Manuel Nunes Leal,2017
+80,2,PPD/PSD.CDS-PP,0,0,1,2,29.33,0,31.48,6899,Águeda,Aveiro,0,1047,4.45,,False,558,2.37,11,23521,53.75,Maria Paula da Graça Cardoso,2017
+81,5,PS,1,1,1,5,59.98,1,64.37,14107,Águeda,Aveiro,0,1047,4.45,,False,558,2.37,11,23521,53.75,Gil Nadais Resende da Fonseca,2017
+82,0,B.E.,0,0,1,0,4.17,0,4.65,598,Ílhavo,Aveiro,0,956,6.66,,False,527,3.67,4,14351,40.1,Pedro Miguel de Pinho Tavares,2017
+83,0,CDS-PP,0,0,1,0,7.84,0,8.74,1125,Ílhavo,Aveiro,0,956,6.66,,False,527,3.67,4,14351,40.1,Armindo Valente Domingues Prina,2017
+84,0,PCP - PEV,0,0,1,0,5.01,0,5.59,719,Ílhavo,Aveiro,0,956,6.66,,False,527,3.67,4,14351,40.1,João da Cruz Coquim,2017
+85,4,PPD/PSD,1,1,1,4,44.28,1,49.38,6354,Ílhavo,Aveiro,0,956,6.66,,False,527,3.67,4,14351,40.1,Fernando Fidalgo Caçoilo,2017
+86,3,PS,0,0,1,3,28.37,0,31.64,4072,Ílhavo,Aveiro,0,956,6.66,,False,527,3.67,4,14351,40.1,José Marinho Vaz,2017
+87,0,B.E.,0,0,1,0,3.09,0,3.3,529,Angra do Heroísmo,Açores,0,805,4.7,,False,270,1.58,19,17119,51.85,Paulo José Maio Sousa Mendes,2017
+88,0,PCP - PEV,0,0,1,0,2.28,0,2.44,391,Angra do Heroísmo,Açores,0,805,4.7,,False,270,1.58,19,17119,51.85,António Pedro Inocêncio,2017
+89,3,PPD/PSD.CDS-PP,0,0,1,3,43.31,0,46.21,7414,Angra do Heroísmo,Açores,0,805,4.7,,False,270,1.58,19,17119,51.85,António Lima Cardoso Ventura,2017
+90,4,PS,1,1,1,4,45.04,1,48.06,7710,Angra do Heroísmo,Açores,0,805,4.7,,False,270,1.58,19,17119,51.85,José Gabriel do Álamo de Meneses,2017
+91,2,I,1,0,1,2,40.97,1,42.2,1044,Calheta (R.A.A.),Açores,0,33,1.3,,False,41,1.61,5,2548,69.3,Décio Natálio Almada Pereira,2017
+92,1,PPD/PSD,0,0,1,1,27.55,0,28.38,702,Calheta (R.A.A.),Açores,0,33,1.3,,False,41,1.61,5,2548,69.3,Aires António Fagundes Reis,2017
+93,2,PS,0,0,1,2,28.57,0,29.43,728,Calheta (R.A.A.),Açores,0,33,1.3,,False,41,1.61,5,2548,69.3,António Vitorino da Silveira,2017
+94,2,PPD/PSD,0,0,1,2,34.07,0,36.61,93,Corvo,Açores,0,15,5.49,,False,4,1.47,1,273,76.69,José Manuel Avelar Nunes,2017
+95,3,PS,1,1,1,3,58.97,1,63.39,161,Corvo,Açores,0,15,5.49,,False,4,1.47,1,273,76.69,José Manuel Alves da Silva,2017
+96,0,B.E.,0,0,1,0,3.78,0,3.96,303,Horta,Açores,0,293,3.65,,False,79,0.98,13,8024,60.94,João Ângelo Stattmiller Saldanha Albuquerque Neves,2017
+97,0,PCP - PEV,0,0,1,0,5.15,0,5.4,413,Horta,Açores,0,293,3.65,,False,79,0.98,13,8024,60.94,Maria do Céu Barroca de Brito,2017
+98,3,PPD/PSD.CDS-PP.PPM,0,0,1,3,34.01,0,35.66,2729,Horta,Açores,0,293,3.65,,False,79,0.98,13,8024,60.94,Luís Carlos Correia Garcia,2017
+99,4,PS,1,1,1,4,52.43,1,54.98,4207,Horta,Açores,0,293,3.65,,False,79,0.98,13,8024,60.94,José Leonardo Goulart Silva,2017
+100,0,CDS-PP,0,0,1,0,5.24,0,5.49,327,Lagoa (R.A.A),Açores,0,150,2.4,,False,137,2.2,5,6238,49.84,Roberto Manuel Sousa Oliveira,2017
+101,0,PCP - PEV,0,0,1,0,1.81,0,1.9,113,Lagoa (R.A.A),Açores,0,150,2.4,,False,137,2.2,5,6238,49.84,Eugénio Cesar Mota Moura,2017
+102,1,PPD/PSD,0,0,1,1,20.52,0,21.51,1280,Lagoa (R.A.A),Açores,0,150,2.4,,False,137,2.2,5,6238,49.84,José Duarte Barbosa Cabecinha,2017
+103,6,PS,1,1,1,6,67.83,1,71.1,4231,Lagoa (R.A.A),Açores,0,150,2.4,,False,137,2.2,5,6238,49.84,João António Ferreira Ponte,2017
+104,2,PPD/PSD,0,0,1,2,44.66,0,46.13,477,Lajes das Flores,Açores,0,21,1.97,,False,13,1.22,7,1068,82.03,Alice Correia Rocha Ramos,2017
+105,3,PS,1,1,1,3,52.15,1,53.87,557,Lajes das Flores,Açores,0,21,1.97,,False,13,1.22,7,1068,82.03,Luís Carlos Martins Maciel,2017
+106,0,CDS-PP,0,0,1,0,4.45,0,4.59,148,Lajes do Pico,Açores,0,65,1.96,,False,34,1.02,6,3324,73.59,José Lourenço de Freitas Azevedo,2017
+107,2,PPD/PSD,0,0,1,2,41.4,0,42.67,1376,Lajes do Pico,Açores,0,65,1.96,,False,34,1.02,6,3324,73.59,Cláudio José Gomes Lopes,2017
+108,3,PS,1,1,1,3,51.17,1,52.74,1701,Lajes do Pico,Açores,0,65,1.96,,False,34,1.02,6,3324,73.59,Roberto Manuel Medeiros da Silva,2017
+109,0,CDS-PP,0,0,1,0,3.78,0,3.86,146,Madalena,Açores,0,63,1.63,,False,19,0.49,6,3860,68.82,Maria de Lurdes Rodrigues Luís Silva,2017
+110,0,PCP - PEV,0,0,1,0,1.3,0,1.32,50,Madalena,Açores,0,63,1.63,,False,19,0.49,6,3860,68.82,Sérgio Manuel Goulart Gonçalves,2017
+111,3,PPD/PSD,1,1,1,3,47.33,1,48.36,1827,Madalena,Açores,0,63,1.63,,False,19,0.49,6,3860,68.82,José António Marcos Soares,2017
+112,2,PS,0,0,1,2,45.47,0,46.45,1755,Madalena,Açores,0,63,1.63,,False,19,0.49,6,3860,68.82,Miguel António Moniz Costa,2017
+113,2,PPD/PSD,0,0,1,2,47.23,0,48.52,1657,Nordeste,Açores,0,43,1.23,,False,50,1.43,9,3508,72.64,Rogério Cabral de Frias,2017
+114,3,PS,1,1,1,3,50.11,1,51.48,1758,Nordeste,Açores,0,43,1.23,,False,50,1.43,9,3508,72.64,Carlos Alberto Medeiros Mendonça,2017
+115,0,B.E.,0,0,1,0,2.15,0,2.22,629,Ponta Delgada,Açores,0,605,2.06,,False,353,1.2,24,29321,45.87,Jorge Manuel de Morais Kol de Carvalho,2017
+116,0,CDS-PP,0,0,1,0,0.85,0,0.88,249,Ponta Delgada,Açores,0,605,2.06,,False,353,1.2,24,29321,45.87,Pedro Miguel Carvalho Pereira,2017
+117,0,PCP - PEV,0,0,1,0,2.09,0,2.16,612,Ponta Delgada,Açores,0,605,2.06,,False,353,1.2,24,29321,45.87,Carlos Alberto Gomes Ribeiro,2017
+118,5,PPD/PSD,1,1,1,5,49.81,1,51.49,14604,Ponta Delgada,Açores,0,605,2.06,,False,353,1.2,24,29321,45.87,José Manuel Cabral Dias Bolieiro,2017
+119,4,PS,0,0,1,4,41.84,0,43.26,12269,Ponta Delgada,Açores,0,605,2.06,,False,353,1.2,24,29321,45.87,José António Vieira da Silva Contente,2017
+120,1,PPD/PSD,0,0,1,1,30.53,0,31.76,1222,Povoação,Açores,0,78,1.95,,False,76,1.9,6,4002,63.0,Delmar Carvalho de Medeiros,2017
+121,4,PS,1,1,1,4,65.62,1,68.24,2626,Povoação,Açores,0,78,1.95,,False,76,1.9,6,4002,63.0,Carlos Emílio Lopes Machado Ávila,2017
+122,0,B.E.,0,0,1,0,3.29,0,3.39,486,Ribeira Grande,Açores,0,235,1.59,,False,207,1.4,14,14793,54.21,Zuraida Maria de Almeida Soares,2017
+123,0,PCP - PEV,0,0,1,0,1.45,0,1.5,215,Ribeira Grande,Açores,0,235,1.59,,False,207,1.4,14,14793,54.21,João Manuel Arruda Gomes,2017
+124,4,PPD/PSD,1,1,1,4,52.66,1,54.28,7790,Ribeira Grande,Açores,0,235,1.59,,False,207,1.4,14,14793,54.21,Alexandre Branco Gaudêncio,2017
+125,3,PS,0,0,1,3,39.61,0,40.83,5860,Ribeira Grande,Açores,0,235,1.59,,False,207,1.4,14,14793,54.21,Ricardo José Moniz da Silva,2017
+126,0,I,0,0,1,0,6.63,0,6.9,186,Santa Cruz da Graciosa,Açores,0,61,2.18,,False,49,1.75,4,2804,62.69,João Manuel de Melo Picanço,2017
+127,2,PPD/PSD,0,0,1,2,35.88,0,37.34,1006,Santa Cruz da Graciosa,Açores,0,61,2.18,,False,49,1.75,4,2804,62.69,João Manuel Bettencourt Cunha,2017
+128,3,PS,1,1,1,3,53.57,1,55.75,1502,Santa Cruz da Graciosa,Açores,0,61,2.18,,False,49,1.75,4,2804,62.69,Manuel Avelar Cunha Santos,2017
+129,1,PPD/PSD.CDS-PP,0,0,1,1,29.53,0,31.21,396,Santa Cruz das Flores,Açores,0,61,4.55,,False,11,0.82,4,1341,69.2,William Resendes Braga,2017
+130,4,PS,1,1,1,4,65.1,1,68.79,873,Santa Cruz das Flores,Açores,0,61,4.55,,False,11,0.82,4,1341,69.2,José Carlos Pimentel Mendes,2017
+131,0,CDS-PP,0,0,1,0,4.13,0,4.29,91,São Roque do Pico,Açores,0,49,2.23,,False,33,1.5,5,2201,68.46,José Manuel Xavier de Ávila,2017
+132,2,PPD/PSD,0,0,1,2,45.62,0,47.38,1004,São Roque do Pico,Açores,0,49,2.23,,False,33,1.5,5,2201,68.46,Luís Filipe Ramos Macedo da Silva,2017
+133,3,PS,1,1,1,3,46.52,1,48.32,1024,São Roque do Pico,Açores,0,49,2.23,,False,33,1.5,5,2201,68.46,Mark Anthony Silveira,2017
+134,3,CDS-PP,1,1,1,3,49.18,1,50.97,1716,Velas,Açores,0,61,1.75,,False,61,1.75,6,3489,69.19,Luís Virgílio de Sousa da Silveira,2017
+135,1,PPD/PSD,0,0,1,1,26.86,0,27.83,937,Velas,Açores,0,61,1.75,,False,61,1.75,6,3489,69.19,Paulo Alberto Bettencourt da Silveira,2017
+136,1,PS,0,0,1,1,20.46,0,21.21,714,Velas,Açores,0,61,1.75,,False,61,1.75,6,3489,69.19,João Paulo Bettencourt de Oliveira,2017
+137,0,I,0,0,1,0,7.33,0,7.46,460,Vila Franca do Campo,Açores,0,40,0.64,,False,64,1.02,6,6273,60.01,Jorge Alberto Bulhões Gago da Câmara,2017
+138,0,PCP - PEV,0,0,1,0,0.67,0,0.68,42,Vila Franca do Campo,Açores,0,40,0.64,,False,64,1.02,6,6273,60.01,Paulo Sérgio Fonte Pinto,2017
+139,3,PPD/PSD.PPM,0,0,1,3,41.06,0,41.76,2576,Vila Franca do Campo,Açores,0,40,0.64,,False,64,1.02,6,6273,60.01,Rui António Dias da Câmara de Carvalho e Melo,2017
+140,4,PS,1,1,1,4,49.27,1,50.11,3091,Vila Franca do Campo,Açores,0,40,0.64,,False,64,1.02,6,6273,60.01,Ricardo Manuel de Amaral Rodrigues,2017
+141,0,B.E.,0,0,1,0,1.38,0,1.45,123,Vila da Praia da Vitória,Açores,0,333,3.73,,False,110,1.23,11,8935,46.26,Ana Cristina Simões de Oliveira,2017
+142,0,CDS-PP,0,0,1,0,5.91,0,6.22,528,Vila da Praia da Vitória,Açores,0,333,3.73,,False,110,1.23,11,8935,46.26,Emiliana Leonilde Simões de Oliveira,2017
+143,0,PCP - PEV,0,0,1,0,0.96,0,1.01,86,Vila da Praia da Vitória,Açores,0,333,3.73,,False,110,1.23,11,8935,46.26,António Gabriel Botelho da Fonseca,2017
+144,2,PPD/PSD,0,0,1,2,24.66,0,25.94,2203,Vila da Praia da Vitória,Açores,0,333,3.73,,False,110,1.23,11,8935,46.26,Maria Judite Gomes Parreira,2017
+145,5,PS,1,1,1,5,62.14,1,65.38,5552,Vila da Praia da Vitória,Açores,0,333,3.73,,False,110,1.23,11,8935,46.26,Roberto Lúcio Silva Pereira Monteiro,2017
+146,0,PCP - PEV,0,0,1,0,2.23,0,2.28,69,Vila do Porto,Açores,0,29,0.94,,False,44,1.42,5,3100,58.67,Ana Maria Nogueira dos Santos Loura,2017
+147,3,PPD/PSD,1,1,1,3,63.58,1,65.11,1971,Vila do Porto,Açores,0,29,0.94,,False,44,1.42,5,3100,58.67,Carlos Henrique Lopes Rodrigues,2017
+148,2,PS,0,0,1,2,31.84,0,32.61,987,Vila do Porto,Açores,0,29,0.94,,False,44,1.42,5,3100,58.67,Duarte Manuel Braga Moreira,2017
+149,2,PCP - PEV,0,0,1,2,38.55,0,39.49,2431,Aljustrel,Beja,0,94,1.49,,False,56,0.89,4,6306,72.99,Manuel Francisco Colaço Camacho,2017
+150,0,PPD/PSD.CDS-PP,0,0,1,0,1.24,0,1.27,78,Aljustrel,Beja,0,94,1.49,,False,56,0.89,4,6306,72.99,António Miguel Delgado Revez Batista,2017
+151,3,PS,1,1,1,3,57.83,1,59.24,3647,Aljustrel,Beja,0,94,1.49,,False,56,0.89,4,6306,72.99,Nelson Domingos Brito,2017
+152,0,B.E.,0,0,1,0,1.02,0,1.06,51,Almodôvar,Beja,0,86,1.72,,False,105,2.09,6,5014,72.71,Constantino Manuel Lemos Piçarra,2017
+153,0,PCP - PEV,0,0,1,0,2.19,0,2.28,110,Almodôvar,Beja,0,86,1.72,,False,105,2.09,6,5014,72.71,Joaquim Agostinho Lança Paulino,2017
+154,1,PPD/PSD,0,0,1,1,27.06,0,28.14,1357,Almodôvar,Beja,0,86,1.72,,False,105,2.09,6,5014,72.71,Ricardo António Monteiro Colaço,2017
+155,2,PS,1,0,1,2,35.12,1,36.51,1761,Almodôvar,Beja,0,86,1.72,,False,105,2.09,6,5014,72.71,António Manuel Ascensão Mestre Bota,2017
+156,2,VI,0,0,1,2,30.79,0,32.01,1544,Almodôvar,Beja,0,86,1.72,,False,105,2.09,6,5014,72.71,João António Rodrigues Palma,2017
+157,2,PS,0,0,1,2,31.14,0,32.62,441,Alvito,Beja,0,28,1.98,,False,36,2.54,2,1416,70.38,Natália José Ferreira Caeiro,2017
+158,3,PCP - PEV,1,1,1,3,54.41,1,57.97,611,Barrancos,Beja,0,48,4.27,,False,21,1.87,1,1123,78.15,António Pica Tereno,2017
+159,2,PS,0,0,1,2,39.45,0,42.03,443,Barrancos,Beja,0,48,4.27,,False,21,1.87,1,1123,78.15,Fernando Manuel Fernandes Durão,2017
+160,4,PCP - PEV,1,1,1,4,43.42,1,45.39,7438,Beja,Beja,0,447,2.61,,False,298,1.74,12,17132,56.6,João Manuel Rocha da Silva,2017
+161,0,PPD/PSD.CDS-PP,0,0,1,0,6.21,0,6.49,1064,Beja,Beja,0,447,2.61,,False,298,1.74,12,17132,56.6,João Pedro Cabral Afonso Baião Caeiro,2017
+162,3,PS,0,0,1,3,41.65,0,43.54,7135,Beja,Beja,0,447,2.61,,False,298,1.74,12,17132,56.6,Jorge Pulido Valente,2017
+163,0,XVI,0,0,1,0,4.38,0,4.58,750,Beja,Beja,0,447,2.61,,False,298,1.74,12,17132,56.6,José António do Rosário Lopes Guerreiro,2017
+164,3,PCP - PEV,1,1,1,3,54.69,1,57.19,2151,Castro Verde,Beja,0,111,2.82,,False,61,1.55,4,3933,60.07,Francisco José Caldeira Duarte,2017
+165,0,PPD/PSD.CDS-PP,0,0,1,0,5.31,0,5.56,209,Castro Verde,Beja,0,111,2.82,,False,61,1.55,4,3933,60.07,Mário Mota Lopes,2017
+166,2,PS,0,0,1,2,35.62,0,37.25,1401,Castro Verde,Beja,0,111,2.82,,False,61,1.55,4,3933,60.07,António José Rosa de Brito,2017
+167,3,PCP - PEV,1,1,1,3,56.7,1,58.72,1747,Cuba,Beja,0,64,2.08,,False,42,1.36,4,3081,77.37,João Manuel Casaca Português,2017
+168,0,PPD/PSD.CDS-PP,0,0,1,0,2.73,0,2.82,84,Cuba,Beja,0,64,2.08,,False,42,1.36,4,3081,77.37,Vasco Rosa da Silva Morais de Almeida,2017
+169,2,PS,0,0,1,2,37.13,0,38.45,1144,Cuba,Beja,0,64,2.08,,False,42,1.36,4,3081,77.37,Ana Raquel Ganhão das Dores Soudo,2017
+170,2,PCP - PEV,0,0,1,2,32.44,0,34.0,1429,Ferreira do Alentejo,Beja,0,115,2.61,,False,87,1.98,4,4405,61.28,João Luis Ferro do Rosário Fragoso,2017
+171,0,PPD/PSD.CDS-PP,0,0,1,0,9.63,0,10.09,424,Ferreira do Alentejo,Beja,0,115,2.61,,False,87,1.98,4,4405,61.28,Jorge Ângelo Ramos dos Santos,2017
+172,3,PS,1,1,1,3,53.35,1,55.91,2350,Ferreira do Alentejo,Beja,0,115,2.61,,False,87,1.98,4,4405,61.28,Aníbal Sousa Reis Coelho de Costa,2017
+173,4,PCP - PEV,1,1,1,4,42.9,1,44.66,3089,Moura,Beja,0,165,2.29,,False,119,1.65,5,7201,54.02,Santiago Augusto Ferreira Macias,2017
+174,0,PPD/PSD.CDS-PP,0,0,1,0,10.57,0,11.0,761,Moura,Beja,0,165,2.29,,False,119,1.65,5,7201,54.02,Carlos Augusto Garcias Valente,2017
+175,3,PS,0,0,1,3,42.59,0,44.34,3067,Moura,Beja,0,165,2.29,,False,119,1.65,5,7201,54.02,Francisco Manuel Canudo Sena,2017
+176,2,PCP - PEV,0,0,1,2,43.2,0,45.23,2159,Mértola,Beja,0,121,2.42,,False,104,2.08,7,4998,73.28,Miguel da Conceição Bento,2017
+177,0,PPD/PSD.CDS-PP,0,0,1,0,1.06,0,1.11,53,Mértola,Beja,0,121,2.42,,False,104,2.08,7,4998,73.28,Herlander Miguel Gonçalves Madeira Mira,2017
+178,3,PS,1,1,1,3,47.82,1,50.07,2390,Mértola,Beja,0,121,2.42,,False,104,2.08,7,4998,73.28,Jorge Paulo Colaço Rosa,2017
+179,0,XI,0,0,1,0,3.42,0,3.58,171,Mértola,Beja,0,121,2.42,,False,104,2.08,7,4998,73.28,Alberto Manuel Raposo Fernandes,2017
+180,0,B.E.,0,0,1,0,3.14,0,3.35,416,Odemira,Beja,0,466,3.52,,False,374,2.82,13,13249,62.14,Ana Maria de Miranda Nazaré Loureiro,2017
+181,2,PCP - PEV,0,0,1,2,29.38,0,31.37,3893,Odemira,Beja,0,466,3.52,,False,374,2.82,13,13249,62.14,Manuel da Silva Cruz,2017
+182,0,PPD/PSD.CDS-PP,0,0,1,0,10.06,0,10.74,1333,Odemira,Beja,0,466,3.52,,False,374,2.82,13,13249,62.14,José Francisco de Sousa Prado dos Santos Silva,2017
+183,5,PS,1,1,1,5,51.08,1,54.53,6767,Odemira,Beja,0,466,3.52,,False,374,2.82,13,13249,62.14,José Alberto Candeias Guerreiro,2017
+184,0,PCP - PEV,0,0,1,0,12.91,0,13.53,461,Ourique,Beja,0,82,2.3,,False,82,2.3,4,3571,74.47,António Francisco Colaço,2017
+185,1,PPD/PSD.CDS-PP,0,0,1,1,20.5,0,21.49,732,Ourique,Beja,0,82,2.3,,False,82,2.3,4,3571,74.47,Sérgio Manuel Borges Dinis Marques Marçal,2017
+186,4,PS,1,1,1,4,62.0,1,64.98,2214,Ourique,Beja,0,82,2.3,,False,82,2.3,4,3571,74.47,Pedro Nuno Raposo Prazeres do Carmo,2017
+187,0,B.E.,0,0,1,0,3.05,0,3.2,237,Serpa,Beja,0,219,2.82,,False,150,1.93,5,7774,55.77,Guida Maria de Jesus Ascensão,2017
+188,4,PCP - PEV,1,1,1,4,51.97,1,54.56,4040,Serpa,Beja,0,219,2.82,,False,150,1.93,5,7774,55.77,Tomé Alexandre Martins Pires,2017
+189,0,PPD/PSD,0,0,1,0,5.0,0,5.25,389,Serpa,Beja,0,219,2.82,,False,150,1.93,5,7774,55.77,José António Aboim Madeira,2017
+190,3,PS,0,0,1,3,35.23,0,36.99,2739,Serpa,Beja,0,219,2.82,,False,150,1.93,5,7774,55.77,Noel Ricardo Esteves Farinho,2017
+191,3,PCP - PEV,1,1,1,3,50.69,1,53.3,1656,Vidigueira,Beja,0,88,2.69,,False,72,2.2,4,3267,64.27,Manuel Luís da Rosa Narra,2017
+192,0,PPD/PSD.CDS-PP,0,0,1,0,7.59,0,7.98,248,Vidigueira,Beja,0,88,2.69,,False,72,2.2,4,3267,64.27,José Manuel Cruz Maldonado,2017
+193,2,PS,0,0,1,2,36.82,0,38.72,1203,Vidigueira,Beja,0,88,2.69,,False,72,2.2,4,3267,64.27,José Miguel Pires D'Almeida,2017
+194,2,I,0,0,1,2,30.4,0,32.03,3644,Amares,Braga,0,358,2.99,,False,252,2.1,16,11987,61.11,Sara Raquel Marques Ribeiro Leite do Vale,2017
+195,0,PCP - PEV,0,0,1,0,3.32,0,3.5,398,Amares,Braga,0,358,2.99,,False,252,2.1,16,11987,61.11,Luís Manuel Cerqueira Gomes Gonçalves,2017
+196,2,PPD/PSD.CDS-PP,0,0,1,2,24.25,0,25.55,2907,Amares,Braga,0,358,2.99,,False,252,2.1,16,11987,61.11,Isidro Gomes de Araújo,2017
+197,3,PS,1,0,1,3,36.94,1,38.92,4428,Amares,Braga,0,358,2.99,,False,252,2.1,16,11987,61.11,Manuel da Rocha Moreira,2017
+198,0,B.E.,0,0,1,0,1.93,0,2.02,1437,Barcelos,Braga,0,2051,2.75,,False,1274,1.71,61,74534,69.11,José Maria Barbosa Cardoso,2017
+199,0,PCP - PEV,0,0,1,0,1.64,0,1.72,1225,Barcelos,Braga,0,2051,2.75,,False,1274,1.71,61,74534,69.11,Mário Jorge Gomes de Figueiredo,2017
+200,0,PCTP/MRPP,0,0,1,0,0.79,0,0.83,592,Barcelos,Braga,0,2051,2.75,,False,1274,1.71,61,74534,69.11,Mário Rui Correia Senra,2017
+201,4,PPD/PSD.CDS-PP.PPM,0,0,1,4,34.97,0,36.6,26061,Barcelos,Braga,0,2051,2.75,,False,1274,1.71,61,74534,69.11,Domingos José da Silva Araújo,2017
+202,6,PS,1,1,1,6,46.03,1,48.18,34305,Barcelos,Braga,0,2051,2.75,,False,1274,1.71,61,74534,69.11,Miguel Jorge da Costa Gomes,2017
+203,1,VI,0,0,1,1,10.18,0,10.66,7589,Barcelos,Braga,0,2051,2.75,,False,1274,1.71,61,74534,69.11,Manuel Carlos da Costa Marinho,2017
+204,6,PPD/PSD.CDS-PP.PPM,1,1,1,6,46.71,1,49.19,44571,Braga,Braga,0,3065,3.21,,False,1735,1.82,37,95417,59.89,Ricardo Bruno Antunes Machado Rio,2017
+205,4,PS,0,0,1,4,32.83,0,34.57,31326,Braga,Braga,0,3065,3.21,,False,1735,1.82,37,95417,59.89,Vítor Manuel Amaral de Sousa,2017
+206,0,V,0,0,1,0,5.32,0,5.6,5072,Braga,Braga,0,3065,3.21,,False,1735,1.82,37,95417,59.89,Inês Beatriz Barbosa de Carvalho,2017
+207,0,PCP - PEV,0,0,1,0,0.95,0,0.98,107,Cabeceiras de Basto,Braga,0,113,1.0,,False,183,1.62,12,11264,65.81,Manuel da Silva Nogueira,2017
+208,1,PPD/PSD.CDS-PP,0,0,1,1,12.03,0,12.35,1355,Cabeceiras de Basto,Braga,0,113,1.0,,False,183,1.62,12,11264,65.81,Mário António Jesus Leite,2017
+209,3,PS,1,0,1,3,44.13,1,45.32,4971,Cabeceiras de Basto,Braga,0,113,1.0,,False,183,1.62,12,11264,65.81,Serafim China Pereira,2017
+210,3,XIII,0,0,1,3,40.26,0,41.35,4535,Cabeceiras de Basto,Braga,0,113,1.0,,False,183,1.62,12,11264,65.81,Jorge Agostinho Borges Machado,2017
+211,0,CDS-PP,0,0,1,0,6.04,0,6.31,740,Celorico de Basto,Braga,0,297,2.42,,False,238,1.94,15,12255,63.27,Luis Manuel Dá Mesquita Castro Leal,2017
+212,0,PCP - PEV,0,0,1,0,3.54,0,3.7,434,Celorico de Basto,Braga,0,297,2.42,,False,238,1.94,15,12255,63.27,Luis Heitor da Silva Pires Marinho,2017
+213,5,PPD/PSD,1,1,1,5,64.19,1,67.12,7866,Celorico de Basto,Braga,0,297,2.42,,False,238,1.94,15,12255,63.27,Joaquim Monteiro da Mota e Silva,2017
+214,2,PS,0,0,1,2,21.87,0,22.87,2680,Celorico de Basto,Braga,0,297,2.42,,False,238,1.94,15,12255,63.27,António Joaquim Gonçalves Bastos,2017
+215,1,CDS-PP,0,0,1,1,10.62,0,11.4,2013,Esposende,Braga,0,807,4.26,,False,490,2.58,9,18960,56.37,Berta Filipa Gonçalves Viana,2017
+216,0,PCP - PEV,0,0,1,0,5.28,0,5.67,1001,Esposende,Braga,0,807,4.26,,False,490,2.58,9,18960,56.37,Manuel Fernando Loureiro de Almeida,2017
+217,5,PPD/PSD,1,1,1,5,56.49,1,60.64,10711,Esposende,Braga,0,807,4.26,,False,490,2.58,9,18960,56.37,António Benjamim da Costa Pereira,2017
+218,1,PS,0,0,1,1,20.77,0,22.3,3938,Esposende,Braga,0,807,4.26,,False,490,2.58,9,18960,56.37,João Maria de Sousa Nunes da Silva,2017
+219,0,CDS-PP,0,0,1,0,1.35,0,1.41,423,Fafe,Braga,0,813,2.59,,False,478,1.52,25,31361,61.64,Deolinda Manuela de Sá Nogueira,2017
+220,0,PCP - PEV,0,0,1,0,2.96,0,3.09,928,Fafe,Braga,0,813,2.59,,False,478,1.52,25,31361,61.64,Maria Leonor Pereira Oliveira Castro,2017
+221,2,PPD/PSD,0,0,1,2,21.33,0,22.24,6688,Fafe,Braga,0,813,2.59,,False,478,1.52,25,31361,61.64,Eugénio Fernando de Sá Cerqueira Marinho,2017
+222,4,PS,1,0,1,4,35.15,1,36.66,11023,Fafe,Braga,0,813,2.59,,False,478,1.52,25,31361,61.64,Raul Jorge Fernandes da Cunha,2017
+223,3,XVII,0,0,1,3,35.1,0,36.61,11008,Fafe,Braga,0,813,2.59,,False,478,1.52,25,31361,61.64,Parcidio Cabral de Almeida Summavielle,2017
+224,0,B.E.,0,0,1,0,2.04,0,2.15,1788,Guimarães,Braga,0,2976,3.4,,False,1290,1.47,48,87548,60.53,José Carlos Sampaio Fonseca,2017
+225,1,PCP - PEV,0,0,1,1,8.32,0,8.75,7285,Guimarães,Braga,0,2976,3.4,,False,1290,1.47,48,87548,60.53,José Manuel Torcato Ribeiro,2017
+226,0,PCTP/MRPP,0,0,1,0,0.57,0,0.6,496,Guimarães,Braga,0,2976,3.4,,False,1290,1.47,48,87548,60.53,João Manuel Valente Pinto,2017
+227,4,PPD/PSD.CDS-PP.MPT,0,0,1,4,35.61,0,37.43,31174,Guimarães,Braga,0,2976,3.4,,False,1290,1.47,48,87548,60.53,André Guimarães Coelho Lima,2017
+228,0,PPM-PPV,0,0,1,0,0.98,0,1.03,856,Guimarães,Braga,0,2976,3.4,,False,1290,1.47,48,87548,60.53,Luís Filipe Botelho Ribeiro,2017
+229,6,PS,1,1,1,6,47.61,1,50.05,41683,Guimarães,Braga,0,2976,3.4,,False,1290,1.47,48,87548,60.53,Domingos Bragança Salgado,2017
+230,0,CDS-PP,0,0,1,0,4.23,0,4.37,646,Póvoa de Lanhoso,Braga,0,253,1.66,,False,217,1.42,22,15259,62.9,Deolinda Maria Marques Queirós Pereira Ferreira,2017
+231,0,PCP - PEV,0,0,1,0,1.37,0,1.41,209,Póvoa de Lanhoso,Braga,0,253,1.66,,False,217,1.42,22,15259,62.9,Paulo Jorge Lopes da Silva,2017
+232,4,PPD/PSD,1,1,1,4,51.05,1,52.67,7790,Póvoa de Lanhoso,Braga,0,253,1.66,,False,217,1.42,22,15259,62.9,Manuel José Torcato Soares Baptista,2017
+233,3,PS,0,0,1,3,40.26,0,41.54,6144,Póvoa de Lanhoso,Braga,0,253,1.66,,False,217,1.42,22,15259,62.9,Frederico de Oliveira Castro,2017
+234,0,MPT,0,0,1,0,5.58,0,5.75,299,Terras de Bouro,Braga,0,87,1.62,,False,67,1.25,14,5358,68.51,Paulo Alexandre Vieira e Sousa,2017
+235,0,PCP - PEV,0,0,1,0,7.82,0,8.05,419,Terras de Bouro,Braga,0,87,1.62,,False,67,1.25,14,5358,68.51,António José Salgado Almeida,2017
+236,2,PPD/PSD.CDS-PP,0,0,1,2,29.02,0,29.88,1555,Terras de Bouro,Braga,0,87,1.62,,False,67,1.25,14,5358,68.51,António José Ferreira Afonso,2017
+237,3,PS,1,1,1,3,51.4,1,52.92,2754,Terras de Bouro,Braga,0,87,1.62,,False,67,1.25,14,5358,68.51,Joaquim José Cracel Viana,2017
+238,0,VI,0,0,1,0,3.3,0,3.4,177,Terras de Bouro,Braga,0,87,1.62,,False,67,1.25,14,5358,68.51,Luís Filipe Rodrigues Pires,2017
+239,0,B.E.,0,0,1,0,0.69,0,0.71,69,Vieira do Minho,Braga,0,138,1.37,,False,155,1.54,16,10064,67.49,João Manuel Machado Oliveira,2017
+240,0,PCP - PEV,0,0,1,0,1.33,0,1.37,134,Vieira do Minho,Braga,0,138,1.37,,False,155,1.54,16,10064,67.49,José Luis Ribeiro Pereira,2017
+241,4,PPD/PSD.CDS-PP,1,1,1,4,49.71,1,51.2,5003,Vieira do Minho,Braga,0,138,1.37,,False,155,1.54,16,10064,67.49,António Cardoso Barbosa,2017
+242,3,PS,0,0,1,3,45.36,0,46.72,4565,Vieira do Minho,Braga,0,138,1.37,,False,155,1.54,16,10064,67.49,Jorge Augusto Mangas Abreu Dantas,2017
+243,0,B.E.,0,0,1,0,1.62,0,1.69,1237,Vila Nova de Famalicão,Braga,0,2175,2.85,,False,1152,1.51,34,76366,64.65,José Luís da Silva Araújo,2017
+244,0,PCP - PEV,0,0,1,0,3.7,0,3.87,2823,Vila Nova de Famalicão,Braga,0,2175,2.85,,False,1152,1.51,34,76366,64.65,José Miguel da Silva Lopes,2017
+245,7,PPD/PSD.CDS-PP,1,1,1,7,58.55,1,61.22,44712,Vila Nova de Famalicão,Braga,0,2175,2.85,,False,1152,1.51,34,76366,64.65,Paulo Alexandre Matos Cunha,2017
+246,4,PS,0,0,1,4,31.78,0,33.22,24267,Vila Nova de Famalicão,Braga,0,2175,2.85,,False,1152,1.51,34,76366,64.65,Custódio Marques de Oliveira,2017
+247,0,CDS-PP,0,0,1,0,3.78,0,3.97,1104,Vila Verde,Braga,0,886,3.04,,False,506,1.73,33,29168,60.87,Daniel Cerqueira Oliveira,2017
+248,0,PCP - PEV,0,0,1,0,2.16,0,2.26,629,Vila Verde,Braga,0,886,3.04,,False,506,1.73,33,29168,60.87,Manuel Ferreira Carvalho,2017
+249,4,PPD/PSD,1,1,1,4,46.0,1,48.31,13418,Vila Verde,Braga,0,886,3.04,,False,506,1.73,33,29168,60.87,António Fernando Nogueira Cerqueira Vilela,2017
+250,3,PS,0,0,1,3,43.28,0,45.45,12625,Vila Verde,Braga,0,886,3.04,,False,506,1.73,33,29168,60.87,Luís Filipe Oliveira da Silva,2017
+251,3,PPD/PSD.CDS-PP,0,0,1,3,39.54,0,41.45,5046,Vizela,Braga,0,358,2.81,,False,229,1.79,5,12762,61.6,Luis Miguel Soares Lopes Guimarães,2017
+252,4,PS,1,1,1,4,47.85,1,50.16,6107,Vizela,Braga,0,358,2.81,,False,229,1.79,5,12762,61.6,Dinis Manuel da Silva Costa,2017
+253,0,PCP - PEV,0,0,1,0,1.59,0,1.68,64,Alfândega da Fé,Bragança,0,104,2.58,,False,125,3.1,12,4032,69.03,Teresa do Carmo Bráz Rodrigues,2017
+254,2,PPD/PSD.CDS-PP,0,0,1,2,38.29,0,40.6,1544,Alfândega da Fé,Bragança,0,104,2.58,,False,125,3.1,12,4032,69.03,Artur António Rabaçal Aragão,2017
+255,3,PS,1,1,1,3,54.44,1,57.72,2195,Alfândega da Fé,Bragança,0,104,2.58,,False,125,3.1,12,4032,69.03,Berta Ferreira Milheiro Nunes,2017
+256,0,B.E.,0,0,1,0,1.03,0,1.09,207,Bragança,Bragança,0,537,2.69,,False,477,2.38,39,20000,54.57,Gil Augusto Gonçalves,2017
+257,0,CDS-PP,0,0,1,0,2.07,0,2.18,413,Bragança,Bragança,0,537,2.69,,False,477,2.38,39,20000,54.57,Telmo Alexandre de Alge Cadavez,2017
+258,0,PCP - PEV,0,0,1,0,2.02,0,2.13,405,Bragança,Bragança,0,537,2.69,,False,477,2.38,39,20000,54.57,José Manuel Correia dos Santos Ferreira de Castro,2017
+259,4,PPD/PSD,1,1,1,4,47.24,1,49.77,9449,Bragança,Bragança,0,537,2.69,,False,477,2.38,39,20000,54.57,Hernâni Dinis Venâncio Dias,2017
+260,2,PS,0,0,1,2,26.02,0,27.41,5204,Bragança,Bragança,0,537,2.69,,False,477,2.38,39,20000,54.57,Júlio Meirinhos Santanas,2017
+261,1,XIII,0,0,1,1,16.54,0,17.42,3308,Bragança,Bragança,0,537,2.69,,False,477,2.38,39,20000,54.57,Humberto Francisco da Rocha,2017
+262,1,CDS-PP,0,0,1,1,18.06,0,19.31,789,Carrazeda de Ansiães,Bragança,0,116,2.66,,False,167,3.82,14,4368,61.31,Fernando António Trindade dos Reis,2017
+263,0,PCP - PEV,0,0,1,0,1.37,0,1.47,60,Carrazeda de Ansiães,Bragança,0,116,2.66,,False,167,3.82,14,4368,61.31,José Maria de Sousa Araújo,2017
+264,4,PPD/PSD,1,1,1,4,59.87,1,64.01,2615,Carrazeda de Ansiães,Bragança,0,116,2.66,,False,167,3.82,14,4368,61.31,José Luís Correia,2017
+265,0,PS,0,0,1,0,14.22,0,15.2,621,Carrazeda de Ansiães,Bragança,0,116,2.66,,False,167,3.82,14,4368,61.31,João Manuel Sampaio,2017
+266,0,PCP - PEV,0,0,1,0,0.88,0,0.93,25,Freixo de Espada à Cinta,Bragança,0,81,2.86,,False,76,2.68,4,2834,76.78,Nicolau de Jesús Manso,2017
+267,3,PPD/PSD,1,1,1,3,47.88,1,50.69,1357,Freixo de Espada à Cinta,Bragança,0,81,2.86,,False,76,2.68,4,2834,76.78,Maria do Céu Quintas,2017
+268,2,PS,0,0,1,2,45.7,0,48.38,1295,Freixo de Espada à Cinta,Bragança,0,81,2.86,,False,76,2.68,4,2834,76.78,José Manuel Caldeira Santos,2017
+269,1,CDS-PP,0,0,1,1,11.59,0,12.22,1308,Macedo de Cavaleiros,Bragança,0,322,2.85,,False,255,2.26,30,11284,59.57,Rui Jorge da Silva Costa,2017
+270,0,PCP - PEV,0,0,1,0,1.7,0,1.79,192,Macedo de Cavaleiros,Bragança,0,322,2.85,,False,255,2.26,30,11284,59.57,Carlos Manuel Cunha Martins,2017
+271,3,PPD/PSD,1,0,1,3,41.32,1,43.55,4663,Macedo de Cavaleiros,Bragança,0,322,2.85,,False,255,2.26,30,11284,59.57,Manuel Duarte Fernandes Moreno,2017
+272,3,PS,0,0,1,3,40.27,0,42.44,4544,Macedo de Cavaleiros,Bragança,0,322,2.85,,False,255,2.26,30,11284,59.57,Rui Manuel Rodrigues Vaz,2017
+273,0,B.E.,0,0,1,0,0.61,0,0.64,34,Miranda do Douro,Bragança,0,140,2.53,,False,108,1.95,13,5542,69.38,Júlio Augusto Pires Afonso,2017
+274,0,CDS-PP.MPT.PPM,0,0,1,0,1.66,0,1.74,92,Miranda do Douro,Bragança,0,140,2.53,,False,108,1.95,13,5542,69.38,Eduardo Luís Tiago de Beça Sanches da Gama,2017
+275,0,PCP - PEV,0,0,1,0,0.65,0,0.68,36,Miranda do Douro,Bragança,0,140,2.53,,False,108,1.95,13,5542,69.38,Maria da Glória Gonçalves de Jesus,2017
+276,2,PPD/PSD,0,0,1,2,42.33,0,44.31,2346,Miranda do Douro,Bragança,0,140,2.53,,False,108,1.95,13,5542,69.38,Francisco António São Pedro Granjo,2017
+277,3,PS,1,1,1,3,50.27,1,52.63,2786,Miranda do Douro,Bragança,0,140,2.53,,False,108,1.95,13,5542,69.38,Artur Manuel Rodrigues Nunes,2017
+278,0,B.E.,0,0,1,0,1.52,0,1.62,201,Mirandela,Bragança,0,411,3.11,,False,421,3.18,30,13235,53.46,Fernando Manuel Bebiano,2017
+279,1,CDS-PP,0,0,1,1,19.4,0,20.7,2567,Mirandela,Bragança,0,411,3.11,,False,421,3.18,30,13235,53.46,Carlos Manuel Costa Pires,2017
+280,0,PCP - PEV,0,0,1,0,3.41,0,3.64,451,Mirandela,Bragança,0,411,3.11,,False,421,3.18,30,13235,53.46,Maria Eduarda Teixeira Neves Carvalho,2017
+281,4,PPD/PSD,1,1,1,4,48.18,1,51.41,6376,Mirandela,Bragança,0,411,3.11,,False,421,3.18,30,13235,53.46,António José Pires Almor Branco,2017
+282,2,PS,0,0,1,2,21.22,0,22.64,2808,Mirandela,Bragança,0,411,3.11,,False,421,3.18,30,13235,53.46,José Manuel Correia de Morais,2017
+283,0,CDS-PP,0,0,1,0,1.99,0,2.09,148,Mogadouro,Bragança,0,154,2.07,,False,178,2.4,21,7424,66.16,Maria de Lurdes Gonçalves Marinho de Sousa,2017
+284,0,PCP - PEV,0,0,1,0,0.75,0,0.79,56,Mogadouro,Bragança,0,154,2.07,,False,178,2.4,21,7424,66.16,Amândio Edmundo Carvalho Pereira,2017
+285,3,PPD/PSD,0,0,1,3,46.32,0,48.49,3439,Mogadouro,Bragança,0,154,2.07,,False,178,2.4,21,7424,66.16,António Joaquim Pimentel,2017
+286,4,PS,1,1,1,4,46.46,1,48.63,3449,Mogadouro,Bragança,0,154,2.07,,False,178,2.4,21,7424,66.16,Francisco José Mateus Albuquerque Guimarães,2017
+287,0,PCP - PEV,0,0,1,0,3.18,0,3.33,197,Torre de Moncorvo,Bragança,0,145,2.34,,False,137,2.21,13,6203,66.07,Carlos Octávio Varelas,2017
+288,3,PPD/PSD.CDS-PP,1,1,1,3,51.44,1,53.89,3191,Torre de Moncorvo,Bragança,0,145,2.34,,False,137,2.21,13,6203,66.07,Nuno Jorge Rodrigues Gonçalves,2017
+289,2,PS,0,0,1,2,40.84,0,42.78,2533,Torre de Moncorvo,Bragança,0,145,2.34,,False,137,2.21,13,6203,66.07,José Manuel Aires,2017
+290,0,PCP - PEV,0,0,1,0,4.01,0,4.22,191,Vila Flor,Bragança,0,150,3.15,,False,93,1.95,14,4765,63.25,Ana Margarida Gonçalves Correia,2017
+291,2,PPD/PSD.CDS-PP,0,0,1,2,33.89,0,35.71,1615,Vila Flor,Bragança,0,150,3.15,,False,93,1.95,14,4765,63.25,Fernando Filipe de Almeida,2017
+292,3,PS,1,1,1,3,57.0,1,60.06,2716,Vila Flor,Bragança,0,150,3.15,,False,93,1.95,14,4765,63.25,Fernando Francisco Teixeira de Barros,2017
+293,0,PCP - PEV,0,0,1,0,0.94,0,0.99,36,Vimioso,Bragança,0,82,2.15,,False,95,2.49,10,3814,60.27,Luís Miguel Vaz Oliveira,2017
+294,3,PPD/PSD,1,1,1,3,58.52,1,61.37,2232,Vimioso,Bragança,0,82,2.15,,False,95,2.49,10,3814,60.27,António Jorge Fidalgo Martins,2017
+295,2,PS,0,0,1,2,35.89,0,37.64,1369,Vimioso,Bragança,0,82,2.15,,False,95,2.49,10,3814,60.27,Amilcar Gonçalves Martins,2017
+296,2,CDS-PP.PPD/PSD,0,0,1,2,34.17,0,35.97,2426,Vinhais,Bragança,0,161,2.27,,False,195,2.75,26,7100,63.51,Duarte Manuel Diz Lopes,2017
+297,0,PCP - PEV,0,0,1,0,1.56,0,1.65,111,Vinhais,Bragança,0,161,2.27,,False,195,2.75,26,7100,63.51,Elisabete Augusta Jorge Pereirinha Rodrigues,2017
+298,5,PS,1,1,1,5,59.25,1,62.38,4207,Vinhais,Bragança,0,161,2.27,,False,195,2.75,26,7100,63.51,Américo Jaime Afonso Pereira,2017
+299,1,I,0,0,1,1,26.38,0,28.26,1064,Belmonte,Castelo Branco,0,143,3.54,,False,126,3.12,4,4034,60.7,Jorge Manuel dos Santos Amaro,2017
+300,0,PCP - PEV,0,0,1,0,7.44,0,7.97,300,Belmonte,Castelo Branco,0,143,3.54,,False,126,3.12,4,4034,60.7,Marco Manuel Matos Melchior,2017
+301,4,PS,1,1,1,4,56.97,1,61.04,2298,Belmonte,Castelo Branco,0,143,3.54,,False,126,3.12,4,4034,60.7,António Dias Rocha,2017
+302,0,B.E.,0,0,1,0,2.55,0,2.76,665,Castelo Branco,Castelo Branco,0,1097,4.21,,False,816,3.13,19,26029,50.71,Filipe Manuel da Silva Lourenço,2017
+303,0,CDS-PP,0,0,1,0,2.99,0,3.22,777,Castelo Branco,Castelo Branco,0,1097,4.21,,False,816,3.13,19,26029,50.71,Ana Isabel Gardete Correia Camilo Martins,2017
+304,0,PCP - PEV,0,0,1,0,5.24,0,5.65,1363,Castelo Branco,Castelo Branco,0,1097,4.21,,False,816,3.13,19,26029,50.71,João Pedro Martins Delgado,2017
+305,2,PPD/PSD,0,0,1,2,20.0,0,21.59,5207,Castelo Branco,Castelo Branco,0,1097,4.21,,False,816,3.13,19,26029,50.71,Paulo Alexandre Martins Moradias,2017
+306,7,PS,1,1,1,7,61.87,1,66.78,16104,Castelo Branco,Castelo Branco,0,1097,4.21,,False,816,3.13,19,26029,50.71,Luís Manuel dos Santos Correia,2017
+307,0,B.E.,0,0,1,0,1.75,0,1.87,503,Covilhã,Castelo Branco,0,1024,3.56,,False,818,2.84,21,28762,57.79,José Serra dos Reis,2017
+308,2,I,0,0,1,2,28.32,0,30.25,8144,Covilhã,Castelo Branco,0,1024,3.56,,False,818,2.84,21,28762,57.79,Pedro Miguel dos Santos Farromba,2017
+309,1,PCP - PEV,0,0,1,1,11.01,0,11.76,3166,Covilhã,Castelo Branco,0,1024,3.56,,False,818,2.84,21,28762,57.79,José Joaquim Pinto de Almeida,2017
+310,1,PPD/PSD,0,0,1,1,15.01,0,16.04,4318,Covilhã,Castelo Branco,0,1024,3.56,,False,818,2.84,21,28762,57.79,Joaquim António Matias,2017
+311,3,PS,1,0,1,3,37.51,1,40.08,10789,Covilhã,Castelo Branco,0,1024,3.56,,False,818,2.84,21,28762,57.79,Vitor Manuel Pinheiro Pereira,2017
+312,0,CDS-PP,0,0,1,0,2.91,0,3.15,463,Fundão,Castelo Branco,0,779,4.9,,False,429,2.7,23,15894,54.99,Arminda Fortes Santos de Carvalho Tavares,2017
+313,0,PCP - PEV,0,0,1,0,7.46,0,8.08,1186,Fundão,Castelo Branco,0,779,4.9,,False,429,2.7,23,15894,54.99,José Luís Cabaço Reis Oliveira,2017
+314,5,PPD/PSD,1,1,1,5,53.93,1,58.37,8572,Fundão,Castelo Branco,0,779,4.9,,False,429,2.7,23,15894,54.99,Paulo Alexandre Bernardo Fernandes,2017
+315,2,PS,0,0,1,2,26.01,0,28.15,4134,Fundão,Castelo Branco,0,779,4.9,,False,429,2.7,23,15894,54.99,José António Duarte Domingues,2017
+316,0,PTP,0,0,1,0,2.08,0,2.25,331,Fundão,Castelo Branco,0,779,4.9,,False,429,2.7,23,15894,54.99,António de José de Jesus Pombo,2017
+317,0,CDS-PP,0,0,1,0,3.65,0,3.95,230,Idanha-a-Nova,Castelo Branco,0,285,4.52,,False,202,3.2,13,6307,65.61,Luís Filipe Geraldes de Mascarenhas Esteves de Sousa,2017
+318,0,I,0,0,1,0,4.53,0,4.91,286,Idanha-a-Nova,Castelo Branco,0,285,4.52,,False,202,3.2,13,6307,65.61,Jorge Miguel Gregório Azinheiro,2017
+319,0,PCP - PEV,0,0,1,0,5.37,0,5.82,339,Idanha-a-Nova,Castelo Branco,0,285,4.52,,False,202,3.2,13,6307,65.61,João Fazendas,2017
+320,1,PPD/PSD,0,0,1,1,14.59,0,15.81,920,Idanha-a-Nova,Castelo Branco,0,285,4.52,,False,202,3.2,13,6307,65.61,António Jorge da Cruz Moreira,2017
+321,4,PS,1,1,1,4,64.14,1,69.5,4045,Idanha-a-Nova,Castelo Branco,0,285,4.52,,False,202,3.2,13,6307,65.61,Armindo Moreira da Palma Jacinto,2017
+322,2,II,0,0,1,2,40.53,0,42.98,1614,Oleiros,Castelo Branco,0,97,2.44,,False,130,3.26,10,3982,71.62,António Jorge Mendes Dias,2017
+323,0,PCP - PEV,0,0,1,0,1.36,0,1.44,54,Oleiros,Castelo Branco,0,97,2.44,,False,130,3.26,10,3982,71.62,António Trindade dos Santos,2017
+324,3,PPD/PSD,1,1,1,3,52.41,1,55.58,2087,Oleiros,Castelo Branco,0,97,2.44,,False,130,3.26,10,3982,71.62,Fernando Marques Jorge,2017
+325,0,CDS-PP,0,0,1,0,8.95,0,9.48,340,Penamacor,Castelo Branco,0,83,2.19,,False,126,3.32,9,3797,68.06,António das Neves Bento,2017
+326,0,PCP - PEV,0,0,1,0,2.03,0,2.15,77,Penamacor,Castelo Branco,0,83,2.19,,False,126,3.32,9,3797,68.06,Ana Paula Cunha Martins Pinto Pires,2017
+327,2,PPD/PSD.MPT,0,0,1,2,30.08,0,31.83,1142,Penamacor,Castelo Branco,0,83,2.19,,False,126,3.32,9,3797,68.06,Vitor Manuel de Sousa Gabriel,2017
+328,3,PS,1,1,1,3,53.44,1,56.55,2029,Penamacor,Castelo Branco,0,83,2.19,,False,126,3.32,9,3797,68.06,António Luís Beites Soares,2017
+329,0,PCP - PEV,0,0,1,0,1.95,0,2.08,100,Proença-a-Nova,Castelo Branco,0,141,2.74,,False,178,3.47,4,5137,64.5,Francisco Ribeiro Delgado,2017
+330,1,PPD/PSD,0,0,1,1,19.08,0,20.34,980,Proença-a-Nova,Castelo Branco,0,141,2.74,,False,178,3.47,4,5137,64.5,Jorge Manuel Nogueira Tomé,2017
+331,4,PS,1,1,1,4,72.77,1,77.58,3738,Proença-a-Nova,Castelo Branco,0,141,2.74,,False,178,3.47,4,5137,64.5,João Paulo Lopes Catarino,2017
+332,0,CDS-PP,0,0,1,0,4.1,0,4.36,384,Sertã,Castelo Branco,0,294,3.14,,False,278,2.97,10,9375,63.23,Sara Rita de Oliveira Guerra Pedro de Matos Freitas do Amaral,2017
+333,0,I,0,0,1,0,1.71,0,1.82,160,Sertã,Castelo Branco,0,294,3.14,,False,278,2.97,10,9375,63.23,Luís da Conceição Rodrigues,2017
+334,0,PCP - PEV,0,0,1,0,1.5,0,1.6,141,Sertã,Castelo Branco,0,294,3.14,,False,278,2.97,10,9375,63.23,Ema Pereira Gomes,2017
+335,5,PPD/PSD,1,1,1,5,61.61,1,65.61,5776,Sertã,Castelo Branco,0,294,3.14,,False,278,2.97,10,9375,63.23,José Farinha Nunes,2017
+336,2,PS,0,0,1,2,24.98,0,26.6,2342,Sertã,Castelo Branco,0,294,3.14,,False,278,2.97,10,9375,63.23,Vítor Manuel do Carmo Cavalheiro,2017
+337,0,CDS-PP,0,0,1,0,2.64,0,2.75,59,Vila Velha de Ródão,Castelo Branco,0,44,1.97,,False,40,1.79,4,2232,71.42,Gonçalo Rodolfo de Canavarro Arraya Mendes Paulo,2017
+338,0,PCP - PEV,0,0,1,0,3.63,0,3.77,81,Vila Velha de Ródão,Castelo Branco,0,44,1.97,,False,40,1.79,4,2232,71.42,António José Ferro Inácio,2017
+339,1,PPD/PSD,0,0,1,1,20.56,0,21.37,459,Vila Velha de Ródão,Castelo Branco,0,44,1.97,,False,40,1.79,4,2232,71.42,Natália Lopes Ramos,2017
+340,4,PS,1,1,1,4,69.4,1,72.11,1549,Vila Velha de Ródão,Castelo Branco,0,44,1.97,,False,40,1.79,4,2232,71.42,Luís Miguel Ferro Pereira,2017
+341,0,CDS-PP,0,0,1,0,8.07,0,8.66,172,Vila de Rei,Castelo Branco,0,62,2.91,,False,83,3.89,3,2131,71.82,Carlos António Moutoso Batata,2017
+342,0,PCP - PEV,0,0,1,0,2.53,0,2.72,54,Vila de Rei,Castelo Branco,0,62,2.91,,False,83,3.89,3,2131,71.82,Carlos Manuel Rosa de Almeida,2017
+343,3,PPD/PSD,1,1,1,3,51.43,1,55.19,1096,Vila de Rei,Castelo Branco,0,62,2.91,,False,83,3.89,3,2131,71.82,Ricardo Jorge Martins Aires,2017
+344,2,PS,0,0,1,2,31.16,0,33.43,664,Vila de Rei,Castelo Branco,0,62,2.91,,False,83,3.89,3,2131,71.82,Ana Sofia Rodrigues Pires,2017
+345,0,PCP - PEV,0,0,1,0,5.81,0,6.3,407,Arganil,Coimbra,0,282,4.03,,False,264,3.77,14,7004,62.14,José Tiago Almeida,2017
+346,5,PPD/PSD,1,1,1,5,56.61,1,61.4,3965,Arganil,Coimbra,0,282,4.03,,False,264,3.77,14,7004,62.14,Ricardo João Barata Pereira Alves,2017
+347,2,PS,0,0,1,2,29.78,0,32.3,2086,Arganil,Coimbra,0,282,4.03,,False,264,3.77,14,7004,62.14,Eduardo Miguel Duarte Ventura,2017
+348,0,CDS-PP,0,0,1,0,1.76,0,1.91,337,Cantanhede,Coimbra,0,953,4.99,,False,512,2.68,14,19094,52.06,Maria Olímpia Moreira da Cruz,2017
+349,0,PCP - PEV,0,0,1,0,3.28,0,3.56,627,Cantanhede,Coimbra,0,953,4.99,,False,512,2.68,14,19094,52.06,Maria Teresa de Jesus,2017
+350,5,PPD/PSD,1,1,1,5,59.14,1,64.06,11293,Cantanhede,Coimbra,0,953,4.99,,False,512,2.68,14,19094,52.06,João Carlos Vidaurre Pais de Moura,2017
+351,2,PS,0,0,1,2,28.13,0,30.47,5372,Cantanhede,Coimbra,0,953,4.99,,False,512,2.68,14,19094,52.06,Carlos Alberto Castelo-Branco Ordens,2017
+352,0,CDS-PP,0,0,1,0,3.91,0,4.26,2492,Coimbra,Coimbra,0,3437,5.39,,False,1791,2.81,18,63734,49.38,Luis Nuno Ranito da Costa Providência,2017
+353,1,IV,0,0,1,1,9.27,0,10.09,5906,Coimbra,Coimbra,0,3437,5.39,,False,1791,2.81,18,63734,49.38,José Augusto Moreira Ferreira da Silva,2017
+354,0,PAN,0,0,1,0,1.45,0,1.58,925,Coimbra,Coimbra,0,3437,5.39,,False,1791,2.81,18,63734,49.38,Jorge Francisco Alves Vicente de Sousa Guerreiro,2017
+355,1,PCP - PEV,0,0,1,1,11.11,0,12.1,7078,Coimbra,Coimbra,0,3437,5.39,,False,1791,2.81,18,63734,49.38,Francisco José Pina Queirós,2017
+356,0,PCTP/MRPP,0,0,1,0,0.83,0,0.9,528,Coimbra,Coimbra,0,3437,5.39,,False,1791,2.81,18,63734,49.38,Rui Lourenço da Cruz,2017
+357,4,PPD/PSD.PPM.MPT,0,0,1,4,29.73,0,32.38,18946,Coimbra,Coimbra,0,3437,5.39,,False,1791,2.81,18,63734,49.38,João Paulo Lima Barbosa de Melo,2017
+358,5,PS,1,0,1,5,35.51,1,38.68,22631,Coimbra,Coimbra,0,3437,5.39,,False,1791,2.81,18,63734,49.38,Manuel Augusto Soares Machado,2017
+359,0,B.E.,0,0,1,0,8.15,0,8.88,625,Condeixa-a-Nova,Coimbra,0,417,5.44,,False,211,2.75,7,7665,55.05,Gisela Andreia Ferreira Coelho Martins,2017
+360,0,CDS-PP,0,0,1,0,1.77,0,1.93,136,Condeixa-a-Nova,Coimbra,0,417,5.44,,False,211,2.75,7,7665,55.05,Nuno Filipe Queirós Vicente,2017
+361,0,PCP - PEV,0,0,1,0,6.86,0,7.47,526,Condeixa-a-Nova,Coimbra,0,417,5.44,,False,211,2.75,7,7665,55.05,António Moreira da Costa Albuquerque,2017
+362,2,PPD/PSD,0,0,1,2,25.24,0,27.5,1935,Condeixa-a-Nova,Coimbra,0,417,5.44,,False,211,2.75,7,7665,55.05,Joaquim Norberto Cardoso Pires da Silva,2017
+363,5,PS,1,1,1,5,49.77,1,54.21,3815,Condeixa-a-Nova,Coimbra,0,417,5.44,,False,211,2.75,7,7665,55.05,Nuno Miguel Martins Rondão Moita da Costa,2017
+364,0,B.E.,0,0,1,0,3.15,0,3.5,885,Figueira da Foz,Coimbra,0,1820,6.48,,False,941,3.35,14,28074,47.71,Jorge Silvério Gomes Martins Monteiro,2017
+365,0,PCP - PEV,0,0,1,0,7.8,0,8.65,2189,Figueira da Foz,Coimbra,0,1820,6.48,,False,941,3.35,14,28074,47.71,António Francisco Gonçalves Soares Baião,2017
+366,0,PCTP/MRPP,0,0,1,0,1.1,0,1.22,310,Figueira da Foz,Coimbra,0,1820,6.48,,False,941,3.35,14,28074,47.71,João Manuel da Paz Cardoso,2017
+367,4,PPD/PSD.CDS-PP.PPM.MPT,0,0,1,4,31.77,0,35.23,8918,Figueira da Foz,Coimbra,0,1820,6.48,,False,941,3.35,14,28074,47.71,Luis Miguel Pereira de Almeida,2017
+368,5,PS,1,1,1,5,46.35,1,51.4,13011,Figueira da Foz,Coimbra,0,1820,6.48,,False,941,3.35,14,28074,47.71,João Albino Rainho Ataíde das Neves,2017
+369,0,CDS-PP,0,0,1,0,3.13,0,3.34,85,Góis,Coimbra,0,88,3.24,,False,83,3.05,4,2717,70.21,Victor Manuel Nogueira Dias,2017
+370,2,IX,0,0,1,2,42.07,0,44.89,1143,Góis,Coimbra,0,88,3.24,,False,83,3.05,4,2717,70.21,Diamantino Jorge Simões Garcia,2017
+371,0,PCP - PEV,0,0,1,0,1.14,0,1.22,31,Góis,Coimbra,0,88,3.24,,False,83,3.05,4,2717,70.21,António Flores Tavares,2017
+372,3,PS,1,1,1,3,47.37,1,50.55,1287,Góis,Coimbra,0,88,3.24,,False,83,3.05,4,2717,70.21,Maria de Lurdes de Oliveira Castanheira,2017
+373,0,B.E.,0,0,1,0,4.22,0,4.57,343,Lousã,Coimbra,0,406,4.99,,False,228,2.8,4,8134,53.58,Ana Filomena Leite Amaral,2017
+374,0,PCP - PEV,0,0,1,0,3.88,0,4.21,316,Lousã,Coimbra,0,406,4.99,,False,228,2.8,4,8134,53.58,Marina Maria Matos dos Santos Quaresma,2017
+375,1,PPD/PSD.CDS-PP,0,0,1,1,17.73,0,19.23,1442,Lousã,Coimbra,0,406,4.99,,False,228,2.8,4,8134,53.58,Filomena Maria Carvalho Martins Oliveira,2017
+376,6,PS,1,1,1,6,66.38,1,71.99,5399,Lousã,Coimbra,0,406,4.99,,False,228,2.8,4,8134,53.58,Luís Miguel Correia Antunes,2017
+377,0,CDS-PP,0,0,1,0,0.89,0,0.94,67,Mira,Coimbra,0,265,3.52,,False,168,2.23,4,7539,57.14,Frutuoso Tomé dos Santos Resende,2017
+378,1,III,0,0,1,1,11.49,0,12.19,866,Mira,Coimbra,0,265,3.52,,False,168,2.23,4,7539,57.14,José Carlos Baptista Garrucho,2017
+379,0,PCP - PEV,0,0,1,0,1.15,0,1.22,87,Mira,Coimbra,0,265,3.52,,False,168,2.23,4,7539,57.14,Maria Conceição Almeida Clemêncio,2017
+380,3,PPD/PSD,1,0,1,3,40.93,1,43.43,3086,Mira,Coimbra,0,265,3.52,,False,168,2.23,4,7539,57.14,Raul José Rei Soares de Almeida,2017
+381,3,PS,0,0,1,3,39.79,0,42.22,3000,Mira,Coimbra,0,265,3.52,,False,168,2.23,4,7539,57.14,João Maria Ribeiro Reigota,2017
+382,0,B.E.,0,0,1,0,1.97,0,2.06,136,Miranda do Corvo,Coimbra,0,173,2.5,,False,145,2.1,4,6918,61.26,Júlia Maria Ramos Correia,2017
+383,0,PCP - PEV,0,0,1,0,8.43,0,8.83,583,Miranda do Corvo,Coimbra,0,173,2.5,,False,145,2.1,4,6918,61.26,Ana Isabel Carvalho Sequeira Grade,2017
+384,3,PPD/PSD.CDS-PP,0,0,1,3,37.34,0,39.14,2583,Miranda do Corvo,Coimbra,0,173,2.5,,False,145,2.1,4,6918,61.26,Sérgio Luís Rodrigues Sêco,2017
+385,4,PS,1,1,1,4,47.67,1,49.97,3298,Miranda do Corvo,Coimbra,0,173,2.5,,False,145,2.1,4,6918,61.26,António Miguel Costa Baptista,2017
+386,0,B.E.,0,0,1,0,2.0,0,2.14,271,Montemor-o-Velho,Coimbra,0,553,4.09,,False,313,2.32,11,13520,58.99,Carlos Alberto de Sousa Mendes,2017
+387,0,MPT,0,0,1,0,4.11,0,4.39,555,Montemor-o-Velho,Coimbra,0,553,4.09,,False,313,2.32,11,13520,58.99,Elisabete Abreu Marques,2017
+388,1,PCP - PEV,0,0,1,1,11.08,0,11.84,1498,Montemor-o-Velho,Coimbra,0,553,4.09,,False,313,2.32,11,13520,58.99,Jorge Luís Forte Camarneiro,2017
+389,3,PPD/PSD.CDS-PP,0,0,1,3,35.95,0,38.41,4861,Montemor-o-Velho,Coimbra,0,553,4.09,,False,313,2.32,11,13520,58.99,Abel da Silva de Oliveira Girão,2017
+390,3,PS,1,0,1,3,40.45,1,43.22,5469,Montemor-o-Velho,Coimbra,0,553,4.09,,False,313,2.32,11,13520,58.99,Emílio Augusto Ferreira Torrão,2017
+391,0,CDS-PP,0,0,1,0,4.07,0,4.28,512,Oliveira do Hospital,Coimbra,0,336,2.67,,False,291,2.31,16,12579,66.04,José Vasco do Amaral Antunes Lencastre de Campos,2017
+392,0,PCP - PEV,0,0,1,0,2.76,0,2.9,347,Oliveira do Hospital,Coimbra,0,336,2.67,,False,291,2.31,16,12579,66.04,João Manuel Fontes Dinis,2017
+393,1,PPD/PSD,0,0,1,1,21.58,0,22.71,2714,Oliveira do Hospital,Coimbra,0,336,2.67,,False,291,2.31,16,12579,66.04,Cristina Fernandes Oliveira,2017
+394,6,PS,1,1,1,6,66.61,1,70.11,8379,Oliveira do Hospital,Coimbra,0,336,2.67,,False,291,2.31,16,12579,66.04,José Carlos Alexandrino Mendes,2017
+395,0,PS,0,0,1,0,10.97,0,11.54,312,Pampilhosa da Serra,Coimbra,0,62,2.18,,False,77,2.71,8,2843,67.08,Carlos da Costa Dias Ferrão,2017
+396,0,PCP - PEV,0,0,1,0,5.9,0,6.22,502,Penacova,Coimbra,0,232,2.72,,False,213,2.5,8,8515,56.99,Álvaro Manuel Bernardes Miranda,2017
+397,3,PPD/PSD.CDS-PP,0,0,1,3,37.32,0,39.38,3178,Penacova,Coimbra,0,232,2.72,,False,213,2.5,8,8515,56.99,Mauro Daniel Rodrigues Carpinteiro,2017
+398,4,PS,1,1,1,4,51.56,1,54.4,4390,Penacova,Coimbra,0,232,2.72,,False,213,2.5,8,8515,56.99,Humberto José Batista Oliveira,2017
+399,0,CDS-PP,0,0,1,0,1.28,0,1.35,43,Penela,Coimbra,0,105,3.13,,False,70,2.08,4,3360,63.38,Marc Raymond Camille Ryon,2017
+400,0,PCP - PEV,0,0,1,0,2.2,0,2.32,74,Penela,Coimbra,0,105,3.13,,False,70,2.08,4,3360,63.38,Maria da Graça Gonçalves Pedrosa de Oliveira,2017
+401,3,PPD/PSD,1,1,1,3,51.28,1,54.1,1723,Penela,Coimbra,0,105,3.13,,False,70,2.08,4,3360,63.38,Luis Filipe da Silva Lourenço Matias,2017
+402,2,PS,0,0,1,2,40.03,0,42.23,1345,Penela,Coimbra,0,105,3.13,,False,70,2.08,4,3360,63.38,Eduardo Jorge Mendes Nogueira dos Santos,2017
+403,1,PCP - PEV,0,0,1,1,9.93,0,10.55,1063,Soure,Coimbra,0,349,3.26,,False,274,2.56,10,10700,58.61,Maria Manuela Lucas de Oliveira Santos,2017
+404,3,PPD/PSD.CDS-PP.PPM,0,0,1,3,37.01,0,39.3,3960,Soure,Coimbra,0,349,3.26,,False,274,2.56,10,10700,58.61,Carlos Manuel da Silva Páscoa,2017
+405,3,PS,1,0,1,3,39.28,1,41.71,4203,Soure,Coimbra,0,349,3.26,,False,274,2.56,10,10700,58.61,Mário Jorge da Costa Rodrigues Nunes,2017
+406,0,XI,0,0,1,0,7.95,0,8.44,851,Soure,Coimbra,0,349,3.26,,False,274,2.56,10,10700,58.61,António Fernando da Silva Centeio,2017
+407,0,PCP - PEV,0,0,1,0,7.68,0,8.22,514,Tábua,Coimbra,0,218,3.26,,False,216,3.23,11,6689,62.32,José Manuel Ferreira de Oliveira,2017
+408,2,PPD/PSD.CDS-PP,0,0,1,2,28.43,0,30.41,1902,Tábua,Coimbra,0,218,3.26,,False,216,3.23,11,6689,62.32,Nuno Duarte Abranches Pinto,2017
+409,5,PS,1,1,1,5,57.39,1,61.37,3839,Tábua,Coimbra,0,218,3.26,,False,216,3.23,11,6689,62.32,Mário Almeida Loureiro,2017
+410,0,CDS-PP,0,0,1,0,2.58,0,2.7,95,Vila Nova de Poiares,Coimbra,0,81,2.2,,False,80,2.17,4,3686,58.42,Carlos Manuel Neves da Silva Barbas,2017
+411,0,PCP - PEV,0,0,1,0,2.69,0,2.81,99,Vila Nova de Poiares,Coimbra,0,81,2.2,,False,80,2.17,4,3686,58.42,Graça Catarina Carvalho Serra Marques dos Santos,2017
+412,2,PPD/PSD,0,0,1,2,34.81,0,36.4,1283,Vila Nova de Poiares,Coimbra,0,81,2.2,,False,80,2.17,4,3686,58.42,Carlos Manuel Soares Henriques,2017
+413,3,PS,1,1,1,3,55.56,1,58.1,2048,Vila Nova de Poiares,Coimbra,0,81,2.2,,False,80,2.17,4,3686,58.42,João Miguel Sousa Henriques,2017
+414,0,CDS-PP.MPT.PPM,0,0,1,0,2.57,0,2.81,347,Albufeira,Faro,0,738,5.47,,False,421,3.12,4,13488,41.01,Ricardo Jorge Almeida das Neves,2017
+415,1,I,0,0,1,1,11.37,0,12.44,1534,Albufeira,Faro,0,738,5.47,,False,421,3.12,4,13488,41.01,Ana Maria Marques Simões Prisca Vidigal da Silva,2017
+416,0,PCP - PEV,0,0,1,0,9.76,0,10.68,1317,Albufeira,Faro,0,738,5.47,,False,421,3.12,4,13488,41.01,Suzel Maria da Conceição Martins Pimenta,2017
+417,3,PPD/PSD,1,0,1,3,35.94,1,39.31,4847,Albufeira,Faro,0,738,5.47,,False,421,3.12,4,13488,41.01,Carlos Eduardo Silva e Sousa,2017
+418,3,PS,0,0,1,3,31.76,0,34.75,4284,Albufeira,Faro,0,738,5.47,,False,421,3.12,4,13488,41.01,Fernando José dos Santos Anastácio,2017
+419,0,PCP - PEV,0,0,1,0,2.52,0,2.63,54,Alcoutim,Faro,0,52,2.42,,False,42,1.96,4,2145,75.71,Maria Luísa Fernandes,2017
+420,2,PPD/PSD,0,0,1,2,42.24,0,44.17,906,Alcoutim,Faro,0,52,2.42,,False,42,1.96,4,2145,75.71,José Carlos da Palma Pereira,2017
+421,3,PS,1,1,1,3,50.86,1,53.19,1091,Alcoutim,Faro,0,52,2.42,,False,42,1.96,4,2145,75.71,Osvaldo dos Santos Gonçalves,2017
+422,0,PCP - PEV,0,0,1,0,14.19,0,15.25,373,Aljezur,Faro,0,126,4.79,,False,56,2.13,4,2628,60.32,Hermann Hans Janssen,2017
+423,1,PPD/PSD,0,0,1,1,16.06,0,17.25,422,Aljezur,Faro,0,126,4.79,,False,56,2.13,4,2628,60.32,Vitor Manuel da Encarnação Vicente,2017
+424,4,PS,1,1,1,4,62.82,1,67.5,1651,Aljezur,Faro,0,126,4.79,,False,56,2.13,4,2628,60.32,José Manuel Velhinho Amarelinho,2017
+425,0,B.E.,0,0,1,0,2.04,0,2.12,80,Castro Marim,Faro,0,84,2.14,,False,69,1.76,4,3928,66.18,Pedro Fernando Oliveira Tavares,2017
+426,0,CDS-PP,0,0,1,0,0.61,0,0.64,24,Castro Marim,Faro,0,84,2.14,,False,69,1.76,4,3928,66.18,Manuel das Neves Doutel,2017
+427,0,PCP - PEV,0,0,1,0,2.95,0,3.07,116,Castro Marim,Faro,0,84,2.14,,False,69,1.76,4,3928,66.18,João Francisco Valente Lopes Dias,2017
+428,3,PPD/PSD,1,1,1,3,47.43,1,49.35,1863,Castro Marim,Faro,0,84,2.14,,False,69,1.76,4,3928,66.18,Francisco Augusto Caimoto Amaral,2017
+429,2,PS,0,0,1,2,43.08,0,44.82,1692,Castro Marim,Faro,0,84,2.14,,False,69,1.76,4,3928,66.18,Carlos José Muge Nóbrega,2017
+430,0,B.E.,0,0,1,0,4.82,0,5.3,1180,Faro,Faro,0,1371,5.6,,False,843,3.44,4,24475,43.65,Vítor Manuel Bexiga Ruivo,2017
+431,0,I,0,0,1,0,5.74,0,6.31,1404,Faro,Faro,0,1371,5.6,,False,843,3.44,4,24475,43.65,José Adriano Gago Vitorino,2017
+432,1,PCP - PEV,0,0,1,1,12.76,0,14.02,3122,Faro,Faro,0,1371,5.6,,False,843,3.44,4,24475,43.65,António Manuel Dias Mendonça,2017
+433,4,PPD/PSD.CDS-PP.MPT.PPM,1,0,1,4,33.94,1,37.31,8306,Faro,Faro,0,1371,5.6,,False,843,3.44,4,24475,43.65,Rogério Conceição Bacalhau Coelho,2017
+434,0,PPV,0,0,1,0,1.38,0,1.52,338,Faro,Faro,0,1371,5.6,,False,843,3.44,4,24475,43.65,Vítor Manuel Maria Parreira da Silva,2017
+435,4,PS,0,0,1,4,32.32,0,35.54,7911,Faro,Faro,0,1371,5.6,,False,843,3.44,4,24475,43.65,Paulo Jorge dos Santos Neves,2017
+436,0,B.E.,0,0,1,0,5.1,0,5.44,468,Lagoa,Faro,0,321,3.5,,False,250,2.73,4,9168,49.55,Jorge Manuel Albano da Encarnação Ramos,2017
+437,0,PCP - PEV,0,0,1,0,7.64,0,8.14,700,Lagoa,Faro,0,321,3.5,,False,250,2.73,4,9168,49.55,Joaquim António Barrinhos Andrés,2017
+438,3,PPD/PSD,0,0,1,3,39.35,0,41.97,3608,Lagoa,Faro,0,321,3.5,,False,250,2.73,4,9168,49.55,José Inácio Marques Eduardo,2017
+439,4,PS,1,1,1,4,41.68,1,44.45,3821,Lagoa,Faro,0,321,3.5,,False,250,2.73,4,9168,49.55,Francisco José Malveiro Martins,2017
+440,0,B.E.,0,0,1,0,3.8,0,4.16,435,Lagos,Faro,0,654,5.71,,False,335,2.92,4,11453,48.2,Manuela José Goes Ferreira da Silva,2017
+441,0,CDS-PP.MPT,0,0,1,0,6.37,0,6.98,730,Lagos,Faro,0,654,5.71,,False,335,2.92,4,11453,48.2,Artur José Gomes Rêgo,2017
+442,1,PCP - PEV,0,0,1,1,13.83,0,15.14,1584,Lagos,Faro,0,654,5.71,,False,335,2.92,4,11453,48.2,Luís Carlos Carradinha Reis,2017
+443,1,PPD/PSD,0,0,1,1,17.31,0,18.94,1982,Lagos,Faro,0,654,5.71,,False,335,2.92,4,11453,48.2,Nuno Filipe Carreiro Ferreira Serafim,2017
+444,0,PPM/PPV/PND,0,0,1,0,1.67,0,1.83,191,Lagos,Faro,0,654,5.71,,False,335,2.92,4,11453,48.2,Paulo Jorge do Rosário Dias,2017
+445,4,PS,1,1,1,4,34.93,1,38.23,4000,Lagos,Faro,0,654,5.71,,False,335,2.92,4,11453,48.2,Maria Joaquina Baptista Quintans de Matos,2017
+446,1,XVIII,0,0,1,1,13.46,0,14.74,1542,Lagos,Faro,0,654,5.71,,False,335,2.92,4,11453,48.2,Luís Manuel da Silva Barroso,2017
+447,0,CDS-PP,0,0,1,0,2.1,0,2.27,564,Loulé,Faro,0,1176,4.38,,False,828,3.08,9,26875,46.61,Horácio Filipe Guilherme Ferreira,2017
+448,0,II,0,0,1,0,2.69,0,2.91,723,Loulé,Faro,0,1176,4.38,,False,828,3.08,9,26875,46.61,Adelino José Neto Guerreiro,2017
+449,0,PCP - PEV,0,0,1,0,4.48,0,4.84,1204,Loulé,Faro,0,1176,4.38,,False,828,3.08,9,26875,46.61,Joaquim José Rosa Nogueira,2017
+450,4,PPD/PSD,0,0,1,4,34.94,0,37.75,9389,Loulé,Faro,0,1176,4.38,,False,828,3.08,9,26875,46.61,Helder Manuel Faria Martins,2017
+451,5,PS,1,1,1,5,48.34,1,52.23,12991,Loulé,Faro,0,1176,4.38,,False,828,3.08,9,26875,46.61,Vitor Manuel Gonçalves Aleixo,2017
+452,0,I,0,0,1,0,10.51,0,11.06,385,Monchique,Faro,0,101,2.76,,False,80,2.18,3,3663,70.92,Carlos Henrique Correia Alves,2017
+453,0,PCP - PEV,0,0,1,0,4.94,0,5.2,181,Monchique,Faro,0,101,2.76,,False,80,2.18,3,3663,70.92,José Matias da Conceição Francisco,2017
+454,3,PPD/PSD,1,1,1,3,47.42,1,49.89,1737,Monchique,Faro,0,101,2.76,,False,80,2.18,3,3663,70.92,Rui Miguel da Silva André,2017
+455,2,PS,0,0,1,2,32.19,0,33.86,1179,Monchique,Faro,0,101,2.76,,False,80,2.18,3,3663,70.92,Maria da Graça Cerro Batalim da Mota,2017
+456,1,B.E.,0,0,1,1,9.4,0,10.24,1471,Olhão,Faro,0,849,5.42,,False,444,2.84,4,15652,41.56,Ivo Manuel Neto Madeira Conceição,2017
+457,0,CDS-PP,0,0,1,0,3.14,0,3.43,492,Olhão,Faro,0,849,5.42,,False,444,2.84,4,15652,41.56,Rui Manuel Correia Costa,2017
+458,0,I,0,0,1,0,6.04,0,6.59,946,Olhão,Faro,0,849,5.42,,False,444,2.84,4,15652,41.56,João Manuel Dias Pereira,2017
+459,1,PCP - PEV,0,0,1,1,11.94,0,13.02,1869,Olhão,Faro,0,849,5.42,,False,444,2.84,4,15652,41.56,Sebastião Manuel da Quinta Coelho,2017
+460,0,PCTP/MRPP,0,0,1,0,2.33,0,2.53,364,Olhão,Faro,0,849,5.42,,False,444,2.84,4,15652,41.56,António Manuel Ferro Terramoto,2017
+461,2,PPD/PSD,0,0,1,2,26.29,0,28.66,4115,Olhão,Faro,0,849,5.42,,False,444,2.84,4,15652,41.56,Eduardo Manuel da Cruz,2017
+462,3,PS,1,0,1,3,32.6,1,35.53,5102,Olhão,Faro,0,849,5.42,,False,444,2.84,4,15652,41.56,António Miguel Ventura Pina,2017
+463,1,B.E.,0,0,1,1,12.28,0,13.63,2419,Portimão,Faro,0,1127,5.72,,False,831,4.22,3,19702,42.39,João Manuel Duarte Vasconcelos,2017
+464,1,CDS-PP.MPT.PPM,0,0,1,1,18.96,0,21.05,3735,Portimão,Faro,0,1127,5.72,,False,831,4.22,3,19702,42.39,José Pedro da Silva Caçorino,2017
+465,1,PCP - PEV,0,0,1,1,12.11,0,13.44,2385,Portimão,Faro,0,1127,5.72,,False,831,4.22,3,19702,42.39,Nelson Manuel da Conceição de Freitas,2017
+466,1,PPD/PSD,0,0,1,1,16.67,0,18.51,3284,Portimão,Faro,0,1127,5.72,,False,831,4.22,3,19702,42.39,Pedro Humberto Castelo Terras Xavier,2017
+467,3,PS,1,0,1,3,30.05,1,33.37,5921,Portimão,Faro,0,1127,5.72,,False,831,4.22,3,19702,42.39,Isilda Maria Prazeres dos Santos Varges Gomes,2017
+468,0,B.E.,0,0,1,0,5.09,0,5.49,806,Silves,Faro,0,685,4.32,,False,470,2.97,6,15844,51.87,Carlos David da Loura Marques,2017
+469,3,PCP - PEV,1,0,1,3,34.68,1,37.41,5495,Silves,Faro,0,685,4.32,,False,470,2.97,6,15844,51.87,Rosa Cristina Gonçalves da Palma,2017
+470,2,PPD/PSD,0,0,1,2,27.32,0,29.47,4329,Silves,Faro,0,685,4.32,,False,470,2.97,6,15844,51.87,Rogério Santos Pinto,2017
+471,2,PS,0,0,1,2,25.62,0,27.63,4059,Silves,Faro,0,685,4.32,,False,470,2.97,6,15844,51.87,Fernando José Serpa Cabrita,2017
+472,0,CDS-PP,0,0,1,0,1.85,0,1.94,94,São Brás de Alportel,Faro,0,147,2.89,,False,77,1.52,1,5080,56.47,Cláudia Sofia Valente Brália,2017
+473,0,PCP - PEV,0,0,1,0,7.66,0,8.01,389,São Brás de Alportel,Faro,0,147,2.89,,False,77,1.52,1,5080,56.47,Renato Edmundo Proença dos Santos,2017
+474,2,PPD/PSD,0,0,1,2,40.39,0,42.26,2052,São Brás de Alportel,Faro,0,147,2.89,,False,77,1.52,1,5080,56.47,Rui Manuel Jacinto Eusébio,2017
+475,3,PS,1,1,1,3,45.69,1,47.8,2321,São Brás de Alportel,Faro,0,147,2.89,,False,77,1.52,1,5080,56.47,Vítor Manuel Martins Guerreiro,2017
+476,0,B.E.,0,0,1,0,4.11,0,4.42,515,Tavira,Faro,0,552,4.41,,False,312,2.49,6,12522,54.97,Carlos Manuel Eusébio Lopes,2017
+477,0,PCP - PEV,0,0,1,0,6.92,0,7.43,866,Tavira,Faro,0,552,4.41,,False,312,2.49,6,12522,54.97,Miguel Nuno Duarte Barão da Cunha,2017
+478,3,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,3,36.07,0,38.75,4517,Tavira,Faro,0,552,4.41,,False,312,2.49,6,12522,54.97,José Fernandes Estevens,2017
+479,4,PS,1,1,1,4,46.0,1,49.41,5760,Tavira,Faro,0,552,4.41,,False,312,2.49,6,12522,54.97,Jorge Manuel do Nascimento Botelho,2017
+480,0,B.E.,0,0,1,0,3.77,0,3.99,333,Vila Real de Santo António,Faro,0,256,2.9,,False,233,2.64,3,8841,52.41,Mário Fernando Ascenso de Matos,2017
+481,0,CDS-PP,0,0,1,0,1.11,0,1.17,98,Vila Real de Santo António,Faro,0,256,2.9,,False,233,2.64,3,8841,52.41,Maria Luisa Tubal Condessa Doutel,2017
+482,1,PCP - PEV,0,0,1,1,12.97,0,13.73,1147,Vila Real de Santo António,Faro,0,256,2.9,,False,233,2.64,3,8841,52.41,José Estevão Correia da Cruz,2017
+483,4,PPD/PSD,1,1,1,4,53.61,1,56.75,4740,Vila Real de Santo António,Faro,0,256,2.9,,False,233,2.64,3,8841,52.41,Luis Filipe Soromenho Gomes,2017
+484,2,PS,0,0,1,2,23.01,0,24.35,2034,Vila Real de Santo António,Faro,0,256,2.9,,False,233,2.64,3,8841,52.41,David Matias Murta,2017
+485,0,PCP - PEV,0,0,1,0,4.21,0,4.39,117,Vila do Bispo,Faro,0,79,2.84,,False,34,1.22,4,2781,66.34,José Manuel Pacheco Teixeira Machado,2017
+486,2,PPD/PSD,0,0,1,2,33.59,0,35.01,934,Vila do Bispo,Faro,0,79,2.84,,False,34,1.22,4,2781,66.34,Gilberto Repolho dos Reis Viegas,2017
+487,3,PS,1,1,1,3,58.14,1,60.61,1617,Vila do Bispo,Faro,0,79,2.84,,False,34,1.22,4,2781,66.34,Adelino Augusto da Rocha Soares,2017
+488,0,PCP - PEV,0,0,1,0,0.78,0,0.81,34,Aguiar da Beira,Guarda,0,72,1.65,,False,89,2.03,10,4375,65.81,Paulo Jorge Neves Silva,2017
+489,2,PPD/PSD,0,0,1,2,44.55,0,46.25,1949,Aguiar da Beira,Guarda,0,72,1.65,,False,89,2.03,10,4375,65.81,Fernando Augusto da Costa Pires,2017
+490,0,PCP - PEV,0,0,1,0,3.43,0,3.63,170,Almeida,Guarda,0,148,2.99,,False,132,2.66,16,4958,62.77,João Luís Gonçalves de Frias Terreiro,2017
+491,3,PPD/PSD.CDS-PP,1,1,1,3,56.33,1,59.71,2793,Almeida,Guarda,0,148,2.99,,False,132,2.66,16,4958,62.77,António Baptista Ribeiro,2017
+492,2,PS,0,0,1,2,34.59,0,36.66,1715,Almeida,Guarda,0,148,2.99,,False,132,2.66,16,4958,62.77,Joaquim dos Santos Fernandes,2017
+493,0,PCP - PEV,0,0,1,0,1.39,0,1.45,78,Celorico da Beira,Guarda,0,115,2.05,,False,123,2.19,16,5621,64.94,José Pedro Branquinho Branco,2017
+494,2,PPD/PSD.CDS-PP,0,0,1,2,41.22,0,43.04,2317,Celorico da Beira,Guarda,0,115,2.05,,False,123,2.19,16,5621,64.94,Manuel António de Almeida Portugal,2017
+495,3,PS,1,1,1,3,52.5,1,54.82,2951,Celorico da Beira,Guarda,0,115,2.05,,False,123,2.19,16,5621,64.94,José Francisco Gomes Monteiro,2017
+496,0,PTP,0,0,1,0,0.66,0,0.69,37,Celorico da Beira,Guarda,0,115,2.05,,False,123,2.19,16,5621,64.94,António Carlos da Costa Andrade,2017
+497,0,PCP - PEV,0,0,1,0,0.75,0,0.79,34,Figueira de Castelo Rodrigo,Guarda,0,68,1.51,,False,110,2.44,10,4507,73.48,Manuel Joaquim de Carvalho Teixeira,2017
+498,2,PPD/PSD,0,0,1,2,38.67,0,40.26,1743,Figueira de Castelo Rodrigo,Guarda,0,68,1.51,,False,110,2.44,10,4507,73.48,António Edmundo Freire Ribeiro,2017
+499,3,PS,1,1,1,3,56.62,1,58.95,2552,Figueira de Castelo Rodrigo,Guarda,0,68,1.51,,False,110,2.44,10,4507,73.48,Paulo José Gomes Langrouva,2017
+500,0,CDS-PP,0,0,1,0,5.64,0,5.85,212,Fornos de Algodres,Guarda,0,64,1.7,,False,65,1.73,12,3756,70.61,Cristina Maria Campos Guerra,2017
+501,0,PCP - PEV,0,0,1,0,0.83,0,0.85,31,Fornos de Algodres,Guarda,0,64,1.7,,False,65,1.73,12,3756,70.61,Joaquim Alberto Santos de Almeida,2017
+502,2,PPD/PSD,0,0,1,2,42.94,0,44.47,1613,Fornos de Algodres,Guarda,0,64,1.7,,False,65,1.73,12,3756,70.61,João Carlos Paulo Nunes Felicio da Costa,2017
+503,3,PS,1,1,1,3,47.15,1,48.83,1771,Fornos de Algodres,Guarda,0,64,1.7,,False,65,1.73,12,3756,70.61,António Manuel Pina Fonseca,2017
+504,0,PCP - PEV,0,0,1,0,4.21,0,4.5,385,Gouveia,Guarda,0,372,4.06,,False,233,2.55,16,9152,60.99,Fernanda Maria Silva Bernardo,2017
+505,4,PPD/PSD.CDS-PP,1,1,1,4,50.47,1,54.04,4619,Gouveia,Guarda,0,372,4.06,,False,233,2.55,16,9152,60.99,Luís Manuel Tadeu Marques,2017
+506,3,PS,0,0,1,3,38.71,0,41.45,3543,Gouveia,Guarda,0,372,4.06,,False,233,2.55,16,9152,60.99,Armando José Dos Santos Almeida,2017
+507,0,B.E.,0,0,1,0,3.66,0,3.99,871,Guarda,Guarda,0,853,3.59,,False,1096,4.61,43,23766,59.47,Marco Alexandre da Silva Loureiro,2017
+508,0,PCP - PEV,0,0,1,0,3.89,0,4.24,925,Guarda,Guarda,0,853,3.59,,False,1096,4.61,43,23766,59.47,Mário Triunfante Martins,2017
+509,0,PCTP/MRPP,0,0,1,0,2.42,0,2.64,576,Guarda,Guarda,0,853,3.59,,False,1096,4.61,43,23766,59.47,Eduardo Pires do Espírito Santo,2017
+510,5,PPD/PSD.CDS-PP,1,1,1,5,51.43,1,56.02,12222,Guarda,Guarda,0,853,3.59,,False,1096,4.61,43,23766,59.47,Álvaro dos Santos Amaro,2017
+511,2,PS,0,0,1,2,30.39,0,33.11,7223,Guarda,Guarda,0,853,3.59,,False,1096,4.61,43,23766,59.47,José Martins Igreja,2017
+512,0,PCP - PEV,0,0,1,0,3.97,0,4.15,97,Manteigas,Guarda,0,46,1.88,,False,64,2.62,4,2445,66.6,Manuel Abrantes Craveiro Aldeia,2017
+513,3,PPD/PSD,1,1,1,3,46.79,1,48.99,1144,Manteigas,Guarda,0,46,1.88,,False,64,2.62,4,2445,66.6,José Manuel Custódia Biscaia,2017
+514,2,PS,0,0,1,2,44.74,0,46.85,1094,Manteigas,Guarda,0,46,1.88,,False,64,2.62,4,2445,66.6,Esmeraldo Saraiva Neto Carvalhinho,2017
+515,2,CDS-PP,0,0,1,2,29.86,0,31.36,1186,Meda,Guarda,0,69,1.74,,False,121,3.05,11,3972,66.97,António César Valente Figueiredo,2017
+516,0,PCP - PEV,0,0,1,0,0.86,0,0.9,34,Meda,Guarda,0,69,1.74,,False,121,3.05,11,3972,66.97,Manuel de Jesus Darei Frade,2017
+517,1,PPD/PSD,0,0,1,1,17.72,0,18.61,704,Meda,Guarda,0,69,1.74,,False,121,3.05,11,3972,66.97,Paulo Jorge de Lemos Amaral,2017
+518,0,PPM,0,0,1,0,11.46,0,12.03,455,Meda,Guarda,0,69,1.74,,False,121,3.05,11,3972,66.97,José Mário de Lemos Damião,2017
+519,2,PS,1,0,1,2,35.32,1,37.1,1403,Meda,Guarda,0,69,1.74,,False,121,3.05,11,3972,66.97,Anselmo Antunes de Sousa,2017
+520,0,CDS-PP,0,0,1,0,8.19,0,8.7,531,Pinhel,Guarda,0,192,2.96,,False,186,2.87,18,6484,63.35,Carlos Miguel Saraiva Gonçalves,2017
+521,0,PCP - PEV,0,0,1,0,1.96,0,2.08,127,Pinhel,Guarda,0,192,2.96,,False,186,2.87,18,6484,63.35,Joaquim Luís Ferreira,2017
+522,5,PPD/PSD,1,1,1,5,54.63,1,58.01,3542,Pinhel,Guarda,0,192,2.96,,False,186,2.87,18,6484,63.35,Rui Manuel Saraiva Ventura,2017
+523,2,PS,0,0,1,2,29.4,0,31.22,1906,Pinhel,Guarda,0,192,2.96,,False,186,2.87,18,6484,63.35,José Vital Tomé Saraiva,2017
+524,0,CDS-PP,0,0,1,0,4.43,0,4.7,382,Sabugal,Guarda,0,258,2.99,,False,236,2.74,30,8619,57.14,Filipe Tomé Pina Monteiro,2017
+525,0,PCP - PEV,0,0,1,0,1.76,0,1.87,152,Sabugal,Guarda,0,258,2.99,,False,236,2.74,30,8619,57.14,João Manuel Aristides Duarte,2017
+526,4,PPD/PSD,1,1,1,4,45.76,1,48.54,3944,Sabugal,Guarda,0,258,2.99,,False,236,2.74,30,8619,57.14,António dos Santos Robalo,2017
+527,3,PS,0,0,1,3,39.51,0,41.91,3405,Sabugal,Guarda,0,258,2.99,,False,236,2.74,30,8619,57.14,António José Gonçalves dos Santos Vaz,2017
+528,0,PTP,0,0,1,0,2.81,0,2.98,242,Sabugal,Guarda,0,258,2.99,,False,236,2.74,30,8619,57.14,Carlos Alberto Garrido Rito,2017
+529,0,PCP - PEV,0,0,1,0,7.25,0,7.9,1014,Seia,Guarda,0,716,5.12,,False,430,3.07,21,13985,56.59,Margarida Maria da Silva Abrantes Figueiredo,2017
+530,2,PPD/PSD.CDS-PP,0,0,1,2,28.9,0,31.48,4042,Seia,Guarda,0,716,5.12,,False,430,3.07,21,13985,56.59,Albano António Cabral Figueiredo,2017
+531,5,PS,1,1,1,5,55.65,1,60.62,7783,Seia,Guarda,0,716,5.12,,False,430,3.07,21,13985,56.59,Carlos Filipe Camelo Miranda de Figueiredo,2017
+532,0,CDS-PP,0,0,1,0,1.88,0,1.97,127,Trancoso,Guarda,0,150,2.23,,False,130,1.93,21,6741,64.67,João Albino Pereira Mendes,2017
+533,0,PCP - PEV,0,0,1,0,1.29,0,1.35,87,Trancoso,Guarda,0,150,2.23,,False,130,1.93,21,6741,64.67,João António da Fonseca Ribeiro,2017
+534,3,PPD/PSD,0,0,1,3,37.28,0,38.89,2513,Trancoso,Guarda,0,150,2.23,,False,130,1.93,21,6741,64.67,João António Figueiredo Rodrigues,2017
+535,4,PS,1,1,1,4,55.39,1,57.79,3734,Trancoso,Guarda,0,150,2.23,,False,130,1.93,21,6741,64.67,Amílcar José Nunes Salvador,2017
+536,3,PPD/PSD,1,1,1,3,53.06,1,55.82,2763,Vila Nova de Foz Côa,Guarda,0,121,2.32,,False,136,2.61,14,5207,62.84,Gustavo de Sousa Duarte,2017
+537,2,PS,0,0,1,2,40.14,0,42.22,2090,Vila Nova de Foz Côa,Guarda,0,121,2.32,,False,136,2.61,14,5207,62.84,Fernando Monteiro Girão,2017
+538,0,B.E.,0,0,1,0,2.13,0,2.41,566,Alcobaça,Leiria,0,1735,6.54,,False,1335,5.03,13,26517,53.65,Adelino António Moreira Granja,2017
+539,1,CDS-PP,0,0,1,1,17.53,0,19.83,4649,Alcobaça,Leiria,0,1735,6.54,,False,1335,5.03,13,26517,53.65,Carlos Manuel Bonifácio,2017
+540,1,PCP - PEV,0,0,1,1,11.98,0,13.55,3176,Alcobaça,Leiria,0,1735,6.54,,False,1335,5.03,13,26517,53.65,Vanda Maria Furtado Marques,2017
+541,0,PNR,0,0,1,0,0.92,0,1.04,245,Alcobaça,Leiria,0,1735,6.54,,False,1335,5.03,13,26517,53.65,João Pedro Soares Quaresma Pais do Amaral,2017
+542,3,PPD/PSD,1,0,1,3,36.07,1,40.79,9564,Alcobaça,Leiria,0,1735,6.54,,False,1335,5.03,13,26517,53.65,Paulo Jorge Marques Inácio,2017
+543,2,PS,0,0,1,2,19.79,0,22.38,5247,Alcobaça,Leiria,0,1735,6.54,,False,1335,5.03,13,26517,53.65,José António de Sousa Canha,2017
+544,1,CDS-PP,0,0,1,1,16.75,0,17.74,724,Alvaiázere,Leiria,0,115,2.66,,False,126,2.91,5,4323,61.67,Nelson Paulino da Silva,2017
+545,0,PCP - PEV,0,0,1,0,1.04,0,1.1,45,Alvaiázere,Leiria,0,115,2.66,,False,126,2.91,5,4323,61.67,José Nunes dos Santos,2017
+546,3,PPD/PSD,1,1,1,3,57.9,1,61.32,2503,Alvaiázere,Leiria,0,115,2.66,,False,126,2.91,5,4323,61.67,Paulo Tito Delgado Morgado,2017
+547,1,PS,0,0,1,1,18.74,0,19.84,810,Alvaiázere,Leiria,0,115,2.66,,False,126,2.91,5,4323,61.67,Maria Teodora Freire Gonçalves Cardo,2017
+548,0,CDS-PP,0,0,1,0,3.09,0,3.29,228,Ansião,Leiria,0,242,3.28,,False,201,2.72,6,7383,60.39,Rafael Caseiro Henriques,2017
+549,0,PCP - PEV,0,0,1,0,2.98,0,3.17,220,Ansião,Leiria,0,242,3.28,,False,201,2.72,6,7383,60.39,Gonçalo Nuno Almeida Joaquim Duarte da Paz,2017
+550,4,PPD/PSD,1,1,1,4,49.32,1,52.46,3641,Ansião,Leiria,0,242,3.28,,False,201,2.72,6,7383,60.39,Rui Alexandre Novo e Rocha,2017
+551,3,PS,0,0,1,3,38.62,0,41.08,2851,Ansião,Leiria,0,242,3.28,,False,201,2.72,6,7383,60.39,Teresa de Jesus da Conceição Fernandes,2017
+552,1,CDS-PP,0,0,1,1,11.32,0,13.12,863,Batalha,Leiria,0,639,8.38,,False,408,5.35,4,7623,53.79,Nuno Ricardo Silva Barraca,2017
+553,0,PCP - PEV,0,0,1,0,3.97,0,4.61,303,Batalha,Leiria,0,639,8.38,,False,408,5.35,4,7623,53.79,Maria Manuela Almeida Flores Ribeiro,2017
+554,5,PPD/PSD,1,1,1,5,55.23,1,64.02,4210,Batalha,Leiria,0,639,8.38,,False,408,5.35,4,7623,53.79,Paulo Jorge Frazão Batista dos Santos,2017
+555,1,PS,0,0,1,1,15.74,0,18.25,1200,Batalha,Leiria,0,639,8.38,,False,408,5.35,4,7623,53.79,Carlos Emanuel Oliveira Repolho,2017
+556,1,CDS-PP,0,0,1,1,11.7,0,12.78,712,Bombarral,Leiria,0,314,5.16,,False,197,3.24,4,6084,51.01,Rosa Maria Bastos Gonçalves Guerra,2017
+557,1,PCP - PEV,0,0,1,1,12.8,0,13.98,779,Bombarral,Leiria,0,314,5.16,,False,197,3.24,4,6084,51.01,Maria de los Angeles Vinuesa Peña de Oliveira,2017
+558,3,PPD/PSD,1,0,1,3,40.58,1,44.3,2469,Bombarral,Leiria,0,314,5.16,,False,197,3.24,4,6084,51.01,José Manuel Gonçalves Vieira,2017
+559,2,PS,0,0,1,2,26.51,0,28.94,1613,Bombarral,Leiria,0,314,5.16,,False,197,3.24,4,6084,51.01,Luís Alberto Camilo Duarte,2017
+560,0,B.E.,0,0,1,0,2.85,0,3.07,602,Caldas da Rainha,Leiria,0,1015,4.8,,False,546,2.58,12,21144,46.5,Carlos Alberto Sainica Carujo,2017
+561,1,CDS-PP,0,0,1,1,9.28,0,10.02,1962,Caldas da Rainha,Leiria,0,1015,4.8,,False,546,2.58,12,21144,46.5,Manuel Fialho Isaac,2017
+562,0,I,0,0,1,0,8.81,0,9.51,1863,Caldas da Rainha,Leiria,0,1015,4.8,,False,546,2.58,12,21144,46.5,Maria Teresa Maio Santos Milhanas Serrenho,2017
+563,0,PCP - PEV,0,0,1,0,5.15,0,5.56,1089,Caldas da Rainha,Leiria,0,1015,4.8,,False,546,2.58,12,21144,46.5,José Carlos Rebelo Ferreira Faria,2017
+564,4,PPD/PSD,1,1,1,4,43.59,1,47.06,9216,Caldas da Rainha,Leiria,0,1015,4.8,,False,546,2.58,12,21144,46.5,Fernando Manuel Tinta Ferreira,2017
+565,2,PS,0,0,1,2,22.94,0,24.77,4851,Caldas da Rainha,Leiria,0,1015,4.8,,False,546,2.58,12,21144,46.5,Rui José Antunes da Cunha Simões Correia,2017
+566,0,CDS-PP,0,0,1,0,3.37,0,3.58,70,Castanheira de Pêra,Leiria,0,60,2.89,,False,65,3.13,1,2079,70.93,António Manuel dos Santos Varanda,2017
+567,0,PCP - PEV,0,0,1,0,1.64,0,1.74,34,Castanheira de Pêra,Leiria,0,60,2.89,,False,65,3.13,1,2079,70.93,Manuel Lopes da Costa,2017
+568,2,PPD/PSD,0,0,1,2,30.5,0,32.45,634,Castanheira de Pêra,Leiria,0,60,2.89,,False,65,3.13,1,2079,70.93,Pedro Manuel Alves da Graça,2017
+569,2,PS,1,0,1,2,43.53,1,46.32,905,Castanheira de Pêra,Leiria,0,60,2.89,,False,65,3.13,1,2079,70.93,Fernando José Pires Lopes,2017
+570,1,XVII,0,0,1,1,14.96,0,15.92,311,Castanheira de Pêra,Leiria,0,60,2.89,,False,65,3.13,1,2079,70.93,Miguel José Barjona de Tomaz Henriques,2017
+571,0,CDS-PP,0,0,1,0,9.76,0,10.32,413,Figueiró dos Vinhos,Leiria,0,101,2.39,,False,130,3.07,4,4233,68.67,António da Conceição Zuzarte,2017
+572,0,PCP - PEV,0,0,1,0,0.99,0,1.05,42,Figueiró dos Vinhos,Leiria,0,101,2.39,,False,130,3.07,4,4233,68.67,Artur Severino dos Reis do Vale,2017
+573,2,PPD/PSD,0,0,1,2,41.67,0,44.08,1764,Figueiró dos Vinhos,Leiria,0,101,2.39,,False,130,3.07,4,4233,68.67,Rui Manuel Almeida e Silva,2017
+574,3,PS,1,1,1,3,42.12,1,44.55,1783,Figueiró dos Vinhos,Leiria,0,101,2.39,,False,130,3.07,4,4233,68.67,Jorge Manuel Fernandes de Abreu,2017
+575,0,B.E.,0,0,1,0,3.3,0,3.81,1865,Leiria,Leiria,0,4751,8.41,,False,2852,5.05,18,56503,49.84,José Manuel Peixoto Figueira Henriques,2017
+576,0,CDS-PP,0,0,1,0,4.67,0,5.4,2639,Leiria,Leiria,0,4751,8.41,,False,2852,5.05,18,56503,49.84,António Carlos Batista Martinho Gomes,2017
+577,0,PCP - PEV,0,0,1,0,4.42,0,5.1,2495,Leiria,Leiria,0,4751,8.41,,False,2852,5.05,18,56503,49.84,Anabela Baptista Rodrigues dos Santos,2017
+578,4,PPD/PSD,0,0,1,4,27.85,0,32.18,15735,Leiria,Leiria,0,4751,8.41,,False,2852,5.05,18,56503,49.84,Álvaro José Madureira,2017
+579,7,PS,1,1,1,7,46.31,1,53.51,26166,Leiria,Leiria,0,4751,8.41,,False,2852,5.05,18,56503,49.84,Raul Miguel de Castro,2017
+580,1,PPD/PSD,0,0,1,1,10.6,0,11.5,1680,Marinha Grande,Leiria,0,740,4.67,,False,509,3.21,3,15856,47.25,António Manuel Jesus Ferreira dos Santos,2017
+581,2,PS,1,0,1,2,29.93,1,32.48,4745,Marinha Grande,Leiria,0,740,4.67,,False,509,3.21,3,15856,47.25,Álvaro Manuel Marques Pereira,2017
+582,0,B.E.,0,0,1,0,2.35,0,2.49,172,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,Joaquim Gil Sousa Piló,2017
+583,0,CDS-PP,0,0,1,0,2.65,0,2.81,194,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,Joel Vieira Vitorino,2017
+584,0,MPT,0,0,1,0,5.86,0,6.23,430,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,António Duarte Salvador,2017
+585,0,PCP - PEV,0,0,1,0,6.18,0,6.57,453,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,João Paulo Quinzico Delgado,2017
+586,2,PPD/PSD,0,0,1,2,22.6,0,24.01,1657,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,Luís Miguel Rodrigues Sousinha,2017
+587,4,PS,1,1,1,4,36.59,1,38.88,2683,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,Walter Manuel Cavaleiro Chicharro,2017
+588,0,XII,0,0,1,0,8.03,0,8.54,589,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,Alberto Madaíl da Silva Belo,2017
+589,1,XIX,0,0,1,1,9.85,0,10.46,722,Nazaré,Leiria,0,227,3.1,,False,205,2.8,3,7332,50.74,António Gordinho Trindade,2017
+590,0,PCP - PEV,0,0,1,0,1.3,0,1.37,30,Pedrógão Grande,Leiria,0,69,2.98,,False,59,2.55,3,2313,64.18,Rui Baltasar Coelho da Silva Matias,2017
+591,3,PPD/PSD,1,1,1,3,56.59,1,59.91,1309,Pedrógão Grande,Leiria,0,69,2.98,,False,59,2.55,3,2313,64.18,Valdemar Gomes Fernandes Alves,2017
+592,2,PS,0,0,1,2,36.58,0,38.72,846,Pedrógão Grande,Leiria,0,69,2.98,,False,59,2.55,3,2313,64.18,António da Silva Pena,2017
+593,0,B.E.,0,0,1,0,1.99,0,2.15,218,Peniche,Leiria,0,525,4.78,,False,295,2.69,4,10974,43.23,Paulo Jorge Velho dos Santos Freitas,2017
+594,0,CDS-PP,0,0,1,0,2.09,0,2.26,229,Peniche,Leiria,0,525,4.78,,False,295,2.69,4,10974,43.23,João Nuno Cruz Santos,2017
+595,3,PCP - PEV,1,0,1,3,41.32,1,44.66,4535,Peniche,Leiria,0,525,4.78,,False,295,2.69,4,10974,43.23,António José Ferreira Sousa Correia Santos,2017
+596,2,PPD/PSD,0,0,1,2,22.89,0,24.74,2512,Peniche,Leiria,0,525,4.78,,False,295,2.69,4,10974,43.23,Luís Lourenço Jorge Ganhão,2017
+597,2,PS,0,0,1,2,24.24,0,26.2,2660,Peniche,Leiria,0,525,4.78,,False,295,2.69,4,10974,43.23,Jorge Manuel Rosendo Gonçalves,2017
+598,0,CDS-PP,0,0,1,0,6.18,0,6.78,1528,Pombal,Leiria,0,1382,5.59,,False,811,3.28,13,24728,44.87,José Matias Guardado Rodrigues da Silva,2017
+599,0,PCP - PEV,0,0,1,0,3.19,0,3.5,789,Pombal,Leiria,0,1382,5.59,,False,811,3.28,13,24728,44.87,Fernando Manuel dos Santos Domingues,2017
+600,6,PPD/PSD,1,1,1,6,54.99,1,60.34,13598,Pombal,Leiria,0,1382,5.59,,False,811,3.28,13,24728,44.87,Luís Diogo de Paiva Morão Alves Mateus,2017
+601,3,PS,0,0,1,3,26.77,0,29.38,6620,Pombal,Leiria,0,1382,5.59,,False,811,3.28,13,24728,44.87,Adelino Gonçalves Mendes,2017
+602,0,CDS-PP,0,0,1,0,3.77,0,4.13,466,Porto de Mós,Leiria,0,634,5.13,,False,441,3.57,10,12354,57.05,António José da Silva Alves,2017
+603,0,PCP - PEV,0,0,1,0,3.72,0,4.07,459,Porto de Mós,Leiria,0,634,5.13,,False,441,3.57,10,12354,57.05,José Carlos Nogueira,2017
+604,2,PPD/PSD,0,0,1,2,27.29,0,29.89,3371,Porto de Mós,Leiria,0,634,5.13,,False,441,3.57,10,12354,57.05,Carlos Manuel Neto Venda,2017
+605,5,PS,1,1,1,5,56.52,1,61.91,6983,Porto de Mós,Leiria,0,634,5.13,,False,441,3.57,10,12354,57.05,João Salgueiro,2017
+606,0,CDS-PP,0,0,1,0,3.33,0,3.58,194,Óbidos,Leiria,0,236,4.05,,False,161,2.76,7,5823,55.27,Carlos Augusto Collaço Pinto Machado,2017
+607,0,PCP - PEV,0,0,1,0,6.65,0,7.13,387,Óbidos,Leiria,0,236,4.05,,False,161,2.76,7,5823,55.27,José Rui Pereira da Silva Raposo,2017
+608,4,PPD/PSD,1,1,1,4,43.12,1,46.28,2511,Óbidos,Leiria,0,236,4.05,,False,161,2.76,7,5823,55.27,Humberto da Silva Marques,2017
+609,3,PS,0,0,1,3,40.08,0,43.02,2334,Óbidos,Leiria,0,236,4.05,,False,161,2.76,7,5823,55.27,Bernardo José Fernandes Rodrigues,2017
+610,0,B.E.,0,0,1,0,6.38,0,6.86,1128,Alenquer,Lisboa,0,775,4.39,,False,463,2.62,11,17670,50.98,João António Silva Hermínio,2017
+611,1,PCP - PEV,0,0,1,1,16.51,0,17.76,2918,Alenquer,Lisboa,0,775,4.39,,False,463,2.62,11,17670,50.98,Carlos Manuel de Melo Gomes Areal,2017
+612,2,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,2,28.25,0,30.37,4991,Alenquer,Lisboa,0,775,4.39,,False,463,2.62,11,17670,50.98,Nuno Miguel Domingos Coelho,2017
+613,4,PS,1,1,1,4,41.85,1,45.0,7395,Alenquer,Lisboa,0,775,4.39,,False,463,2.62,11,17670,50.98,Pedro Miguel Ferreira Folgado,2017
+614,0,B.E.,0,0,1,0,5.4,0,5.96,3231,Amadora,Lisboa,0,3013,5.03,,False,2640,4.41,6,59852,40.84,António Manuel Candeias Coelho dos Santos,2017
+615,2,PCP - PEV,0,0,1,2,19.15,0,21.14,11459,Amadora,Lisboa,0,3013,5.03,,False,2640,4.41,6,59852,40.84,Francisco José Santana Nunes dos Santos,2017
+616,0,PCTP/MRPP,0,0,1,0,1.52,0,1.68,910,Amadora,Lisboa,0,3013,5.03,,False,2640,4.41,6,59852,40.84,Elísio Fernando Fadigas Barão,2017
+617,2,PPD/PSD.CDS-PP,0,0,1,2,18.04,0,19.92,10797,Amadora,Lisboa,0,3013,5.03,,False,2640,4.41,6,59852,40.84,Carlos Manuel dos Santos Batista da Silva,2017
+618,7,PS,1,1,1,7,45.45,1,50.19,27203,Amadora,Lisboa,0,3013,5.03,,False,2640,4.41,6,59852,40.84,Carla Maria Nunes Tavares,2017
+619,0,PTP,0,0,1,0,1.0,0,1.11,599,Amadora,Lisboa,0,3013,5.03,,False,2640,4.41,6,59852,40.84,Rui Manuel Coelho Mendes Gonçalves,2017
+620,0,CDS-PP,0,0,1,0,3.02,0,3.18,184,Arruda dos Vinhos,Lisboa,0,185,3.03,,False,134,2.2,4,6098,58.64,Pedro Domingos da Lage Ribeiro Corrêa,2017
+621,0,PCP - PEV,0,0,1,0,8.67,0,9.15,529,Arruda dos Vinhos,Lisboa,0,185,3.03,,False,134,2.2,4,6098,58.64,Adelaide Maria Santos Ferreira Henriques,2017
+622,3,PPD/PSD,0,0,1,3,35.24,0,37.19,2149,Arruda dos Vinhos,Lisboa,0,185,3.03,,False,134,2.2,4,6098,58.64,Lélio Raimundo Lourenço,2017
+623,4,PS,1,1,1,4,47.84,1,50.48,2917,Arruda dos Vinhos,Lisboa,0,185,3.03,,False,134,2.2,4,6098,58.64,André Filipe dos Santos Matos Rijo,2017
+624,2,PCP - PEV,0,0,1,2,25.46,0,27.91,2417,Azambuja,Lisboa,0,430,4.53,,False,404,4.26,7,9494,53.91,David José Pinto Mendes,2017
+625,2,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,2,23.83,0,26.12,2262,Azambuja,Lisboa,0,430,4.53,,False,404,4.26,7,9494,53.91,António Jorge de Oliveira Lopes,2017
+626,3,PS,1,0,1,3,41.93,1,45.97,3981,Azambuja,Lisboa,0,430,4.53,,False,404,4.26,7,9494,53.91,Luís Manuel Abreu de Sousa,2017
+627,0,CDS-PP.MPT.PPM,0,0,1,0,2.87,0,3.02,211,Cadaval,Lisboa,0,210,2.85,,False,155,2.11,7,7360,58.6,João Filipe Rafael dos Reis,2017
+628,0,PCP - PEV,0,0,1,0,4.89,0,5.15,360,Cadaval,Lisboa,0,210,2.85,,False,155,2.11,7,7360,58.6,Brizelinda das Neves Marques,2017
+629,4,PPD/PSD,1,1,1,4,45.14,1,47.49,3322,Cadaval,Lisboa,0,210,2.85,,False,155,2.11,7,7360,58.6,José Bernardo Nunes,2017
+630,3,PS,0,0,1,3,42.15,0,44.35,3102,Cadaval,Lisboa,0,210,2.85,,False,155,2.11,7,7360,58.6,Dinis Acácio Nobre Duarte,2017
+631,6,PPD/PSD.CDS-PP,1,1,1,6,42.72,1,46.99,28004,Cascais,Lisboa,0,3592,5.48,,False,2359,3.6,4,65549,37.99,Carlos Manuel Lavrador de Jesus Carreiras,2017
+632,0,PPM/PPV/PND,0,0,1,0,0.96,0,1.06,629,Cascais,Lisboa,0,3592,5.48,,False,2359,3.6,4,65549,37.99,José Jorge Moniz Assunção Andrade,2017
+633,3,PS,0,0,1,3,21.57,0,23.73,14140,Cascais,Lisboa,0,3592,5.48,,False,2359,3.6,4,65549,37.99,João Carlos Lombo da Silva Cordeiro,2017
+634,0,PTP,0,0,1,0,1.37,0,1.51,901,Cascais,Lisboa,0,3592,5.48,,False,2359,3.6,4,65549,37.99,Nuno Ricardo Rodrigues Duarte,2017
+635,0,B.E.,0,0,1,0,4.61,0,4.95,10533,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,João Fortunato da Cunha Semedo,2017
+636,0,PAN,0,0,1,0,2.29,0,2.46,5227,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,Paulo Alexandre Esteves Borges,2017
+637,2,PCP - PEV,0,0,1,2,9.85,0,10.58,22519,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,João Manuel Peixoto Ferreira,2017
+638,0,PCTP/MRPP,0,0,1,0,1.04,0,1.12,2378,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,Joana Sofia Pinho Pereira Miranda,2017
+639,0,PNR,0,0,1,0,0.52,0,0.56,1182,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,João Carlos Pereira Melo Patrocínio,2017
+640,4,PPD/PSD.CDS-PP.MPT,0,0,1,4,22.37,0,24.03,51156,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,Fernando Jorge Loureiro de Reboredo Seara,2017
+641,0,PPM/PPV/PND,0,0,1,0,1.23,0,1.32,2814,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,Nuno Jorge Lopes Correia da Silva,2017
+642,11,PS,1,1,1,11,50.91,1,54.69,116425,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,António Costa,2017
+643,0,PTP,0,0,1,0,0.29,0,0.31,656,Lisboa,Lisboa,0,9241,4.04,,False,6551,2.86,24,228682,45.06,Amândio Cerdeira Madaleno,2017
+644,0,B.E.,0,0,1,0,3.15,0,3.42,2594,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,Jorge Duarte Gonçalves da Costa,2017
+645,0,CDS-PP,0,0,1,0,3.07,0,3.32,2522,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,José Lino Fonseca Ramos,2017
+646,5,PCP - PEV,1,0,1,5,34.74,1,37.64,28572,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,Bernardino José Torrão Soares,2017
+647,0,PCTP/MRPP,0,0,1,0,2.9,0,3.14,2387,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,Luís Manuel da Silva Patrício,2017
+648,0,PNR,0,0,1,0,0.66,0,0.71,542,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,Leandro Eduardo Simões Pinto do Souto,2017
+649,2,PPD/PSD.MPT.PPM,0,0,1,2,16.0,0,17.34,13164,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,Fernando José da Costa,2017
+650,4,PS,0,0,1,4,31.24,0,33.85,25699,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,João Luís Costa Nunes,2017
+651,0,PTP,0,0,1,0,0.53,0,0.57,436,Loures,Lisboa,0,3408,4.14,,False,2929,3.56,10,82253,49.46,António Valdimiro Medonça da Conceição,2017
+652,0,B.E.,0,0,1,0,1.92,0,2.07,234,Lourinhã,Lisboa,0,551,4.52,,False,365,2.99,8,12200,53.24,Hélio Fernando da Costa Antunes Silva,2017
+653,0,PCP - PEV,0,0,1,0,3.55,0,3.84,433,Lourinhã,Lisboa,0,551,4.52,,False,365,2.99,8,12200,53.24,Mário Rui Martins do Souto,2017
+654,3,PPD/PSD.CDS-PP,0,0,1,3,41.31,0,44.67,5040,Lourinhã,Lisboa,0,551,4.52,,False,365,2.99,8,12200,53.24,Hernâni Luís Henriques Santos,2017
+655,4,PS,1,1,1,4,45.71,1,49.42,5577,Lourinhã,Lisboa,0,551,4.52,,False,365,2.99,8,12200,53.24,João Duarte Anastácio de Carvalho,2017
+656,0,CDS-PP.MPT.PPM,0,0,1,0,3.98,0,4.45,1194,Mafra,Lisboa,0,1985,6.62,,False,1155,3.85,11,29976,50.04,Paulo Frederico Emanuel Alves Fernandes Pardal Morcela,2017
+657,1,PCP - PEV,0,0,1,1,11.72,0,13.09,3514,Mafra,Lisboa,0,1985,6.62,,False,1155,3.85,11,29976,50.04,Rogério Monteiro da Costa,2017
+658,5,PPD/PSD,1,1,1,5,46.87,1,52.35,14049,Mafra,Lisboa,0,1985,6.62,,False,1155,3.85,11,29976,50.04,Helder António Guerra de Sousa Silva,2017
+659,3,PS,0,0,1,3,26.95,0,30.11,8079,Mafra,Lisboa,0,1985,6.62,,False,1155,3.85,11,29976,50.04,Elísio Costa Santos Summavielle,2017
+660,0,B.E.,0,0,1,0,5.0,0,5.52,2632,Odivelas,Lisboa,0,2583,4.9,,False,2403,4.56,4,52684,42.89,João Cláudio Candeias Fragoso Curvêlo,2017
+661,0,CDS-PP.MPT.PPM,0,0,1,0,4.14,0,4.57,2179,Odivelas,Lisboa,0,2583,4.9,,False,2403,4.56,4,52684,42.89,Miguel da Costa Pessoa Xara Brasil,2017
+662,3,PCP - PEV,0,0,1,3,21.25,0,23.47,11196,Odivelas,Lisboa,0,2583,4.9,,False,2403,4.56,4,52684,42.89,Maria Fernanda dos Santos Mateus,2017
+663,0,PCTP/MRPP,0,0,1,0,1.42,0,1.57,750,Odivelas,Lisboa,0,2583,4.9,,False,2403,4.56,4,52684,42.89,Ernesto Ferreira Moreira Reis,2017
+664,2,PPD/PSD,0,0,1,2,18.46,0,20.39,9726,Odivelas,Lisboa,0,2583,4.9,,False,2403,4.56,4,52684,42.89,Sandra Cristina de Sequeiros Pereira,2017
+665,6,PS,1,1,1,6,39.52,1,43.65,20821,Odivelas,Lisboa,0,2583,4.9,,False,2403,4.56,4,52684,42.89,Susana de Fátima Carvalho Amador,2017
+666,0,PTP,0,0,1,0,0.75,0,0.83,394,Odivelas,Lisboa,0,2583,4.9,,False,2403,4.56,4,52684,42.89,Bruno Filipe da Piedade Veiga,2017
+667,0,B.E.,0,0,1,0,3.7,0,4.06,2554,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Carlos Fernando de Sousa Gaivoto,2017
+668,0,CDS-PP,0,0,1,0,3.81,0,4.19,2631,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Paulo Pinto de Carvalho Freitas do Amaral,2017
+669,5,I,1,0,1,5,33.45,1,36.71,23071,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Paulo César Sanches Casinhas Da Silva Vistas,2017
+670,0,PAN,0,0,1,0,2.67,0,2.93,1841,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Paula Inês Alves de Sousa Real,2017
+671,1,PCP - PEV,0,0,1,1,9.15,0,10.04,6309,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Daniel dos Reis Branco,2017
+672,0,PCTP/MRPP,0,0,1,0,0.58,0,0.64,402,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Joaquim Manuel Ferreira,2017
+673,3,PPD/PSD,0,0,1,3,19.16,0,21.03,13215,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Francisco Maria Moita Flores,2017
+674,2,PS,0,0,1,2,18.32,0,20.11,12638,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Marcos Sá Rodrigues,2017
+675,0,PTP,0,0,1,0,0.27,0,0.3,186,Oeiras,Lisboa,0,3650,5.29,,False,2475,3.59,5,68972,46.71,Edna Miriam Alves Lopes,2017
+676,0,B.E.,0,0,1,0,4.52,0,4.97,5552,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,Luís Emídio Lopes Mateus Fazenda,2017
+677,0,PAN,0,0,1,0,1.93,0,2.12,2371,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,Nuno Miguel Peixoto Azevedo,2017
+678,1,PCP - PEV,0,0,1,1,12.5,0,13.75,15362,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,Pedro Manuel da Costa Ventura,2017
+679,0,PCTP/MRPP,0,0,1,0,2.03,0,2.24,2500,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,António dos Santos Laires,2017
+680,0,PND,0,0,1,0,1.03,0,1.14,1272,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,Nuno Maria de Figueiredo Cabral da Camara Pereira,2017
+681,0,PNR,0,0,1,0,0.61,0,0.67,748,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,José Lucena Pinto,2017
+682,2,PPD/PSD.CDS-PP.MPT,0,0,1,2,13.79,0,15.17,16945,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,Pedro Augusto Cunha Pinto,2017
+683,4,PS,1,0,1,4,26.83,1,29.52,32984,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,Basílio Adolfo de Mendonça Horta da Franca,2017
+684,4,VIII,0,0,1,4,25.42,0,27.97,31246,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,Marco Paulo Caldeira de Almeida,2017
+685,0,XII,0,0,1,0,2.23,0,2.46,2745,Sintra,Lisboa,0,6080,4.95,,False,5113,4.16,11,122918,40.42,António dos Santos Barbosa de Oliveira,2017
+686,1,PPD/PSD.CDS-PP,0,0,1,1,18.41,0,19.33,851,Sobral de Monte Agraço,Lisboa,0,133,2.88,,False,87,1.88,3,4622,57.48,Joaquim Maria Reis Catarino Biancard Cruz,2017
+687,1,PS,0,0,1,1,28.28,0,29.69,1307,Sobral de Monte Agraço,Lisboa,0,133,2.88,,False,87,1.88,3,4622,57.48,Pedro Miguel da Silva Coelho dos Santos,2017
+688,0,B.E.,0,0,1,0,1.97,0,2.12,670,Torres Vedras,Lisboa,0,1448,4.26,,False,932,2.74,13,34015,50.87,Rui Manuel Pinto Ibañez Matoso,2017
+689,0,CDS-PP.MPT.PPM,0,0,1,0,4.53,0,4.87,1541,Torres Vedras,Lisboa,0,1448,4.26,,False,932,2.74,13,34015,50.87,Luís Carlos de Deus Teixeira Marinho,2017
+690,1,PCP - PEV,0,0,1,1,8.57,0,9.21,2914,Torres Vedras,Lisboa,0,1448,4.26,,False,932,2.74,13,34015,50.87,Sérgio Rodrigo dos Santos Cipriano,2017
+691,0,PNR,0,0,1,0,0.48,0,0.51,162,Torres Vedras,Lisboa,0,1448,4.26,,False,932,2.74,13,34015,50.87,Hernâni Morato da Costa,2017
+692,2,PPD/PSD,0,0,1,2,19.72,0,21.2,6707,Torres Vedras,Lisboa,0,1448,4.26,,False,932,2.74,13,34015,50.87,Hugo Miguel Fernandes Martins,2017
+693,6,PS,1,1,1,6,54.26,1,58.34,18457,Torres Vedras,Lisboa,0,1448,4.26,,False,932,2.74,13,34015,50.87,Carlos Manuel Soares Miguel,2017
+694,0,V,0,0,1,0,3.48,0,3.74,1184,Torres Vedras,Lisboa,0,1448,4.26,,False,932,2.74,13,34015,50.87,Sérgio Paulo Ribeiro Jacinto,2017
+695,0,B.E.,0,0,1,0,5.74,0,6.31,2801,Vila Franca de Xira,Lisboa,0,2519,5.17,,False,1866,3.83,6,48769,44.23,Mário Luis Valada dos Santos Correia,2017
+696,0,CDS-PP,0,0,1,0,3.14,0,3.45,1530,Vila Franca de Xira,Lisboa,0,2519,5.17,,False,1866,3.83,6,48769,44.23,António Ramos,2017
+697,4,PCP - PEV,0,0,1,4,30.67,0,33.7,14957,Vila Franca de Xira,Lisboa,0,2519,5.17,,False,1866,3.83,6,48769,44.23,Nuno Miguel Marques Libório,2017
+698,2,PPD/PSD.MPT.PPM,0,0,1,2,13.62,0,14.96,6640,Vila Franca de Xira,Lisboa,0,2519,5.17,,False,1866,3.83,6,48769,44.23,João Manuel Correia Pires de Carvalho,2017
+699,5,PS,1,0,1,5,37.84,1,41.58,18456,Vila Franca de Xira,Lisboa,0,2519,5.17,,False,1866,3.83,6,48769,44.23,Alberto Simões Maia Mesquita,2017
+700,2,CDS-PP,0,0,1,2,25.99,0,27.09,1727,Calheta (R.A.M.),Madeira,0,55,0.83,,False,215,3.24,8,6645,52.95,Martinho Gouveia da Câmara,2017
+701,0,PCP - PEV,0,0,1,0,3.36,0,3.5,223,Calheta (R.A.M.),Madeira,0,55,0.83,,False,215,3.24,8,6645,52.95,José Ferdinando Correia da Costa,2017
+702,5,PPD/PSD,1,1,1,5,58.54,1,61.02,3890,Calheta (R.A.M.),Madeira,0,55,0.83,,False,215,3.24,8,6645,52.95,Carlos Manuel Figueira de Ornelas Teles,2017
+703,0,PS,0,0,1,0,8.05,0,8.39,535,Calheta (R.A.M.),Madeira,0,55,0.83,,False,215,3.24,8,6645,52.95,Maria Patrícia Mendes Sumares Nobrega,2017
+704,1,CDS-PP,0,0,1,1,16.42,0,17.49,2548,Câmara de Lobos,Madeira,0,234,1.51,,False,709,4.57,5,15515,47.8,José Roberto Ribeiro Rodrigues,2017
+705,1,MPT,0,0,1,1,14.17,0,15.08,2198,Câmara de Lobos,Madeira,0,234,1.51,,False,709,4.57,5,15515,47.8,João Isidoro Gonçalves,2017
+706,0,PAN,0,0,1,0,3.9,0,4.15,605,Câmara de Lobos,Madeira,0,234,1.51,,False,709,4.57,5,15515,47.8,Marco António Marques Fernandes,2017
+707,0,PCP - PEV,0,0,1,0,5.66,0,6.03,878,Câmara de Lobos,Madeira,0,234,1.51,,False,709,4.57,5,15515,47.8,Alexandre do Carmo da Luz Fernandes,2017
+708,4,PPD/PSD,1,1,1,4,39.87,1,42.45,6186,Câmara de Lobos,Madeira,0,234,1.51,,False,709,4.57,5,15515,47.8,Pedro Emanuel Abreu Coelho,2017
+709,1,PS-PTP-PND-BE,0,0,1,1,13.9,0,14.8,2157,Câmara de Lobos,Madeira,0,234,1.51,,False,709,4.57,5,15515,47.8,Amândio Unibaldo Figueira da Silva,2017
+710,1,CDS-PP,0,0,1,1,14.55,0,15.38,7828,Funchal,Madeira,0,731,1.36,,False,2193,4.08,10,53808,50.46,José Manuel de Sousa Rodrigues,2017
+711,1,PCP - PEV,0,0,1,1,8.37,0,8.85,4504,Funchal,Madeira,0,731,1.36,,False,2193,4.08,10,53808,50.46,Artur Alberto Fernandes Andrade,2017
+712,4,PPD/PSD,0,0,1,4,32.43,0,34.29,17450,Funchal,Madeira,0,731,1.36,,False,2193,4.08,10,53808,50.46,Bruno Miguel Camacho Pereira,2017
+713,5,PS-BE-PND-MPT-PTP-PAN,1,0,1,5,39.22,1,41.47,21102,Funchal,Madeira,0,731,1.36,,False,2193,4.08,10,53808,50.46,Paulo Alexandre Nascimento Cafôfo,2017
+714,0,B.E.,0,0,1,0,1.2,0,1.26,141,Machico,Madeira,0,169,1.44,,False,368,3.13,5,11756,55.89,Maria Josefina Viveiros Melim,2017
+715,0,CDS-PP,0,0,1,0,7.05,0,7.39,829,Machico,Madeira,0,169,1.44,,False,368,3.13,5,11756,55.89,José Bruno Gouveia Aveiro,2017
+716,0,PAN,0,0,1,0,2.09,0,2.19,246,Machico,Madeira,0,169,1.44,,False,368,3.13,5,11756,55.89,Carlos Avelino Ferreira Borges,2017
+717,0,PCP - PEV,0,0,1,0,1.43,0,1.5,168,Machico,Madeira,0,169,1.44,,False,368,3.13,5,11756,55.89,Marta Sofia Vieira Silva,2017
+718,3,PPD/PSD,0,0,1,3,33.4,0,34.99,3926,Machico,Madeira,0,169,1.44,,False,368,3.13,5,11756,55.89,António Luís Gouveia Olim,2017
+719,4,PS,1,1,1,4,47.9,1,50.19,5631,Machico,Madeira,0,169,1.44,,False,368,3.13,5,11756,55.89,Ricardo Miguel Nunes Franco,2017
+720,0,PTP,0,0,1,0,2.36,0,2.48,278,Machico,Madeira,0,169,1.44,,False,368,3.13,5,11756,55.89,António Rosa dos Santos Cartaxo,2017
+721,0,B.E.,0,0,1,0,1.8,0,1.86,89,Ponta do Sol,Madeira,0,40,0.81,,False,126,2.54,3,4956,50.61,Maria Ganança Gomes Garanito,2017
+722,0,CDS-PP,0,0,1,0,8.15,0,8.43,404,Ponta do Sol,Madeira,0,40,0.81,,False,126,2.54,3,4956,50.61,José Artur de Freitas Aguiar,2017
+723,0,I,0,0,1,0,6.88,0,7.12,341,Ponta do Sol,Madeira,0,40,0.81,,False,126,2.54,3,4956,50.61,António André Pestana,2017
+724,0,PCP - PEV,0,0,1,0,1.09,0,1.13,54,Ponta do Sol,Madeira,0,40,0.81,,False,126,2.54,3,4956,50.61,Urãnia Maria Pita Gaspar,2017
+725,4,PPD/PSD,1,1,1,4,55.97,1,57.91,2774,Ponta do Sol,Madeira,0,40,0.81,,False,126,2.54,3,4956,50.61,Rui David Pita Marques Luís,2017
+726,1,PS,0,0,1,1,20.58,0,21.29,1020,Ponta do Sol,Madeira,0,40,0.81,,False,126,2.54,3,4956,50.61,Celia Maria da Silva Pecegueiro,2017
+727,0,PTP,0,0,1,0,2.18,0,2.25,108,Ponta do Sol,Madeira,0,40,0.81,,False,126,2.54,3,4956,50.61,José Feliciano Setim Faria,2017
+728,0,CDS-PP,0,0,1,0,1.33,0,1.36,29,Porto Moniz,Madeira,0,15,0.69,,False,33,1.52,4,2173,62.93,Nuno Daniel Brazão Drummond,2017
+729,0,PCP - PEV,0,0,1,0,0.83,0,0.85,18,Porto Moniz,Madeira,0,15,0.69,,False,33,1.52,4,2173,62.93,Maria Rosa De Ponte Luz Alves,2017
+730,2,PPD/PSD,0,0,1,2,46.53,0,47.58,1011,Porto Moniz,Madeira,0,15,0.69,,False,33,1.52,4,2173,62.93,Edegar Valter Castro Correia,2017
+731,3,PS,1,1,1,3,49.1,1,50.21,1067,Porto Moniz,Madeira,0,15,0.69,,False,33,1.52,4,2173,62.93,João Emanuel Silva Câmara,2017
+732,0,CDS-PP,0,0,1,0,9.15,0,9.47,328,Porto Santo,Madeira,0,38,1.06,,False,82,2.29,1,3583,62.78,João Roberto Oliveira Rodrigues,2017
+733,0,III,0,0,1,0,3.66,0,3.78,131,Porto Santo,Madeira,0,38,1.06,,False,82,2.29,1,3583,62.78,Carlos Alberto Vila Verde Ruas,2017
+734,0,PCP - PEV,0,0,1,0,1.48,0,1.53,53,Porto Santo,Madeira,0,38,1.06,,False,82,2.29,1,3583,62.78,Marco Eulógio Gonçalves,2017
+735,2,PPD/PSD,0,0,1,2,36.56,0,37.83,1310,Porto Santo,Madeira,0,38,1.06,,False,82,2.29,1,3583,62.78,Nuno Filipe Melim Batista,2017
+736,3,PS,1,1,1,3,41.42,1,42.85,1484,Porto Santo,Madeira,0,38,1.06,,False,82,2.29,1,3583,62.78,Filipe Emanuel Menezes de Oliveira,2017
+737,0,PTP,0,0,1,0,4.38,0,4.53,157,Porto Santo,Madeira,0,38,1.06,,False,82,2.29,1,3583,62.78,Ana Paula Câmara Rodrigues Serra,2017
+738,0,B.E.,0,0,1,0,2.67,0,2.84,185,Ribeira Brava,Madeira,0,73,1.06,,False,318,4.6,4,6916,48.94,Carlos Alberto Pereira,2017
+739,1,CDS-PP,0,0,1,1,19.97,0,21.16,1381,Ribeira Brava,Madeira,0,73,1.06,,False,318,4.6,4,6916,48.94,Rafael João Figueira de Sousa,2017
+740,0,PCP - PEV,0,0,1,0,3.48,0,3.69,241,Ribeira Brava,Madeira,0,73,1.06,,False,318,4.6,4,6916,48.94,Marcelino Vitorino dos Santos Rodrigues,2017
+741,4,PPD/PSD,1,1,1,4,41.61,1,44.11,2878,Ribeira Brava,Madeira,0,73,1.06,,False,318,4.6,4,6916,48.94,Ricardo António Nascimento,2017
+742,2,PS,0,0,1,2,21.79,0,23.1,1507,Ribeira Brava,Madeira,0,73,1.06,,False,318,4.6,4,6916,48.94,Alano Aires Santos Gonçalves,2017
+743,0,PTP,0,0,1,0,4.81,0,5.1,333,Ribeira Brava,Madeira,0,73,1.06,,False,318,4.6,4,6916,48.94,Marco Nuno da Luz das Almas,2017
+744,5,II,1,1,1,5,64.42,1,67.18,13886,Santa Cruz,Madeira,0,251,1.16,,False,633,2.94,5,21554,57.49,Filipe Martiniano Martins de Sousa,2017
+745,0,PAN,0,0,1,0,3.74,0,3.9,806,Santa Cruz,Madeira,0,251,1.16,,False,633,2.94,5,21554,57.49,Rui Miguel Assunção Guerreiro Rodrigues,2017
+746,0,PCP - PEV,0,0,1,0,4.63,0,4.83,999,Santa Cruz,Madeira,0,251,1.16,,False,633,2.94,5,21554,57.49,Dírio Leão dos Ramos,2017
+747,2,PPD/PSD,0,0,1,2,23.1,0,24.09,4979,Santa Cruz,Madeira,0,251,1.16,,False,633,2.94,5,21554,57.49,António Jorge Gomes Baptista,2017
+748,2,PPD/PSD,0,0,1,2,33.1,0,34.29,1667,Santana,Madeira,0,46,0.91,,False,130,2.58,6,5037,59.15,Rui Moisés Fernandes de Ascensão,2017
+749,0,PS,0,0,1,0,7.78,0,8.06,392,Santana,Madeira,0,46,0.91,,False,130,2.58,6,5037,59.15,Odília Maria Vieira Mendonça,2017
+750,0,PTP,0,0,1,0,1.29,0,1.34,65,Santana,Madeira,0,46,0.91,,False,130,2.58,6,5037,59.15,Bruna Sofia Silva Andrade,2017
+751,0,B.E.,0,0,1,0,1.11,0,1.14,41,São Vicente,Madeira,0,26,0.71,,False,63,1.71,3,3679,56.86,Maria Conceição Pereira,2017
+752,4,I,1,1,1,4,64.69,1,66.3,2380,São Vicente,Madeira,0,26,0.71,,False,63,1.71,3,3679,56.86,José António Gonçalves Garçês,2017
+753,0,PCP - PEV,0,0,1,0,0.9,0,0.92,33,São Vicente,Madeira,0,26,0.71,,False,63,1.71,3,3679,56.86,António Carlos Batista Monteiro,2017
+754,1,PPD/PSD,0,0,1,1,30.88,0,31.64,1136,São Vicente,Madeira,0,26,0.71,,False,63,1.71,3,3679,56.86,Jorge Orlando César de Jesus Romeira,2017
+755,0,CDS-PP,0,0,1,0,5.07,0,5.34,108,Alter do Chão,Portalegre,0,56,2.63,,False,53,2.49,4,2132,69.2,João Maria Cordeiro Ferreira Roquette,2017
+756,1,PCP - PEV,0,0,1,1,13.65,0,14.38,291,Alter do Chão,Portalegre,0,56,2.63,,False,53,2.49,4,2132,69.2,Romão Buxo da Trindade,2017
+757,2,PPD/PSD,1,0,1,2,40.38,1,42.56,861,Alter do Chão,Portalegre,0,56,2.63,,False,53,2.49,4,2132,69.2,Joviano Martins Vitorino,2017
+758,2,PS,0,0,1,2,35.79,0,37.72,763,Alter do Chão,Portalegre,0,56,2.63,,False,53,2.49,4,2132,69.2,Francisco António Martins dos Reis,2017
+759,0,PCP - PEV,0,0,1,0,3.31,0,3.42,74,Arronches,Portalegre,0,44,1.97,,False,29,1.3,3,2239,81.39,António Jacinto Rebelo Pascoal,2017
+760,3,PPD/PSD,1,1,1,3,51.54,1,53.28,1154,Arronches,Portalegre,0,44,1.97,,False,29,1.3,3,2239,81.39,Fermelinda de Jesus Pombo Carvalho,2017
+761,2,PS,0,0,1,2,41.89,0,43.31,938,Arronches,Portalegre,0,44,1.97,,False,29,1.3,3,2239,81.39,Gil da Conceição Palmeiro Romão,2017
+762,3,PCP - PEV,1,1,1,3,51.04,1,53.81,1418,Avis,Portalegre,0,73,2.63,,False,70,2.52,6,2778,72.67,Nuno Paulo Augusto da Silva,2017
+763,0,PPD/PSD,0,0,1,0,13.43,0,14.16,373,Avis,Portalegre,0,73,2.63,,False,70,2.52,6,2778,72.67,Luis Filipe Galvão Lourenço de Brito Fouto,2017
+764,2,PS,0,0,1,2,30.38,0,32.03,844,Avis,Portalegre,0,73,2.63,,False,70,2.52,6,2778,72.67,Rui Manuel Varela Barrento Henriques,2017
+765,0,B.E.,0,0,1,0,0.72,0,0.74,39,Campo Maior,Portalegre,0,86,1.58,,False,58,1.07,3,5431,72.03,Joaquim José Garcia Gordo,2017
+766,1,MPT,0,0,1,1,26.33,0,27.05,1430,Campo Maior,Portalegre,0,86,1.58,,False,58,1.07,3,5431,72.03,João Manuel Borrega Burrica,2017
+767,0,PCP - PEV,0,0,1,0,5.89,0,6.05,320,Campo Maior,Portalegre,0,86,1.58,,False,58,1.07,3,5431,72.03,António João Borrega Gonçalves,2017
+768,0,PPD/PSD,0,0,1,0,1.64,0,1.68,89,Campo Maior,Portalegre,0,86,1.58,,False,58,1.07,3,5431,72.03,Arnaldo José Rodrigues Trindade,2017
+769,4,PS,1,1,1,4,62.77,1,64.48,3409,Campo Maior,Portalegre,0,86,1.58,,False,58,1.07,3,5431,72.03,Ricardo Miguel Furtado Pinheiro,2017
+770,0,PCP - PEV,0,0,1,0,4.4,0,4.6,97,Castelo de Vide,Portalegre,0,55,2.5,,False,42,1.91,4,2204,74.13,Amândio de Alegria Patacas,2017
+771,3,PPD/PSD,1,1,1,3,59.21,1,61.94,1305,Castelo de Vide,Portalegre,0,55,2.5,,False,42,1.91,4,2204,74.13,António Manuel das Neves Nobre Pita,2017
+772,2,PS,0,0,1,2,31.99,0,33.46,705,Castelo de Vide,Portalegre,0,55,2.5,,False,42,1.91,4,2204,74.13,Tiago Fragosa Malato,2017
+773,2,PCP - PEV,0,0,1,2,37.5,0,38.81,947,Crato,Portalegre,0,36,1.43,,False,49,1.94,4,2525,75.58,João Teresa Ribeiro,2017
+774,1,PPD/PSD,0,0,1,1,17.11,0,17.7,432,Crato,Portalegre,0,36,1.43,,False,49,1.94,4,2525,75.58,Ângelo Miguel Guerra Pires Fernandes,2017
+775,2,PS,1,0,1,2,42.02,1,43.48,1061,Crato,Portalegre,0,36,1.43,,False,49,1.94,4,2525,75.58,José Correia da Luz,2017
+776,1,CDS-PP,0,0,1,1,11.69,0,12.34,1124,Elvas,Portalegre,0,278,2.89,,False,227,2.36,7,9611,48.03,Tiago Patricio Monteiro Telo de Abreu,2017
+777,0,PCP - PEV,0,0,1,0,4.8,0,5.06,461,Elvas,Portalegre,0,278,2.89,,False,227,2.36,7,9611,48.03,José Severino Leonardo Batista,2017
+778,0,PPD/PSD.PPM,0,0,1,0,7.14,0,7.53,686,Elvas,Portalegre,0,278,2.89,,False,227,2.36,7,9611,48.03,António Carlos Sequeira da Teodora,2017
+779,6,PS,1,1,1,6,69.29,1,73.13,6659,Elvas,Portalegre,0,278,2.89,,False,227,2.36,7,9611,48.03,Nuno Miguel Fernandes Mocinha,2017
+780,0,CDS-PP,0,0,1,0,0.6,0,0.63,13,Fronteira,Portalegre,0,42,1.93,,False,57,2.63,3,2171,74.89,Paula Alexandra dos Santos Almeida,2017
+781,0,PCP - PEV,0,0,1,0,6.63,0,6.95,144,Fronteira,Portalegre,0,42,1.93,,False,57,2.63,3,2171,74.89,João Fernando Dias Serra,2017
+782,4,PPD/PSD,1,1,1,4,66.74,1,69.93,1449,Fronteira,Portalegre,0,42,1.93,,False,57,2.63,3,2171,74.89,Rogério David Sádio da Silva,2017
+783,1,PS,0,0,1,1,21.46,0,22.49,466,Fronteira,Portalegre,0,42,1.93,,False,57,2.63,3,2171,74.89,Mário Nina Nery Rodrigues,2017
+784,0,PCP - PEV,0,0,1,0,11.82,0,12.39,310,Gavião,Portalegre,0,61,2.33,,False,59,2.25,4,2622,69.51,Manuel Vicente Mascate Delgado,2017
+785,2,PPD/PSD,0,0,1,2,32.72,0,34.29,858,Gavião,Portalegre,0,61,2.33,,False,59,2.25,4,2622,69.51,Paulo José Estrela Vitoriano de Matos,2017
+786,3,PS,1,1,1,3,50.88,1,53.32,1334,Gavião,Portalegre,0,61,2.33,,False,59,2.25,4,2622,69.51,José Fernando da Silva Pio,2017
+787,0,CDS-PP,0,0,1,0,1.07,0,1.13,24,Marvão,Portalegre,0,41,1.84,,False,62,2.78,4,2233,72.69,Nuno Miguel Serra Pereira,2017
+788,0,PCP - PEV,0,0,1,0,2.69,0,2.82,60,Marvão,Portalegre,0,41,1.84,,False,62,2.78,4,2233,72.69,Susana Glória da Piedade Teixeira,2017
+789,4,PPD/PSD,1,1,1,4,61.58,1,64.55,1375,Marvão,Portalegre,0,41,1.84,,False,62,2.78,4,2233,72.69,Victor Manuel Martins Frutuoso,2017
+790,1,PS,0,0,1,1,30.05,0,31.5,671,Marvão,Portalegre,0,41,1.84,,False,62,2.78,4,2233,72.69,Carlos Manuel Batista Castelinho,2017
+791,3,PCP - PEV,1,1,1,3,46.85,1,48.77,952,Monforte,Portalegre,0,57,2.81,,False,23,1.13,4,2032,72.11,Gonçalo Nuno Ribeiro Brandão Amanso Lagem,2017
+792,0,PPD/PSD.CDS-PP,0,0,1,0,8.91,0,9.27,181,Monforte,Portalegre,0,57,2.81,,False,23,1.13,4,2032,72.11,António José Julião da Silva Vieira,2017
+793,2,PS,0,0,1,2,40.31,0,41.96,819,Monforte,Portalegre,0,57,2.81,,False,23,1.13,4,2032,72.11,Miguel Alexandre Ferreira Rasquinho,2017
+794,2,PCP - PEV,0,0,1,2,31.58,0,33.48,1434,Nisa,Portalegre,0,132,2.91,,False,126,2.77,7,4541,67.62,Vitor Manuel Tavares Martins,2017
+795,1,PPD/PSD.CDS-PP,0,0,1,1,25.24,0,26.76,1146,Nisa,Portalegre,0,132,2.91,,False,126,2.77,7,4541,67.62,José Dinis Moura Semedo,2017
+796,2,PS,1,0,1,2,34.24,1,36.31,1555,Nisa,Portalegre,0,132,2.91,,False,126,2.77,7,4541,67.62,Maria Idalina Alves Trindade,2017
+797,0,XV,0,0,1,0,3.26,0,3.46,148,Nisa,Portalegre,0,132,2.91,,False,126,2.77,7,4541,67.62,Manuel António Rosmaninho Bichardo,2017
+798,0,B.E.,0,0,1,0,3.73,0,3.89,332,Ponte de Sor,Portalegre,0,205,2.3,,False,174,1.95,5,8903,59.78,Maria Antónia Gonçalves da Silva Frio,2017
+799,0,CDS-PP,0,0,1,0,3.71,0,3.87,330,Ponte de Sor,Portalegre,0,205,2.3,,False,174,1.95,5,8903,59.78,Rui Adegas Coelho Lobo Varela,2017
+800,2,PCP - PEV,0,0,1,2,21.18,0,22.13,1886,Ponte de Sor,Portalegre,0,205,2.3,,False,174,1.95,5,8903,59.78,Vítor Manuel Feliciano Morgado,2017
+801,0,PPD/PSD,0,0,1,0,8.92,0,9.31,794,Ponte de Sor,Portalegre,0,205,2.3,,False,174,1.95,5,8903,59.78,João Nascimento Canas Guerra,2017
+802,5,PS,1,1,1,5,58.21,1,60.79,5182,Ponte de Sor,Portalegre,0,205,2.3,,False,174,1.95,5,8903,59.78,Hugo Luis Pereira Hilário,2017
+803,0,B.E.,0,0,1,0,0.85,0,0.9,111,Portalegre,Portalegre,0,352,2.71,,False,258,1.99,7,12991,59.95,José Manuel Semedo Basso,2017
+804,1,PCP - PEV,0,0,1,1,17.51,0,18.37,2275,Portalegre,Portalegre,0,352,2.71,,False,258,1.99,7,12991,59.95,Luís Manuel Madeira Pargana,2017
+805,0,PPD/PSD.CDS-PP,0,0,1,0,10.6,0,11.12,1377,Portalegre,Portalegre,0,352,2.71,,False,258,1.99,7,12991,59.95,António Jaime Correia Azedo,2017
+806,2,PS,0,0,1,2,23.89,0,25.07,3104,Portalegre,Portalegre,0,352,2.71,,False,258,1.99,7,12991,59.95,José Manuel Reboredo Pinto Leite,2017
+807,4,X,1,1,1,4,42.44,1,44.54,5514,Portalegre,Portalegre,0,352,2.71,,False,258,1.99,7,12991,59.95,Maria Adelaide Franco Lebreiro de Aguiar Marques Teixeira,2017
+808,1,PCP - PEV,0,0,1,1,20.69,0,21.82,637,Sousel,Portalegre,0,81,2.63,,False,78,2.53,4,3079,70.47,José Bernardino Rodrigues Pascoal,2017
+809,3,PPD/PSD,1,1,1,3,46.28,1,48.8,1425,Sousel,Portalegre,0,81,2.63,,False,78,2.53,4,3079,70.47,Armando Jorge Mendonça Varela,2017
+810,1,PS,0,0,1,1,27.87,0,29.38,858,Sousel,Portalegre,0,81,2.63,,False,78,2.53,4,3079,70.47,António Dâmaso Alface Carrilho,2017
+811,0,B.E.,0,0,1,0,1.75,0,1.82,575,Amarante,Porto,0,713,2.17,,False,550,1.68,26,32806,60.49,Maria Elisa de Carvalho Antunes Magalhães,2017
+812,0,PCP - PEV,0,0,1,0,2.07,0,2.15,679,Amarante,Porto,0,713,2.17,,False,550,1.68,26,32806,60.49,Maria de Lurdes Monteiro Ribeiro,2017
+813,4,PPD/PSD.CDS-PP,1,0,1,4,39.09,1,40.66,12824,Amarante,Porto,0,713,2.17,,False,550,1.68,26,32806,60.49,José Luís Gaspar Jorge,2017
+814,4,PS,0,0,1,4,37.55,0,39.05,12319,Amarante,Porto,0,713,2.17,,False,550,1.68,26,32806,60.49,António José Cerqueira Dinis de Mesquita,2017
+815,1,XX,0,0,1,1,15.69,0,16.31,5146,Amarante,Porto,0,713,2.17,,False,550,1.68,26,32806,60.49,Pedro Manuel Barros Pereira,2017
+816,0,CDS-PP,0,0,1,0,4.15,0,4.34,498,Baião,Porto,0,258,2.15,,False,274,2.28,14,12005,65.4,José Carlos Póvoas,2017
+817,0,PCP - PEV,0,0,1,0,1.59,0,1.66,191,Baião,Porto,0,258,2.15,,False,274,2.28,14,12005,65.4,Adérito Manuel Vieira,2017
+818,1,PPD/PSD,0,0,1,1,18.42,0,19.27,2211,Baião,Porto,0,258,2.15,,False,274,2.28,14,12005,65.4,Luís Miguel Amaral Sousa,2017
+819,6,PS,1,1,1,6,71.41,1,74.72,8573,Baião,Porto,0,258,2.15,,False,274,2.28,14,12005,65.4,José Luís Pereira Carneiro,2017
+820,3,PS,0,0,1,3,25.93,0,26.98,8721,Felgueiras,Porto,0,738,2.19,,False,577,1.72,20,33639,65.16,Eduardo Alberto Leite Bragança da Cunha,2017
+821,0,B.E.,0,0,1,0,3.58,0,4.24,2605,Gondomar,Porto,0,3555,4.88,,False,7899,10.85,7,72824,50.5,Ana Paula Canotilho de Seixas,2017
+822,1,PCP - PEV,0,0,1,1,12.15,0,14.42,8850,Gondomar,Porto,0,3555,4.88,,False,7899,10.85,7,72824,50.5,Joaquim dos Santos Barbosa,2017
+823,3,PPD/PSD.CDS-PP,0,0,1,3,22.13,0,26.26,16114,Gondomar,Porto,0,3555,4.88,,False,7899,10.85,7,72824,50.5,Maria João de Jesus Araújo Ramos das Neves Marinho,2017
+824,7,PS,1,1,1,7,46.41,1,55.08,33801,Gondomar,Porto,0,3555,4.88,,False,7899,10.85,7,72824,50.5,Marco André dos Santos Martins Lopes,2017
+825,0,PCP - PEV,0,0,1,0,2.69,0,2.77,751,Lousada,Porto,0,426,1.53,,False,365,1.31,15,27916,69.8,António Carlos Valente Machado Vieira,2017
+826,3,PPD/PSD.CDS-PP,0,0,1,3,44.82,0,46.13,12512,Lousada,Porto,0,426,1.53,,False,365,1.31,15,27916,69.8,Leonel Domingos Reis Vieira da Silva,2017
+827,4,PS,1,1,1,4,49.66,1,51.1,13862,Lousada,Porto,0,426,1.53,,False,365,1.31,15,27916,69.8,Pedro Daniel Machado Gomes,2017
+828,0,B.E.,0,0,1,0,5.98,0,6.68,3412,Maia,Porto,0,3762,6.59,,False,2272,3.98,10,57086,50.93,Rosa Maria Teixeira da Cruz,2017
+829,1,PCP - PEV,0,0,1,1,7.73,0,8.64,4413,Maia,Porto,0,3762,6.59,,False,2272,3.98,10,57086,50.93,Ana Virgínia da Costa Pereira,2017
+830,7,PPD/PSD.CDS-PP,1,1,1,7,50.15,1,56.08,28629,Maia,Porto,0,3762,6.59,,False,2272,3.98,10,57086,50.93,António Gonçalves Bragança Fernandes,2017
+831,3,PS,0,0,1,3,25.57,0,28.59,14598,Maia,Porto,0,3762,6.59,,False,2272,3.98,10,57086,50.93,Ricardo Manuel da Silva Monteiro Bexiga,2017
+832,0,II,0,0,1,0,8.64,0,9.07,2441,Marco de Canaveses,Porto,0,610,2.16,,False,714,2.53,16,28249,60.32,Artur Elísio de Braga de Melo e Castro,2017
+833,2,III,0,0,1,2,22.2,0,23.29,6272,Marco de Canaveses,Porto,0,610,2.16,,False,714,2.53,16,28249,60.32,Avelino Ferreira Torres,2017
+834,0,PCP - PEV,0,0,1,0,3.26,0,3.42,922,Marco de Canaveses,Porto,0,610,2.16,,False,714,2.53,16,28249,60.32,António Pereira Gomes Varela,2017
+835,4,PPD/PSD,1,1,1,4,40.82,1,42.83,11532,Marco de Canaveses,Porto,0,610,2.16,,False,714,2.53,16,28249,60.32,Manuel Maria Moreira,2017
+836,1,PS,0,0,1,1,20.38,0,21.39,5758,Marco de Canaveses,Porto,0,610,2.16,,False,714,2.53,16,28249,60.32,Lino Augusto Tavares Dias,2017
+837,0,B.E.,0,0,1,0,3.56,0,3.89,2623,Matosinhos,Porto,0,3584,4.86,,False,2725,3.69,4,73754,49.09,Fernando José Leite de Oliveira Queiroz,2017
+838,0,CDS-PP,0,0,1,0,1.91,0,2.09,1409,Matosinhos,Porto,0,3584,4.86,,False,2725,3.69,4,73754,49.09,Manuel Maio Gonçalves da Silva,2017
+839,6,I,1,1,1,6,43.41,1,47.47,32014,Matosinhos,Porto,0,3584,4.86,,False,2725,3.69,4,73754,49.09,Guilherme Manuel Lopes Pinto,2017
+840,1,PCP - PEV,0,0,1,1,7.32,0,8.0,5396,Matosinhos,Porto,0,3584,4.86,,False,2725,3.69,4,73754,49.09,José Pedro da Silva Rodrigues,2017
+841,1,PPD/PSD,0,0,1,1,9.31,0,10.18,6869,Matosinhos,Porto,0,3584,4.86,,False,2725,3.69,4,73754,49.09,Pedro José da Vinha Rodrigues Costa,2017
+842,3,PS,0,0,1,3,25.26,0,27.62,18629,Matosinhos,Porto,0,3584,4.86,,False,2725,3.69,4,73754,49.09,António Manuel Gomes Santos Parada,2017
+843,0,PTP,0,0,1,0,0.68,0,0.75,505,Matosinhos,Porto,0,3584,4.86,,False,2725,3.69,4,73754,49.09,Orlando Manuel Leite Cruz,2017
+844,0,B.E.,0,0,1,0,1.75,0,1.87,816,Paredes,Porto,0,1410,3.03,,False,1440,3.09,18,46589,64.42,Ilídio Paulo Ferreira dos Santos,2017
+845,0,CDS-PP,0,0,1,0,3.69,0,3.93,1721,Paredes,Porto,0,1410,3.03,,False,1440,3.09,18,46589,64.42,António Macedo de Lemos,2017
+846,0,PCP - PEV,0,0,1,0,6.4,0,6.82,2983,Paredes,Porto,0,1410,3.03,,False,1440,3.09,18,46589,64.42,Cristiano Manuel Soares Ribeiro,2017
+847,5,PPD/PSD,1,1,1,5,41.1,1,43.77,19146,Paredes,Porto,0,1410,3.03,,False,1440,3.09,18,46589,64.42,Celso Manuel Gomes Ferreira,2017
+848,4,PS,0,0,1,4,40.94,0,43.61,19073,Paredes,Porto,0,1410,3.03,,False,1440,3.09,18,46589,64.42,José Alexandre Silva Almeida,2017
+849,0,CDS-PP,0,0,1,0,1.42,0,1.48,437,Paços de Ferreira,Porto,0,794,2.58,,False,440,1.43,12,30764,65.43,Henrique Martins Pacheco,2017
+850,0,PCP - PEV,0,0,1,0,2.65,0,2.76,814,Paços de Ferreira,Porto,0,794,2.58,,False,440,1.43,12,30764,65.43,Nuno Miguel dos Santos Neto,2017
+851,3,PPD/PSD,0,0,1,3,44.43,0,46.29,13669,Paços de Ferreira,Porto,0,794,2.58,,False,440,1.43,12,30764,65.43,Pedro Alexandre Oliveira Cardoso Pinto,2017
+852,4,PS,1,1,1,4,46.93,1,48.89,14437,Paços de Ferreira,Porto,0,794,2.58,,False,440,1.43,12,30764,65.43,Humberto Fernando Leão Pacheco de Brito,2017
+853,0,PTP,0,0,1,0,0.56,0,0.59,173,Paços de Ferreira,Porto,0,794,2.58,,False,440,1.43,12,30764,65.43,Floriano de Sousa e Silva,2017
+854,0,B.E.,0,0,1,0,1.4,0,1.45,616,Penafiel,Porto,0,868,1.97,,False,801,1.82,28,44021,70.5,João Paulo Correira,2017
+855,0,PCP - PEV,0,0,1,0,3.17,0,3.3,1396,Penafiel,Porto,0,868,1.97,,False,801,1.82,28,44021,70.5,David Soares Teixeira,2017
+856,5,PPD/PSD.CDS-PP,1,1,1,5,50.51,1,52.5,22235,Penafiel,Porto,0,868,1.97,,False,801,1.82,28,44021,70.5,Antonino Aurélio Vieira de Sousa,2017
+857,4,PS,0,0,1,4,41.13,0,42.75,18105,Penafiel,Porto,0,868,1.97,,False,801,1.82,28,44021,70.5,André Manuel Loureiro Correia Ferreira,2017
+858,0,B.E.,0,0,1,0,3.6,0,3.77,4166,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,José Borges de Araújo de Moura Soeiro,2017
+859,0,I,0,0,1,0,1.08,0,1.13,1255,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,Nuno Magalhães Silva Cardoso,2017
+860,6,II,1,0,1,6,39.25,1,41.06,45411,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,Rui de Carvalho de Araújo Moreira,2017
+861,1,PCP - PEV,0,0,1,1,7.38,0,7.72,8539,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,Pedro Manuel Rodrigues Lopes de Carvalho,2017
+862,0,PCTP/MRPP,0,0,1,0,0.3,0,0.31,343,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,José Carlos da Silva Santos,2017
+863,3,PPD/PSD.PPM.MPT,0,0,1,3,21.06,0,22.03,24366,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,Luís Filipe Menezes Lopes,2017
+864,3,PS,0,0,1,3,22.68,0,23.72,26237,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,Manuel Francisco Pizarro de Sampaio e Castro,2017
+865,0,PTP,0,0,1,0,0.24,0,0.25,279,Porto,Porto,0,2922,2.53,,False,2180,1.88,7,115698,52.6,José Manuel da Costa Pereira,2017
+866,0,PCTP/MRPP,0,0,1,0,1.17,0,1.25,344,Póvoa de Varzim,Porto,0,1260,4.27,,False,665,2.26,7,29485,49.11,António Pedro de Basto e Vasconcelos Ribeiro da Silva,2017
+867,5,PPD/PSD,1,1,1,5,46.01,1,49.23,13567,Póvoa de Varzim,Porto,0,1260,4.27,,False,665,2.26,7,29485,49.11,Aires Henrique do Couto Pereira,2017
+868,3,PS,0,0,1,3,26.81,0,28.68,7904,Póvoa de Varzim,Porto,0,1260,4.27,,False,665,2.26,7,29485,49.11,Elvira Maria Vieira Gonçalves Ferreira,2017
+869,0,CDS-PP,0,0,1,0,3.53,0,3.77,1409,Santo Tirso,Porto,0,1571,3.94,,False,905,2.27,14,39867,62.05,José Eduardo Correia da Graça Martins,2017
+870,0,II,0,0,1,0,6.4,0,6.83,2552,Santo Tirso,Porto,0,1571,3.94,,False,905,2.27,14,39867,62.05,Henrique da Cruz Pinheiro Machado,2017
+871,0,PCP - PEV,0,0,1,0,6.16,0,6.57,2455,Santo Tirso,Porto,0,1571,3.94,,False,905,2.27,14,39867,62.05,Maria Augusta Castro Costa Carvalho Silveira,2017
+872,4,PPD/PSD.PPM,0,0,1,4,32.74,0,34.9,13051,Santo Tirso,Porto,0,1571,3.94,,False,905,2.27,14,39867,62.05,Alírio António de Sousa Canceles,2017
+873,5,PS,1,1,1,5,44.96,1,47.94,17924,Santo Tirso,Porto,0,1571,3.94,,False,905,2.27,14,39867,62.05,Joaquim Barbosa Ferreira Couto,2017
+874,0,B.E.,0,0,1,0,2.1,0,2.23,470,Trofa,Porto,0,775,3.46,,False,522,2.33,5,22397,66.97,Gualter Miguel Maia Oliveira da Fonseca Costa,2017
+875,0,PCP - PEV,0,0,1,0,3.61,0,3.83,809,Trofa,Porto,0,775,3.46,,False,522,2.33,5,22397,66.97,Maria da Conceição da Silva Farpa Silva,2017
+876,4,PPD/PSD.CDS-PP,1,1,1,4,45.06,1,47.83,10092,Trofa,Porto,0,775,3.46,,False,522,2.33,5,22397,66.97,Sérgio Humberto Pereira da Silva,2017
+877,3,PS,0,0,1,3,41.49,0,44.04,9292,Trofa,Porto,0,775,3.46,,False,522,2.33,5,22397,66.97,Joana Fernanda Ferreira Lima,2017
+878,0,V,0,0,1,0,1.95,0,2.07,437,Trofa,Porto,0,775,3.46,,False,522,2.33,5,22397,66.97,Joaquim Martinho de Sousa Azevedo,2017
+879,0,B.E.,0,0,1,0,4.36,0,4.8,1797,Valongo,Porto,0,2180,5.29,,False,1586,3.85,4,41186,50.88,Eliseu Filipe Pinto Lopes,2017
+880,0,CDS-PP,0,0,1,0,2.56,0,2.82,1056,Valongo,Porto,0,2180,5.29,,False,1586,3.85,4,41186,50.88,Alexandre Manuel da Silva Teixeira,2017
+881,1,PCP - PEV,0,0,1,1,8.32,0,9.16,3426,Valongo,Porto,0,2180,5.29,,False,1586,3.85,4,41186,50.88,Adriano Soares Ribeiro,2017
+882,4,PPD/PSD.PPM,0,0,1,4,36.74,0,40.44,15132,Valongo,Porto,0,2180,5.29,,False,1586,3.85,4,41186,50.88,João Paulo Rodrigues Baltazar,2017
+883,4,PS,1,0,1,4,38.87,1,42.78,16009,Valongo,Porto,0,2180,5.29,,False,1586,3.85,4,41186,50.88,José Manuel Pereira Ribeiro,2017
+884,0,B.E.,0,0,1,0,3.06,0,3.35,4266,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,António Eduardo Pinto Silvestre dos Santos Pereira,2017
+885,0,PCP - PEV,0,0,1,0,6.37,0,6.98,8876,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,Jorge Sarabando Moreira,2017
+886,0,PCTP/MRPP,0,0,1,0,1.5,0,1.64,2087,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,Cristina Alves Valério Máximo,2017
+887,3,PPD/PSD.CDS-PP,0,0,1,3,19.97,0,21.87,27813,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,Carlos Abreu Amorim,2017
+888,5,PS,1,0,1,5,38.15,1,41.8,53146,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,Eduardo Vítor de Almeida Rodrigues,2017
+889,0,PTP,0,0,1,0,0.84,0,0.92,1173,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,Manuel José de Jesus Almeida,2017
+890,3,V,0,0,1,3,19.74,0,21.62,27494,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,José Guilherme Aguiar,2017
+891,0,XVI,0,0,1,0,1.65,0,1.81,2303,Vila Nova de Gaia,Porto,0,7210,5.18,,False,4932,3.54,15,139300,53.36,Manuel Augusto Vieira Machado,2017
+892,0,B.E.,0,0,1,0,2.52,0,2.7,983,Vila do Conde,Porto,0,1670,4.28,,False,858,2.2,21,38994,56.17,Armando Herculano Lopes Ferreira,2017
+893,0,CDS-PP,0,0,1,0,3.14,0,3.35,1223,Vila do Conde,Porto,0,1670,4.28,,False,858,2.2,21,38994,56.17,Artur Sousa do Bonfim,2017
+894,0,PCP - PEV,0,0,1,0,5.15,0,5.51,2009,Vila do Conde,Porto,0,1670,4.28,,False,858,2.2,21,38994,56.17,Fernando Manuel Martins dos Reis,2017
+895,4,PPD/PSD.PPM,0,0,1,4,36.01,0,38.51,14042,Vila do Conde,Porto,0,1670,4.28,,False,858,2.2,21,38994,56.17,José Miguel Dias Paiva e Costa,2017
+896,5,PS,1,1,1,5,46.7,1,49.93,18209,Vila do Conde,Porto,0,1670,4.28,,False,858,2.2,21,38994,56.17,Maria Elisa de Carvalho Ferraz,2017
+897,0,B.E.,0,0,1,0,6.51,0,7.1,1185,Abrantes,Santarém,0,887,4.87,,False,638,3.5,13,18210,51.92,Manuel António Rodrigues Lopes,2017
+898,0,CDS-PP,0,0,1,0,5.98,0,6.53,1089,Abrantes,Santarém,0,887,4.87,,False,638,3.5,13,18210,51.92,Luís Miguel Baptista de Assunção da Silva Reis,2017
+899,1,PCP - PEV,0,0,1,1,13.18,0,14.38,2400,Abrantes,Santarém,0,887,4.87,,False,638,3.5,13,18210,51.92,Avelino Manuel Conceição Manana,2017
+900,1,PPD/PSD,0,0,1,1,18.61,0,20.31,3389,Abrantes,Santarém,0,887,4.87,,False,638,3.5,13,18210,51.92,Elza Rufina Afonso de Jesus Vitório,2017
+901,5,PS,1,1,1,5,47.35,1,51.68,8622,Abrantes,Santarém,0,887,4.87,,False,638,3.5,13,18210,51.92,Maria do Céu Oliveira Antunes Albuquerque,2017
+902,1,II,0,0,1,1,14.8,0,15.8,1102,Alcanena,Santarém,0,227,3.05,,False,243,3.26,7,7445,58.12,Artur Simões Rodrigues,2017
+903,0,PCP - PEV,0,0,1,0,6.9,0,7.37,514,Alcanena,Santarém,0,227,3.05,,False,243,3.26,7,7445,58.12,Carlos Alberto Garrudo Oliveira,2017
+904,2,PPD/PSD.CDS-PP,0,0,1,2,29.25,0,31.23,2178,Alcanena,Santarém,0,227,3.05,,False,243,3.26,7,7445,58.12,Susana Maria Martins Epifânio Frazão Aparício,2017
+905,4,PS,1,1,1,4,42.73,1,45.61,3181,Alcanena,Santarém,0,227,3.05,,False,243,3.26,7,7445,58.12,Fernanda Maria Pereira Asseiceira,2017
+906,1,PCP - PEV,0,0,1,1,11.51,0,12.12,1162,Almeirim,Santarém,0,291,2.88,,False,221,2.19,4,10096,50.31,Sónia Isabel Campos da Silva Colaço,2017
+907,1,PPD/PSD.CDS-PP.MPT,0,0,1,1,11.51,0,12.12,1162,Almeirim,Santarém,0,291,2.88,,False,221,2.19,4,10096,50.31,Manuel Sebastião Duarte Lopes,2017
+908,5,PS,1,1,1,5,58.9,1,62.05,5947,Almeirim,Santarém,0,291,2.88,,False,221,2.19,4,10096,50.31,Pedro Miguel César Ribeiro,2017
+909,0,V,0,0,1,0,4.99,0,5.26,504,Almeirim,Santarém,0,291,2.88,,False,221,2.19,4,10096,50.31,Rosa Maria Cardoso do Nascimento,2017
+910,0,VI,0,0,1,0,8.01,0,8.44,809,Almeirim,Santarém,0,291,2.88,,False,221,2.19,4,10096,50.31,Nuno Miguel da Silva Pinhão Dâmaso Fazenda,2017
+911,3,PCP - PEV,1,1,1,3,53.61,1,57.16,2139,Alpiarça,Santarém,0,156,3.91,,False,92,2.31,1,3990,61.2,Mário Fernando Atracado Pereira,2017
+912,1,PPD/PSD.MPT,0,0,1,1,18.92,0,20.18,755,Alpiarça,Santarém,0,156,3.91,,False,92,2.31,1,3990,61.2,Francisco José Saturnino Cunha,2017
+913,1,PS,0,0,1,1,21.25,0,22.66,848,Alpiarça,Santarém,0,156,3.91,,False,92,2.31,1,3990,61.2,Pedro Miguel Santiago Brás Gaspar,2017
+914,5,PCP - PEV,1,1,1,5,51.26,1,56.4,4818,Benavente,Santarém,0,494,5.26,,False,362,3.85,4,9399,40.93,Carlos António Pinto Coutinho,2017
+915,1,PPD/PSD,0,0,1,1,17.24,0,18.96,1620,Benavente,Santarém,0,494,5.26,,False,362,3.85,4,9399,40.93,José António Salvador Rodrigues da Avó,2017
+916,1,PS,0,0,1,1,19.1,0,21.01,1795,Benavente,Santarém,0,494,5.26,,False,362,3.85,4,9399,40.93,Raimundo José Mateus Rocha,2017
+917,0,B.E.,0,0,1,0,2.76,0,2.94,313,Cartaxo,Santarém,0,381,3.36,,False,337,2.97,6,11347,54.33,João Manuel Rebelo Alves,2017
+918,0,CDS-PP,0,0,1,0,1.04,0,1.11,118,Cartaxo,Santarém,0,381,3.36,,False,337,2.97,6,11347,54.33,Manuel Afonso Dias,2017
+919,2,I,0,0,1,2,24.86,0,26.54,2821,Cartaxo,Santarém,0,381,3.36,,False,337,2.97,6,11347,54.33,José Anselmo Dias Rodrigues,2017
+920,0,PCP - PEV,0,0,1,0,9.09,0,9.71,1032,Cartaxo,Santarém,0,381,3.36,,False,337,2.97,6,11347,54.33,Mário Júlio Roque dos Reis,2017
+921,2,PPD/PSD,0,0,1,2,19.49,0,20.81,2212,Cartaxo,Santarém,0,381,3.36,,False,337,2.97,6,11347,54.33,Vasco Manuel Figueiredo Florentino,2017
+922,3,PS,1,0,1,3,36.42,1,38.88,4133,Cartaxo,Santarém,0,381,3.36,,False,337,2.97,6,11347,54.33,Pedro Miguel Magalhães Ribeiro,2017
+923,0,B.E.,0,0,1,0,3.42,0,3.62,184,Chamusca,Santarém,0,175,3.26,,False,124,2.31,5,5375,61.36,José das Neves Filipe,2017
+924,2,PCP - PEV,0,0,1,2,32.02,0,33.9,1721,Chamusca,Santarém,0,175,3.26,,False,124,2.31,5,5375,61.36,Francisco Manuel Petisca Matias,2017
+925,1,PPD/PSD.CDS-PP,0,0,1,1,25.6,0,27.11,1376,Chamusca,Santarém,0,175,3.26,,False,124,2.31,5,5375,61.36,Aurelina Maria Garrido Conde Andrade Rufino,2017
+926,2,PS,1,0,1,2,33.4,1,35.36,1795,Chamusca,Santarém,0,175,3.26,,False,124,2.31,5,5375,61.36,Paulo Jorge Mira Lucas Cegonho Queimado,2017
+927,0,CDS-PP.MPT,0,0,1,0,8.86,0,9.25,210,Constância,Santarém,0,56,2.36,,False,44,1.86,3,2370,67.89,Adelino Lourenço Gomes,2017
+928,3,PCP - PEV,1,1,1,3,45.57,1,47.58,1080,Constância,Santarém,0,56,2.36,,False,44,1.86,3,2370,67.89,Júlia Maria Gonçalves Lopes de Amorim,2017
+929,0,PPD/PSD,0,0,1,0,3.38,0,3.52,80,Constância,Santarém,0,56,2.36,,False,44,1.86,3,2370,67.89,José Maria Horta Silvares Alves da Luz,2017
+930,2,PS,0,0,1,2,37.97,0,39.65,900,Constância,Santarém,0,56,2.36,,False,44,1.86,3,2370,67.89,António Luís Fernandes Mendes,2017
+931,0,B.E.,0,0,1,0,1.49,0,1.56,149,Coruche,Santarém,0,251,2.52,,False,178,1.79,6,9968,56.48,Rafael José Ferreira Gomes,2017
+932,0,CDS-PP,0,0,1,0,2.88,0,3.01,287,Coruche,Santarém,0,251,2.52,,False,178,1.79,6,9968,56.48,Vasques Freitas Gomes,2017
+933,2,PCP - PEV,0,0,1,2,25.8,0,26.96,2572,Coruche,Santarém,0,251,2.52,,False,178,1.79,6,9968,56.48,José Marcelino,2017
+934,1,PPD/PSD,0,0,1,1,11.75,0,12.28,1171,Coruche,Santarém,0,251,2.52,,False,178,1.79,6,9968,56.48,Liliana Sofia Neves Ferreira dos Santos Pinto,2017
+935,4,PS,1,1,1,4,53.77,1,56.19,5360,Coruche,Santarém,0,251,2.52,,False,178,1.79,6,9968,56.48,Francisco Silvestre de Oliveira,2017
+936,1,B.E.,0,0,1,1,10.88,0,11.97,931,Entroncamento,Santarém,0,435,5.08,,False,341,3.99,2,8555,49.56,Carlos Manuel Godinho Matias,2017
+937,0,CDS-PP,0,0,1,0,6.1,0,6.71,522,Entroncamento,Santarém,0,435,5.08,,False,341,3.99,2,8555,49.56,Paulo Jorge Santos Bica,2017
+938,1,PCP - PEV,0,0,1,1,11.32,0,12.44,968,Entroncamento,Santarém,0,435,5.08,,False,341,3.99,2,8555,49.56,José David da Silva Ribeiro,2017
+939,1,PPD/PSD,0,0,1,1,20.67,0,22.73,1768,Entroncamento,Santarém,0,435,5.08,,False,341,3.99,2,8555,49.56,Maria Isilda Videira Nogueira da Silva Aguincha,2017
+940,4,PS,1,1,1,4,41.96,1,46.15,3590,Entroncamento,Santarém,0,435,5.08,,False,341,3.99,2,8555,49.56,Jorge Manuel Alves de Faria,2017
+941,0,CDS-PP,0,0,1,0,2.36,0,2.51,125,Ferreira do Zêzere,Santarém,0,148,2.79,,False,165,3.11,7,5302,66.83,Jorge Ponce de Leão de Castro,2017
+942,0,PCP - PEV,0,0,1,0,1.81,0,1.92,96,Ferreira do Zêzere,Santarém,0,148,2.79,,False,165,3.11,7,5302,66.83,António Alves Matos,2017
+943,3,PPD/PSD,1,1,1,3,47.66,1,50.65,2527,Ferreira do Zêzere,Santarém,0,148,2.79,,False,165,3.11,7,5302,66.83,Jacinto Manuel Lopes Cristas Flores,2017
+944,2,PS,0,0,1,2,42.27,0,44.92,2241,Ferreira do Zêzere,Santarém,0,148,2.79,,False,165,3.11,7,5302,66.83,António Vicente Martins,2017
+945,0,PCP - PEV,0,0,1,0,7.44,0,7.79,252,Golegã,Santarém,0,68,2.01,,False,87,2.57,3,3389,65.7,José Luís Duarte Vieira,2017
+946,1,PPD/PSD.CDS-PP,0,0,1,1,15.05,0,15.77,510,Golegã,Santarém,0,68,2.01,,False,87,2.57,3,3389,65.7,José António Godinho Lopes,2017
+947,2,PS,1,0,1,2,38.48,1,40.32,1304,Golegã,Santarém,0,68,2.01,,False,87,2.57,3,3389,65.7,Rui Manuel Lince Singeis Medinas Duarte,2017
+948,2,XII,0,0,1,2,34.46,0,36.12,1168,Golegã,Santarém,0,68,2.01,,False,87,2.57,3,3389,65.7,Nair Cristina dos Santos Gonçalves Henriques da Luz,2017
+949,0,CDS-PP,0,0,1,0,2.2,0,2.33,110,Mação,Santarém,0,126,2.52,,False,160,3.19,6,5009,72.73,Tiago Manuel Marques Dias e Sá,2017
+950,0,PCP - PEV,0,0,1,0,3.65,0,3.87,183,Mação,Santarém,0,126,2.52,,False,160,3.19,6,5009,72.73,Maria Arminda de Jesus Gonçalves dos Santos,2017
+951,3,PPD/PSD,1,1,1,3,52.75,1,55.94,2642,Mação,Santarém,0,126,2.52,,False,160,3.19,6,5009,72.73,Vasco António Mendonça Sequeira Estrela,2017
+952,2,PS,0,0,1,2,35.7,0,37.86,1788,Mação,Santarém,0,126,2.52,,False,160,3.19,6,5009,72.73,Nuno Fernando Bento Neto,2017
+953,1,IV,0,0,1,1,11.39,0,12.41,2680,Ourém,Santarém,0,1111,4.72,,False,831,3.53,13,23529,54.3,Vítor Manuel de Jesus Frazão,2017
+954,0,PCP - PEV,0,0,1,0,3.15,0,3.43,741,Ourém,Santarém,0,1111,4.72,,False,831,3.53,13,23529,54.3,Alexandre Lopes de Castro,2017
+955,3,PPD/PSD.CDS-PP,0,0,1,3,38.35,0,41.8,9023,Ourém,Santarém,0,1111,4.72,,False,831,3.53,13,23529,54.3,Luis Miguel Marques Grossinho Coutinho Albuquerque,2017
+956,3,PS,1,0,1,3,38.86,1,42.35,9143,Ourém,Santarém,0,1111,4.72,,False,831,3.53,13,23529,54.3,Paulo Alexandre Homem de Oliveira Fonseca,2017
+957,0,B.E.,0,0,1,0,2.35,0,2.52,249,Rio Maior,Santarém,0,384,3.62,,False,347,3.27,10,10609,58.2,Rosa Maria Gomes Pina da Costa,2017
+958,1,PCP - PEV,0,0,1,1,15.23,0,16.36,1616,Rio Maior,Santarém,0,384,3.62,,False,347,3.27,10,10609,58.2,Augusto Manuel Gonçalves Figueiredo,2017
+959,4,PPD/PSD.CDS-PP,1,1,1,4,48.92,1,52.54,5190,Rio Maior,Santarém,0,384,3.62,,False,347,3.27,10,10609,58.2,Isaura Maria Elias Crisóstomo Bernardino Morais,2017
+960,2,PS,0,0,1,2,19.62,0,21.08,2082,Rio Maior,Santarém,0,384,3.62,,False,347,3.27,10,10609,58.2,Carlos Alberto da Nazaré Almeida,2017
+961,0,V,0,0,1,0,6.98,0,7.5,741,Rio Maior,Santarém,0,384,3.62,,False,347,3.27,10,10609,58.2,João Teodoro Miguel,2017
+962,2,B.E.,0,0,1,2,26.97,0,29.09,2329,Salvaterra de Magos,Santarém,0,364,4.22,,False,264,3.06,4,8634,45.7,Manuel António Marques das Neves,2017
+963,1,PCP - PEV,0,0,1,1,11.33,0,12.22,978,Salvaterra de Magos,Santarém,0,364,4.22,,False,264,3.06,4,8634,45.7,Orlando Manuel Ferreira Garcia,2017
+964,1,PPD/PSD.CDS-PP,0,0,1,1,10.92,0,11.78,943,Salvaterra de Magos,Santarém,0,364,4.22,,False,264,3.06,4,8634,45.7,Francisco Miguel Naia da Cunha Pereira,2017
+965,3,PS,1,0,1,3,32.75,1,35.32,2828,Salvaterra de Magos,Santarém,0,364,4.22,,False,264,3.06,4,8634,45.7,Hélder Manuel Ramalho de Sousa Esménio,2017
+966,0,X,0,0,1,0,10.75,0,11.59,928,Salvaterra de Magos,Santarém,0,364,4.22,,False,264,3.06,4,8634,45.7,Rui Manuel Silva Moreira,2017
+967,0,B.E.,0,0,1,0,2.87,0,3.11,797,Santarém,Santarém,0,1323,4.76,,False,821,2.96,18,27774,51.99,Bruno Miguel Gois Carreira,2017
+968,0,CDS-PP,0,0,1,0,2.58,0,2.8,717,Santarém,Santarém,0,1323,4.76,,False,821,2.96,18,27774,51.99,Aires Manuel Gaspar Duarte Lopes,2017
+969,0,II,0,0,1,0,3.91,0,4.24,1086,Santarém,Santarém,0,1323,4.76,,False,821,2.96,18,27774,51.99,Francisco António Madeira Mendes,2017
+970,1,PCP - PEV,0,0,1,1,10.34,0,11.21,2872,Santarém,Santarém,0,1323,4.76,,False,821,2.96,18,27774,51.99,Francisco Miguel Baudoin Madeira Lopes,2017
+971,4,PPD/PSD,1,0,1,4,40.31,1,43.68,11196,Santarém,Santarém,0,1323,4.76,,False,821,2.96,18,27774,51.99,Ricardo Gonçalves Ribeiro Gonçalves,2017
+972,4,PS,0,0,1,4,32.27,0,34.97,8962,Santarém,Santarém,0,1323,4.76,,False,821,2.96,18,27774,51.99,Idália Maria Marques Salvador Serrão,2017
+973,1,III,0,0,1,1,19.19,0,20.14,497,Sardoal,Santarém,0,67,2.59,,False,55,2.12,4,2590,73.94,Rui Miguel Vermelho Serras,2017
+974,0,PCP - PEV,0,0,1,0,2.55,0,2.67,66,Sardoal,Santarém,0,67,2.59,,False,55,2.12,4,2590,73.94,Joaquim Jorge Ferreira,2017
+975,3,PPD/PSD,1,1,1,3,49.58,1,52.03,1284,Sardoal,Santarém,0,67,2.59,,False,55,2.12,4,2590,73.94,António Miguel Cabedal Borges,2017
+976,1,PS,0,0,1,1,23.98,0,25.16,621,Sardoal,Santarém,0,67,2.59,,False,55,2.12,4,2590,73.94,Fernando Cascalheira Vasco,2017
+977,0,B.E.,0,0,1,0,2.94,0,3.23,585,Tomar,Santarém,0,940,4.73,,False,834,4.19,11,19886,53.3,Rui Coutinho Rodrigues Marques,2017
+978,0,CDS-PP,0,0,1,0,2.82,0,3.09,560,Tomar,Santarém,0,940,4.73,,False,834,4.19,11,19886,53.3,Ivo Manuel Querido dos Santos,2017
+979,1,I,0,0,1,1,15.56,0,17.08,3094,Tomar,Santarém,0,940,4.73,,False,834,4.19,11,19886,53.3,Pedro Alexandre Ramos Marques,2017
+980,0,MPT,0,0,1,0,6.88,0,7.56,1369,Tomar,Santarém,0,940,4.73,,False,834,4.19,11,19886,53.3,Flávio Daniel Gameiro Nunes,2017
+981,1,PCP - PEV,0,0,1,1,9.19,0,10.09,1827,Tomar,Santarém,0,940,4.73,,False,834,4.19,11,19886,53.3,Bruno Vítor Domingos Graça,2017
+982,2,PPD/PSD,0,0,1,2,26.14,0,28.7,5198,Tomar,Santarém,0,940,4.73,,False,834,4.19,11,19886,53.3,Carlos Manuel de Oliveira Carrão,2017
+983,3,PS,1,0,1,3,27.55,1,30.25,5479,Tomar,Santarém,0,940,4.73,,False,834,4.19,11,19886,53.3,Anabela Gaspar de Freitas,2017
+984,1,B.E.,0,0,1,1,9.92,0,10.88,1697,Torres Novas,Santarém,0,870,5.09,,False,635,3.71,10,17102,52.55,Helena Maria Moura Pinto,2017
+985,0,CDS-PP,0,0,1,0,3.43,0,3.76,587,Torres Novas,Santarém,0,870,5.09,,False,635,3.71,10,17102,52.55,Susana Maria Domingues Batista,2017
+986,1,PCP - PEV,0,0,1,1,16.03,0,17.58,2742,Torres Novas,Santarém,0,870,5.09,,False,635,3.71,10,17102,52.55,Carlos Manuel Lopes Tomé,2017
+987,1,PPD/PSD,0,0,1,1,17.14,0,18.79,2931,Torres Novas,Santarém,0,870,5.09,,False,635,3.71,10,17102,52.55,Henrique Ferreira Reis,2017
+988,4,PS,1,1,1,4,44.67,1,48.98,7640,Torres Novas,Santarém,0,870,5.09,,False,635,3.71,10,17102,52.55,Pedro Paulo Ramos Ferreira,2017
+989,0,CDS-PP,0,0,1,0,4.16,0,4.47,153,Vila Nova da Barquinha,Santarém,0,152,4.13,,False,110,2.99,4,3681,56.81,Ana Paula Soares Pinto,2017
+990,0,PCP - PEV,0,0,1,0,13.94,0,15.0,513,Vila Nova da Barquinha,Santarém,0,152,4.13,,False,110,2.99,4,3681,56.81,Maria José Brito Alves Martinho,2017
+991,1,PPD/PSD,0,0,1,1,17.63,0,18.98,649,Vila Nova da Barquinha,Santarém,0,152,4.13,,False,110,2.99,4,3681,56.81,Luis Manuel dos Santos Valente,2017
+992,4,PS,1,1,1,4,57.16,1,61.54,2104,Vila Nova da Barquinha,Santarém,0,152,4.13,,False,110,2.99,4,3681,56.81,Fernando Manuel dos Santos Freire,2017
+993,1,CDS-PP,0,0,1,1,13.61,0,14.81,975,Alcochete,Setúbal,0,352,4.91,,False,231,3.22,3,7166,51.78,Vasco André Marques Pinto,2017
+994,5,PCP - PEV,1,1,1,5,53.45,1,58.18,3830,Alcochete,Setúbal,0,352,4.91,,False,231,3.22,3,7166,51.78,Luís Miguel Carraça Franco,2017
+995,0,PPD/PSD,0,0,1,0,8.02,0,8.73,575,Alcochete,Setúbal,0,352,4.91,,False,231,3.22,3,7166,51.78,Maria do Rosário Rodrigues da Costa Prates,2017
+996,1,PS,0,0,1,1,16.79,0,18.27,1203,Alcochete,Setúbal,0,352,4.91,,False,231,3.22,3,7166,51.78,Maria Teresa Filipe de Moraes Sarmento,2017
+997,0,B.E.,0,0,1,0,2.96,0,3.11,200,Alcácer do Sal,Setúbal,0,184,2.72,,False,160,2.36,4,6767,59.67,Ana Maria Caixeirinho Penas,2017
+998,0,CDS-PP,0,0,1,0,2.32,0,2.44,157,Alcácer do Sal,Setúbal,0,184,2.72,,False,160,2.36,4,6767,59.67,Maria Teresa Monteiro Pires de Carvalho de Noronha e Castro,2017
+999,4,PCP - PEV,1,1,1,4,53.55,1,56.42,3624,Alcácer do Sal,Setúbal,0,184,2.72,,False,160,2.36,4,6767,59.67,Vitor Manuel Chaves de Caro Proença,2017
+1000,0,PPD/PSD,0,0,1,0,3.28,0,3.46,222,Alcácer do Sal,Setúbal,0,184,2.72,,False,160,2.36,4,6767,59.67,Pedro Alexandre Guerreiro Goucha,2017
+1001,3,PS,0,0,1,3,32.81,0,34.56,2220,Alcácer do Sal,Setúbal,0,184,2.72,,False,160,2.36,4,6767,59.67,José Manuel Torres Couto,2017
+1002,0,B.E.,0,0,1,0,5.36,0,5.88,3250,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,Joana Rodrigues Mortágua,2017
+1003,0,CDS-PP,0,0,1,0,2.48,0,2.72,1502,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,Fernando Jorge Sousa da Pena,2017
+1004,0,PAN,0,0,1,0,2.32,0,2.55,1408,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,Sofia Alexandra Loureiro da Silva,2017
+1005,6,PCP - PEV,1,1,1,6,38.73,1,42.44,23466,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,Joaquim Estevão Miguel Judas,2017
+1006,0,PCTP/MRPP,0,0,1,0,2.2,0,2.41,1332,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,Domingos António Caeiro Bulhão,2017
+1007,2,PPD/PSD,0,0,1,2,13.93,0,15.26,8440,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,António José Pinho Gaspar Neves,2017
+1008,3,PS,0,0,1,3,25.72,0,28.19,15586,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,Joaquim António da Silva Gomes Barbosa,2017
+1009,0,PTP,0,0,1,0,0.51,0,0.56,310,Almada,Setúbal,0,2806,4.63,,False,2493,4.11,5,60593,40.53,Rute Mafalda Oliveira Zorrinho Henriques,2017
+1010,5,PCP - PEV,1,1,1,5,44.89,1,48.73,14380,Barreiro,Setúbal,0,1335,4.17,,False,1192,3.72,4,32034,45.38,Carlos Humberto Palácios Pinheiro de Carvalho,2017
+1011,0,PCTP/MRPP,0,0,1,0,3.21,0,3.48,1028,Barreiro,Setúbal,0,1335,4.17,,False,1192,3.72,4,32034,45.38,Joaquim Carlos Salgueiro Martins,2017
+1012,1,PPD/PSD,0,0,1,1,8.89,0,9.65,2848,Barreiro,Setúbal,0,1335,4.17,,False,1192,3.72,4,32034,45.38,Bruno Jorge Viegas Vitorino,2017
+1013,3,PS,0,0,1,3,27.71,0,30.08,8877,Barreiro,Setúbal,0,1335,4.17,,False,1192,3.72,4,32034,45.38,Luís Filipe Pimenta Ferreira,2017
+1014,0,B.E.,0,0,1,0,1.08,0,1.12,88,Grândola,Setúbal,0,155,1.91,,False,111,1.37,4,8120,65.13,Manuel Rodrigues Graça Dias,2017
+1015,3,PCP - PEV,1,0,1,3,34.56,1,35.73,2806,Grândola,Setúbal,0,155,1.91,,False,111,1.37,4,8120,65.13,António Figueira Mendes,2017
+1016,2,PS,0,0,1,2,23.62,0,24.42,1918,Grândola,Setúbal,0,155,1.91,,False,111,1.37,4,8120,65.13,Ricardo Alexandre Manguito Campaniço,2017
+1017,1,XIII,0,0,1,1,18.79,0,19.43,1526,Grândola,Setúbal,0,155,1.91,,False,111,1.37,4,8120,65.13,António Francisco Palhinhas Candeias,2017
+1018,1,XVIII,0,0,1,1,18.67,0,19.3,1516,Grândola,Setúbal,0,155,1.91,,False,111,1.37,4,8120,65.13,Aníbal Manuel Guerreiro Cordeiro,2017
+1019,1,B.E.,0,0,1,1,8.43,0,9.08,2022,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,Joaquim Inácio Raminhos Cabaça,2017
+1020,0,CDS-PP,0,0,1,0,1.96,0,2.11,470,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,João Manuel Sacoto Pereira Neves,2017
+1021,0,PAN,0,0,1,0,2.37,0,2.55,568,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,José Carlos Rodrigues de Gouveia,2017
+1022,5,PCP - PEV,1,1,1,5,45.54,1,49.02,10918,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,Rui Manuel Marques Garcia,2017
+1023,0,PCTP/MRPP,0,0,1,0,2.75,0,2.96,660,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,Leonel Eusébio Coelho,2017
+1024,0,PPD/PSD,0,0,1,0,6.19,0,6.66,1483,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,João Paulo de Sousa e Silva Gaspar,2017
+1025,3,PS,0,0,1,3,24.8,0,26.7,5947,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,Manuel Galvoeira Borges,2017
+1026,0,PTP,0,0,1,0,0.86,0,0.92,206,Moita,Setúbal,0,913,3.81,,False,789,3.29,4,23976,40.35,José Manuel da Costa,2017
+1027,0,B.E.,0,0,1,0,6.56,0,7.15,1085,Montijo,Setúbal,0,820,4.96,,False,523,3.16,5,16528,40.0,Tiago João Lopes Pinheiro,2017
+1028,0,CDS-PP,0,0,1,0,2.9,0,3.15,479,Montijo,Setúbal,0,820,4.96,,False,523,3.16,5,16528,40.0,Artur Manuel Tormenta de Oliveira,2017
+1029,2,PCP - PEV,0,0,1,2,26.02,0,28.32,4300,Montijo,Setúbal,0,820,4.96,,False,523,3.16,5,16528,40.0,Carlos Jorge Antunes de Almeida,2017
+1030,0,PCTP/MRPP,0,0,1,0,2.58,0,2.81,427,Montijo,Setúbal,0,820,4.96,,False,523,3.16,5,16528,40.0,Maria Manuela Ruivo Bailão Parreira,2017
+1031,2,PPD/PSD,0,0,1,2,25.22,0,27.45,4168,Montijo,Setúbal,0,820,4.96,,False,523,3.16,5,16528,40.0,Maria das Mercês Gomes Borges da Silva Soares,2017
+1032,3,PS,1,0,1,3,28.59,1,31.12,4726,Montijo,Setúbal,0,820,4.96,,False,523,3.16,5,16528,40.0,Nuno Miguel Caramujo Ribeiro Canta,2017
+1033,0,B.E.,0,0,1,0,5.28,0,5.83,1047,Palmela,Setúbal,0,1021,5.15,,False,844,4.26,4,19818,38.51,António Simões de Carvalho Oliveira Santos,2017
+1034,5,PCP - PEV,1,1,1,5,46.7,1,51.55,9255,Palmela,Setúbal,0,1021,5.15,,False,844,4.26,4,19818,38.51,Álvaro Manuel Balseiro Amaro,2017
+1035,1,PPD/PSD.CDS-PP,0,0,1,1,11.36,0,12.54,2252,Palmela,Setúbal,0,1021,5.15,,False,844,4.26,4,19818,38.51,Paulo Jorge Simões Ribeiro,2017
+1036,3,PS,0,0,1,3,25.28,0,27.91,5010,Palmela,Setúbal,0,1021,5.15,,False,844,4.26,4,19818,38.51,Maria da Natividade Charneca Coelho,2017
+1037,0,PTP,0,0,1,0,1.96,0,2.17,389,Palmela,Setúbal,0,1021,5.15,,False,844,4.26,4,19818,38.51,Victor Manuel Oliveira Fernandes,2017
+1038,0,B.E.,0,0,1,0,3.65,0,3.95,475,Santiago do Cacém,Setúbal,0,580,4.45,,False,417,3.2,8,13023,51.35,João Manuel Martins Madeira,2017
+1039,0,CDS-PP,0,0,1,0,2.12,0,2.3,276,Santiago do Cacém,Setúbal,0,580,4.45,,False,417,3.2,8,13023,51.35,Mateus d'Assunção Guerreiro,2017
+1040,4,PCP - PEV,1,1,1,4,45.53,1,49.31,5930,Santiago do Cacém,Setúbal,0,580,4.45,,False,417,3.2,8,13023,51.35,Álvaro dos Santos Beijinha,2017
+1041,1,PPD/PSD,0,0,1,1,14.43,0,15.62,1879,Santiago do Cacém,Setúbal,0,580,4.45,,False,417,3.2,8,13023,51.35,Paulo Jorge Candeias Parreira Gonçalves Gamito,2017
+1042,2,PS,0,0,1,2,26.61,0,28.82,3466,Santiago do Cacém,Setúbal,0,580,4.45,,False,417,3.2,8,13023,51.35,Nuno Manuel Cunha Gomes de Oliveira,2017
+1043,1,B.E.,0,0,1,1,6.59,0,7.31,3439,Seixal,Setúbal,0,2816,5.4,,False,2303,4.41,4,52185,38.86,Luís Manuel Rendeiro Cordeiro,2017
+1044,0,CDS-PP,0,0,1,0,2.76,0,3.06,1438,Seixal,Setúbal,0,2816,5.4,,False,2303,4.41,4,52185,38.86,João Carlos Filipe de Noronha Marques de Oliveira,2017
+1045,6,PCP - PEV,1,1,1,6,43.42,1,48.14,22658,Seixal,Setúbal,0,2816,5.4,,False,2303,4.41,4,52185,38.86,Joaquim Cesário Cardador dos Santos,2017
+1046,0,PCTP/MRPP,0,0,1,0,1.37,0,1.52,717,Seixal,Setúbal,0,2816,5.4,,False,2303,4.41,4,52185,38.86,Carlos Manuel Duarte da Costa Gomes,2017
+1047,1,PPD/PSD,0,0,1,1,10.75,0,11.92,5611,Seixal,Setúbal,0,2816,5.4,,False,2303,4.41,4,52185,38.86,Paulo Edson Carvalho Borges da Cunha,2017
+1048,3,PS,0,0,1,3,23.78,0,26.37,12409,Seixal,Setúbal,0,2816,5.4,,False,2303,4.41,4,52185,38.86,Samuel Pedro da Silva Cruz,2017
+1049,0,PTP,0,0,1,0,1.52,0,1.69,794,Seixal,Setúbal,0,2816,5.4,,False,2303,4.41,4,52185,38.86,Helena Sofia Santos Silva Henriques,2017
+1050,0,B.E.,0,0,1,0,5.51,0,6.08,860,Sesimbra,Setúbal,0,767,4.91,,False,709,4.54,3,15620,37.77,Adelino Manuel Guimarães Fortunato,2017
+1051,0,I,0,0,1,0,8.64,0,9.54,1349,Sesimbra,Setúbal,0,767,4.91,,False,709,4.54,3,15620,37.77,Carlos Manuel Correia da cunha Sargedas,2017
+1052,0,PAN,0,0,1,0,2.91,0,3.21,454,Sesimbra,Setúbal,0,767,4.91,,False,709,4.54,3,15620,37.77,António da Silva Henriques,2017
+1053,4,PCP - PEV,1,1,1,4,41.84,1,46.21,6536,Sesimbra,Setúbal,0,767,4.91,,False,709,4.54,3,15620,37.77,Augusto Manuel Neto Carapinha Pólvora,2017
+1054,1,PPD/PSD.CDS-PP,0,0,1,1,9.75,0,10.77,1523,Sesimbra,Setúbal,0,767,4.91,,False,709,4.54,3,15620,37.77,Francisco José Pereira Luís,2017
+1055,2,PS,0,0,1,2,21.91,0,24.19,3422,Sesimbra,Setúbal,0,767,4.91,,False,709,4.54,3,15620,37.77,Américo Gegaloto,2017
+1056,0,PCTP/MRPP,0,0,1,0,2.46,0,2.67,986,Setúbal,Setúbal,0,1859,4.64,,False,1288,3.21,5,40066,38.73,Duarte Nuno Vidal Jesuíno,2017
+1057,1,PPD/PSD.CDS-PP,0,0,1,1,12.85,0,13.95,5150,Setúbal,Setúbal,0,1859,4.64,,False,1288,3.21,5,40066,38.73,Luís Filipe Alexandre Rodrigues,2017
+1058,4,PS,0,0,1,4,26.41,0,28.67,10583,Setúbal,Setúbal,0,1859,4.64,,False,1288,3.21,5,40066,38.73,João Manuel Teixeira de Assunção Ribeiro,2017
+1059,0,CDS-PP,0,0,1,0,1.38,0,1.43,94,Sines,Setúbal,0,128,1.88,,False,118,1.73,2,6816,56.64,Américo Manuel da Silva Lourenço,2017
+1060,1,PCP - PEV,0,0,1,1,15.9,0,16.5,1084,Sines,Setúbal,0,128,1.88,,False,118,1.73,2,6816,56.64,Hélder Alexandre Gil Guerreiro,2017
+1061,0,PPD/PSD,0,0,1,0,4.08,0,4.23,278,Sines,Setúbal,0,128,1.88,,False,118,1.73,2,6816,56.64,João Miguel da Silva Garganta Custódio,2017
+1062,4,PS,1,1,1,4,51.97,1,53.91,3542,Sines,Setúbal,0,128,1.88,,False,118,1.73,2,6816,56.64,Nuno José Gonçalves Mascarenhas,2017
+1063,2,XX,0,0,1,2,23.06,0,23.93,1572,Sines,Setúbal,0,128,1.88,,False,118,1.73,2,6816,56.64,Marisa Filipa Santos Rodrigues dos Santos,2017
+1064,1,CDS-PP,0,0,1,1,11.44,0,12.16,1687,Arcos de Valdevez,Viana do Castelo,0,615,4.17,,False,260,1.76,36,14747,50.89,Fernando João Fernandes Fonseca,2017
+1065,0,PCP - PEV,0,0,1,0,3.24,0,3.45,478,Arcos de Valdevez,Viana do Castelo,0,615,4.17,,False,260,1.76,36,14747,50.89,Emília Fernanda Teixeira de Vasconcelos,2017
+1066,4,PPD/PSD,1,1,1,4,53.14,1,56.5,7837,Arcos de Valdevez,Viana do Castelo,0,615,4.17,,False,260,1.76,36,14747,50.89,João Manuel do Amaral Esteves,2017
+1067,2,PS,0,0,1,2,26.24,0,27.9,3870,Arcos de Valdevez,Viana do Castelo,0,615,4.17,,False,260,1.76,36,14747,50.89,Fernando Pereira Cabodeira,2017
+1068,0,PCP - PEV,0,0,1,0,4.04,0,4.18,442,Caminha,Viana do Castelo,0,195,1.78,,False,180,1.64,14,10948,64.18,Joaquim Celestino Simões Ribeiro,2017
+1069,3,PPD/PSD,0,0,1,3,45.03,0,46.63,4930,Caminha,Viana do Castelo,0,195,1.78,,False,180,1.64,14,10948,64.18,Flamiano Gonçalves Martins,2017
+1070,4,PS,1,1,1,4,47.51,1,49.19,5201,Caminha,Viana do Castelo,0,195,1.78,,False,180,1.64,14,10948,64.18,Luís Miguel da Silva Mendonça Alves,2017
+1071,0,PCP - PEV,0,0,1,0,2.49,0,2.66,129,Melgaço,Viana do Castelo,0,231,4.46,,False,89,1.72,13,5175,43.25,Horácio dos Santos Lima,2017
+1072,2,PPD/PSD,0,0,1,2,28.25,0,30.11,1462,Melgaço,Viana do Castelo,0,231,4.46,,False,89,1.72,13,5175,43.25,Manuel Fernandes Ramos dos Santos,2017
+1073,5,PS,1,1,1,5,63.07,1,67.23,3264,Melgaço,Viana do Castelo,0,231,4.46,,False,89,1.72,13,5175,43.25,Manuel Batista Calçada Pombal,2017
+1074,1,CDS-PP,0,0,1,1,17.77,0,18.65,2221,Monção,Viana do Castelo,0,384,3.07,,False,203,1.62,24,12496,59.2,Abel Lima Baptista,2017
+1075,0,PCP - PEV,0,0,1,0,1.65,0,1.73,206,Monção,Viana do Castelo,0,384,3.07,,False,203,1.62,24,12496,59.2,Filipe Alexandre Martins Vintém,2017
+1076,3,PPD/PSD,0,0,1,3,37.92,0,39.79,4739,Monção,Viana do Castelo,0,384,3.07,,False,203,1.62,24,12496,59.2,António José Fernandes Barbosa,2017
+1077,3,PS,1,0,1,3,37.96,1,39.83,4743,Monção,Viana do Castelo,0,384,3.07,,False,203,1.62,24,12496,59.2,Augusto Henrique de Oliveira Domingues,2017
+1078,0,CDS-PP,0,0,1,0,2.07,0,2.15,131,Paredes de Coura,Viana do Castelo,0,135,2.13,,False,103,1.63,16,6328,65.56,João Manuel Dias Carvalho,2017
+1079,0,PCP - PEV,0,0,1,0,4.3,0,4.47,272,Paredes de Coura,Viana do Castelo,0,135,2.13,,False,103,1.63,16,6328,65.56,Celina Araujo de Sousa,2017
+1080,2,PPD/PSD,0,0,1,2,36.47,0,37.9,2308,Paredes de Coura,Viana do Castelo,0,135,2.13,,False,103,1.63,16,6328,65.56,Décio Brandão Guerreiro,2017
+1081,3,PS,1,1,1,3,53.4,1,55.48,3379,Paredes de Coura,Viana do Castelo,0,135,2.13,,False,103,1.63,16,6328,65.56,Vítor Paulo Gomes Pereira,2017
+1082,1,I,0,0,1,1,16.62,0,17.31,1438,Ponte da Barca,Viana do Castelo,0,173,2.0,,False,171,1.98,17,8653,59.69,Augusto Manuel dos Reis Marinho,2017
+1083,0,PCP - PEV,0,0,1,0,1.53,0,1.59,132,Ponte da Barca,Viana do Castelo,0,173,2.0,,False,171,1.98,17,8653,59.69,Afonso Manuel Graçoeiro Gonçalves,2017
+1084,2,PPD/PSD,0,0,1,2,24.82,0,25.85,2148,Ponte da Barca,Viana do Castelo,0,173,2.0,,False,171,1.98,17,8653,59.69,Armindo José Sousa da Silva,2017
+1085,4,PS,1,1,1,4,53.06,1,55.25,4591,Ponte da Barca,Viana do Castelo,0,173,2.0,,False,171,1.98,17,8653,59.69,António Vassalo Abreu,2017
+1086,5,CDS-PP,1,1,1,5,54.3,1,57.02,14982,Ponte de Lima,Viana do Castelo,0,801,2.9,,False,514,1.86,39,27591,63.97,Victor Manuel Alves Mendes,2017
+1087,1,II,0,0,1,1,12.05,0,12.65,3325,Ponte de Lima,Viana do Castelo,0,801,2.9,,False,514,1.86,39,27591,63.97,António Manuel de Rego Lampelo,2017
+1088,0,PCP - PEV,0,0,1,0,3.75,0,3.94,1035,Ponte de Lima,Viana do Castelo,0,801,2.9,,False,514,1.86,39,27591,63.97,João Francisco Soares Pereira Gomes,2017
+1089,1,PPD/PSD,0,0,1,1,15.85,0,16.65,4374,Ponte de Lima,Viana do Castelo,0,801,2.9,,False,514,1.86,39,27591,63.97,Manuel Pereira da Rocha Barros,2017
+1090,0,PS,0,0,1,0,9.28,0,9.74,2560,Ponte de Lima,Viana do Castelo,0,801,2.9,,False,514,1.86,39,27591,63.97,Jorge Manuel Viana da Silva,2017
+1091,0,PCP - PEV,0,0,1,0,4.04,0,4.22,339,Valença,Viana do Castelo,0,210,2.51,,False,130,1.55,11,8382,60.59,Alípio Nunes Vaz de Sousa,2017
+1092,5,PPD/PSD,1,1,1,5,58.11,1,60.57,4871,Valença,Viana do Castelo,0,210,2.51,,False,130,1.55,11,8382,60.59,Jorge Manuel Salgueiro Mendes,2017
+1093,2,PS,0,0,1,2,33.79,0,35.22,2832,Valença,Viana do Castelo,0,210,2.51,,False,130,1.55,11,8382,60.59,Diogo Gouveia Pinto Antunes Cabrita,2017
+1094,0,CDS-PP.MPT,0,0,1,0,4.28,0,4.65,1991,Viana do Castelo,Viana do Castelo,0,2373,5.1,,False,1318,2.83,27,46539,53.29,Carlos Nunes de Oliveira Morais Meira,2017
+1095,0,PAN,0,0,1,0,1.4,0,1.52,650,Viana do Castelo,Viana do Castelo,0,2373,5.1,,False,1318,2.83,27,46539,53.29,Hélder Manuel Amaral de Frias Pena,2017
+1096,1,PCP - PEV,0,0,1,1,10.57,0,11.48,4919,Viana do Castelo,Viana do Castelo,0,2373,5.1,,False,1318,2.83,27,46539,53.29,Maria Ilda da Costa Figueiredo,2017
+1097,0,PCTP/MRPP,0,0,1,0,1.6,0,1.74,744,Viana do Castelo,Viana do Castelo,0,2373,5.1,,False,1318,2.83,27,46539,53.29,Maria Hermínia Bacelar Fernandes Antunes,2017
+1098,3,PPD/PSD,0,0,1,3,26.56,0,28.85,12361,Viana do Castelo,Viana do Castelo,0,2373,5.1,,False,1318,2.83,27,46539,53.29,Eduardo Alexandre Ribeiro Gonçalves Teixeira,2017
+1099,5,PS,1,1,1,5,47.67,1,51.77,22183,Viana do Castelo,Viana do Castelo,0,2373,5.1,,False,1318,2.83,27,46539,53.29,José Maria da Cunha Costa,2017
+1100,3,I,1,1,1,3,45.12,1,46.94,2807,Vila Nova de Cerveira,Viana do Castelo,0,122,1.96,,False,119,1.91,11,6221,68.82,João Fernando Brito Nogueira,2017
+1101,0,PCP - PEV,0,0,1,0,1.25,0,1.3,78,Vila Nova de Cerveira,Viana do Castelo,0,122,1.96,,False,119,1.91,11,6221,68.82,Léli Celsa Romeu Malhão Wolfango,2017
+1102,0,PPD/PSD,0,0,1,0,9.16,0,9.53,570,Vila Nova de Cerveira,Viana do Castelo,0,122,1.96,,False,119,1.91,11,6221,68.82,Manuel Esteves Marques,2017
+1103,2,PS,0,0,1,2,40.59,0,42.22,2525,Vila Nova de Cerveira,Viana do Castelo,0,122,1.96,,False,119,1.91,11,6221,68.82,João Manuel de Sousa Araújo,2017
+1104,0,PCP - PEV,0,0,1,0,1.91,0,2.02,158,Alijó,Vila Real,0,193,2.33,,False,254,3.06,14,8288,63.07,Pedro Carvalho Marques Perry da Câmara,2017
+1105,3,PPD/PSD,1,0,1,3,39.79,1,42.06,3298,Alijó,Vila Real,0,193,2.33,,False,254,3.06,14,8288,63.07,Carlos Jorge Vilela da Rocha Magalhães,2017
+1106,2,PS,0,0,1,2,28.46,0,30.09,2359,Alijó,Vila Real,0,193,2.33,,False,254,3.06,14,8288,63.07,João Manuel Gouveia da Costa,2017
+1107,2,V,0,0,1,2,21.36,0,22.57,1770,Alijó,Vila Real,0,193,2.33,,False,254,3.06,14,8288,63.07,Luís Miguel Gonçalves Rodrigues,2017
+1108,0,PCP - PEV,0,0,1,0,9.22,0,9.68,392,Boticas,Vila Real,0,99,2.33,,False,102,2.4,10,4252,54.78,Francisco Xavier Barreto Pires,2017
+1109,4,PPD/PSD,1,1,1,4,64.63,1,67.84,2748,Boticas,Vila Real,0,99,2.33,,False,102,2.4,10,4252,54.78,Fernando Eirão Queiroga,2017
+1110,1,PS,0,0,1,1,21.43,0,22.49,911,Boticas,Vila Real,0,99,2.33,,False,102,2.4,10,4252,54.78,Ana Luísa Pires Monteiro,2017
+1111,0,CDS-PP,0,0,1,0,3.15,0,3.37,780,Chaves,Vila Real,0,905,3.65,,False,717,2.89,39,24785,53.77,António Manuel dos Santos Ribeiro,2017
+1112,0,PCP - PEV,0,0,1,0,6.24,0,6.68,1547,Chaves,Vila Real,0,905,3.65,,False,717,2.89,39,24785,53.77,Manuel Justino Matos Cunha,2017
+1113,3,PPD/PSD,1,0,1,3,39.41,1,42.17,9767,Chaves,Vila Real,0,905,3.65,,False,717,2.89,39,24785,53.77,António Cândido Monteiro Cabeleira,2017
+1114,3,PS,0,0,1,3,29.71,0,31.79,7363,Chaves,Vila Real,0,905,3.65,,False,717,2.89,39,24785,53.77,Paula Cristina Barros Teixeira dos Santos,2017
+1115,1,XIII,0,0,1,1,14.95,0,16.0,3706,Chaves,Vila Real,0,905,3.65,,False,717,2.89,39,24785,53.77,João Carlos Alves Neves,2017
+1116,0,CDS-PP,0,0,1,0,0.78,0,0.81,24,Mesão Frio,Vila Real,0,47,1.52,,False,73,2.36,5,3095,72.36,João Luís Marques Rebelo da Silva,2017
+1117,0,PCP - PEV,0,0,1,0,0.74,0,0.77,23,Mesão Frio,Vila Real,0,47,1.52,,False,73,2.36,5,3095,72.36,José Carlos Borges de Sousa,2017
+1118,2,PPD/PSD,0,0,1,2,35.22,0,36.64,1090,Mesão Frio,Vila Real,0,47,1.52,,False,73,2.36,5,3095,72.36,Marco António Peres Teixeira da Silva,2017
+1119,3,PS,1,1,1,3,59.39,1,61.78,1838,Mesão Frio,Vila Real,0,47,1.52,,False,73,2.36,5,3095,72.36,Alberto Monteiro Pereira,2017
+1120,2,CDS-PP.PPD/PSD,0,0,1,2,37.2,0,38.1,1890,Mondim de Basto,Vila Real,0,44,0.87,,False,76,1.5,6,5081,58.81,Lúcio Manuel Alves Machado,2017
+1121,0,PCP - PEV,0,0,1,0,0.67,0,0.69,34,Mondim de Basto,Vila Real,0,44,0.87,,False,76,1.5,6,5081,58.81,António Joaquim Gonçalves do Souto,2017
+1122,0,PCTP/MRPP,0,0,1,0,0.57,0,0.58,29,Mondim de Basto,Vila Real,0,44,0.87,,False,76,1.5,6,5081,58.81,Alfredo Manuel Dinis da Costa Gonçalves,2017
+1123,3,PS,1,1,1,3,59.2,1,60.63,3008,Mondim de Basto,Vila Real,0,44,0.87,,False,76,1.5,6,5081,58.81,Humberto da Costa Cerqueira,2017
+1124,0,PCP - PEV,0,0,1,0,1.58,0,1.67,132,Montalegre,Vila Real,0,231,2.77,,False,196,2.35,25,8345,54.9,Hélder Manuel Barreira de Azevedo,2017
+1125,2,PPD/PSD.CDS-PP,0,0,1,2,34.43,0,36.28,2873,Montalegre,Vila Real,0,231,2.77,,False,196,2.35,25,8345,54.9,José Duarte Crespo Gonçalves,2017
+1126,5,PS,1,1,1,5,58.87,1,62.05,4913,Montalegre,Vila Real,0,231,2.77,,False,196,2.35,25,8345,54.9,Manuel Orlando Fernandes Alves,2017
+1127,0,CDS-PP,0,0,1,0,6.64,0,6.92,290,Murça,Vila Real,0,80,1.83,,False,101,2.31,7,4370,61.18,Amadeu António Macedo Teixeira Carvalho,2017
+1128,0,PCP - PEV,0,0,1,0,0.96,0,1.0,42,Murça,Vila Real,0,80,1.83,,False,101,2.31,7,4370,61.18,Carlos Manuel de Sousa Araújo,2017
+1129,2,PPD/PSD,0,0,1,2,42.95,0,44.81,1877,Murça,Vila Real,0,80,1.83,,False,101,2.31,7,4370,61.18,Pedro Manuel Alves Barroso Magalhães,2017
+1130,3,PS,1,1,1,3,45.31,1,47.27,1980,Murça,Vila Real,0,80,1.83,,False,101,2.31,7,4370,61.18,José Maria Garcia Costa,2017
+1131,0,PCP - PEV,0,0,1,0,4.16,0,4.4,412,Peso da Régua,Vila Real,0,272,2.75,,False,268,2.71,8,9903,58.73,António Manuel Alves Serafim,2017
+1132,4,PPD/PSD,1,1,1,4,56.42,1,59.67,5587,Peso da Régua,Vila Real,0,272,2.75,,False,268,2.71,8,9903,58.73,Nuno Manuel Sousa Pinto de Carvalho Gonçalves,2017
+1133,3,PS,0,0,1,3,33.97,0,35.93,3364,Peso da Régua,Vila Real,0,272,2.75,,False,268,2.71,8,9903,58.73,Manuel José Ramalho Ramos Paiva,2017
+1134,0,CDS-PP,0,0,1,0,1.9,0,1.96,99,Ribeira de Pena,Vila Real,0,68,1.31,,False,81,1.56,5,5199,59.03,Bráulio Manuel Fernandes Ferreira,2017
+1135,0,MPT,0,0,1,0,2.79,0,2.87,145,Ribeira de Pena,Vila Real,0,68,1.31,,False,81,1.56,5,5199,59.03,Domingos Lourenço Machado,2017
+1136,0,PCP - PEV,0,0,1,0,0.87,0,0.89,45,Ribeira de Pena,Vila Real,0,68,1.31,,False,81,1.56,5,5199,59.03,Mário Fernando Gomes,2017
+1137,2,PPD/PSD,0,0,1,2,35.89,0,36.95,1866,Ribeira de Pena,Vila Real,0,68,1.31,,False,81,1.56,5,5199,59.03,Amadeu dos Santos Borges,2017
+1138,3,PS,1,1,1,3,50.43,1,51.92,2622,Ribeira de Pena,Vila Real,0,68,1.31,,False,81,1.56,5,5199,59.03,Rui Manuel Vaz Alves,2017
+1139,0,XVII,0,0,1,0,5.25,0,5.41,273,Ribeira de Pena,Vila Real,0,68,1.31,,False,81,1.56,5,5199,59.03,José Manuel da Silva Carreira,2017
+1140,0,PCP - PEV,0,0,1,0,2.86,0,3.01,128,Sabrosa,Vila Real,0,100,2.23,,False,121,2.7,12,4476,64.73,Fernando António Ferreira Amaral,2017
+1141,2,PPD/PSD,0,0,1,2,36.46,0,38.35,1632,Sabrosa,Vila Real,0,100,2.23,,False,121,2.7,12,4476,64.73,António Augusto Marques Ferreira de Araújo,2017
+1142,3,PS,1,1,1,3,55.74,1,58.64,2495,Sabrosa,Vila Real,0,100,2.23,,False,121,2.7,12,4476,64.73,José Manuel de Carvalho Marques,2017
+1143,0,CDS-PP,0,0,1,0,3.42,0,3.59,176,Santa Marta de Penaguião,Vila Real,0,122,2.37,,False,115,2.24,7,5140,62.55,Roque Filipe Mesquita Brandão,2017
+1144,0,PCP - PEV,0,0,1,0,1.6,0,1.67,82,Santa Marta de Penaguião,Vila Real,0,122,2.37,,False,115,2.24,7,5140,62.55,José Rodrigues Simão,2017
+1145,2,PPD/PSD,0,0,1,2,32.74,0,34.33,1683,Santa Marta de Penaguião,Vila Real,0,122,2.37,,False,115,2.24,7,5140,62.55,Luís Manuel Mota Bastos,2017
+1146,3,PS,1,1,1,3,57.63,1,60.41,2962,Santa Marta de Penaguião,Vila Real,0,122,2.37,,False,115,2.24,7,5140,62.55,Luís Reguengo Machado,2017
+1147,0,CDS-PP,0,0,1,0,2.24,0,2.36,262,Valpaços,Vila Real,0,317,2.72,,False,278,2.38,25,11674,55.19,Manuel Jorge Pinto dos Santos Carvalho,2017
+1148,0,PCP - PEV,0,0,1,0,1.7,0,1.79,198,Valpaços,Vila Real,0,317,2.72,,False,278,2.38,25,11674,55.19,António Fernando do Nascimento Teixeira,2017
+1149,5,PPD/PSD,1,1,1,5,62.49,1,65.85,7295,Valpaços,Vila Real,0,317,2.72,,False,278,2.38,25,11674,55.19,Amílcar Rodrigues Alves Castro de Almeida,2017
+1150,2,PS,0,0,1,2,28.47,0,30.0,3324,Valpaços,Vila Real,0,317,2.72,,False,278,2.38,25,11674,55.19,Afonso José de Castro Videira,2017
+1151,4,PPD/PSD,1,1,1,4,46.38,1,48.24,4449,Vila Pouca de Aguiar,Vila Real,0,220,2.29,,False,150,1.56,14,9592,55.46,António Alberto Pires Aguiar Machado,2017
+1152,3,PS,0,0,1,3,45.26,0,47.07,4341,Vila Pouca de Aguiar,Vila Real,0,220,2.29,,False,150,1.56,14,9592,55.46,José Carlos Saraiva Rendeiro,2017
+1153,0,B.E.,0,0,1,0,2.0,0,2.09,612,Vila Real,Vila Real,0,755,2.47,,False,633,2.07,20,30605,60.12,Rui Manuel Vítor Cortes,2017
+1154,0,CDS-PP,0,0,1,0,4.84,0,5.07,1482,Vila Real,Vila Real,0,755,2.47,,False,633,2.07,20,30605,60.12,Fernando Jorge Rodrigues Pinho,2017
+1155,0,PCP - PEV,0,0,1,0,2.39,0,2.5,730,Vila Real,Vila Real,0,755,2.47,,False,633,2.07,20,30605,60.12,Júlia Violante de Carvalho Ribeiro Correia,2017
+1156,4,PPD/PSD,0,0,1,4,42.23,0,44.24,12926,Vila Real,Vila Real,0,755,2.47,,False,633,2.07,20,30605,60.12,António Batista de Carvalho,2017
+1157,5,PS,1,1,1,5,44.0,1,46.09,13467,Vila Real,Vila Real,0,755,2.47,,False,633,2.07,20,30605,60.12,Rui Jorge Cordeiro Gonçalves dos Santos,2017
+1158,0,B.E.,0,0,1,0,1.7,0,1.76,73,Armamar,Viseu,0,53,1.23,,False,109,2.54,14,4299,66.95,José Maria Marta da Silva,2017
+1159,1,CDS-PP,0,0,1,1,20.94,0,21.75,900,Armamar,Viseu,0,53,1.23,,False,109,2.54,14,4299,66.95,Luís Miguel Pires de Paiva Cardoso Pinto,2017
+1160,0,PCP - PEV,0,0,1,0,5.26,0,5.46,226,Armamar,Viseu,0,53,1.23,,False,109,2.54,14,4299,66.95,Mário Ferreira Carneiro Cireneu,2017
+1161,4,PPD/PSD,1,1,1,4,56.97,1,59.2,2449,Armamar,Viseu,0,53,1.23,,False,109,2.54,14,4299,66.95,João Paulo Soares Carvalho Pereira da Fonseca,2017
+1162,0,PS,0,0,1,0,11.37,0,11.82,489,Armamar,Viseu,0,53,1.23,,False,109,2.54,14,4299,66.95,Américo Teixeira Moreira,2017
+1163,0,CDS-PP,0,0,1,0,5.5,0,5.84,300,Carregal do Sal,Viseu,0,160,2.93,,False,161,2.95,5,5458,54.37,Luís Humberto da Costa Fidalgo,2017
+1164,0,PCP - PEV,0,0,1,0,1.78,0,1.89,97,Carregal do Sal,Viseu,0,160,2.93,,False,161,2.95,5,5458,54.37,António Luís da Costa Correia,2017
+1165,3,PPD/PSD,0,0,1,3,34.04,0,36.17,1858,Carregal do Sal,Viseu,0,160,2.93,,False,161,2.95,5,5458,54.37,Vasco Jorge Matias Antunes De Almeida,2017
+1166,4,PS,1,1,1,4,52.8,1,56.1,2882,Carregal do Sal,Viseu,0,160,2.93,,False,161,2.95,5,5458,54.37,Rogério Mota Abrantes,2017
+1167,0,CDS-PP,0,0,1,0,3.98,0,4.18,392,Castro Daire,Viseu,0,246,2.5,,False,216,2.19,16,9851,59.84,Carlos Manuel de Carvalho Rodrigues Costa,2017
+1168,0,PCP - PEV,0,0,1,0,1.53,0,1.61,151,Castro Daire,Viseu,0,246,2.5,,False,216,2.19,16,9851,59.84,Isabel de Fátima Esteves Moreira Pires Souto,2017
+1169,3,PPD/PSD,0,0,1,3,35.61,0,37.36,3508,Castro Daire,Viseu,0,246,2.5,,False,216,2.19,16,9851,59.84,Luís Alberto Costa Pinto,2017
+1170,4,PS,1,1,1,4,54.19,1,56.85,5338,Castro Daire,Viseu,0,246,2.5,,False,216,2.19,16,9851,59.84,José Fernando Carneiro Pereira,2017
+1171,0,PCP - PEV,0,0,1,0,2.37,0,2.45,289,Cinfães,Viseu,0,187,1.53,,False,227,1.86,14,12195,66.69,Avelino António Pacheco Gonçalves,2017
+1172,3,PPD/PSD.CDS-PP,0,0,1,3,36.52,0,37.81,4454,Cinfães,Viseu,0,187,1.53,,False,227,1.86,14,12195,66.69,Manuel de Vasconcelos Pinheiro,2017
+1173,4,PS,1,1,1,4,57.71,1,59.74,7038,Cinfães,Viseu,0,187,1.53,,False,227,1.86,14,12195,66.69,Armando da Silva Mourisco,2017
+1174,0,PCP - PEV,0,0,1,0,3.73,0,3.97,590,Lamego,Viseu,0,384,2.43,,False,566,3.58,18,15825,61.13,Vasco João Guedes Silva Ferreira,2017
+1175,4,PPD/PSD.CDS-PP,1,1,1,4,54.02,1,57.47,8548,Lamego,Viseu,0,384,2.43,,False,566,3.58,18,15825,61.13,Francisco Manuel Lopes,2017
+1176,3,PS,0,0,1,3,36.25,0,38.57,5737,Lamego,Viseu,0,384,2.43,,False,566,3.58,18,15825,61.13,Manuel António Rebelo Ferreira,2017
+1177,0,PCP - PEV,0,0,1,0,3.07,0,3.29,347,Mangualde,Viseu,0,485,4.29,,False,270,2.39,12,11303,55.78,António Fernando Albuquerque,2017
+1178,2,PPD/PSD.CDS-PP,0,0,1,2,26.68,0,28.59,3016,Mangualde,Viseu,0,485,4.29,,False,270,2.39,12,11303,55.78,Aníbal José Carvalho Maltez,2017
+1179,5,PS,1,1,1,5,63.57,1,68.12,7185,Mangualde,Viseu,0,485,4.29,,False,270,2.39,12,11303,55.78,João Nuno Ferreira Gonçalves de Azevedo,2017
+1180,0,PCP - PEV,0,0,1,0,2.67,0,2.86,169,Moimenta da Beira,Viseu,0,271,4.27,,False,168,2.65,16,6341,55.01,Augusto Coelho Praça,2017
+1181,2,PPD/PSD.CDS-PP,0,0,1,2,28.59,0,30.72,1813,Moimenta da Beira,Viseu,0,271,4.27,,False,168,2.65,16,6341,55.01,Luís Carlos Pereira da Silva,2017
+1182,5,PS,1,1,1,5,61.82,1,66.42,3920,Moimenta da Beira,Viseu,0,271,4.27,,False,168,2.65,16,6341,55.01,José Eduardo Lopes Ferreira,2017
+1183,0,CDS-PP,0,0,1,0,8.01,0,8.38,463,Mortágua,Viseu,0,180,3.12,,False,74,1.28,7,5777,57.27,Filipe Manuel Ferreira Valente,2017
+1184,0,PCP - PEV,0,0,1,0,0.8,0,0.83,46,Mortágua,Viseu,0,180,3.12,,False,74,1.28,7,5777,57.27,Maria Cecília dos Anjos Barbosa,2017
+1185,4,PPD/PSD,1,1,1,4,44.37,1,46.41,2563,Mortágua,Viseu,0,180,3.12,,False,74,1.28,7,5777,57.27,José Júlio Henriques Norte,2017
+1186,3,PS,0,0,1,3,42.43,0,44.38,2451,Mortágua,Viseu,0,180,3.12,,False,74,1.28,7,5777,57.27,João Pedro de Almeida e Sousa Rodrigues da Fonseca,2017
+1187,0,PCP - PEV,0,0,1,0,4.33,0,4.68,343,Nelas,Viseu,0,334,4.21,,False,256,3.23,7,7926,57.34,Nuno Alexandre Rodrigues Albuquerque Vaz,2017
+1188,3,PPD/PSD.CDS-PP,0,0,1,3,44.03,0,47.57,3490,Nelas,Viseu,0,334,4.21,,False,256,3.23,7,7926,57.34,Isaura Leonor Marques Figueiredo da Silva Pedro,2017
+1189,4,PS,1,1,1,4,44.2,1,47.75,3503,Nelas,Viseu,0,334,4.21,,False,256,3.23,7,7926,57.34,José Manuel Borges da Silva,2017
+1190,0,B.E.,0,0,1,0,3.9,0,4.15,225,Oliveira de Frades,Viseu,0,213,3.69,,False,147,2.55,8,5776,61.64,Mário do Carmo Pereira,2017
+1191,0,PCP - PEV,0,0,1,0,2.74,0,2.92,158,Oliveira de Frades,Viseu,0,213,3.69,,False,147,2.55,8,5776,61.64,Nuno Miguel Duarte Martins,2017
+1192,4,PPD/PSD.CDS-PP,1,1,1,4,71.42,1,76.16,4125,Oliveira de Frades,Viseu,0,213,3.69,,False,147,2.55,8,5776,61.64,Luís Manuel Martins de Vasconcelos,2017
+1193,1,PS,0,0,1,1,15.72,0,16.77,908,Oliveira de Frades,Viseu,0,213,3.69,,False,147,2.55,8,5776,61.64,Porfirio António de Sousa Carvalho,2017
+1194,0,PCP - PEV,0,0,1,0,3.26,0,3.42,178,Penalva do Castelo,Viseu,0,110,2.02,,False,137,2.51,11,5458,62.26,António Nogueira de Matos Vilarigues,2017
+1195,2,PPD/PSD.CDS-PP,0,0,1,2,41.5,0,43.47,2265,Penalva do Castelo,Viseu,0,110,2.02,,False,137,2.51,11,5458,62.26,Carlos Ferreira dos Santos,2017
+1196,3,PS,1,1,1,3,50.71,1,53.12,2768,Penalva do Castelo,Viseu,0,110,2.02,,False,137,2.51,11,5458,62.26,Francisco Lopes de Carvalho,2017
+1197,2,PS,0,0,1,2,30.69,0,32.44,642,Penedono,Viseu,0,49,2.34,,False,64,3.06,7,2092,58.08,Orlando Augusto Timóteo Rodrigues,2017
+1198,0,MPT,0,0,1,0,3.04,0,3.16,234,Resende,Viseu,0,120,1.56,,False,170,2.21,11,7697,68.88,Casimiro Cerqueira Veloso,2017
+1199,0,PCP - PEV,0,0,1,0,1.08,0,1.12,83,Resende,Viseu,0,120,1.56,,False,170,2.21,11,7697,68.88,Fernando Alberto Pinto,2017
+1200,3,PPD/PSD.CDS-PP,0,0,1,3,41.41,0,43.03,3187,Resende,Viseu,0,120,1.56,,False,170,2.21,11,7697,68.88,Jaime António Bernardino Alves,2017
+1201,4,PS,1,1,1,4,50.71,1,52.69,3903,Resende,Viseu,0,120,1.56,,False,170,2.21,11,7697,68.88,Manuel Joaquim Garcez Trindade,2017
+1202,0,CDS-PP,0,0,1,0,4.59,0,4.87,307,Santa Comba Dão,Viseu,0,221,3.3,,False,168,2.51,6,6689,58.11,Maria Manuela Dias Alves,2017
+1203,0,PCP - PEV,0,0,1,0,1.32,0,1.4,88,Santa Comba Dão,Viseu,0,221,3.3,,False,168,2.51,6,6689,58.11,Alberto Lopes de Andrade,2017
+1204,3,PPD/PSD,0,0,1,3,39.72,0,42.17,2657,Santa Comba Dão,Viseu,0,221,3.3,,False,168,2.51,6,6689,58.11,João António de Sousa Pais Lourenço,2017
+1205,4,PS,1,1,1,4,48.56,1,51.56,3248,Santa Comba Dão,Viseu,0,221,3.3,,False,168,2.51,6,6689,58.11,Leonel José Antunes Gouveia,2017
+1206,0,CDS-PP,0,0,1,0,3.34,0,3.44,157,Sernancelhe,Viseu,0,56,1.19,,False,74,1.57,13,4700,70.07,Nuno Franclim Peixoto Quintais Silva,2017
+1207,0,PCP - PEV,0,0,1,0,0.34,0,0.35,16,Sernancelhe,Viseu,0,56,1.19,,False,74,1.57,13,4700,70.07,Eduardo Paiva Boloto,2017
+1208,3,PPD/PSD,1,1,1,3,53.17,1,54.68,2499,Sernancelhe,Viseu,0,56,1.19,,False,74,1.57,13,4700,70.07,Carlos Silva Santiago,2017
+1209,2,PS,0,0,1,2,40.38,0,41.53,1898,Sernancelhe,Viseu,0,56,1.19,,False,74,1.57,13,4700,70.07,Vítor Manuel de Matos Figueiredo,2017
+1210,0,CDS-PP,0,0,1,0,3.76,0,3.96,281,Sátão,Viseu,0,178,2.38,,False,200,2.68,9,7470,53.54,Manuel da Silva de Oliva,2017
+1211,0,PCP - PEV,0,0,1,0,2.9,0,3.06,217,Sátão,Viseu,0,178,2.38,,False,200,2.68,9,7470,53.54,Ângela Maria da Silva Bártolo,2017
+1212,4,PPD/PSD,1,1,1,4,54.83,1,57.76,4096,Sátão,Viseu,0,178,2.38,,False,200,2.68,9,7470,53.54,Alexandre Manuel Mendonça Vaz,2017
+1213,3,PS,0,0,1,3,33.44,0,35.22,2498,Sátão,Viseu,0,178,2.38,,False,200,2.68,9,7470,53.54,Nuno Miguel Rocha Bártolo,2017
+1214,0,CDS-PP,0,0,1,0,3.8,0,3.99,179,São João da Pesqueira,Viseu,0,104,2.21,,False,117,2.49,11,4705,61.73,Ana Paula Mafra de Miranda Raposo Chaves de Carvalho,2017
+1215,2,I,0,0,1,2,35.3,0,37.04,1661,São João da Pesqueira,Viseu,0,104,2.21,,False,117,2.49,11,4705,61.73,Manuel António Natário Cordeiro,2017
+1216,0,PCP - PEV,0,0,1,0,1.64,0,1.72,77,São João da Pesqueira,Viseu,0,104,2.21,,False,117,2.49,11,4705,61.73,António Luiz Vieira da Silva,2017
+1217,3,PPD/PSD,1,1,1,3,43.59,1,45.74,2051,São João da Pesqueira,Viseu,0,104,2.21,,False,117,2.49,11,4705,61.73,José António Fontão Tulha,2017
+1218,0,PS,0,0,1,0,10.97,0,11.51,516,São João da Pesqueira,Viseu,0,104,2.21,,False,117,2.49,11,4705,61.73,João Manuel Mendes de Oliveira,2017
+1219,0,B.E.,0,0,1,0,1.32,0,1.37,146,São Pedro do Sul,Viseu,0,228,2.06,,False,192,1.74,14,11042,64.28,Maria do Carmo Bica,2017
+1220,0,II,0,0,1,0,6.63,0,6.89,732,São Pedro do Sul,Viseu,0,228,2.06,,False,192,1.74,14,11042,64.28,José Alberto da Silva Alexandre e Sousa,2017
+1221,0,PCP - PEV,0,0,1,0,0.74,0,0.77,82,São Pedro do Sul,Viseu,0,228,2.06,,False,192,1.74,14,11042,64.28,Ana Manuela Marques da Costa Gralheiro,2017
+1222,3,PPD/PSD,0,0,1,3,37.71,0,39.2,4164,São Pedro do Sul,Viseu,0,228,2.06,,False,192,1.74,14,11042,64.28,Adriano de Lima Gouveia Azevedo,2017
+1223,4,PS,1,1,1,4,49.79,1,51.76,5498,São Pedro do Sul,Viseu,0,228,2.06,,False,192,1.74,14,11042,64.28,Vítor Manuel de Almeida Figueiredo,2017
+1224,0,PCP - PEV,0,0,1,0,2.47,0,2.57,105,Tabuaço,Viseu,0,62,1.46,,False,102,2.4,13,4246,69.73,Mário Rui de Sousa Mendes,2017
+1225,3,PPD/PSD.CDS-PP,1,1,1,3,49.2,1,51.18,2089,Tabuaço,Viseu,0,62,1.46,,False,102,2.4,13,4246,69.73,Carlos André Teles Paulo de Carvalho,2017
+1226,2,PS,0,0,1,2,44.47,0,46.25,1888,Tabuaço,Viseu,0,62,1.46,,False,102,2.4,13,4246,69.73,João Joaquim Saraiva Ribeiro,2017
+1227,0,B.E.,0,0,1,0,3.94,0,4.08,188,Tarouca,Viseu,0,78,1.63,,False,91,1.91,7,4773,59.46,Rui Bruno Quintela Claro da Fonseca,2017
+1228,0,CDS-PP,0,0,1,0,4.32,0,4.47,206,Tarouca,Viseu,0,78,1.63,,False,91,1.91,7,4773,59.46,Carlos Alberto Moura Cabral,2017
+1229,0,PCP - PEV,0,0,1,0,1.59,0,1.65,76,Tarouca,Viseu,0,78,1.63,,False,91,1.91,7,4773,59.46,João Carlos Portela Cordeiro,2017
+1230,3,PPD/PSD,1,1,1,3,51.08,1,52.95,2438,Tarouca,Viseu,0,78,1.63,,False,91,1.91,7,4773,59.46,Valdemar de Carvalho Pereira,2017
+1231,2,PS,0,0,1,2,35.53,0,36.84,1696,Tarouca,Viseu,0,78,1.63,,False,91,1.91,7,4773,59.46,José António Amaro Nunes,2017
+1232,0,CDS-PP,0,0,1,0,9.64,0,10.43,1572,Tondela,Viseu,0,772,4.74,,False,453,2.78,19,16304,56.01,Carlos Manuel Antunes Amaral,2017
+1233,0,PCP - PEV,0,0,1,0,3.67,0,3.97,598,Tondela,Viseu,0,772,4.74,,False,453,2.78,19,16304,56.01,Manuel Jorge Pereira Veiga,2017
+1234,5,PPD/PSD,1,1,1,5,53.48,1,57.83,8720,Tondela,Viseu,0,772,4.74,,False,453,2.78,19,16304,56.01,José António Gomes de Jesus,2017
+1235,2,PS,0,0,1,2,25.69,0,27.78,4189,Tondela,Viseu,0,772,4.74,,False,453,2.78,19,16304,56.01,Cílio Pereira Correia,2017
+1236,0,CDS-PP,0,0,1,0,7.81,0,8.15,264,Vila Nova de Paiva,Viseu,0,66,1.95,,False,74,2.19,5,3380,49.04,Hugo FIlipe Afonso Trindade,2017
+1237,0,PCP - PEV,0,0,1,0,1.75,0,1.82,59,Vila Nova de Paiva,Viseu,0,66,1.95,,False,74,2.19,5,3380,49.04,Manuel Rodrigues,2017
+1238,2,PPD/PSD,0,0,1,2,30.36,0,31.67,1026,Vila Nova de Paiva,Viseu,0,66,1.95,,False,74,2.19,5,3380,49.04,Carlos Dias Mota,2017
+1239,3,PS,1,1,1,3,55.95,1,58.36,1891,Vila Nova de Paiva,Viseu,0,66,1.95,,False,74,2.19,5,3380,49.04,José Morgado Ribeiro,2017
+1240,0,B.E.,0,0,1,0,3.8,0,4.19,1752,Viseu,Viseu,0,2501,5.42,,False,1839,3.98,25,46151,47.99,Manuela Maria Coelho Antunes,2017
+1241,1,CDS-PP,0,0,1,1,9.56,0,10.56,4414,Viseu,Viseu,0,2501,5.42,,False,1839,3.98,25,46151,47.99,José Hélder do Amaral,2017
+1242,0,PCP - PEV,0,0,1,0,4.02,0,4.44,1857,Viseu,Viseu,0,2501,5.42,,False,1839,3.98,25,46151,47.99,Francisco Manuel de Almeida,2017
+1243,5,PPD/PSD,1,1,1,5,46.37,1,51.19,21402,Viseu,Viseu,0,2501,5.42,,False,1839,3.98,25,46151,47.99,António Joaquim Almeida Henriques,2017
+1244,3,PS,0,0,1,3,26.84,0,29.62,12386,Viseu,Viseu,0,2501,5.42,,False,1839,3.98,25,46151,47.99,José Adelmo Gouveia Bordalo Junqueiro,2017
+1245,0,CDS-PP,0,0,1,0,2.67,0,2.81,180,Vouzela,Viseu,0,215,3.18,,False,123,1.82,9,6752,66.69,Paulo Jorge Rodrigues Duarte,2017
+1246,0,PCP - PEV,0,0,1,0,1.13,0,1.18,76,Vouzela,Viseu,0,215,3.18,,False,123,1.82,9,6752,66.69,José Carlos Pereirinha Rodrigues,2017
+1247,4,PPD/PSD,1,1,1,4,49.3,1,51.9,3329,Vouzela,Viseu,0,215,3.18,,False,123,1.82,9,6752,66.69,Rui Miguel Ladeira Pereira,2017
+1248,3,PS,0,0,1,3,38.6,0,40.63,2606,Vouzela,Viseu,0,215,3.18,,False,123,1.82,9,6752,66.69,António Menezes de Campos,2017
+1249,0,B.E.,0,0,1,0,1.43,0,1.46,57,Alandroal,Évora,0,39,0.98,,False,43,1.08,4,3993,77.17,Fábio Manuel Roques Pisco,2017
+1250,1,I,0,0,1,1,20.99,0,21.43,838,Alandroal,Évora,0,39,0.98,,False,43,1.08,4,3993,77.17,João José Martins Nabais,2017
+1251,3,PCP - PEV,1,1,1,3,54.4,1,55.54,2172,Alandroal,Évora,0,39,0.98,,False,43,1.08,4,3993,77.17,Mariana Rosa Gomes Chilra,2017
+1252,0,PPD/PSD,0,0,1,0,3.66,0,3.73,146,Alandroal,Évora,0,39,0.98,,False,43,1.08,4,3993,77.17,José Joaquim Cebola Gomes,2017
+1253,1,PS,0,0,1,1,17.48,0,17.85,698,Alandroal,Évora,0,39,0.98,,False,43,1.08,4,3993,77.17,Manuel José Veladas Ramalho,2017
+1254,0,CDS-PP,0,0,1,0,1.21,0,1.28,49,Arraiolos,Évora,0,136,3.36,,False,90,2.22,5,4047,64.89,Francisco Luís Monteiro Barbosa,2017
+1255,3,PCP - PEV,1,1,1,3,54.73,1,57.97,2215,Arraiolos,Évora,0,136,3.36,,False,90,2.22,5,4047,64.89,Sílvia Cristina Tirapicos Pinto,2017
+1256,0,PPD/PSD,0,0,1,0,4.69,0,4.97,190,Arraiolos,Évora,0,136,3.36,,False,90,2.22,5,4047,64.89,José Adriano Canoa Valente,2017
+1257,2,PS,0,0,1,2,33.78,0,35.78,1367,Arraiolos,Évora,0,136,3.36,,False,90,2.22,5,4047,64.89,Maria Palmira Lourenço Chaveiro,2017
+1258,2,I,1,0,1,2,36.66,1,38.12,1642,Borba,Évora,0,101,2.25,,False,71,1.59,4,4479,70.55,António José Lopes Anselmo,2017
+1259,1,PCP - PEV,0,0,1,1,17.66,0,18.37,791,Borba,Évora,0,101,2.25,,False,71,1.59,4,4479,70.55,Joaquim José Serra Silva,2017
+1260,1,PPD/PSD,0,0,1,1,18.55,0,19.29,831,Borba,Évora,0,101,2.25,,False,71,1.59,4,4479,70.55,Benjamim António Ferreira Espiguinha,2017
+1261,1,PS,0,0,1,1,23.29,0,24.22,1043,Borba,Évora,0,101,2.25,,False,71,1.59,4,4479,70.55,Jerónimo João Pereira Cavaco,2017
+1262,0,CDS-PP,0,0,1,0,1.33,0,1.41,100,Estremoz,Évora,0,258,3.44,,False,157,2.1,9,7494,60.06,Paulo Jorge Pereira da Costa,2017
+1263,5,I,1,1,1,5,51.35,1,54.36,3848,Estremoz,Évora,0,258,3.44,,False,157,2.1,9,7494,60.06,Luis Filipe Pereira Mourinha,2017
+1264,0,PCP - PEV,0,0,1,0,8.46,0,8.96,634,Estremoz,Évora,0,258,3.44,,False,157,2.1,9,7494,60.06,Luis Manuel Modas Condinho,2017
+1265,0,PPD/PSD,0,0,1,0,5.12,0,5.42,384,Estremoz,Évora,0,258,3.44,,False,157,2.1,9,7494,60.06,Manuel José Broa,2017
+1266,2,PS,0,0,1,2,28.2,0,29.85,2113,Estremoz,Évora,0,258,3.44,,False,157,2.1,9,7494,60.06,José Alberto Leal Fateixa Palmeiro,2017
+1267,0,CDS-PP,0,0,1,0,4.44,0,4.66,401,Montemor-o-Novo,Évora,0,286,3.17,,False,131,1.45,7,9028,59.87,Vítor Manuel Macedo Bombico Silveira Vicente,2017
+1268,4,PCP - PEV,1,1,1,4,52.5,1,55.05,4740,Montemor-o-Novo,Évora,0,286,3.17,,False,131,1.45,7,9028,59.87,Hortênsia dos Anjos Chegado Menino,2017
+1269,0,PPD/PSD,0,0,1,0,6.48,0,6.79,585,Montemor-o-Novo,Évora,0,286,3.17,,False,131,1.45,7,9028,59.87,Maria de Lurdes Pascoal Reis Vacas de Carvalho,2017
+1270,3,PS,0,0,1,3,31.96,0,33.5,2885,Montemor-o-Novo,Évora,0,286,3.17,,False,131,1.45,7,9028,59.87,Olimpio Manuel Vidigal Galvão,2017
+1271,4,PCP - PEV,1,1,1,4,67.67,1,71.61,1917,Mora,Évora,0,105,3.71,,False,51,1.8,4,2833,60.95,Luís Simão Duarte de Matos,2017
+1272,0,PPD/PSD.CDS-PP,0,0,1,0,8.51,0,9.0,241,Mora,Évora,0,105,3.71,,False,51,1.8,4,2833,60.95,Joaquim António Rodrigues de Mira,2017
+1273,1,PS,0,0,1,1,18.32,0,19.39,519,Mora,Évora,0,105,3.71,,False,51,1.8,4,2833,60.95,João Filipe Chaveiro Libório,2017
+1274,2,PPD/PSD.CDS-PP,0,0,1,2,41.3,0,42.8,743,Mourão,Évora,0,34,1.89,,False,29,1.61,3,1799,75.3,Anabela Ramalho Falcato Caixeiro,2017
+1275,3,PS,1,1,1,3,46.53,1,48.21,837,Mourão,Évora,0,34,1.89,,False,29,1.61,3,1799,75.3,Maria Clara Pimenta Pinto Martins Safara,2017
+1276,0,CDS-PP.PPD/PSD,0,0,1,0,1.82,0,1.88,73,Portel,Évora,0,62,1.55,,False,57,1.42,6,4008,71.27,Maria Luísa Venâncio de Sousa Andrade,2017
+1277,1,PCP - PEV,0,0,1,1,30.54,0,31.47,1224,Portel,Évora,0,62,1.55,,False,57,1.42,6,4008,71.27,José Francisco Carriço Sabino,2017
+1278,4,PS,1,1,1,4,64.67,1,66.65,2592,Portel,Évora,0,62,1.55,,False,57,1.42,6,4008,71.27,José Manuel Clemente Grilo,2017
+1279,0,CDS-PP.PPD/PSD,0,0,1,0,7.4,0,7.69,267,Redondo,Évora,0,89,2.47,,False,49,1.36,2,3608,58.85,António Alberto da Maia Tomaz Coelho da Costa,2017
+1280,1,PCP - PEV,0,0,1,1,13.94,0,14.5,503,Redondo,Évora,0,89,2.47,,False,49,1.36,2,3608,58.85,David Manuel Palma Grave,2017
+1281,1,PS,0,0,1,1,21.34,0,22.19,770,Redondo,Évora,0,89,2.47,,False,49,1.36,2,3608,58.85,Luís Fernando Gomes Faleiro,2017
+1282,3,VII,1,1,1,3,53.49,1,55.62,1930,Redondo,Évora,0,89,2.47,,False,49,1.36,2,3608,58.85,António José Rega Matos Recto,2017
+1283,1,PCP - PEV,0,0,1,1,16.28,0,17.4,787,Reguengos de Monsaraz,Évora,0,192,3.97,,False,119,2.46,4,4835,52.48,Aníbal José Almeida Rosado,2017
+1284,0,PPD/PSD.CDS-PP,0,0,1,0,9.25,0,9.88,447,Reguengos de Monsaraz,Évora,0,192,3.97,,False,119,2.46,4,4835,52.48,Francisco Filipe Sousa Zambujinho,2017
+1285,4,PS,1,1,1,4,68.05,1,72.72,3290,Reguengos de Monsaraz,Évora,0,192,3.97,,False,119,2.46,4,4835,52.48,José Gabriel Paixão Calixto,2017
+1286,3,PCP - PEV,0,0,1,3,39.07,0,41.57,2151,Vendas Novas,Évora,0,196,3.56,,False,135,2.45,2,5506,53.39,José Maria Rodrigues Figueira,2017
+1287,1,PPD/PSD,0,0,1,1,11.64,0,12.39,641,Vendas Novas,Évora,0,196,3.56,,False,135,2.45,2,5506,53.39,Joaquim Manuel Marques Barreto Soeiro,2017
+1288,3,PS,1,0,1,3,43.28,1,46.05,2383,Vendas Novas,Évora,0,196,3.56,,False,135,2.45,2,5506,53.39,Luís Carlos Piteira Dias,2017
+1289,2,PCP - PEV,0,0,1,2,30.98,0,32.25,962,Viana do Alentejo,Évora,0,65,2.09,,False,57,1.84,3,3105,63.52,João Luís Batista Penetra,2017
+1290,0,PPD/PSD,0,0,1,0,4.67,0,4.86,145,Viana do Alentejo,Évora,0,65,2.09,,False,57,1.84,3,3105,63.52,João de Deus Carapeto Fialho,2017
+1291,3,PS,1,1,1,3,60.42,1,62.89,1876,Viana do Alentejo,Évora,0,65,2.09,,False,57,1.84,3,3105,63.52,Bernardino António Bengalinha Pinto,2017
+1292,0,I,0,0,1,0,3.7,0,3.83,181,Vila Viçosa,Évora,0,100,2.04,,False,70,1.43,4,4892,67.22,Miguel António Patacão Rodrigues,2017
+1293,1,II,0,0,1,1,15.9,0,16.48,778,Vila Viçosa,Évora,0,100,2.04,,False,70,1.43,4,4892,67.22,Inácio José Ludovico Esperança,2017
+1294,3,PCP - PEV,1,1,1,3,43.44,1,45.0,2125,Vila Viçosa,Évora,0,100,2.04,,False,70,1.43,4,4892,67.22,Manuel João Fontainhas Condenado,2017
+1295,0,PPD/PSD.CDS-PP,0,0,1,0,9.06,0,9.38,443,Vila Viçosa,Évora,0,100,2.04,,False,70,1.43,4,4892,67.22,Paulo José Carrasco Rondão,2017
+1296,1,PS,0,0,1,1,24.43,0,25.31,1195,Vila Viçosa,Évora,0,100,2.04,,False,70,1.43,4,4892,67.22,Luís Filipe Braguez Caldeirinha Roma,2017
+1297,0,B.E.,0,0,1,0,3.91,0,4.17,934,Évora,Évora,0,910,3.81,,False,556,2.33,12,23885,49.69,Maria Helena de Carvalho Governo de Figueiredo,2017
+1298,4,PCP - PEV,1,1,1,4,49.3,1,52.53,11776,Évora,Évora,0,910,3.81,,False,556,2.33,12,23885,49.69,Carlos Manuel Rodrigues Pinto de Sá,2017
+1299,1,PPD/PSD.CDS-PP,0,0,1,1,14.7,0,15.66,3510,Évora,Évora,0,910,3.81,,False,556,2.33,12,23885,49.69,Helder Aguiar Agostinho das Neves,2017
+1300,2,PS,0,0,1,2,25.95,0,27.65,6199,Évora,Évora,0,910,3.81,,False,556,2.33,12,23885,49.69,Manuel Francisco Grilo Melgão,2017

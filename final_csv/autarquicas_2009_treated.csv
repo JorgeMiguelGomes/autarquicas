@@ -1,0 +1,1269 @@
+,alternateCandidates,mandates,party,presidents,votes.absoluteMajority,votes.constituenctyCounter,votes.mandates,votes.percentage,votes.presidents,votes.votes,county,district,availableMandates,blankVotes,blankVotesPercentage,displayMessage,hasNoVoting,nullVotes,nullVotesPercentage,numberParishes,numberVoters,percentageVoters,candidatos,year
+0,,0,B.E.,0,0,1,0,1.67,0,226,Albergaria-a-Velha,Aveiro,0,218,1.61,,False,149,1.1,8,13508,60.92,Américo Bastos Rodrigues da Silva,2009
+1,,2,CDS-PP,0,0,1,2,32.37,0,4373,Albergaria-a-Velha,Aveiro,0,218,1.61,,False,149,1.1,8,13508,60.92,António Augusto Amaral Loureiro e Santos,2009
+2,,0,PCP-PEV,0,0,1,0,1.84,0,248,Albergaria-a-Velha,Aveiro,0,218,1.61,,False,149,1.1,8,13508,60.92,Bruno Miguel Alves Bento,2009
+3,,4,PPD/PSD,1,1,1,4,47.86,1,6465,Albergaria-a-Velha,Aveiro,0,218,1.61,,False,149,1.1,8,13508,60.92,João Agostinho Pinto Pereira,2009
+4,,1,PS,0,0,1,1,13.54,0,1829,Albergaria-a-Velha,Aveiro,0,218,1.61,,False,149,1.1,8,13508,60.92,Jesus Manuel Vidinha Tomás,2009
+5,,0,CDS-PP,0,0,1,0,9.32,0,1545,Anadia,Aveiro,0,397,2.4,,False,211,1.27,15,16569,57.39,Maria do Céu Anjos Simões H. Castelo-Branco,2009
+6,,0,PCP-PEV,0,0,1,0,4.84,0,802,Anadia,Aveiro,0,397,2.4,,False,211,1.27,15,16569,57.39,José Francisco Paixão Correia,2009
+7,,5,PPD/PSD,1,1,1,5,57.02,1,9448,Anadia,Aveiro,0,397,2.4,,False,211,1.27,15,16569,57.39,Litério Augusto Marques,2009
+8,,2,PS,0,0,1,2,25.14,0,4166,Anadia,Aveiro,0,397,2.4,,False,211,1.27,15,16569,57.39,Lino Jorge Cerveira Pintado,2009
+9,,0,CDS-PP,0,0,1,0,9.65,0,1482,Arouca,Aveiro,0,209,1.36,,False,234,1.52,20,15354,71.64,José Maria Costa Gomes,2009
+10,,0,II,0,0,1,0,7.59,0,1166,Arouca,Aveiro,0,209,1.36,,False,234,1.52,20,15354,71.64,Vítor Fernando Gomes Brandão,2009
+11,,0,PCP-PEV,0,0,1,0,1.67,0,256,Arouca,Aveiro,0,209,1.36,,False,234,1.52,20,15354,71.64,Francisco Manuel da Cunha Gonçalves,2009
+12,,2,PPD/PSD,0,0,1,2,19.68,0,3022,Arouca,Aveiro,0,209,1.36,,False,234,1.52,20,15354,71.64,Manuel Artur de Almeida Miler,2009
+13,,5,PS,1,1,1,5,58.52,1,8985,Arouca,Aveiro,0,209,1.36,,False,234,1.52,20,15354,71.64,José Artur Tavares Neves,2009
+14,,0,B.E.,0,0,1,0,5.07,0,1814,Aveiro,Aveiro,0,1067,2.98,,False,489,1.37,14,35773,53.08,Catarina Sofia Esteves Antunes Morais Gomes,2009
+15,,0,PCP-PEV,0,0,1,0,3.66,0,1311,Aveiro,Aveiro,0,1067,2.98,,False,489,1.37,14,35773,53.08,António Manuel Brito Moreira,2009
+16,,6,PPD/PSD.CDS-PP,1,1,1,6,53.79,1,19243,Aveiro,Aveiro,0,1067,2.98,,False,489,1.37,14,35773,53.08,Élio Manuel Delgado da Maia,2009
+17,,3,PS,0,0,1,3,33.12,0,11849,Aveiro,Aveiro,0,1067,2.98,,False,489,1.37,14,35773,53.08,José da Cruz Costa,2009
+18,,0,B.E.,0,0,1,0,1.24,0,146,Castelo de Paiva,Aveiro,0,98,0.83,,False,118,1.0,9,11779,78.67,Bruno Sérgio Gomes Soares,2009
+19,,0,CDS-PP,0,0,1,0,2.72,0,320,Castelo de Paiva,Aveiro,0,98,0.83,,False,118,1.0,9,11779,78.67,Paulo Fernando Nogueira Martel da Silva,2009
+20,,0,PCP-PEV,0,0,1,0,0.82,0,97,Castelo de Paiva,Aveiro,0,98,0.83,,False,118,1.0,9,11779,78.67,Manuel da Rocha Vieira,2009
+21,,3,PPD/PSD,0,0,1,3,46.66,0,5496,Castelo de Paiva,Aveiro,0,98,0.83,,False,118,1.0,9,11779,78.67,Paulo Ramalheira Teixeira,2009
+22,,4,PS,1,1,1,4,46.73,1,5504,Castelo de Paiva,Aveiro,0,98,0.83,,False,118,1.0,9,11779,78.67,Gonçalo Fernando da Rocha de Jesus,2009
+23,,0,B.E.,0,0,1,0,3.43,0,710,Espinho,Aveiro,0,444,2.14,,False,263,1.27,5,20708,65.65,Carlos Alberto Silva,2009
+24,,0,CDS-PP,0,0,1,0,9.19,0,1903,Espinho,Aveiro,0,444,2.14,,False,263,1.27,5,20708,65.65,Marques Baptista,2009
+25,,0,PCP-PEV,0,0,1,0,6.55,0,1356,Espinho,Aveiro,0,444,2.14,,False,263,1.27,5,20708,65.65,Fausto Neves,2009
+26,,4,PPD/PSD,1,1,1,4,39.11,1,8099,Espinho,Aveiro,0,444,2.14,,False,263,1.27,5,20708,65.65,Pinto Moreira,2009
+27,,3,PS,0,0,1,3,38.31,0,7933,Espinho,Aveiro,0,444,2.14,,False,263,1.27,5,20708,65.65,José Mota,2009
+28,,0,PCP-PEV,0,0,1,0,4.36,0,617,Estarreja,Aveiro,0,232,1.64,,False,187,1.32,7,14160,56.33,António Manuel de Figueiredo Vidal,2009
+29,,5,PPD/PSD.CDS-PP,1,1,1,5,64.15,1,9083,Estarreja,Aveiro,0,232,1.64,,False,187,1.32,7,14160,56.33,José Eduardo Alves Valente de Matos,2009
+30,,2,PS,0,0,1,2,28.54,0,4041,Estarreja,Aveiro,0,232,1.64,,False,187,1.32,7,14160,56.33,Fernando Manuel Mendonça Albergaria Matos,2009
+31,,5,PS,1,1,1,5,61.26,1,6517,Mealhada,Aveiro,0,311,2.92,,False,149,1.4,8,10639,57.29,Carlos Alberto da Costa Cabral,2009
+32,,0,CDS-PP,0,0,1,0,2.18,0,112,Murtosa,Aveiro,0,83,1.62,,False,63,1.23,4,5133,52.15,Ana Sofia Ribeiro Brandão,2009
+33,,0,PCP-PEV,0,0,1,0,1.62,0,83,Murtosa,Aveiro,0,83,1.62,,False,63,1.23,4,5133,52.15,Jorge Augusto Portela Vieira,2009
+34,,4,PPD/PSD,1,1,1,4,66.3,1,3403,Murtosa,Aveiro,0,83,1.62,,False,63,1.23,4,5133,52.15,António Maria dos Santos Sousa,2009
+35,,1,PS,0,0,1,1,27.06,0,1389,Murtosa,Aveiro,0,83,1.62,,False,63,1.23,4,5133,52.15,Ana Maria Farelo Mendes Silva Rebimbas,2009
+36,,0,B.E.,0,0,1,0,2.39,0,938,Oliveira de Azeméis,Aveiro,0,700,1.78,,False,463,1.18,19,39239,64.39,Cláudia Patrícia de Pinho Ribeiro,2009
+37,,0,CDS-PP,0,0,1,0,7.46,0,2928,Oliveira de Azeméis,Aveiro,0,700,1.78,,False,463,1.18,19,39239,64.39,António Pinto Moreira,2009
+38,,0,PCP-PEV,0,0,1,0,1.79,0,703,Oliveira de Azeméis,Aveiro,0,700,1.78,,False,463,1.18,19,39239,64.39,António Costa Alves,2009
+39,,5,PPD/PSD,1,1,1,5,44.83,1,17590,Oliveira de Azeméis,Aveiro,0,700,1.78,,False,463,1.18,19,39239,64.39,Hermínio José Sobral de Loureiro Gonçalves,2009
+40,,4,PS,0,0,1,4,40.56,0,15917,Oliveira de Azeméis,Aveiro,0,700,1.78,,False,463,1.18,19,39239,64.39,Maria Helena Terra de Oliveira,2009
+41,,2,CDS-PP,0,0,1,2,31.49,0,3658,Oliveira do Bairro,Aveiro,0,179,1.54,,False,166,1.43,6,11615,58.01,Acílio Domingues Gala,2009
+42,,0,PCP-PEV,0,0,1,0,1.22,0,142,Oliveira do Bairro,Aveiro,0,179,1.54,,False,166,1.43,6,11615,58.01,Artur Pereira Ramísio,2009
+43,,4,PPD/PSD,1,1,1,4,53.58,1,6223,Oliveira do Bairro,Aveiro,0,179,1.54,,False,166,1.43,6,11615,58.01,Mário João Ferreira da Silva Oliveira,2009
+44,,1,PS,0,0,1,1,10.74,0,1247,Oliveira do Bairro,Aveiro,0,179,1.54,,False,166,1.43,6,11615,58.01,Henrique Santiago Tomás,2009
+45,,0,B.E.,0,0,1,0,9.4,0,2657,Ovar,Aveiro,0,605,2.14,,False,368,1.3,8,28252,58.79,José David Mendes de Almeida,2009
+46,,0,PCP-PEV,0,0,1,0,4.86,0,1373,Ovar,Aveiro,0,605,2.14,,False,368,1.3,8,28252,58.79,José dos Santos Cardoso Macedo,2009
+47,,3,PPD/PSD.CDS-PP,0,0,1,3,33.31,0,9412,Ovar,Aveiro,0,605,2.14,,False,368,1.3,8,28252,58.79,Álvaro Manuel Reis Santos,2009
+48,,4,PS,1,1,1,4,48.98,1,13837,Ovar,Aveiro,0,605,2.14,,False,368,1.3,8,28252,58.79,Manuel Alves de Oliveira,2009
+49,,0,B.E.,0,0,1,0,2.59,0,2049,Santa Maria da Feira,Aveiro,0,1351,1.71,,False,787,1.0,31,79075,65.02,Joaquim Manuel de Oliveira Dias,2009
+50,,0,CDS-PP,0,0,1,0,3.5,0,2767,Santa Maria da Feira,Aveiro,0,1351,1.71,,False,787,1.0,31,79075,65.02,Manuel José Alferes Pereira,2009
+51,,0,PCP-PEV,0,0,1,0,2.52,0,1995,Santa Maria da Feira,Aveiro,0,1351,1.71,,False,787,1.0,31,79075,65.02,Antero de Oliveira Resende,2009
+52,,6,PPD/PSD,1,1,1,6,48.07,1,38008,Santa Maria da Feira,Aveiro,0,1351,1.71,,False,787,1.0,31,79075,65.02,Alfredo Oliveira Henriques,2009
+53,,5,PS,0,0,1,5,40.62,0,32118,Santa Maria da Feira,Aveiro,0,1351,1.71,,False,787,1.0,31,79075,65.02,Alcides Alves Branco de Carvalho,2009
+54,,0,CDS-PP,0,0,1,0,3.71,0,314,Sever do Vouga,Aveiro,0,120,1.42,,False,93,1.1,9,8456,69.57,António José Cardoso de Barros,2009
+55,,2,IV,0,0,1,2,25.66,0,2170,Sever do Vouga,Aveiro,0,120,1.42,,False,93,1.1,9,8456,69.57,João Miguel Tavares de Almeida,2009
+56,,0,PCP-PEV,0,0,1,0,1.36,0,115,Sever do Vouga,Aveiro,0,120,1.42,,False,93,1.1,9,8456,69.57,António José Tavares de Bastos,2009
+57,,1,PPD/PSD,0,0,1,1,20.16,0,1705,Sever do Vouga,Aveiro,0,120,1.42,,False,93,1.1,9,8456,69.57,Acácio Rodrigues Barbosa,2009
+58,,4,PS,1,1,1,4,46.58,1,3939,Sever do Vouga,Aveiro,0,120,1.42,,False,93,1.1,9,8456,69.57,Manuel Silva Soares,2009
+59,,0,B.E.,0,0,1,0,2.66,0,310,São João da Madeira,Aveiro,0,144,1.24,,False,99,0.85,1,11658,58.35,Pedro da Costa Pardal,2009
+60,,0,CDS-PP,0,0,1,0,7.15,0,833,São João da Madeira,Aveiro,0,144,1.24,,False,99,0.85,1,11658,58.35,Dina Maria da Costa de Pinho Rocha,2009
+61,,0,PCP-PEV,0,0,1,0,5.76,0,672,São João da Madeira,Aveiro,0,144,1.24,,False,99,0.85,1,11658,58.35,Jorge Manuel de Resende Cortez,2009
+62,,5,PPD/PSD,1,1,1,5,55.95,1,6523,São João da Madeira,Aveiro,0,144,1.24,,False,99,0.85,1,11658,58.35,Manuel Castro de Almeida,2009
+63,,2,PS,0,0,1,2,26.39,0,3077,São João da Madeira,Aveiro,0,144,1.24,,False,99,0.85,1,11658,58.35,Pedro Nuno de Oliveira Santos,2009
+64,,0,PCP-PEV,0,0,1,0,2.25,0,274,Vagos,Aveiro,0,202,1.66,,False,205,1.68,11,12186,57.33,Manuel Mário Domingos,2009
+65,,5,PPD/PSD,1,1,1,5,63.42,1,7728,Vagos,Aveiro,0,202,1.66,,False,205,1.68,11,12186,57.33,Rui Miguel Rocha da Cruz,2009
+66,,2,X,0,0,1,2,30.99,0,3777,Vagos,Aveiro,0,202,1.66,,False,205,1.68,11,12186,57.33,Mário dos Santos Martins Júnior,2009
+67,,3,CDS-PP,0,0,1,3,37.59,0,5652,Vale de Cambra,Aveiro,0,250,1.66,,False,245,1.63,9,15034,66.31,José Alberto Freitas Soares Pinheiro e Silva,2009
+68,,0,PCP-PEV,0,0,1,0,2.19,0,329,Vale de Cambra,Aveiro,0,250,1.66,,False,245,1.63,9,15034,66.31,João Pedro Tavares Martins,2009
+69,,4,PPD/PSD,1,1,1,4,46.17,1,6941,Vale de Cambra,Aveiro,0,250,1.66,,False,245,1.63,9,15034,66.31,José António Bastos da Silva,2009
+70,,0,PS,0,0,1,0,10.76,0,1617,Vale de Cambra,Aveiro,0,250,1.66,,False,245,1.63,9,15034,66.31,Carlos Gabriel Almeida Amorim,2009
+71,,0,B.E.,0,0,1,0,1.28,0,342,Águeda,Aveiro,0,454,1.7,,False,253,0.95,20,26741,60.96,Vítor Manuel Aguiar Gomes,2009
+72,,0,CDS-PP,0,0,1,0,5.16,0,1379,Águeda,Aveiro,0,454,1.7,,False,253,0.95,20,26741,60.96,José Carlos Esmeraldo dos Santos,2009
+73,,0,PCP-PEV,0,0,1,0,1.9,0,509,Águeda,Aveiro,0,454,1.7,,False,253,0.95,20,26741,60.96,Nelson Manuel Nunes Leal,2009
+74,,0,PND,0,0,1,0,0.39,0,105,Águeda,Aveiro,0,454,1.7,,False,253,0.95,20,26741,60.96,Alexandra Isabel Ferreira Abrantes,2009
+75,,3,PPD/PSD,0,0,1,3,34.14,0,9130,Águeda,Aveiro,0,454,1.7,,False,253,0.95,20,26741,60.96,Manuel de Castro Azevedo,2009
+76,,4,PS,1,1,1,4,54.48,1,14569,Águeda,Aveiro,0,454,1.7,,False,253,0.95,20,26741,60.96,Gil Nadais Resende da Fonseca,2009
+77,,0,B.E.,0,0,1,0,2.6,0,418,Ílhavo,Aveiro,0,318,1.97,,False,153,0.95,4,16107,47.55,José Paulo Alves Corceiro,2009
+78,,0,CDS-PP,0,0,1,0,5.22,0,841,Ílhavo,Aveiro,0,318,1.97,,False,153,0.95,4,16107,47.55,Francisco Luís Pereira da Rocha,2009
+79,,0,PCP-PEV,0,0,1,0,3.04,0,490,Ílhavo,Aveiro,0,318,1.97,,False,153,0.95,4,16107,47.55,Fernando José de Jesus Marta,2009
+80,,5,PPD/PSD,1,1,1,5,63.53,1,10233,Ílhavo,Aveiro,0,318,1.97,,False,153,0.95,4,16107,47.55,José Agostinho Ribau Esteves,2009
+81,,2,PS,0,0,1,2,22.69,0,3654,Ílhavo,Aveiro,0,318,1.97,,False,153,0.95,4,16107,47.55,José Marinho Vaz,2009
+82,,0,B.E.,0,0,1,0,1.69,0,303,Angra do Heroísmo,Açores,0,237,1.32,,False,137,0.76,19,17951,56.14,Orlando Manuel Labrusco Félix Guerreiro,2009
+83,,1,CDS-PP,0,0,1,1,13.81,0,2479,Angra do Heroísmo,Açores,0,237,1.32,,False,137,0.76,19,17951,56.14,Artur Manuel Leal Lima,2009
+84,,0,PCP-PEV,0,0,1,0,1.07,0,192,Angra do Heroísmo,Açores,0,237,1.32,,False,137,0.76,19,17951,56.14,António Gabriel Botelho da Fonseca,2009
+85,,3,PPD/PSD,0,0,1,3,35.76,0,6419,Angra do Heroísmo,Açores,0,237,1.32,,False,137,0.76,19,17951,56.14,António Lima Cardoso Ventura,2009
+86,,3,PS,1,0,1,3,45.59,1,8184,Angra do Heroísmo,Açores,0,237,1.32,,False,137,0.76,19,17951,56.14,Andreia Martins Cardoso da Costa,2009
+87,,3,PPD/PSD,1,1,1,3,52.18,1,1378,Calheta (R.A.A.),Açores,0,37,1.4,,False,19,0.72,5,2641,69.66,Aires António Fagundes Reis,2009
+88,,2,PS,0,0,1,2,45.7,0,1207,Calheta (R.A.A.),Açores,0,37,1.4,,False,19,0.72,5,2641,69.66,Rogério Paulo Lopes Soares Veiros,2009
+89,,1,PPD/PSD,0,0,1,1,31.41,0,87,Corvo,Açores,0,5,1.81,,False,5,1.81,1,277,78.69,Deolinda Rosa Machado Vieira Estevão,2009
+90,,4,PS,1,1,1,4,64.98,1,180,Corvo,Açores,0,5,1.81,,False,5,1.81,1,277,78.69,Manuel das Pedras Rita,2009
+91,,0,B.E.,0,0,1,0,1.45,0,123,Horta,Açores,0,139,1.64,,False,60,0.71,13,8487,65.06,Maria José Ferreira da Silva,2009
+92,,0,CDS-PP,0,0,1,0,1.24,0,105,Horta,Açores,0,139,1.64,,False,60,0.71,13,8487,65.06,Alexandre Agostinho Martins de Carvalho,2009
+93,,0,PCP-PEV,0,0,1,0,9.18,0,779,Horta,Açores,0,139,1.64,,False,60,0.71,13,8487,65.06,José Eduardo Bicudo Decq Mota,2009
+94,,3,PPD/PSD,0,0,1,3,40.62,0,3447,Horta,Açores,0,139,1.64,,False,60,0.71,13,8487,65.06,Paulo Jorge Peixinho de Oliveira,2009
+95,,4,PS,1,1,1,4,45.17,1,3834,Horta,Açores,0,139,1.64,,False,60,0.71,13,8487,65.06,João Fernando Brum de Azevedo e Castro,2009
+96,,0,CDS-PP,0,0,1,0,3.84,0,230,Lagoa (R.A.A),Açores,0,82,1.37,,False,104,1.73,5,5996,49.81,Roberto Manuel Sousa Oliveira,2009
+97,,0,PCP-PEV,0,0,1,0,1.3,0,78,Lagoa (R.A.A),Açores,0,82,1.37,,False,104,1.73,5,5996,49.81,Júlio Manuel Pereira Duarte,2009
+98,,2,PPD/PSD,0,0,1,2,25.4,0,1523,Lagoa (R.A.A),Açores,0,82,1.37,,False,104,1.73,5,5996,49.81,Rui Manuel Maciel Costa de Oliveira Ramos,2009
+99,,5,PS,1,1,1,5,66.36,1,3979,Lagoa (R.A.A),Açores,0,82,1.37,,False,104,1.73,5,5996,49.81,João António Ferreira Ponte,2009
+100,,3,PPD/PSD,1,1,1,3,53.86,1,558,Lajes das Flores,Açores,0,8,0.77,,False,5,0.48,7,1036,80.94,João António Vieira Lourenço,2009
+101,,2,PS,0,0,1,2,44.88,0,465,Lajes das Flores,Açores,0,8,0.77,,False,5,0.48,7,1036,80.94,Luís Carlos Martins Maciel,2009
+102,,2,PPD/PSD,0,0,1,2,47.75,0,1592,Lajes do Pico,Açores,0,30,0.9,,False,28,0.84,6,3334,74.89,Sara Maria Alves da Rosa Santos,2009
+103,,3,PS,1,1,1,3,50.51,1,1684,Lajes do Pico,Açores,0,30,0.9,,False,28,0.84,6,3334,74.89,Roberto Manuel Medeiros da Silva,2009
+104,,0,PCP-PEV,0,0,1,0,2.08,0,76,Madalena,Açores,0,75,2.05,,False,20,0.55,6,3650,69.08,Elisabete da Piedade Alves,2009
+105,,4,PPD/PSD,1,1,1,4,64.14,1,2341,Madalena,Açores,0,75,2.05,,False,20,0.55,6,3650,69.08,Jorge Manuel Pereira Rodrigues,2009
+106,,1,PS,0,0,1,1,31.18,0,1138,Madalena,Açores,0,75,2.05,,False,20,0.55,6,3650,69.08,Hernani Hélio Jorge,2009
+107,,3,PPD/PSD,1,1,1,3,56.5,1,1965,Nordeste,Açores,0,61,1.75,,False,60,1.73,9,3478,74.06,José Carlos Barbosa Carreiro,2009
+108,,2,PS,0,0,1,2,40.02,0,1392,Nordeste,Açores,0,61,1.75,,False,60,1.73,9,3478,74.06,Carlos Alberto Medeiros Mendonça,2009
+109,,0,B.E.,0,0,1,0,2.09,0,599,Ponta Delgada,Açores,0,290,1.01,,False,219,0.76,24,28702,47.27,Lúcia de Fátima Oliveira Arruda,2009
+110,,0,CDS-PP,0,0,1,0,2.76,0,792,Ponta Delgada,Açores,0,290,1.01,,False,219,0.76,24,28702,47.27,Eduardo Jorge Lopes Medeiros,2009
+111,,0,PCP-PEV,0,0,1,0,1.67,0,480,Ponta Delgada,Açores,0,290,1.01,,False,219,0.76,24,28702,47.27,Carlos Alberto Gomes Ribeiro,2009
+112,,6,PPD/PSD,1,1,1,6,60.69,1,17419,Ponta Delgada,Açores,0,290,1.01,,False,219,0.76,24,28702,47.27,Berta Maria Correia de Almeida de Melo Cabral,2009
+113,,3,PS,0,0,1,3,31.02,0,8903,Ponta Delgada,Açores,0,290,1.01,,False,219,0.76,24,28702,47.27,José Paulo Martins Casaca,2009
+114,,0,PCP-PEV,0,0,1,0,0.74,0,32,Povoação,Açores,0,56,1.3,,False,39,0.91,6,4304,69.37,Teresa de Jesus Vieira Moniz Vertentes,2009
+115,,2,PPD/PSD,0,0,1,2,39.8,0,1713,Povoação,Açores,0,56,1.3,,False,39,0.91,6,4304,69.37,Francisco da Silva Álvares,2009
+116,,3,PS,1,1,1,3,57.25,1,2464,Povoação,Açores,0,56,1.3,,False,39,0.91,6,4304,69.37,Carlos Emílio Lopes Machado Ávila,2009
+117,,0,CDS-PP,0,0,1,0,2.02,0,272,Ribeira Grande,Açores,0,158,1.17,,False,163,1.21,14,13479,53.13,Artur José Araújo de Arruda Ponte,2009
+118,,0,PCP-PEV,0,0,1,0,1.51,0,203,Ribeira Grande,Açores,0,158,1.17,,False,163,1.21,14,13479,53.13,Antero Jerónimo Moniz Arruda Quental,2009
+119,,3,PPD/PSD,0,0,1,3,36.09,0,4864,Ribeira Grande,Açores,0,158,1.17,,False,163,1.21,14,13479,53.13,Filomeno dos Anjos da Silva Gouveia,2009
+120,,4,PS,1,1,1,4,54.54,1,7352,Ribeira Grande,Açores,0,158,1.17,,False,163,1.21,14,13479,53.13,Ricardo José Moniz da Silva,2009
+121,,2,PPD/PSD,0,0,1,2,45.26,0,1288,Santa Cruz da Graciosa,Açores,0,35,1.23,,False,29,1.02,4,2846,66.5,José Ramos de Aguiar,2009
+122,,3,PS,1,1,1,3,52.49,1,1494,Santa Cruz da Graciosa,Açores,0,35,1.23,,False,29,1.02,4,2846,66.5,Manuel Avelar Cunha Santos,2009
+123,,0,CDS-PP,0,0,1,0,13.21,0,184,Santa Cruz das Flores,Açores,0,22,1.58,,False,6,0.43,4,1393,69.51,Rosa Margarida Ribeiro Cravinho,2009
+124,,0,PCP-PEV,0,0,1,0,5.81,0,81,Santa Cruz das Flores,Açores,0,22,1.58,,False,6,0.43,4,1393,69.51,João Paulo Valadão Corvelo,2009
+125,,1,PPD/PSD,0,0,1,1,22.61,0,315,Santa Cruz das Flores,Açores,0,22,1.58,,False,6,0.43,4,1393,69.51,Hélio Fernando Miranda Ramos,2009
+126,,4,PS,1,1,1,4,56.35,1,785,Santa Cruz das Flores,Açores,0,22,1.58,,False,6,0.43,4,1393,69.51,Manuel Alberto da Silva Pereira,2009
+127,,0,CDS-PP,0,0,1,0,1.05,0,24,São Roque do Pico,Açores,0,29,1.27,,False,16,0.7,5,2292,71.54,Rosa Maria da Silva Vieira,2009
+128,,0,PCP-PEV,0,0,1,0,0.61,0,14,São Roque do Pico,Açores,0,29,1.27,,False,16,0.7,5,2292,71.54,José Manuel Bettencourt Ávila,2009
+129,,3,PPD/PSD,1,1,1,3,56.37,1,1292,São Roque do Pico,Açores,0,29,1.27,,False,16,0.7,5,2292,71.54,Luís Filipe Ramos Macedo da Silva,2009
+130,,2,PS,0,0,1,2,40.01,0,917,São Roque do Pico,Açores,0,29,1.27,,False,16,0.7,5,2292,71.54,Paulo Jaime Terra Goulart,2009
+131,,0,B.E.,0,0,1,0,0.59,0,21,Velas,Açores,0,49,1.39,,False,38,1.08,6,3533,70.07,António Fernando Cardoso,2009
+132,,0,CDS-PP,0,0,1,0,11.29,0,399,Velas,Açores,0,49,1.39,,False,38,1.08,6,3533,70.07,Vítor Manuel Assunção Bernardes,2009
+133,,2,PPD/PSD,0,0,1,2,35.55,0,1256,Velas,Açores,0,49,1.39,,False,38,1.08,6,3533,70.07,António José Bettencourt da Silveira,2009
+134,,3,PS,1,1,1,3,50.1,1,1770,Velas,Açores,0,49,1.39,,False,38,1.08,6,3533,70.07,Manuel Soares da Silveira,2009
+135,,0,CDS-PP,0,0,1,0,3.8,0,244,Vila Franca do Campo,Açores,0,63,0.98,,False,115,1.79,6,6422,65.22,João Manuel Pacheco Furtado,2009
+136,,0,PCP-PEV,0,0,1,0,0.59,0,38,Vila Franca do Campo,Açores,0,63,0.98,,False,115,1.79,6,6422,65.22,Juvenálio dos Santos da Ponte,2009
+137,,2,PPD/PSD,0,0,1,2,34.79,0,2234,Vila Franca do Campo,Açores,0,63,0.98,,False,115,1.79,6,6422,65.22,Rui António Dias da Câmara de Carvalho e Melo,2009
+138,,3,PS,1,1,1,3,58.05,1,3728,Vila Franca do Campo,Açores,0,63,0.98,,False,115,1.79,6,6422,65.22,António Fernando Raposo Cordeiro,2009
+139,,0,B.E.,0,0,1,0,0.88,0,92,Vila da Praia da Vitória,Açores,0,123,1.17,,False,89,0.85,11,10509,55.95,Paulo José Maio Sousa Mendes,2009
+140,,0,CDS-PP,0,0,1,0,3.77,0,396,Vila da Praia da Vitória,Açores,0,123,1.17,,False,89,0.85,11,10509,55.95,Pedro Gabriel Correia Nunes Teixeira Pinto,2009
+141,,2,PPD/PSD,0,0,1,2,23.84,0,2505,Vila da Praia da Vitória,Açores,0,123,1.17,,False,89,0.85,11,10509,55.95,Berto Graciliano da Almeida Cabral,2009
+142,,5,PS,1,1,1,5,69.5,1,7304,Vila da Praia da Vitória,Açores,0,123,1.17,,False,89,0.85,11,10509,55.95,Roberto Lúcio Silva Pereira Monteiro,2009
+143,,0,CDS-PP,0,0,1,0,0.59,0,18,Vila do Porto,Açores,0,30,0.98,,False,32,1.04,5,3071,61.01,Maria Adelaide da Fonseca Ferreira Branco Morgado,2009
+144,,0,PCP-PEV,0,0,1,0,4.62,0,142,Vila do Porto,Açores,0,30,0.98,,False,32,1.04,5,3071,61.01,Daniel da Silva Gonçalves,2009
+145,,3,PPD/PSD,1,1,1,3,55.85,1,1715,Vila do Porto,Açores,0,30,0.98,,False,32,1.04,5,3071,61.01,Carlos Henrique Lopes Rodrigues,2009
+146,,2,PS,0,0,1,2,36.93,0,1134,Vila do Porto,Açores,0,30,0.98,,False,32,1.04,5,3071,61.01,Nélia Maria Coutinho Figueiredo,2009
+147,,2,PCP-PEV,0,0,1,2,46.79,0,2980,Aljustrel,Beja,0,86,1.35,,False,48,0.75,5,6369,69.39,Manuel Francisco Colaço Machado,2009
+148,,0,PPD/PSD.CDS-PP,0,0,1,0,2.04,0,130,Aljustrel,Beja,0,86,1.35,,False,48,0.75,5,6369,69.39,Carlos Miguel Maia Palma Agatão,2009
+149,,3,PS,1,1,1,3,49.07,1,3125,Aljustrel,Beja,0,86,1.35,,False,48,0.75,5,6369,69.39,Nelson Domingos Brito,2009
+150,,0,B.E.,0,0,1,0,2.1,0,108,Almodôvar,Beja,0,90,1.75,,False,96,1.87,8,5135,69.19,Carlos Manuel da Palma Rosa,2009
+151,,0,PCP-PEV,0,0,1,0,4.75,0,244,Almodôvar,Beja,0,90,1.75,,False,96,1.87,8,5135,69.19,Joaquim Augusto Loureiro Mariano,2009
+152,,3,PPD/PSD,1,1,1,3,56.28,1,2890,Almodôvar,Beja,0,90,1.75,,False,96,1.87,8,5135,69.19,António José Messias do Rosário Sebastião,2009
+153,,2,PS,0,0,1,2,33.24,0,1707,Almodôvar,Beja,0,90,1.75,,False,96,1.87,8,5135,69.19,João Manuel Luz Saleiro,2009
+154,,2,PCP-PEV,1,0,1,2,34.08,1,547,Alvito,Beja,0,28,1.74,,False,19,1.18,2,1605,75.71,João Luís Batista Penetra,2009
+155,,1,PPD/PSD.CDS-PP.PPM,0,0,1,1,29.6,0,475,Alvito,Beja,0,28,1.74,,False,19,1.18,2,1605,75.71,Mário Nelson da Silva Vaz Simões,2009
+156,,2,PS,0,0,1,2,33.4,0,536,Alvito,Beja,0,28,1.74,,False,19,1.18,2,1605,75.71,Vicente Maria Mouzinho Maurício,2009
+157,,0,CDS-PP,0,0,1,0,1.81,0,22,Barrancos,Beja,0,32,2.63,,False,25,2.05,1,1218,77.83,Sílvia Maria Ramalho Timóteo Vitorino,2009
+158,,3,PCP-PEV,1,1,1,3,59.52,1,725,Barrancos,Beja,0,32,2.63,,False,25,2.05,1,1218,77.83,António Pica Tereno,2009
+159,,2,PS,0,0,1,2,33.99,0,414,Barrancos,Beja,0,32,2.63,,False,25,2.05,1,1218,77.83,Francisco Manuel Canudo Sena,2009
+160,,0,CDS-PP,0,0,1,0,1.59,0,298,Beja,Beja,0,214,1.14,,False,167,0.89,18,18758,60.67,Ismael António dos Santos Gomes Pimentel,2009
+161,,3,PCP-PEV,0,0,1,3,41.66,0,7815,Beja,Beja,0,214,1.14,,False,167,0.89,18,18758,60.67,Francisco da Cruz dos Santos,2009
+162,,0,PPD/PSD,0,0,1,0,4.98,0,935,Beja,Beja,0,214,1.14,,False,167,0.89,18,18758,60.67,José Filipe Pires dos Reis,2009
+163,,4,PS,1,1,1,4,45.72,1,8577,Beja,Beja,0,214,1.14,,False,167,0.89,18,18758,60.67,Jorge Pulido Valente,2009
+164,,0,VI,0,0,1,0,1.08,0,203,Beja,Beja,0,214,1.14,,False,167,0.89,18,18758,60.67,Dulce do Carmo Lopes Caleiro Amaral,2009
+165,,3,PCP-PEV,1,1,1,3,54.97,1,2334,Castro Verde,Beja,0,58,1.37,,False,39,0.92,5,4246,64.09,Francisco José Caldeira Duarte,2009
+166,,0,PPD/PSD.CDS-PP,0,0,1,0,4.55,0,193,Castro Verde,Beja,0,58,1.37,,False,39,0.92,5,4246,64.09,Pedro Daniel Ferreira de Castro Figueira,2009
+167,,2,PS,0,0,1,2,38.2,0,1622,Castro Verde,Beja,0,58,1.37,,False,39,0.92,5,4246,64.09,José Francisco Colaço Guerreiro,2009
+168,,2,PCP-PEV,0,0,1,2,46.17,0,1548,Cuba,Beja,0,37,1.1,,False,31,0.92,4,3353,80.52,João Manuel Casaca Português,2009
+169,,0,PPD/PSD,0,0,1,0,3.64,0,122,Cuba,Beja,0,37,1.1,,False,31,0.92,4,3353,80.52,Maria da Conceição Gomes Pires,2009
+170,,3,PS,1,1,1,3,48.17,1,1615,Cuba,Beja,0,37,1.1,,False,31,0.92,4,3353,80.52,Francisco António Galinha Orelha,2009
+171,,0,MPT,0,0,1,0,1.62,0,83,Ferreira do Alentejo,Beja,0,78,1.52,,False,56,1.09,6,5116,65.61,Manuel Gonçalves,2009
+172,,2,PCP-PEV,0,0,1,2,36.55,0,1870,Ferreira do Alentejo,Beja,0,78,1.52,,False,56,1.09,6,5116,65.61,Francisco António Braz Caixinha,2009
+173,,0,PPD/PSD,0,0,1,0,3.3,0,169,Ferreira do Alentejo,Beja,0,78,1.52,,False,56,1.09,6,5116,65.61,Flora Maria Lança Mestrinho,2009
+174,,3,PS,1,1,1,3,55.9,1,2860,Ferreira do Alentejo,Beja,0,78,1.52,,False,56,1.09,6,5116,65.61,Aníbal Sousa Reis Coelho da Costa,2009
+175,,0,CDS-PP,0,0,1,0,2.1,0,164,Moura,Beja,0,195,2.5,,False,63,0.81,8,7797,54.95,Sílvia Perpétua Cruz Ramos,2009
+176,,4,PCP-PEV,1,1,1,4,49.49,1,3859,Moura,Beja,0,195,2.5,,False,63,0.81,8,7797,54.95,José Maria Prazeres Pós-de-Mina,2009
+177,,0,PPD/PSD,0,0,1,0,7.94,0,619,Moura,Beja,0,195,2.5,,False,63,0.81,8,7797,54.95,Simão Seita Janeiro,2009
+178,,3,PS,0,0,1,3,37.16,0,2897,Moura,Beja,0,195,2.5,,False,63,0.81,8,7797,54.95,Rui Miguel Costa Apolinário,2009
+179,,2,PCP-PEV,0,0,1,2,42.94,0,2456,Mértola,Beja,0,95,1.66,,False,93,1.63,9,5720,76.5,Jorge José Horta Revez,2009
+180,,0,PPD/PSD,0,0,1,0,0.96,0,55,Mértola,Beja,0,95,1.66,,False,93,1.63,9,5720,76.5,José Diogo Morais dos Santos,2009
+181,,3,PS,1,1,1,3,46.35,1,2651,Mértola,Beja,0,95,1.66,,False,93,1.63,9,5720,76.5,Jorge Paulo Colaço Rosa,2009
+182,,0,XI,0,0,1,0,6.47,0,370,Mértola,Beja,0,95,1.66,,False,93,1.63,9,5720,76.5,José Carlos Raposo Rodrigues Celorico,2009
+183,,0,B.E.,0,0,1,0,4.31,0,633,Odemira,Beja,0,313,2.13,,False,271,1.84,17,14695,66.18,Alberto Manuel Belo da Cunha Matos,2009
+184,,3,PCP-PEV,0,0,1,3,34.39,0,5053,Odemira,Beja,0,313,2.13,,False,271,1.84,17,14695,66.18,Cláudio José dos Santos Percheiro,2009
+185,,0,PPD/PSD.CDS-PP,0,0,1,0,10.77,0,1582,Odemira,Beja,0,313,2.13,,False,271,1.84,17,14695,66.18,José Francisco de Sousa Prado Santos Silva,2009
+186,,4,PS,1,1,1,4,46.57,1,6843,Odemira,Beja,0,313,2.13,,False,271,1.84,17,14695,66.18,José Alberto Candeias Guerreiro,2009
+187,,0,PCP-PEV,0,0,1,0,3.85,0,162,Ourique,Beja,0,51,1.21,,False,99,2.35,6,4210,81.12,António Custódio Coelho,2009
+188,,1,PPD/PSD,0,0,1,1,25.94,0,1092,Ourique,Beja,0,51,1.21,,False,99,2.35,6,4210,81.12,José Raul Guerreiro Mendes dos Santos,2009
+189,,4,PS,1,1,1,4,66.65,1,2806,Ourique,Beja,0,51,1.21,,False,99,2.35,6,4210,81.12,Pedro Nuno Raposo Prazeres do Carmo,2009
+190,,0,B.E.,0,0,1,0,3.48,0,287,Serpa,Beja,0,175,2.12,,False,107,1.3,7,8256,57.17,Maria Manuela Carreiro da Silva Salta,2009
+191,,0,CDS-PP,0,0,1,0,1.36,0,112,Serpa,Beja,0,175,2.12,,False,107,1.3,7,8256,57.17,Catarina Salgueiro Ramos Gomes Serrano,2009
+192,,4,PCP-PEV,1,1,1,4,51.9,1,4285,Serpa,Beja,0,175,2.12,,False,107,1.3,7,8256,57.17,João Manuel Rocha da Silva,2009
+193,,0,PPD/PSD,0,0,1,0,8.58,0,708,Serpa,Beja,0,175,2.12,,False,107,1.3,7,8256,57.17,Sebastião Manuel L. Morgado Louro Rodrigues,2009
+194,,3,PS,0,0,1,3,31.27,0,2582,Serpa,Beja,0,175,2.12,,False,107,1.3,7,8256,57.17,António José Patinho Pereira,2009
+195,,0,B.E.,0,0,1,0,1.28,0,46,Vidigueira,Beja,0,61,1.7,,False,55,1.53,4,3596,67.44,Fernando António da Silva Servo,2009
+196,,0,CDS-PP,0,0,1,0,1.25,0,45,Vidigueira,Beja,0,61,1.7,,False,55,1.53,4,3596,67.44,Maria Micaela Matado Rosa,2009
+197,,3,PCP-PEV,1,1,1,3,55.23,1,1986,Vidigueira,Beja,0,61,1.7,,False,55,1.53,4,3596,67.44,Manuel Luís da Rosa Marra,2009
+198,,0,PPD/PSD,0,0,1,0,4.87,0,175,Vidigueira,Beja,0,61,1.7,,False,55,1.53,4,3596,67.44,Guido João Diniz Pires,2009
+199,,2,PS,0,0,1,2,34.15,0,1228,Vidigueira,Beja,0,61,1.7,,False,55,1.53,4,3596,67.44,António Francisco Cano Mendes Pinto,2009
+200,,0,B.E.,0,0,1,0,1.23,0,150,Amares,Braga,0,137,1.12,,False,146,1.19,24,12232,64.19,Nuno Miguel Franco da Costa,2009
+201,,0,CDS-PP,0,0,1,0,4.23,0,517,Amares,Braga,0,137,1.12,,False,146,1.19,24,12232,64.19,Manuel Joaquim de Sousa Pereira,2009
+202,,4,I,1,1,1,4,47.1,1,5761,Amares,Braga,0,137,1.12,,False,146,1.19,24,12232,64.19,José Lopes Gonçalves Barbosa,2009
+203,,0,PCP-PEV,0,0,1,0,1.46,0,178,Amares,Braga,0,137,1.12,,False,146,1.19,24,12232,64.19,Manuel Joaquim Gonçalves da Silva,2009
+204,,1,PPD/PSD,0,0,1,1,14.63,0,1790,Amares,Braga,0,137,1.12,,False,146,1.19,24,12232,64.19,António Januário Veloso de Barros,2009
+205,,2,PS,0,0,1,2,29.05,0,3553,Amares,Braga,0,137,1.12,,False,146,1.19,24,12232,64.19,Manuel da Rocha Moreira,2009
+206,,0,PND,0,0,1,0,1.53,0,1203,Barcelos,Braga,0,1172,1.49,,False,667,0.85,89,78423,74.1,Jorge Manuel Mesquita Fernandes,2009
+207,,5,PPD/PSD,0,0,1,5,43.35,0,33997,Barcelos,Braga,0,1172,1.49,,False,667,0.85,89,78423,74.1,Fernando Ribeiro dos reis,2009
+208,,0,PPM,0,0,1,0,0.3,0,238,Barcelos,Braga,0,1172,1.49,,False,667,0.85,89,78423,74.1,Alfredo Maria Côrte-Real Souto Neves,2009
+209,,6,PS,1,1,1,6,44.52,1,34911,Barcelos,Braga,0,1172,1.49,,False,667,0.85,89,78423,74.1,Miguel Jorge da Costa Gomes,2009
+210,,0,B.E.,0,0,1,0,4.02,0,3935,Braga,Braga,0,1337,1.36,,False,839,0.86,62,97975,65.27,João Guilherme Ribeiro Delgado,2009
+211,,0,MPT,0,0,1,0,0.72,0,704,Braga,Braga,0,1337,1.36,,False,839,0.86,62,97975,65.27,José Miguel Azevedo de Brito,2009
+212,,0,PCP-PEV,0,0,1,0,6.34,0,6212,Braga,Braga,0,1337,1.36,,False,839,0.86,62,97975,65.27,António Manuel Rodrigues Dias,2009
+213,,5,PPD/PSD.CDS-PP.PPM,0,0,1,5,41.99,0,41142,Braga,Braga,0,1337,1.36,,False,839,0.86,62,97975,65.27,Ricardo Bruno Antunes Machado Rio,2009
+214,,6,PS,1,1,1,6,44.71,1,43806,Braga,Braga,0,1337,1.36,,False,839,0.86,62,97975,65.27,Francisco Soares Mesquita Machado,2009
+215,,0,PCP-PEV,0,0,1,0,3.2,0,361,Cabeceiras de Basto,Braga,0,193,1.71,,False,137,1.21,17,11285,65.84,Baltazar Lage de Oliveira Vilela,2009
+216,,2,PPD/PSD.CDS-PP,0,0,1,2,25.31,0,2856,Cabeceiras de Basto,Braga,0,193,1.71,,False,137,1.21,17,11285,65.84,Luis Miguel Jorge Gonçalves,2009
+217,,5,PS,1,1,1,5,68.57,1,7738,Cabeceiras de Basto,Braga,0,193,1.71,,False,137,1.21,17,11285,65.84,Joaquim Barroso de Almeida Barreto,2009
+218,,0,CDS-PP,0,0,1,0,3.27,0,458,Celorico de Basto,Braga,0,88,0.63,,False,128,0.91,22,14016,70.66,João Maria Mourão Pulido de Almeida,2009
+219,,0,PCP-PEV,0,0,1,0,1.14,0,160,Celorico de Basto,Braga,0,88,0.63,,False,128,0.91,22,14016,70.66,Luis Heitor da Silva Pires Marinho,2009
+220,,4,PPD/PSD,1,1,1,4,51.16,1,7170,Celorico de Basto,Braga,0,88,0.63,,False,128,0.91,22,14016,70.66,Joaquim Monteiro da Mota e Silva,2009
+221,,3,PS,0,0,1,3,42.89,0,6012,Celorico de Basto,Braga,0,88,0.63,,False,128,0.91,22,14016,70.66,Manuel Maria de Araújo Lopes Machado,2009
+222,,0,B.E.,0,0,1,0,1.66,0,344,Esposende,Braga,0,392,1.89,,False,261,1.26,15,20722,64.62,Sónia da Conceição Rodrigues Mendes,2009
+223,,1,CDS-PP,0,0,1,1,12.78,0,2649,Esposende,Braga,0,392,1.89,,False,261,1.26,15,20722,64.62,Hersílio Brás Marques,2009
+224,,0,PCP-PEV,0,0,1,0,3.29,0,681,Esposende,Braga,0,392,1.89,,False,261,1.26,15,20722,64.62,Pedro Miguel Lima Meira,2009
+225,,5,PPD/PSD,1,1,1,5,58.92,1,12210,Esposende,Braga,0,392,1.89,,False,261,1.26,15,20722,64.62,Fernando João Couto e Cepa,2009
+226,,0,PPM,0,0,1,0,0.26,0,54,Esposende,Braga,0,392,1.89,,False,261,1.26,15,20722,64.62,João paulo Graça da Silva,2009
+227,,1,PS,0,0,1,1,19.94,0,4131,Esposende,Braga,0,392,1.89,,False,261,1.26,15,20722,64.62,João Maria de Sousa Nunes da Silva,2009
+228,,0,PCP-PEV,0,0,1,0,3.11,0,1035,Fafe,Braga,0,607,1.82,,False,376,1.13,36,33269,66.18,Maria Leonor Pereira Oliveira Castro,2009
+229,,1,PPD/PSD.CDS-PP,0,0,1,1,16.65,0,5538,Fafe,Braga,0,607,1.82,,False,376,1.13,36,33269,66.18,José Humberto Fernandes Castro,2009
+230,,5,PS,1,1,1,5,50.94,1,16946,Fafe,Braga,0,607,1.82,,False,376,1.13,36,33269,66.18,José Manuel Martins Ribeiro,2009
+231,,3,XVIII,0,0,1,3,26.35,0,8767,Fafe,Braga,0,607,1.82,,False,376,1.13,36,33269,66.18,Parcídio Cabral de Almeida Summavielle,2009
+232,,0,B.E.,0,0,1,0,2.55,0,2388,Guimarães,Braga,0,1348,1.44,,False,687,0.73,69,93669,66.13,Alberto José Machado Fernandes,2009
+233,,0,CDS-PP,0,0,1,0,4.68,0,4382,Guimarães,Braga,0,1348,1.44,,False,687,0.73,69,93669,66.13,Rui Miguel de Meira Barreira,2009
+234,,1,PCP-PEV,0,0,1,1,8.75,0,8199,Guimarães,Braga,0,1348,1.44,,False,687,0.73,69,93669,66.13,Cândido Capela Dias,2009
+235,,0,PCTP/MRPP,0,0,1,0,0.94,0,878,Guimarães,Braga,0,1348,1.44,,False,687,0.73,69,93669,66.13,Domingos Fernandes de Freitas Torres,2009
+236,,3,PPD/PSD,0,0,1,3,27.42,0,25685,Guimarães,Braga,0,1348,1.44,,False,687,0.73,69,93669,66.13,Vítor Manuel da Silva Ferreira,2009
+237,,7,PS,1,1,1,7,53.49,1,50102,Guimarães,Braga,0,1348,1.44,,False,687,0.73,69,93669,66.13,António Magalhães da Silva,2009
+238,,0,CDS-PP,0,0,1,0,1.16,0,185,Póvoa de Lanhoso,Braga,0,112,0.7,,False,111,0.69,29,15995,67.91,Ana Maria Fernandes Perdigão Antunes,2009
+239,,0,PCP-PEV,0,0,1,0,0.83,0,132,Póvoa de Lanhoso,Braga,0,112,0.7,,False,111,0.69,29,15995,67.91,Rodolfo Cardoso Pontes,2009
+240,,4,PPD/PSD,1,1,1,4,53.39,1,8539,Póvoa de Lanhoso,Braga,0,112,0.7,,False,111,0.69,29,15995,67.91,Manuel José Torcato Soares Baptista,2009
+241,,3,PS,0,0,1,3,43.24,0,6916,Póvoa de Lanhoso,Braga,0,112,0.7,,False,111,0.69,29,15995,67.91,António Fernando Chagas de Sousa Lourenço,2009
+242,,0,CDS-PP,0,0,1,0,3.59,0,207,Terras de Bouro,Braga,0,86,1.49,,False,71,1.23,17,5768,69.53,Nuno Ricardo da Costa Marques Roupar,2009
+243,,0,PCP-PEV,0,0,1,0,1.7,0,98,Terras de Bouro,Braga,0,86,1.49,,False,71,1.23,17,5768,69.53,Dora Margarida Alves Lobo,2009
+244,,2,PPD/PSD,0,0,1,2,41.49,0,2393,Terras de Bouro,Braga,0,86,1.49,,False,71,1.23,17,5768,69.53,António José Ferreira Afonso,2009
+245,,3,PS,1,1,1,3,50.5,1,2913,Terras de Bouro,Braga,0,86,1.49,,False,71,1.23,17,5768,69.53,Joaquim José Cracel Viana,2009
+246,,0,B.E.,0,0,1,0,1.3,0,137,Vieira do Minho,Braga,0,109,1.03,,False,141,1.34,21,10555,69.36,João Manuel Machado Oliveira,2009
+247,,0,PCP-PEV,0,0,1,0,0.95,0,100,Vieira do Minho,Braga,0,109,1.03,,False,141,1.34,21,10555,69.36,Sílvia Maria Pereira da Cunha,2009
+248,,3,PPD/PSD.CDS-PP,0,0,1,3,47.57,0,5021,Vieira do Minho,Braga,0,109,1.03,,False,141,1.34,21,10555,69.36,Albino José da Silva Carneiro,2009
+249,,4,PS,1,1,1,4,47.82,1,5047,Vieira do Minho,Braga,0,109,1.03,,False,141,1.34,21,10555,69.36,Jorge Augusto Mangas Abreu Dantas,2009
+250,,0,B.E.,0,0,1,0,5.68,0,4522,Vila Nova de Famalicão,Braga,0,1192,1.5,,False,736,0.92,49,79585,69.81,Ana Rute Sobral Marcelino,2009
+251,,0,PCP-PEV,0,0,1,0,5.87,0,4674,Vila Nova de Famalicão,Braga,0,1192,1.5,,False,736,0.92,49,79585,69.81,Daniel Ribeiro Padrão Sampaio,2009
+252,,7,PPD/PSD.CDS-PP,1,1,1,7,55.94,1,44521,Vila Nova de Famalicão,Braga,0,1192,1.5,,False,736,0.92,49,79585,69.81,Armindo Borges Alves da Costa,2009
+253,,4,PS,0,0,1,4,30.08,0,23940,Vila Nova de Famalicão,Braga,0,1192,1.5,,False,736,0.92,49,79585,69.81,José Carlos Reis Campos,2009
+254,,0,PCP-PEV,0,0,1,0,1.82,0,551,Vila Verde,Braga,0,542,1.79,,False,354,1.17,58,30259,65.68,Luís Manuel Teixeira da Silva,2009
+255,,4,PPD/PSD,1,1,1,4,46.06,1,13937,Vila Verde,Braga,0,542,1.79,,False,354,1.17,58,30259,65.68,António Fernando Nogueira Cerqueira Vilela,2009
+256,,2,PS,0,0,1,2,32.62,0,9869,Vila Verde,Braga,0,542,1.79,,False,354,1.17,58,30259,65.68,Luís Filipe Silva,2009
+257,,0,B.E.,0,0,1,0,3.37,0,468,Vizela,Braga,0,149,1.07,,False,124,0.89,7,13880,69.35,Manuel Moreira Carneiro Ribeiro,2009
+258,,0,PCP-PEV,0,0,1,0,3.33,0,462,Vizela,Braga,0,149,1.07,,False,124,0.89,7,13880,69.35,António Joaquim Pereira Veiga,2009
+259,,3,PPD/PSD.CDS-PP,0,0,1,3,42.21,0,5859,Vizela,Braga,0,149,1.07,,False,124,0.89,7,13880,69.35,Luis Miguel Soares Lopes Guimarães,2009
+260,,4,PS,1,1,1,4,49.12,1,6818,Vizela,Braga,0,149,1.07,,False,124,0.89,7,13880,69.35,Dinis Manuel da Silva Costa,2009
+261,,0,PCP-PEV,0,0,1,0,0.97,0,44,Alfândega da Fé,Bragança,0,53,1.17,,False,72,1.58,20,4543,73.88,Teresa do Carmo Braz Rodrigues Saldanha,2009
+262,,2,PPD/PSD.CDS-PP,0,0,1,2,43.72,0,1986,Alfândega da Fé,Bragança,0,53,1.17,,False,72,1.58,20,4543,73.88,Arsénio da Paixão Tomé Pereira,2009
+263,,3,PS,1,1,1,3,52.56,1,2388,Alfândega da Fé,Bragança,0,53,1.17,,False,72,1.58,20,4543,73.88,Berta ferreira Milheiro Nunes,2009
+264,,0,B.E.,0,0,1,0,1.25,0,269,Bragança,Bragança,0,321,1.5,,False,298,1.39,49,21469,58.48,Liliana Maria da Costa Fernandes,2009
+265,,0,CDS-PP,0,0,1,0,2.37,0,508,Bragança,Bragança,0,321,1.5,,False,298,1.39,49,21469,58.48,António Guedes de Almeida,2009
+266,,0,PCP-PEV,0,0,1,0,1.62,0,347,Bragança,Bragança,0,321,1.5,,False,298,1.39,49,21469,58.48,José Manuel Correia S. F. de Castro,2009
+267,,4,PPD/PSD,1,1,1,4,48.19,1,10345,Bragança,Bragança,0,321,1.5,,False,298,1.39,49,21469,58.48,António Jorge Nunes,2009
+268,,2,PS,0,0,1,2,27.56,0,5916,Bragança,Bragança,0,321,1.5,,False,298,1.39,49,21469,58.48,Jorge Manuel Nogueiro Gomes,2009
+269,,1,XIII,0,0,1,1,16.14,0,3465,Bragança,Bragança,0,321,1.5,,False,298,1.39,49,21469,58.48,Humberto Francisco da Rocha,2009
+270,,0,B.E.,0,0,1,0,2.29,0,114,Carrazeda de Ansiães,Bragança,0,41,0.82,,False,149,2.99,19,4987,64.99,José Alegre Mesquita,2009
+271,,2,III,0,0,1,2,34.07,0,1699,Carrazeda de Ansiães,Bragança,0,41,0.82,,False,149,2.99,19,4987,64.99,Maria O. N. C. Candeias,2009
+272,,0,PCP-PEV,0,0,1,0,0.52,0,26,Carrazeda de Ansiães,Bragança,0,41,0.82,,False,149,2.99,19,4987,64.99,Manuel Carlos Madureira,2009
+273,,2,PPD/PSD.CDS-PP,1,0,1,2,35.41,1,1766,Carrazeda de Ansiães,Bragança,0,41,0.82,,False,149,2.99,19,4987,64.99,José Luís Correia,2009
+274,,0,PPM,0,0,1,0,0.46,0,23,Carrazeda de Ansiães,Bragança,0,41,0.82,,False,149,2.99,19,4987,64.99,Manuel Maria C. M. V. Sampayo,2009
+275,,1,PS,0,0,1,1,23.44,0,1169,Carrazeda de Ansiães,Bragança,0,41,0.82,,False,149,2.99,19,4987,64.99,Agusto dos Santos Faustino,2009
+276,,0,PCP-PEV,0,0,1,0,0.79,0,25,Freixo de Espada à Cinta,Bragança,0,38,1.21,,False,58,1.84,6,3151,78.87,Isaura dos Anjos P. B. Costa,2009
+277,,2,PPD/PSD.CDS-PP,0,0,1,2,40.72,0,1283,Freixo de Espada à Cinta,Bragança,0,38,1.21,,False,58,1.84,6,3151,78.87,António Eduardo Morgado,2009
+278,,3,PS,1,1,1,3,55.44,1,1747,Freixo de Espada à Cinta,Bragança,0,38,1.21,,False,58,1.84,6,3151,78.87,José Manuel Caldeira Santos,2009
+279,,0,PCP-PEV,0,0,1,0,2.98,0,339,Macedo de Cavaleiros,Bragança,0,253,2.22,,False,240,2.11,38,11393,59.07,Carlos Manuel Cunha Martins,2009
+280,,4,PPD/PSD.CDS-PP,1,1,1,4,53.96,1,6148,Macedo de Cavaleiros,Bragança,0,253,2.22,,False,240,2.11,38,11393,59.07,Beraldino José Vilarinho Pinto,2009
+281,,3,PS,0,0,1,3,38.73,0,4413,Macedo de Cavaleiros,Bragança,0,253,2.22,,False,240,2.11,38,11393,59.07,Rui Manuel Rodrigues Vaz,2009
+282,,0,PCP-PEV,0,0,1,0,0.78,0,47,Miranda do Douro,Bragança,0,65,1.08,,False,89,1.48,17,6021,70.74,Rosa Maria Moscoto Teixeira,2009
+283,,2,PPD/PSD,0,0,1,2,44.05,0,2652,Miranda do Douro,Bragança,0,65,1.08,,False,89,1.48,17,6021,70.74,Américo Luís Vale Tomé,2009
+284,,3,PS,1,1,1,3,52.62,1,3168,Miranda do Douro,Bragança,0,65,1.08,,False,89,1.48,17,6021,70.74,Artur Manuel Rodrigues Nunes,2009
+285,,0,B.E.,0,0,1,0,0.91,0,146,Mirandela,Bragança,0,194,1.2,,False,218,1.35,37,16112,63.73,Fernando Manuel Bebiano,2009
+286,,1,CDS-PP,0,0,1,1,16.6,0,2675,Mirandela,Bragança,0,194,1.2,,False,218,1.35,37,16112,63.73,Maria G. A. Calejo Pires,2009
+287,,0,PCP-PEV,0,0,1,0,1.82,0,293,Mirandela,Bragança,0,194,1.2,,False,218,1.35,37,16112,63.73,David Martins Garrido,2009
+288,,4,PPD/PSD,1,1,1,4,52.87,1,8518,Mirandela,Bragança,0,194,1.2,,False,218,1.35,37,16112,63.73,José Maria Lopes Silvano,2009
+289,,2,PS,0,0,1,2,25.25,0,4068,Mirandela,Bragança,0,194,1.2,,False,218,1.35,37,16112,63.73,Júlia Maria A. L. S. Rodrigues,2009
+290,,1,CDS-PP,0,0,1,1,15.74,0,1192,Mogadouro,Bragança,0,165,2.18,,False,163,2.15,28,7571,64.68,Armando E. R. P. Simões Pacheco,2009
+291,,0,PCP-PEV,0,0,1,0,1.14,0,86,Mogadouro,Bragança,0,165,2.18,,False,163,2.15,28,7571,64.68,Francisco Fernandes Madruga,2009
+292,,4,PPD/PSD,1,1,1,4,54.25,1,4107,Mogadouro,Bragança,0,165,2.18,,False,163,2.15,28,7571,64.68,António G. S. Moraes Machado,2009
+293,,2,PS,0,0,1,2,24.54,0,1858,Mogadouro,Bragança,0,165,2.18,,False,163,2.15,28,7571,64.68,João F. P. Freitas Meira,2009
+294,,0,PCP-PEV,0,0,1,0,1.69,0,113,Torre de Moncorvo,Bragança,0,100,1.49,,False,123,1.84,17,6689,65.91,Sidónio Caetano Fernandes,2009
+295,,3,PPD/PSD.CDS-PP,0,0,1,3,46.27,0,3095,Torre de Moncorvo,Bragança,0,100,1.49,,False,123,1.84,17,6689,65.91,Nuno Jorge Rodrigues Gonçalves,2009
+296,,4,PS,1,1,1,4,48.71,1,3258,Torre de Moncorvo,Bragança,0,100,1.49,,False,123,1.84,17,6689,65.91,Fernando António Aires Ferreira,2009
+297,,0,CDS-PP,0,0,1,0,4.01,0,206,Vila Flor,Bragança,0,142,2.77,,False,98,1.91,19,5133,63.5,Fernando Eduardo Ferreira,2009
+298,,0,PCP-PEV,0,0,1,0,6.16,0,316,Vila Flor,Bragança,0,142,2.77,,False,98,1.91,19,5133,63.5,Rui Manuel Correia Tadeu,2009
+299,,1,PPD/PSD,0,0,1,1,28.15,0,1445,Vila Flor,Bragança,0,142,2.77,,False,98,1.91,19,5133,63.5,Paulo Renato Veiga de Carvalho,2009
+300,,4,PS,1,1,1,4,57.0,1,2926,Vila Flor,Bragança,0,142,2.77,,False,98,1.91,19,5133,63.5,Artur G. G. Vaz Pimentel,2009
+301,,2,PS,0,0,1,2,38.06,0,1627,Vimioso,Bragança,0,63,1.47,,False,88,2.06,14,4275,63.36,Jorge dos Santos Rodrigues Fernandes,2009
+302,,0,CDS-PP,0,0,1,0,6.24,0,479,Vinhais,Bragança,0,150,1.95,,False,139,1.81,35,7673,63.18,Mário Augusto Gomes Gonçalves,2009
+303,,0,PCP-PEV,0,0,1,0,1.26,0,97,Vinhais,Bragança,0,150,1.95,,False,139,1.81,35,7673,63.18,Manuel Dinis Lousada,2009
+304,,1,PPD/PSD,0,0,1,1,20.33,0,1560,Vinhais,Bragança,0,150,1.95,,False,139,1.81,35,7673,63.18,Carlos Alberto Matias Costa,2009
+305,,6,PS,1,1,1,6,68.4,1,5248,Vinhais,Bragança,0,150,1.95,,False,139,1.81,35,7673,63.18,Américo Jaime Afonso Pereira,2009
+306,,0,B.E.,0,0,1,0,2.6,0,112,Belmonte,Castelo Branco,0,75,1.74,,False,72,1.67,5,4315,65.2,Fernando Luís Pinto Proença,2009
+307,,0,CDS-PP,0,0,1,0,1.53,0,66,Belmonte,Castelo Branco,0,75,1.74,,False,72,1.67,5,4315,65.2,João Manuel Soares Gonçalves,2009
+308,,0,MPT,0,0,1,0,4.66,0,201,Belmonte,Castelo Branco,0,75,1.74,,False,72,1.67,5,4315,65.2,Germano Fernandes,2009
+309,,0,PCP-PEV,0,0,1,0,6.67,0,288,Belmonte,Castelo Branco,0,75,1.74,,False,72,1.67,5,4315,65.2,Tito José Ferreira Soares,2009
+310,,2,PPD/PSD,0,0,1,2,30.45,0,1314,Belmonte,Castelo Branco,0,75,1.74,,False,72,1.67,5,4315,65.2,Jorge Manuel dos Santos Amaro,2009
+311,,3,PS,1,1,1,3,49.69,1,2144,Belmonte,Castelo Branco,0,75,1.74,,False,72,1.67,5,4315,65.2,Amândio Manuel Ferreira Melo,2009
+312,,0,PTP,0,0,1,0,1.0,0,43,Belmonte,Castelo Branco,0,75,1.74,,False,72,1.67,5,4315,65.2,Davide José Duarte Monteiro,2009
+313,,0,B.E.,0,0,1,0,2.78,0,796,Castelo Branco,Castelo Branco,0,544,1.9,,False,320,1.12,25,28647,55.91,Gonçalo Nunes Simões da Silva Fabrício,2009
+314,,0,CDS-PP,0,0,1,0,3.91,0,1121,Castelo Branco,Castelo Branco,0,544,1.9,,False,320,1.12,25,28647,55.91,Luís Manuel Rodrigues Simões da Paixão,2009
+315,,0,PCP-PEV,0,0,1,0,3.4,0,975,Castelo Branco,Castelo Branco,0,544,1.9,,False,320,1.12,25,28647,55.91,Francisco José Antunes da Costa,2009
+316,,1,PPD/PSD,0,0,1,1,16.99,0,4866,Castelo Branco,Castelo Branco,0,544,1.9,,False,320,1.12,25,28647,55.91,Manuel de Sousa Eusébio,2009
+317,,8,PS,1,1,1,8,69.9,1,20025,Castelo Branco,Castelo Branco,0,544,1.9,,False,320,1.12,25,28647,55.91,Joaquim Morão Lopes Dias,2009
+318,,0,B.E.,0,0,1,0,2.53,0,799,Covilhã,Castelo Branco,0,699,2.21,,False,472,1.49,31,31629,61.68,José Serra dos Reis,2009
+319,,0,CDS-PP,0,0,1,0,2.78,0,880,Covilhã,Castelo Branco,0,699,2.21,,False,472,1.49,31,31629,61.68,Nuno Flávio da Costa Reis,2009
+320,,0,PCP-PEV,0,0,1,0,7.47,0,2362,Covilhã,Castelo Branco,0,699,2.21,,False,472,1.49,31,31629,61.68,Jorge Manuel Roque Batista Fael,2009
+321,,6,PPD/PSD,1,1,1,6,56.69,1,17931,Covilhã,Castelo Branco,0,699,2.21,,False,472,1.49,31,31629,61.68,Carlos Alberto Pinto,2009
+322,,3,PS,0,0,1,3,26.83,0,8486,Covilhã,Castelo Branco,0,699,2.21,,False,472,1.49,31,31629,61.68,Vitor Manuel Pinheiro Pereira,2009
+323,,0,CDS-PP,0,0,1,0,2.78,0,535,Fundão,Castelo Branco,0,412,2.14,,False,275,1.43,31,19256,63.52,Aires Lino de Almeida Patrício,2009
+324,,0,PCP-PEV,0,0,1,0,3.65,0,703,Fundão,Castelo Branco,0,412,2.14,,False,275,1.43,31,19256,63.52,José Luís Cabaço Reis Oliveira,2009
+325,,5,PPD/PSD,1,1,1,5,61.17,1,11778,Fundão,Castelo Branco,0,412,2.14,,False,275,1.43,31,19256,63.52,Manuel Joaquim Barata Frexes,2009
+326,,2,PS,0,0,1,2,28.84,0,5553,Fundão,Castelo Branco,0,412,2.14,,False,275,1.43,31,19256,63.52,António Augusto Leal Salvado,2009
+327,,0,CDS-PP,0,0,1,0,5.18,0,376,Idanha-a-Nova,Castelo Branco,0,190,2.62,,False,203,2.8,17,7258,67.38,José Pedro Rebola Ferreira de Sousa,2009
+328,,0,PCP-PEV,0,0,1,0,2.87,0,208,Idanha-a-Nova,Castelo Branco,0,190,2.62,,False,203,2.8,17,7258,67.38,José Moreira Bargão,2009
+329,,2,PPD/PSD,0,0,1,2,28.04,0,2035,Idanha-a-Nova,Castelo Branco,0,190,2.62,,False,203,2.8,17,7258,67.38,Luís Filipe de Sousa Silveira Rodrigues,2009
+330,,5,PS,1,1,1,5,58.5,1,4246,Idanha-a-Nova,Castelo Branco,0,190,2.62,,False,203,2.8,17,7258,67.38,Álvaro José Cachucho Rocha,2009
+331,,0,PCP-PEV,0,0,1,0,1.8,0,72,Oleiros,Castelo Branco,0,102,2.55,,False,98,2.45,12,4002,62.15,António da Trindade dos Santos,2009
+332,,4,PPD/PSD,1,1,1,4,75.16,1,3008,Oleiros,Castelo Branco,0,102,2.55,,False,98,2.45,12,4002,62.15,José dos Santos Marques,2009
+333,,1,PS,0,0,1,1,18.04,0,722,Oleiros,Castelo Branco,0,102,2.55,,False,98,2.45,12,4002,62.15,Aniceto Caldeira Rijo,2009
+334,,0,PCP-PEV,0,0,1,0,2.83,0,124,Penamacor,Castelo Branco,0,90,2.06,,False,105,2.4,12,4374,68.52,Ana Paula Cunha Martins Pinto Pires,2009
+335,,2,PPD/PSD.CDS-PP.MPT,0,0,1,2,39.07,0,1709,Penamacor,Castelo Branco,0,90,2.06,,False,105,2.4,12,4374,68.52,Vitor Manuel de Sousa Gabriel,2009
+336,,3,PS,1,1,1,3,53.64,1,2346,Penamacor,Castelo Branco,0,90,2.06,,False,105,2.4,12,4374,68.52,Domingos Manuel Bicho Torrão,2009
+337,,0,CDS-PP,0,0,1,0,1.57,0,95,Proença-a-Nova,Castelo Branco,0,103,1.7,,False,83,1.37,6,6050,69.54,Rui Manuel Delgado Brejo,2009
+338,,0,PCP-PEV,0,0,1,0,0.64,0,39,Proença-a-Nova,Castelo Branco,0,103,1.7,,False,83,1.37,6,6050,69.54,Francisco Ribeiro Delgado,2009
+339,,1,PPD/PSD,0,0,1,1,18.15,0,1098,Proença-a-Nova,Castelo Branco,0,103,1.7,,False,83,1.37,6,6050,69.54,Ricardo Jorge da Silva Esteves Ribeiro Nunes,2009
+340,,4,PS,1,1,1,4,76.56,1,4632,Proença-a-Nova,Castelo Branco,0,103,1.7,,False,83,1.37,6,6050,69.54,João Paulo Marçal Lopes Catarino,2009
+341,,0,B.E.,0,0,1,0,1.62,0,171,Sertã,Castelo Branco,0,147,1.39,,False,162,1.53,14,10573,68.5,Fernando Farinha Ferreira,2009
+342,,0,CDS-PP,0,0,1,0,7.67,0,811,Sertã,Castelo Branco,0,147,1.39,,False,162,1.53,14,10573,68.5,Pedro Martins de Jesus,2009
+343,,0,PCP-PEV,0,0,1,0,0.62,0,66,Sertã,Castelo Branco,0,147,1.39,,False,162,1.53,14,10573,68.5,Benvinda Ferreira dos Santos Duarte,2009
+344,,4,PPD/PSD,1,1,1,4,50.91,1,5383,Sertã,Castelo Branco,0,147,1.39,,False,162,1.53,14,10573,68.5,José Farinha Nunes,2009
+345,,3,PS,0,0,1,3,36.25,0,3833,Sertã,Castelo Branco,0,147,1.39,,False,162,1.53,14,10573,68.5,José Paulo Barata Farinha,2009
+346,,0,CDS-PP,0,0,1,0,1.44,0,40,Vila Velha de Ródão,Castelo Branco,0,30,1.08,,False,37,1.33,4,2776,77.0,Gonçalo António Moura Fernandes,2009
+347,,0,PCP-PEV,0,0,1,0,3.13,0,87,Vila Velha de Ródão,Castelo Branco,0,30,1.08,,False,37,1.33,4,2776,77.0,António José Ferro Inácio,2009
+348,,2,PPD/PSD,0,0,1,2,31.99,0,888,Vila Velha de Ródão,Castelo Branco,0,30,1.08,,False,37,1.33,4,2776,77.0,Natália Lopes Ramos,2009
+349,,3,PS,1,1,1,3,61.02,1,1694,Vila Velha de Ródão,Castelo Branco,0,30,1.08,,False,37,1.33,4,2776,77.0,Maria do Carmo de Jesus Amaro Sequeira,2009
+350,,0,CDS-PP,0,0,1,0,10.13,0,233,Vila de Rei,Castelo Branco,0,52,2.26,,False,81,3.52,3,2300,72.44,Vicente José da Silva,2009
+351,,0,PCP-PEV,0,0,1,0,4.3,0,99,Vila de Rei,Castelo Branco,0,52,2.26,,False,81,3.52,3,2300,72.44,Isilda Cristina Laranjeira da Silva,2009
+352,,4,PPD/PSD,1,1,1,4,61.09,1,1405,Vila de Rei,Castelo Branco,0,52,2.26,,False,81,3.52,3,2300,72.44,Maria Irene da Conceição Barata Joaquim,2009
+353,,1,PS,0,0,1,1,18.7,0,430,Vila de Rei,Castelo Branco,0,52,2.26,,False,81,3.52,3,2300,72.44,José Januário Jerónimo,2009
+354,,1,I,0,0,1,1,17.71,0,1429,Arganil,Coimbra,0,119,1.47,,False,151,1.87,18,8068,68.03,Rui Miguel da Silva,2009
+355,,0,PCP-PEV,0,0,1,0,2.52,0,203,Arganil,Coimbra,0,119,1.47,,False,151,1.87,18,8068,68.03,José Tiago Almeida,2009
+356,,5,PPD/PSD,1,1,1,5,58.5,1,4720,Arganil,Coimbra,0,119,1.47,,False,151,1.87,18,8068,68.03,Ricardo João Barata Pereira Alves,2009
+357,,1,PS,0,0,1,1,17.92,0,1446,Arganil,Coimbra,0,119,1.47,,False,151,1.87,18,8068,68.03,Eduardo Miguel Duarte Ventura,2009
+358,,0,PCP-PEV,0,0,1,0,2.53,0,542,Cantanhede,Coimbra,0,436,2.04,,False,280,1.31,19,21385,59.18,Jorge Manuel Gonçalves Vicente,2009
+359,,5,PPD/PSD,1,1,1,5,66.89,1,14304,Cantanhede,Coimbra,0,436,2.04,,False,280,1.31,19,21385,59.18,João Carlos Vidaurre Pais de Moura,2009
+360,,2,PS,0,0,1,2,27.23,0,5823,Cantanhede,Coimbra,0,436,2.04,,False,280,1.31,19,21385,59.18,Manuel Augusto Simões Ruivo,2009
+361,,0,B.E.,0,0,1,0,5.86,0,4134,Coimbra,Coimbra,0,1665,2.36,,False,835,1.18,31,70563,55.28,Catarina Isabel Caldeira Martins,2009
+362,,1,PCP-PEV,0,0,1,1,9.8,0,6913,Coimbra,Coimbra,0,1665,2.36,,False,835,1.18,31,70563,55.28,Francisco José Pina Queirós,2009
+363,,6,PPD/PSD.CDS-PP.PPM,1,1,1,6,41.6,1,29357,Coimbra,Coimbra,0,1665,2.36,,False,835,1.18,31,70563,55.28,Carlos Manuel de Sousa Encarnação,2009
+364,,4,PS,0,0,1,4,34.55,0,24377,Coimbra,Coimbra,0,1665,2.36,,False,835,1.18,31,70563,55.28,Alvaro Jorge de Maia Seco,2009
+365,,0,XVII,0,0,1,0,4.65,0,3282,Coimbra,Coimbra,0,1665,2.36,,False,835,1.18,31,70563,55.28,Horácio Augusto de Pina Prata,2009
+366,,0,B.E.,0,0,1,0,6.36,0,481,Condeixa-a-Nova,Coimbra,0,158,2.09,,False,91,1.2,10,7562,59.34,José Correia Soares Gil,2009
+367,,0,PCP-PEV,0,0,1,0,6.33,0,479,Condeixa-a-Nova,Coimbra,0,158,2.09,,False,91,1.2,10,7562,59.34,Antonio Moreira da Costa Albuquerque,2009
+368,,2,PPD/PSD,0,0,1,2,26.9,0,2034,Condeixa-a-Nova,Coimbra,0,158,2.09,,False,91,1.2,10,7562,59.34,Vasco José Veríssimo Loureiro Figueira,2009
+369,,5,PS,1,1,1,5,57.11,1,4319,Condeixa-a-Nova,Coimbra,0,158,2.09,,False,91,1.2,10,7562,59.34,Jorge Manuel da Conceição Teixeira Bento,2009
+370,,0,B.E.,0,0,1,0,2.68,0,900,Figueira da Foz,Coimbra,0,932,2.78,,False,476,1.42,18,33538,57.22,Rui Miguel Curado da Silva,2009
+371,,0,CDS-PP,0,0,1,0,1.83,0,614,Figueira da Foz,Coimbra,0,932,2.78,,False,476,1.42,18,33538,57.22,Francisca da Ressurreição Geraldes,2009
+372,,0,MMS,0,0,1,0,0.61,0,203,Figueira da Foz,Coimbra,0,932,2.78,,False,476,1.42,18,33538,57.22,Francisco Javier Orestes Mariano Mendez de Vigo Perez Seoane,2009
+373,,0,PCP-PEV,0,0,1,0,5.09,0,1707,Figueira da Foz,Coimbra,0,932,2.78,,False,476,1.42,18,33538,57.22,Silvina da Silva Fonseca Anadio de Queiróz,2009
+374,,3,PPD/PSD,0,0,1,3,29.42,0,9867,Figueira da Foz,Coimbra,0,932,2.78,,False,476,1.42,18,33538,57.22,Antonio Batista Duarte Silva,2009
+375,,4,PS,1,0,1,4,37.78,1,12671,Figueira da Foz,Coimbra,0,932,2.78,,False,476,1.42,18,33538,57.22,João Albino Rainho Ataide das Neves,2009
+376,,2,VI,0,0,1,2,18.39,0,6168,Figueira da Foz,Coimbra,0,932,2.78,,False,476,1.42,18,33538,57.22,Daniel Martins dos Santos,2009
+377,,0,PCP-PEV,0,0,1,0,1.1,0,34,Góis,Coimbra,0,72,2.34,,False,48,1.56,5,3077,73.02,Antonio Flores Tavares,2009
+378,,2,PPD/PSD,0,0,1,2,43.55,0,1340,Góis,Coimbra,0,72,2.34,,False,48,1.56,5,3077,73.02,Diamantino Jorge Simões Garcia,2009
+379,,3,PS,1,1,1,3,51.45,1,1583,Góis,Coimbra,0,72,2.34,,False,48,1.56,5,3077,73.02,Maria de Lurdes de Oliveira Castanheira,2009
+380,,0,B.E.,0,0,1,0,5.04,0,449,Lousã,Coimbra,0,198,2.22,,False,71,0.8,6,8900,60.76,Ana Filomena Leite Amaral,2009
+381,,0,PCP-PEV,0,0,1,0,2.65,0,236,Lousã,Coimbra,0,198,2.22,,False,71,0.8,6,8900,60.76,Maria da Conceição Loureiro,2009
+382,,2,PPD/PSD,0,0,1,2,32.07,0,2854,Lousã,Coimbra,0,198,2.22,,False,71,0.8,6,8900,60.76,Filipe José Soares,2009
+383,,5,PS,1,1,1,5,57.21,1,5092,Lousã,Coimbra,0,198,2.22,,False,71,0.8,6,8900,60.76,Fernando dos Santos Carvalho,2009
+384,,0,II,0,0,1,0,10.86,0,890,Mira,Coimbra,0,181,2.21,,False,137,1.67,4,8192,62.88,Agostinho Neves da Silva,2009
+385,,0,PCP-PEV,0,0,1,0,0.78,0,64,Mira,Coimbra,0,181,2.21,,False,137,1.67,4,8192,62.88,João Evangelista Gentil,2009
+386,,2,PPD/PSD,0,0,1,2,28.48,0,2333,Mira,Coimbra,0,181,2.21,,False,137,1.67,4,8192,62.88,João Evangelista Rocha de Almeida,2009
+387,,5,PS,1,1,1,5,55.99,1,4587,Mira,Coimbra,0,181,2.21,,False,137,1.67,4,8192,62.88,João Maria Ribeiro Reigota,2009
+388,,0,B.E.,0,0,1,0,2.26,0,165,Miranda do Corvo,Coimbra,0,105,1.44,,False,95,1.3,5,7305,65.14,João Miguel dos Reis Simões Santos,2009
+389,,0,PCP-PEV,0,0,1,0,2.59,0,189,Miranda do Corvo,Coimbra,0,105,1.44,,False,95,1.3,5,7305,65.14,Henriqueta Maria Val-do-Rio Ruas Costa,2009
+390,,4,PPD/PSD.CDS-PP,1,1,1,4,48.53,1,3545,Miranda do Corvo,Coimbra,0,105,1.44,,False,95,1.3,5,7305,65.14,Maria de Fatima Simões Ramos do Vale Ferreira,2009
+391,,3,PS,0,0,1,3,43.89,0,3206,Miranda do Corvo,Coimbra,0,105,1.44,,False,95,1.3,5,7305,65.14,Antonio Miguel Costa Baptista,2009
+392,,0,B.E.,0,0,1,0,1.88,0,278,Montemor-o-Velho,Coimbra,0,261,1.76,,False,180,1.21,14,14821,65.12,Antonio Rodrigues Melanda,2009
+393,,0,PCP-PEV,0,0,1,0,5.18,0,768,Montemor-o-Velho,Coimbra,0,261,1.76,,False,180,1.21,14,14821,65.12,Jorge Luis Forte Camarneiro,2009
+394,,5,PPD/PSD.CDS-PP,1,1,1,5,56.7,1,8404,Montemor-o-Velho,Coimbra,0,261,1.76,,False,180,1.21,14,14821,65.12,Luis Manuel Barbosa Marques Leal,2009
+395,,2,PS,0,0,1,2,33.26,0,4930,Montemor-o-Velho,Coimbra,0,261,1.76,,False,180,1.21,14,14821,65.12,Emilio Augusto Ferreira Torrão,2009
+396,,3,PS,1,0,1,3,36.11,1,5278,Oliveira do Hospital,Coimbra,0,149,1.02,,False,249,1.7,21,14617,74.95,José Carlos Alexandrino Mendes,2009
+397,,0,PCP-PEV,0,0,1,0,0.35,0,12,Pampilhosa da Serra,Coimbra,0,36,1.05,,False,42,1.22,10,3436,72.26,Alfredo João Ventura de Paula Campos,2009
+398,,3,PPD/PSD,1,1,1,3,55.88,1,1920,Pampilhosa da Serra,Coimbra,0,36,1.05,,False,42,1.22,10,3436,72.26,José Alberto Pacheco Brito Dias,2009
+399,,2,PS,0,0,1,2,41.5,0,1426,Pampilhosa da Serra,Coimbra,0,36,1.05,,False,42,1.22,10,3436,72.26,Antonio Sergio Brito Martins,2009
+400,,0,CDS-PP,0,0,1,0,1.83,0,177,Penacova,Coimbra,0,103,1.07,,False,114,1.18,11,9667,63.0,Arsenio José Carvalho dos Santos Abreu,2009
+401,,0,PCP-PEV,0,0,1,0,5.5,0,532,Penacova,Coimbra,0,103,1.07,,False,114,1.18,11,9667,63.0,Eduardo da Fonte Ferreira,2009
+402,,3,PPD/PSD,0,0,1,3,39.45,0,3814,Penacova,Coimbra,0,103,1.07,,False,114,1.18,11,9667,63.0,Luis Jorge Frias Morgado,2009
+403,,4,PS,1,1,1,4,50.97,1,4927,Penacova,Coimbra,0,103,1.07,,False,114,1.18,11,9667,63.0,Humberto José Batista Oliveira,2009
+404,,0,PCP-PEV,0,0,1,0,1.47,0,56,Penela,Coimbra,0,85,2.23,,False,56,1.47,6,3807,67.89,Rui Daniel Gonçalves Lopes,2009
+405,,3,PPD/PSD,1,1,1,3,62.49,1,2379,Penela,Coimbra,0,85,2.23,,False,56,1.47,6,3807,67.89,Paulo Jorge Simões Julio,2009
+406,,2,PS,0,0,1,2,32.34,0,1231,Penela,Coimbra,0,85,2.23,,False,56,1.47,6,3807,67.89,Renato Filipe Nunes França,2009
+407,,0,B.E.,0,0,1,0,4.03,0,463,Soure,Coimbra,0,327,2.84,,False,202,1.76,12,11494,60.45,Manuel Augusto Jordão Simões da Silva,2009
+408,,0,CDS-PP,0,0,1,0,1.98,0,228,Soure,Coimbra,0,327,2.84,,False,202,1.76,12,11494,60.45,José da Costa Cordeiro Pato,2009
+409,,0,PCP-PEV,0,0,1,0,10.27,0,1180,Soure,Coimbra,0,327,2.84,,False,202,1.76,12,11494,60.45,Maria Manuela Lucas Oliveira Santos,2009
+410,,2,PPD/PSD,0,0,1,2,25.67,0,2950,Soure,Coimbra,0,327,2.84,,False,202,1.76,12,11494,60.45,Sonia Cristina da Silva Vidal Pires,2009
+411,,5,PS,1,1,1,5,53.45,1,6144,Soure,Coimbra,0,327,2.84,,False,202,1.76,12,11494,60.45,João Eduardo Dias Madeira Gouveia,2009
+412,,0,PCP-PEV,0,0,1,0,3.53,0,269,Tábua,Coimbra,0,127,1.66,,False,129,1.69,15,7629,70.22,José Antonio Rodrigues Alexandre,2009
+413,,3,PPD/PSD.CDS-PP,0,0,1,3,36.75,0,2804,Tábua,Coimbra,0,127,1.66,,False,129,1.69,15,7629,70.22,Jorge Manuel Cova Veigas,2009
+414,,4,PS,1,1,1,4,56.36,1,4300,Tábua,Coimbra,0,127,1.66,,False,129,1.69,15,7629,70.22,Francisco Ivo de Lima Portela,2009
+415,,0,PCP-PEV,0,0,1,0,3.13,0,119,Vila Nova de Poiares,Coimbra,0,98,2.58,,False,64,1.68,4,3802,60.62,Artur Coimbra dos Reis,2009
+416,,3,PPD/PSD,1,1,1,3,56.5,1,2148,Vila Nova de Poiares,Coimbra,0,98,2.58,,False,64,1.68,4,3802,60.62,Jaime Carlos Marta Soares,2009
+417,,2,PS,0,0,1,2,36.11,0,1373,Vila Nova de Poiares,Coimbra,0,98,2.58,,False,64,1.68,4,3802,60.62,Joaquim Pires Monteiro,2009
+418,,0,B.E.,0,0,1,0,2.98,0,443,Albufeira,Faro,0,239,1.61,,False,145,0.97,5,14886,51.29,Manuel José da Conceição Aires,2009
+419,,0,CDS-PP,0,0,1,0,3.06,0,456,Albufeira,Faro,0,239,1.61,,False,145,0.97,5,14886,51.29,Alexandre Manuel Azevedo de Freitas,2009
+420,,0,PCP-PEV,0,0,1,0,3.16,0,471,Albufeira,Faro,0,239,1.61,,False,145,0.97,5,14886,51.29,Fernando José Pontes,2009
+421,,6,PPD/PSD,1,1,1,6,67.02,1,9977,Albufeira,Faro,0,239,1.61,,False,145,0.97,5,14886,51.29,Desidério Jorge da Silva,2009
+422,,1,PS,0,0,1,1,21.19,0,3155,Albufeira,Faro,0,239,1.61,,False,145,0.97,5,14886,51.29,David Martins,2009
+423,,0,PCP-PEV,0,0,1,0,2.09,0,51,Alcoutim,Faro,0,24,0.98,,False,45,1.84,5,2442,77.5,Maria Luísa Fernandes,2009
+424,,3,PPD/PSD,1,1,1,3,51.56,1,1259,Alcoutim,Faro,0,24,0.98,,False,45,1.84,5,2442,77.5,Francisco Augusto Caimoto Amaral,2009
+425,,2,PS,0,0,1,2,43.53,0,1063,Alcoutim,Faro,0,24,0.98,,False,45,1.84,5,2442,77.5,José D'Assunção Pereira Galrito,2009
+426,,0,PCP-PEV,0,0,1,0,13.2,0,391,Aljezur,Faro,0,79,2.67,,False,53,1.79,4,2961,66.45,Francisco dos Santos Sérgio,2009
+427,,1,PPD/PSD,0,0,1,1,16.31,0,483,Aljezur,Faro,0,79,2.67,,False,53,1.79,4,2961,66.45,Rosa Maria dos Santos Cigarra Rocha,2009
+428,,4,PS,1,1,1,4,66.02,1,1955,Aljezur,Faro,0,79,2.67,,False,53,1.79,4,2961,66.45,José Manuel Velhinho Amarelinho,2009
+429,,0,CDS-PP,0,0,1,0,1.01,0,43,Castro Marim,Faro,0,49,1.16,,False,51,1.2,4,4241,70.74,Ezequiel do Monte Correia Barragão,2009
+430,,0,PCP-PEV,0,0,1,0,2.07,0,88,Castro Marim,Faro,0,49,1.16,,False,51,1.2,4,4241,70.74,Margarida Maria Henriques Martins Mendes,2009
+431,,3,PPD/PSD,1,1,1,3,54.37,1,2306,Castro Marim,Faro,0,49,1.16,,False,51,1.2,4,4241,70.74,José Fernandes Estevens,2009
+432,,2,PS,0,0,1,2,40.18,0,1704,Castro Marim,Faro,0,49,1.16,,False,51,1.2,4,4241,70.74,Manuel de Almeida Martins,2009
+433,,0,B.E.,0,0,1,0,3.04,0,950,Faro,Faro,0,499,1.6,,False,336,1.07,6,31264,57.42,João Carlos Pereira Peres Brandão,2009
+434,,0,I,0,0,1,0,4.12,0,1287,Faro,Faro,0,499,1.6,,False,336,1.07,6,31264,57.42,José Adriano Gago Vitorino,2009
+435,,0,PCP-PEV,0,0,1,0,5.25,0,1642,Faro,Faro,0,499,1.6,,False,336,1.07,6,31264,57.42,António Manuel Dias Mendonça,2009
+436,,5,PPD/PSD.CDS-PP.MPT.PPM,1,1,1,5,42.67,1,13340,Faro,Faro,0,499,1.6,,False,336,1.07,6,31264,57.42,José Macário Custódio Correia,2009
+437,,4,PS,0,0,1,4,42.25,0,13210,Faro,Faro,0,499,1.6,,False,336,1.07,6,31264,57.42,José Apolinário Nunes Portada,2009
+438,,4,PPD/PSD,1,1,1,4,44.91,1,4603,Lagoa,Faro,0,126,1.23,,False,107,1.04,6,10250,58.39,José Inácio Marques Eduardo,2009
+439,,3,PS,0,0,1,3,41.96,0,4301,Lagoa,Faro,0,126,1.23,,False,107,1.04,6,10250,58.39,João Nuno Aurélio Marcos,2009
+440,,0,B.E.,0,0,1,0,4.62,0,595,Lagos,Faro,0,269,2.09,,False,121,0.94,6,12891,57.35,Vera Maria de Freitas Faria Gonçalves,2009
+441,,0,MPT,0,0,1,0,0.73,0,94,Lagos,Faro,0,269,2.09,,False,121,0.94,6,12891,57.35,João Manuel Martins Evangelista,2009
+442,,0,PCP-PEV,0,0,1,0,5.77,0,744,Lagos,Faro,0,269,2.09,,False,121,0.94,6,12891,57.35,Maria Brites Quintino da Silva Nunes Dias Alcobia,2009
+443,,2,PPD/PSD.CDS-PP,0,0,1,2,24.92,0,3213,Lagos,Faro,0,269,2.09,,False,121,0.94,6,12891,57.35,Nuno Pedro dos Santos Borges Marques,2009
+444,,5,PS,1,1,1,5,60.93,1,7855,Lagos,Faro,0,269,2.09,,False,121,0.94,6,12891,57.35,Júlio José Monteiro Barroso,2009
+445,,0,B.E.,0,0,1,0,2.9,0,858,Loulé,Faro,0,505,1.71,,False,360,1.22,11,29588,54.48,Joaquim Manuel Mealha Costa,2009
+446,,0,CDS-PP,0,0,1,0,2.64,0,780,Loulé,Faro,0,505,1.71,,False,360,1.22,11,29588,54.48,Francisco José Contreiras Guerreiro,2009
+447,,0,PCP-PEV,0,0,1,0,1.92,0,569,Loulé,Faro,0,505,1.71,,False,360,1.22,11,29588,54.48,José Joaquim Dias Coelho,2009
+448,,6,PPD/PSD,1,1,1,6,57.0,1,16865,Loulé,Faro,0,505,1.71,,False,360,1.22,11,29588,54.48,Sebastião Francisco Seruca Emídio,2009
+449,,3,PS,0,0,1,3,32.62,0,9651,Loulé,Faro,0,505,1.71,,False,360,1.22,11,29588,54.48,Joaquim Manuel dos Santos Vairinhos,2009
+450,,0,CDS-PP,0,0,1,0,1.42,0,60,Monchique,Faro,0,75,1.77,,False,53,1.25,3,4239,74.37,Ana Paula Conceição Santos,2009
+451,,0,PCP-PEV,0,0,1,0,3.68,0,156,Monchique,Faro,0,75,1.77,,False,53,1.25,3,4239,74.37,José Matias da Conceição Francisco,2009
+452,,3,PPD/PSD,1,1,1,3,46.73,1,1981,Monchique,Faro,0,75,1.77,,False,53,1.25,3,4239,74.37,Rui Miguel da Silva André,2009
+453,,2,PS,0,0,1,2,45.15,0,1914,Monchique,Faro,0,75,1.77,,False,53,1.25,3,4239,74.37,Carlos Alberto dos Santos Tuta,2009
+454,,1,B.E.,0,0,1,1,9.86,0,1666,Olhão,Faro,0,476,2.82,,False,206,1.22,5,16890,47.42,João Manuel Dias Pereira,2009
+455,,0,PCP-PEV,0,0,1,0,9.31,0,1572,Olhão,Faro,0,476,2.82,,False,206,1.22,5,16890,47.42,José Marcelino Correia Castanheira,2009
+456,,0,PCTP/MRPP,0,0,1,0,1.82,0,308,Olhão,Faro,0,476,2.82,,False,206,1.22,5,16890,47.42,António João Costa Gamboa,2009
+457,,2,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,2,29.12,0,4918,Olhão,Faro,0,476,2.82,,False,206,1.22,5,16890,47.42,Eduardo Abundio Martins de Sousa,2009
+458,,4,PS,1,1,1,4,45.85,1,7744,Olhão,Faro,0,476,2.82,,False,206,1.22,5,16890,47.42,Francisco José Fernandes Leal,2009
+459,,0,B.E.,0,0,1,0,6.31,0,1460,Portimão,Faro,0,447,1.93,,False,210,0.91,3,23155,54.16,João Manuel Duarte Vasconcelos,2009
+460,,0,CDS-PP,0,0,1,0,4.31,0,999,Portimão,Faro,0,447,1.93,,False,210,0.91,3,23155,54.16,João Pedro Gonçalves Marques Caetano,2009
+461,,0,PCP-PEV,0,0,1,0,5.93,0,1372,Portimão,Faro,0,447,1.93,,False,210,0.91,3,23155,54.16,Rui de Jesus Sacramento,2009
+462,,2,PPD/PSD,0,0,1,2,25.13,0,5818,Portimão,Faro,0,447,1.93,,False,210,0.91,3,23155,54.16,José da Conceição Dias dos Santos,2009
+463,,5,PS,1,1,1,5,55.49,1,12849,Portimão,Faro,0,447,1.93,,False,210,0.91,3,23155,54.16,Manuel António da Luz,2009
+464,,0,B.E.,0,0,1,0,5.88,0,1006,Silves,Faro,0,381,2.23,,False,306,1.79,8,17100,57.22,Carlos Alberto Alexandre Cabrita,2009
+465,,1,PCP-PEV,0,0,1,1,18.67,0,3193,Silves,Faro,0,381,2.23,,False,306,1.79,8,17100,57.22,Rosa Cristina Gonçalves da Palma,2009
+466,,3,PPD/PSD,1,0,1,3,39.54,1,6761,Silves,Faro,0,381,2.23,,False,306,1.79,8,17100,57.22,Maria Isabel Fernandes da Silva Soares,2009
+467,,3,PS,0,0,1,3,31.89,0,5453,Silves,Faro,0,381,2.23,,False,306,1.79,8,17100,57.22,Lisete de Jesus Neves Romão,2009
+468,,0,CDS-PP,0,0,1,0,2.03,0,99,São Brás de Alportel,Faro,0,102,2.09,,False,63,1.29,1,4873,55.51,Cláudia Sofia Valente Brália Cavaco,2009
+469,,0,PCP-PEV,0,0,1,0,6.16,0,300,São Brás de Alportel,Faro,0,102,2.09,,False,63,1.29,1,4873,55.51,Alberto Francisco do Espírito Santo Fernandes,2009
+470,,1,PPD/PSD,0,0,1,1,15.43,0,752,São Brás de Alportel,Faro,0,102,2.09,,False,63,1.29,1,4873,55.51,João Carlos de Mendonça D'Aragão e Moura,2009
+471,,4,PS,1,1,1,4,72.99,1,3557,São Brás de Alportel,Faro,0,102,2.09,,False,63,1.29,1,4873,55.51,António Paulo Jacinto Eusébio,2009
+472,,0,B.E.,0,0,1,0,2.88,0,415,Tavira,Faro,0,292,2.03,,False,197,1.37,9,14408,63.1,Daniel Florêncio Viegas da Graça,2009
+473,,0,CDS-PP,0,0,1,0,2.59,0,373,Tavira,Faro,0,292,2.03,,False,197,1.37,9,14408,63.1,João Afonso da Cunha Rêgo de Carvalho,2009
+474,,0,PCP-PEV,0,0,1,0,2.83,0,408,Tavira,Faro,0,292,2.03,,False,197,1.37,9,14408,63.1,Rodrigo Ferreira Aires,2009
+475,,3,PPD/PSD,0,0,1,3,42.32,0,6097,Tavira,Faro,0,292,2.03,,False,197,1.37,9,14408,63.1,Rui Manuel Palmilha Amaro,2009
+476,,4,PS,1,1,1,4,45.99,1,6626,Tavira,Faro,0,292,2.03,,False,197,1.37,9,14408,63.1,Jorge Manuel do Nascimento Botelho,2009
+477,,0,B.E.,0,0,1,0,1.86,0,196,Vila Real de Santo António,Faro,0,94,0.89,,False,94,0.89,3,10540,63.86,António Tomás Rodrigues,2009
+478,,0,CDS-PP,0,0,1,0,1.09,0,115,Vila Real de Santo António,Faro,0,94,0.89,,False,94,0.89,3,10540,63.86,Jorge Manuel dos Santos Pinto,2009
+479,,0,PCP-PEV,0,0,1,0,7.38,0,778,Vila Real de Santo António,Faro,0,94,0.89,,False,94,0.89,3,10540,63.86,Angelo Miguel Bandeira Barão,2009
+480,,6,PPD/PSD,1,1,1,6,71.09,1,7493,Vila Real de Santo António,Faro,0,94,0.89,,False,94,0.89,3,10540,63.86,Luís Filipe Soromenho Gomes,2009
+481,,1,PS,0,0,1,1,16.79,0,1770,Vila Real de Santo António,Faro,0,94,0.89,,False,94,0.89,3,10540,63.86,Jovita de Fátima Romano Ladeira,2009
+482,,0,MPT,0,0,1,0,0.65,0,20,Vila do Bispo,Faro,0,37,1.21,,False,26,0.85,5,3058,71.42,João Pedro Gonçalves Viegas Jacinto,2009
+483,,0,PCP-PEV,0,0,1,0,1.86,0,57,Vila do Bispo,Faro,0,37,1.21,,False,26,0.85,5,3058,71.42,Jorge Alexandre São Pedro Ribeiro Gomes,2009
+484,,2,PPD/PSD,0,0,1,2,36.13,0,1105,Vila do Bispo,Faro,0,37,1.21,,False,26,0.85,5,3058,71.42,Gilberto Repolho dos Reis Viegas,2009
+485,,2,PS,1,0,1,2,39.6,1,1211,Vila do Bispo,Faro,0,37,1.21,,False,26,0.85,5,3058,71.42,Adelino Augusto da Rocha Soares,2009
+486,,1,VI,0,0,1,1,19.69,0,602,Vila do Bispo,Faro,0,37,1.21,,False,26,0.85,5,3058,71.42,José de Deus Vieira Rodrigues,2009
+487,,0,CDS-PP,0,0,1,0,6.31,0,274,Aguiar da Beira,Guarda,0,45,1.04,,False,94,2.17,13,4339,65.35,EMILIA DAS NEVES BENTO SILVA,2009
+488,,0,PCP-PEV,0,0,1,0,0.92,0,40,Aguiar da Beira,Guarda,0,45,1.04,,False,94,2.17,13,4339,65.35,JOAQUIM AUGUSTO POMBINHO MACAU,2009
+489,,3,PPD/PSD,1,1,1,3,51.69,1,2243,Aguiar da Beira,Guarda,0,45,1.04,,False,94,2.17,13,4339,65.35,AUGUSTO FERNANDO ANDRADE,2009
+490,,2,PS,0,0,1,2,37.87,0,1643,Aguiar da Beira,Guarda,0,45,1.04,,False,94,2.17,13,4339,65.35,ANTONIO ALBERTO FERREIRA DE LACERDA,2009
+491,,0,PCP-PEV,0,0,1,0,1.75,0,104,Almeida,Guarda,0,95,1.59,,False,127,2.13,29,5957,68.49,JOÃO LUIS GONÇALVES DE FRIAS TERREIRO,2009
+492,,3,PPD/PSD.CDS-PP,1,1,1,3,52.12,1,3105,Almeida,Guarda,0,95,1.59,,False,127,2.13,29,5957,68.49,ANTÓNIO BAPTISTA RIBEIRO,2009
+493,,2,PS,0,0,1,2,42.4,0,2526,Almeida,Guarda,0,95,1.59,,False,127,2.13,29,5957,68.49,ORLINDO BALCÃO VICENTE,2009
+494,,1,I,0,0,1,1,22.12,0,1376,Celorico da Beira,Guarda,0,65,1.05,,False,107,1.72,22,6220,69.51,Júlio Manuel dos Santos,2009
+495,,0,PCP-PEV,0,0,1,0,0.64,0,40,Celorico da Beira,Guarda,0,65,1.05,,False,107,1.72,22,6220,69.51,José Manuel Lopes Catalino,2009
+496,,1,PPD/PSD.CDS-PP,0,0,1,1,21.27,0,1323,Celorico da Beira,Guarda,0,65,1.05,,False,107,1.72,22,6220,69.51,Victor Martins Santos,2009
+497,,3,PS,1,1,1,3,53.2,1,3309,Celorico da Beira,Guarda,0,65,1.05,,False,107,1.72,22,6220,69.51,José Francisco Gomes Monteiro,2009
+498,,0,PCP-PEV,0,0,1,0,0.88,0,42,Figueira de Castelo Rodrigo,Guarda,0,71,1.48,,False,82,1.71,17,4785,72.7,Maria Graciete Almeida Brito,2009
+499,,3,PPD/PSD,1,1,1,3,55.42,1,2652,Figueira de Castelo Rodrigo,Guarda,0,71,1.48,,False,82,1.71,17,4785,72.7,António Edmundo Freire Ribeiro,2009
+500,,2,PS,0,0,1,2,40.5,0,1938,Figueira de Castelo Rodrigo,Guarda,0,71,1.48,,False,82,1.71,17,4785,72.7,Carlos Alberto Nunes Panta,2009
+501,,0,CDS-PP.PPM,0,0,1,0,3.28,0,130,Fornos de Algodres,Guarda,0,65,1.64,,False,59,1.49,16,3962,71.98,Maria João Albuquerque Pimentel Vasconcelos,2009
+502,,0,PCP-PEV,0,0,1,0,0.88,0,35,Fornos de Algodres,Guarda,0,65,1.64,,False,59,1.49,16,3962,71.98,Joaquim Alberto Santos de Almeida,2009
+503,,3,PPD/PSD,1,1,1,3,54.67,1,2166,Fornos de Algodres,Guarda,0,65,1.64,,False,59,1.49,16,3962,71.98,José Severino Soares Miranda,2009
+504,,2,PS,0,0,1,2,38.04,0,1507,Fornos de Algodres,Guarda,0,65,1.64,,False,59,1.49,16,3962,71.98,António José Elvas da Rocha,2009
+505,,0,CDS-PP,0,0,1,0,1.63,0,165,Gouveia,Guarda,0,195,1.92,,False,126,1.24,22,10145,64.72,Nuno Filipe Menezes Simões,2009
+506,,0,PCP-PEV,0,0,1,0,3.39,0,344,Gouveia,Guarda,0,195,1.92,,False,126,1.24,22,10145,64.72,Nuno Ricardo Dinis de Abreu,2009
+507,,4,PPD/PSD,1,1,1,4,52.08,1,5284,Gouveia,Guarda,0,195,1.92,,False,126,1.24,22,10145,64.72,Álvaro dos Santos Amaro,2009
+508,,3,PS,0,0,1,3,39.73,0,4031,Gouveia,Guarda,0,195,1.92,,False,126,1.24,22,10145,64.72,Armando José dos Santos Almeida,2009
+509,,0,B.E.,0,0,1,0,2.89,0,723,Guarda,Guarda,0,579,2.31,,False,539,2.15,55,25053,62.72,Jorge Manuel da Cunha Coutinho Noutel,2009
+510,,0,CDS-PP,0,0,1,0,5.15,0,1291,Guarda,Guarda,0,579,2.31,,False,539,2.15,55,25053,62.72,Cláudia Maria Amaral Teixeira,2009
+511,,0,PCP-PEV,0,0,1,0,2.68,0,672,Guarda,Guarda,0,579,2.31,,False,539,2.15,55,25053,62.72,Honorato Gil Robalo,2009
+512,,0,PCTP/MRPP,0,0,1,0,0.7,0,176,Guarda,Guarda,0,579,2.31,,False,539,2.15,55,25053,62.72,Eduardo Pires do Espírito Santo,2009
+513,,2,PPD/PSD,0,0,1,2,28.33,0,7097,Guarda,Guarda,0,579,2.31,,False,539,2.15,55,25053,62.72,José Luís Monteiro Crespo de Carvalho,2009
+514,,5,PS,1,1,1,5,55.79,1,13976,Guarda,Guarda,0,579,2.31,,False,539,2.15,55,25053,62.72,Joaquim Carlos Dias Valente,2009
+515,,0,PCP-PEV,0,0,1,0,2.3,0,64,Manteigas,Guarda,0,33,1.19,,False,34,1.22,4,2777,71.3,José Maria Serra  Saraiva,2009
+516,,2,PPD/PSD,0,0,1,2,41.27,0,1146,Manteigas,Guarda,0,33,1.19,,False,34,1.22,4,2777,71.3,José Manuel Custódia Biscaia,2009
+517,,3,PS,1,1,1,3,54.02,1,1500,Manteigas,Guarda,0,33,1.19,,False,34,1.22,4,2777,71.3,Esmeraldo Saraiva Neto Carvalhinho,2009
+518,,0,PCP-PEV,0,0,1,0,1.2,0,53,Meda,Guarda,0,51,1.15,,False,76,1.71,16,4435,68.74,Manuel de Jesus Darei Frade,2009
+519,,2,PPD/PSD,0,0,1,2,42.57,0,1888,Meda,Guarda,0,51,1.15,,False,76,1.71,16,4435,68.74,João Germano Mourato Leal Pinto,2009
+520,,3,PS,1,1,1,3,53.37,1,2367,Meda,Guarda,0,51,1.15,,False,76,1.71,16,4435,68.74,Armando Luis Rodrigues Carneiro,2009
+521,,0,CDS-PP,0,0,1,0,3.42,0,247,Pinhel,Guarda,0,135,1.87,,False,121,1.68,27,7213,64.26,Pedro Francisco de Campos Henriques Albuquerque,2009
+522,,0,PCP-PEV,0,0,1,0,2.27,0,164,Pinhel,Guarda,0,135,1.87,,False,121,1.68,27,7213,64.26,Joaquim Luis Ferreira,2009
+523,,5,PPD/PSD,1,1,1,5,59.98,1,4326,Pinhel,Guarda,0,135,1.87,,False,121,1.68,27,7213,64.26,António Luis Monteiro Ruas,2009
+524,,2,PS,0,0,1,2,30.78,0,2220,Pinhel,Guarda,0,135,1.87,,False,121,1.68,27,7213,64.26,Rui Manuel de Oliveira Campos Teixeira,2009
+525,,0,CDS-PP,0,0,1,0,2.18,0,212,Sabugal,Guarda,0,166,1.71,,False,190,1.95,40,9728,59.6,Ana Isabel Lasso de La Vega e Charters Amaral Marques,2009
+526,,1,MPT,0,0,1,1,18.31,0,1781,Sabugal,Guarda,0,166,1.71,,False,190,1.95,40,9728,59.6,Joaquim Fernando Ricardo,2009
+527,,0,PCP-PEV,0,0,1,0,0.99,0,96,Sabugal,Guarda,0,166,1.71,,False,190,1.95,40,9728,59.6,José Manuel Monteiro,2009
+528,,3,PPD/PSD,1,0,1,3,38.9,1,3784,Sabugal,Guarda,0,166,1.71,,False,190,1.95,40,9728,59.6,António dos Santos Robalo,2009
+529,,3,PS,0,0,1,3,35.97,0,3499,Sabugal,Guarda,0,166,1.71,,False,190,1.95,40,9728,59.6,António Bernardo Morgado Gomes Dionísio,2009
+530,,0,PCP-PEV,0,0,1,0,5.66,0,918,Seia,Guarda,0,351,2.16,,False,251,1.55,29,16229,62.73,António da Silva Abrantes,2009
+531,,3,PPD/PSD.CDS-PP,0,0,1,3,38.44,0,6239,Seia,Guarda,0,351,2.16,,False,251,1.55,29,16229,62.73,Luis Jorge da Silva Caetano,2009
+532,,4,PS,1,1,1,4,52.19,1,8470,Seia,Guarda,0,351,2.16,,False,251,1.55,29,16229,62.73,CARLOS FILIPE CAMELO MIRANDA DE FIGUEIREDO,2009
+533,,0,PCP-PEV,0,0,1,0,1.06,0,77,Trancoso,Guarda,0,117,1.61,,False,121,1.67,29,7249,65.29,Armando  da Conceição Morais de Oliveira,2009
+534,,4,PPD/PSD,1,1,1,4,50.43,1,3656,Trancoso,Guarda,0,117,1.61,,False,121,1.67,29,7249,65.29,Júlio José Saraiva Sarmento,2009
+535,,3,PS,0,0,1,3,45.22,0,3278,Trancoso,Guarda,0,117,1.61,,False,121,1.67,29,7249,65.29,Amilcar José Nunes Salvador,2009
+536,,0,CDS-PP,0,0,1,0,1.13,0,68,Vila Nova de Foz Côa,Guarda,0,80,1.32,,False,79,1.31,17,6040,68.69,Luis Arnaldo Batista Ramalho,2009
+537,,0,PCP-PEV,0,0,1,0,1.39,0,84,Vila Nova de Foz Côa,Guarda,0,80,1.32,,False,79,1.31,17,6040,68.69,Luis Manuel Branquinho Pinto,2009
+538,,3,PPD/PSD,1,1,1,3,48.53,1,2931,Vila Nova de Foz Côa,Guarda,0,80,1.32,,False,79,1.31,17,6040,68.69,Gustavo Sousa Duarte,2009
+539,,2,PS,0,0,1,2,46.32,0,2798,Vila Nova de Foz Côa,Guarda,0,80,1.32,,False,79,1.31,17,6040,68.69,Emilio António Pessoa Mesquita,2009
+540,,0,B.E.,0,0,1,0,2.6,0,775,Alcobaça,Leiria,0,851,2.85,,False,469,1.57,18,29824,60.43,Adelino António Moreira Granja,2009
+541,,0,CDS-PP,0,0,1,0,5.2,0,1551,Alcobaça,Leiria,0,851,2.85,,False,469,1.57,18,29824,60.43,Jorge Manuel Saraiva Esteves de Carvalho,2009
+542,,0,III,0,0,1,0,6.67,0,1988,Alcobaça,Leiria,0,851,2.85,,False,469,1.57,18,29824,60.43,José Carvalho Pedrosa,2009
+543,,1,PCP-PEV,0,0,1,1,15.28,0,4558,Alcobaça,Leiria,0,851,2.85,,False,469,1.57,18,29824,60.43,Rogério Manuel Madeira Raimundo,2009
+544,,4,PPD/PSD,1,1,1,4,44.93,1,13401,Alcobaça,Leiria,0,851,2.85,,False,469,1.57,18,29824,60.43,Paulo Jorge Marques Inácio,2009
+545,,2,PS,0,0,1,2,20.89,0,6231,Alcobaça,Leiria,0,851,2.85,,False,469,1.57,18,29824,60.43,José Acácio Paulino Barbosa,2009
+546,,1,CDS-PP,0,0,1,1,22.35,0,1074,Alvaiázere,Leiria,0,71,1.48,,False,64,1.33,7,4805,64.67,Abel Marques dos Reis Nunes,2009
+547,,0,PCP-PEV,0,0,1,0,0.92,0,44,Alvaiázere,Leiria,0,71,1.48,,False,64,1.33,7,4805,64.67,João Paulo Forte Pires,2009
+548,,3,PPD/PSD,1,1,1,3,50.72,1,2437,Alvaiázere,Leiria,0,71,1.48,,False,64,1.33,7,4805,64.67,Paulo Tito Delgado Morgado,2009
+549,,1,PS,0,0,1,1,23.2,0,1115,Alvaiázere,Leiria,0,71,1.48,,False,64,1.33,7,4805,64.67,Maria Teodora Freire Gonçalves Cardo,2009
+550,,0,PCP-PEV,0,0,1,0,2.41,0,195,Ansião,Leiria,0,114,1.41,,False,77,0.95,8,8075,63.84,Nidia Maria Coutinho e Valente,2009
+551,,5,PPD/PSD,1,1,1,5,62.58,1,5053,Ansião,Leiria,0,114,1.41,,False,77,0.95,8,8075,63.84,Rui Alexandre Novo e Rocha,2009
+552,,2,PS,0,0,1,2,32.64,0,2636,Ansião,Leiria,0,114,1.41,,False,77,0.95,8,8075,63.84,António Jose Vicente Domingues,2009
+553,,1,CDS-PP,0,0,1,1,11.97,0,1001,Batalha,Leiria,0,192,2.3,,False,139,1.66,4,8365,61.53,Horácio Moita Francisco,2009
+554,,0,PCP-PEV,0,0,1,0,1.69,0,141,Batalha,Leiria,0,192,2.3,,False,139,1.66,4,8365,61.53,José Joaquim Filipe Valentim,2009
+555,,5,PPD/PSD,1,1,1,5,68.26,1,5710,Batalha,Leiria,0,192,2.3,,False,139,1.66,4,8365,61.53,António José Martins de Sousa Lucas,2009
+556,,1,PS,0,0,1,1,14.13,0,1182,Batalha,Leiria,0,192,2.3,,False,139,1.66,4,8365,61.53,Francisco José Meireles Cardoso,2009
+557,,0,CDS-PP,0,0,1,0,6.26,0,444,Bombarral,Leiria,0,118,1.66,,False,89,1.26,5,7090,57.39,João Carlos Vieira Comparada,2009
+558,,0,PCP-PEV,0,0,1,0,6.39,0,453,Bombarral,Leiria,0,118,1.66,,False,89,1.26,5,7090,57.39,José Agostinho Faria,2009
+559,,4,PPD/PSD,1,1,1,4,49.89,1,3537,Bombarral,Leiria,0,118,1.66,,False,89,1.26,5,7090,57.39,José Manuel Gonçalves Vieira,2009
+560,,3,PS,0,0,1,3,34.54,0,2449,Bombarral,Leiria,0,118,1.66,,False,89,1.26,5,7090,57.39,Jorge Gabriel Duarte Catana Martins,2009
+561,,0,B.E.,0,0,1,0,4.87,0,1075,Caldas da Rainha,Leiria,0,601,2.73,,False,264,1.2,16,22052,50.75,Rui Manuel dos Santos Calisto,2009
+562,,1,CDS-PP,0,0,1,1,11.11,0,2449,Caldas da Rainha,Leiria,0,601,2.73,,False,264,1.2,16,22052,50.75,Manuel Fialho Isaque,2009
+563,,0,PCP-PEV,0,0,1,0,4.15,0,915,Caldas da Rainha,Leiria,0,601,2.73,,False,264,1.2,16,22052,50.75,António Henriques Barros,2009
+564,,4,PPD/PSD,1,1,1,4,50.47,1,11130,Caldas da Rainha,Leiria,0,601,2.73,,False,264,1.2,16,22052,50.75,Fernando José da Costa,2009
+565,,2,PS,0,0,1,2,25.48,0,5618,Caldas da Rainha,Leiria,0,601,2.73,,False,264,1.2,16,22052,50.75,Delfim Marques de Azevedo,2009
+566,,0,PCP-PEV,0,0,1,0,2.36,0,51,Castanheira de Pêra,Leiria,0,69,3.19,,False,33,1.52,2,2164,66.44,Manuel Lopes da Costa,2009
+567,,2,PPD/PSD,0,0,1,2,43.81,0,948,Castanheira de Pêra,Leiria,0,69,3.19,,False,33,1.52,2,2164,66.44,Pedro Manuel Alves da Graça,2009
+568,,3,PS,1,1,1,3,49.12,1,1063,Castanheira de Pêra,Leiria,0,69,3.19,,False,33,1.52,2,2164,66.44,Fernando José Pires Lopes,2009
+569,,0,PCP-PEV,0,0,1,0,1.11,0,53,Figueiró dos Vinhos,Leiria,0,77,1.61,,False,58,1.21,5,4792,73.37,Maria Celeste Miranda Ferreira Morgado,2009
+570,,3,PPD/PSD,1,1,1,3,55.38,1,2654,Figueiró dos Vinhos,Leiria,0,77,1.61,,False,58,1.21,5,4792,73.37,Rui Manuel de Almeida e Silva,2009
+571,,2,PS,0,0,1,2,40.69,0,1950,Figueiró dos Vinhos,Leiria,0,77,1.61,,False,58,1.21,5,4792,73.37,Carlos Alberto David dos Santos Lopes,2009
+572,,0,B.E.,0,0,1,0,3.35,0,2199,Leiria,Leiria,0,1804,2.75,,False,860,1.31,29,65648,59.44,José Manuel Peixoto Figueira Henriques,2009
+573,,1,CDS-PP,0,0,1,1,7.68,0,5043,Leiria,Leiria,0,1804,2.75,,False,860,1.31,29,65648,59.44,António Carlos Batista Martinho Gomes,2009
+574,,0,PCP-PEV,0,0,1,0,2.44,0,1600,Leiria,Leiria,0,1804,2.75,,False,860,1.31,29,65648,59.44,Mário Fernando Brites Lopes,2009
+575,,5,PPD/PSD,0,0,1,5,37.61,0,24693,Leiria,Leiria,0,1804,2.75,,False,860,1.31,29,65648,59.44,Isabel Damasceno Vieira de Campos Costa,2009
+576,,5,PS,1,0,1,5,44.86,1,29449,Leiria,Leiria,0,1804,2.75,,False,860,1.31,29,65648,59.44,Raúl Miguel de Castro,2009
+577,,0,B.E.,0,0,1,0,5.67,0,1017,Marinha Grande,Leiria,0,378,2.11,,False,216,1.21,3,17921,55.21,Amândio João Paula Fernandes,2009
+578,,0,I,0,0,1,0,5.8,0,1039,Marinha Grande,Leiria,0,378,2.11,,False,216,1.21,3,17921,55.21,Artur Pereira de Oliveira,2009
+579,,3,PCP-PEV,0,0,1,3,31.43,0,5632,Marinha Grande,Leiria,0,378,2.11,,False,216,1.21,3,17921,55.21,Alberto Filomeno Esteves Cascalho,2009
+580,,1,PPD/PSD,0,0,1,1,17.7,0,3172,Marinha Grande,Leiria,0,378,2.11,,False,216,1.21,3,17921,55.21,António Manuel Jesus Ferreira Santos,2009
+581,,3,PS,1,0,1,3,36.09,1,6467,Marinha Grande,Leiria,0,378,2.11,,False,216,1.21,3,17921,55.21,Álvaro Manuel Marques Pereira,2009
+582,,0,PCP-PEV,0,0,1,0,5.36,0,428,Nazaré,Leiria,0,173,2.17,,False,100,1.25,3,7988,56.03,João Paulo Quinzico Delgado,2009
+583,,4,PPD/PSD,1,1,1,4,48.03,1,3837,Nazaré,Leiria,0,173,2.17,,False,100,1.25,3,7988,56.03,Jorge Codinha Antunes Barroso,2009
+584,,3,PS,0,0,1,3,35.77,0,2857,Nazaré,Leiria,0,173,2.17,,False,100,1.25,3,7988,56.03,Vitor Manuel Estrelinha Esgaio,2009
+585,,0,PCP-PEV,0,0,1,0,1.84,0,46,Pedrógão Grande,Leiria,0,98,3.91,,False,52,2.08,3,2506,63.64,Rui Baltazar Coelho da Silva Matias,2009
+586,,4,PPD/PSD,1,1,1,4,68.44,1,1715,Pedrógão Grande,Leiria,0,98,3.91,,False,52,2.08,3,2506,63.64,João Manuel Gomes Marques,2009
+587,,1,PS,0,0,1,1,23.74,0,595,Pedrógão Grande,Leiria,0,98,3.91,,False,52,2.08,3,2506,63.64,Paulo Alexandre de Carvalho e Silva,2009
+588,,0,B.E.,0,0,1,0,1.88,0,251,Peniche,Leiria,0,266,1.99,,False,189,1.42,6,13355,53.47,Fernando Lino Barradas Franco,2009
+589,,0,CDS-PP,0,0,1,0,2.44,0,326,Peniche,Leiria,0,266,1.99,,False,189,1.42,6,13355,53.47,Pedro Silva Formozinho Sanchez,2009
+590,,4,PCP-PEV,1,1,1,4,44.08,1,5887,Peniche,Leiria,0,266,1.99,,False,189,1.42,6,13355,53.47,António José Ferreira Sousa Carreira Santos,2009
+591,,2,PPD/PSD,0,0,1,2,29.03,0,3877,Peniche,Leiria,0,266,1.99,,False,189,1.42,6,13355,53.47,Luís Lourenço Jorge Ganhão,2009
+592,,1,PS,0,0,1,1,19.16,0,2559,Peniche,Leiria,0,266,1.99,,False,189,1.42,6,13355,53.47,Carlos Jorge Gonçalves do Amaral Domingos,2009
+593,,0,B.E.,0,0,1,0,1.85,0,504,Pombal,Leiria,0,741,2.71,,False,356,1.3,17,27316,49.81,Agostinho de Barros da Silva,2009
+594,,0,PCP-PEV,0,0,1,0,1.74,0,474,Pombal,Leiria,0,741,2.71,,False,356,1.3,17,27316,49.81,Alcides da Silva Simões,2009
+595,,7,PPD/PSD,1,1,1,7,65.79,1,17970,Pombal,Leiria,0,741,2.71,,False,356,1.3,17,27316,49.81,Narciso Ferreira Mota,2009
+596,,2,PS,0,0,1,2,26.62,0,7271,Pombal,Leiria,0,741,2.71,,False,356,1.3,17,27316,49.81,Adelino Gonçalves Mendes,2009
+597,,0,CDS-PP,0,0,1,0,2.54,0,349,Porto de Mós,Leiria,0,290,2.11,,False,200,1.45,13,13757,64.04,Carlos Emanuel Fernandes Pereira da Silva,2009
+598,,0,PCP-PEV,0,0,1,0,2.38,0,328,Porto de Mós,Leiria,0,290,2.11,,False,200,1.45,13,13757,64.04,Luís António Amado Carreira,2009
+599,,2,PPD/PSD,0,0,1,2,32.64,0,4490,Porto de Mós,Leiria,0,290,2.11,,False,200,1.45,13,13757,64.04,Júlio João Carreira Vieira,2009
+600,,5,PS,1,1,1,5,58.88,1,8100,Porto de Mós,Leiria,0,290,2.11,,False,200,1.45,13,13757,64.04,João Salgueiro,2009
+601,,0,CDS-PP,0,0,1,0,1.76,0,109,Óbidos,Leiria,0,119,1.92,,False,75,1.21,9,6197,59.09,Francisco Lage Raposo Braz Teixeira,2009
+602,,0,PCP-PEV,0,0,1,0,3.81,0,236,Óbidos,Leiria,0,119,1.92,,False,75,1.21,9,6197,59.09,José Rui Pereira da Silva Raposo,2009
+603,,5,PPD/PSD,1,1,1,5,68.47,1,4243,Óbidos,Leiria,0,119,1.92,,False,75,1.21,9,6197,59.09,Telmo Henrique Correia Daniel Faria,2009
+604,,2,PS,0,0,1,2,22.83,0,1415,Óbidos,Leiria,0,119,1.92,,False,75,1.21,9,6197,59.09,José Rodrigues Machado,2009
+605,,0,B.E.,0,0,1,0,4.98,0,1004,Alenquer,Lisboa,0,339,1.68,,False,207,1.03,16,20157,60.44,José António Pereira Porém,2009
+606,,1,PCP-PEV,0,0,1,1,16.25,0,3276,Alenquer,Lisboa,0,339,1.68,,False,207,1.03,16,20157,60.44,José Manuel Fazendeiro Catarino,2009
+607,,3,PPD/PSD.CDS-PP.PPM.MPT,0,0,1,3,36.07,0,7270,Alenquer,Lisboa,0,339,1.68,,False,207,1.03,16,20157,60.44,Nuno Miguel Domingos Coelho,2009
+608,,3,PS,1,0,1,3,39.99,1,8061,Alenquer,Lisboa,0,339,1.68,,False,207,1.03,16,20157,60.44,Jorge Manuel Cunha Mendes Riso,2009
+609,,0,VI,0,0,1,0,2.44,0,1709,Amadora,Lisboa,0,1316,1.88,,False,924,1.32,11,70143,47.73,Francisco Correia Pereira,2009
+610,,0,XIV,0,0,1,0,2.34,0,1643,Amadora,Lisboa,0,1316,1.88,,False,924,1.32,11,70143,47.73,Vítor José Alves dos Santos,2009
+611,,0,CDS-PP,0,0,1,0,2.6,0,158,Arruda dos Vinhos,Lisboa,0,91,1.5,,False,94,1.55,4,6069,64.24,Francisco Xavier Paes de Sande e Castro,2009
+612,,0,PCP-PEV,0,0,1,0,8.04,0,488,Arruda dos Vinhos,Lisboa,0,91,1.5,,False,94,1.55,4,6069,64.24,Adelaide Maria Santos Ferreira Henriques,2009
+613,,3,PPD/PSD,1,1,1,3,50.52,1,3066,Arruda dos Vinhos,Lisboa,0,91,1.5,,False,94,1.55,4,6069,64.24,Carlos Manuel Cruz Lourenço,2009
+614,,2,PS,0,0,1,2,35.79,0,2172,Arruda dos Vinhos,Lisboa,0,91,1.5,,False,94,1.55,4,6069,64.24,André Filipe dos Santos Rijo,2009
+615,,0,B.E.,0,0,1,0,5.57,0,573,Azambuja,Lisboa,0,231,2.24,,False,153,1.49,9,10295,59.3,João Paulo Mendes Marques,2009
+616,,1,PCP-PEV,0,0,1,1,16.9,0,1740,Azambuja,Lisboa,0,231,2.24,,False,153,1.49,9,10295,59.3,António José da Fonseca Nobre,2009
+617,,1,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,1,17.18,0,1769,Azambuja,Lisboa,0,231,2.24,,False,153,1.49,9,10295,59.3,António Jorge de Oliveira Lopes,2009
+618,,5,PS,1,1,1,5,56.62,1,5829,Azambuja,Lisboa,0,231,2.24,,False,153,1.49,9,10295,59.3,Joaquim António Sousa Neves Ramos,2009
+619,,0,CDS-PP,0,0,1,0,3.06,0,251,Cadaval,Lisboa,0,100,1.22,,False,110,1.34,10,8190,64.85,Maria João Ramos Batista,2009
+620,,0,PCP-PEV,0,0,1,0,4.82,0,395,Cadaval,Lisboa,0,100,1.22,,False,110,1.34,10,8190,64.85,Ricardo Manuel Francisco Miguel,2009
+621,,4,PPD/PSD,1,1,1,4,44.93,1,3680,Cadaval,Lisboa,0,100,1.22,,False,110,1.34,10,8190,64.85,Aristides Lourenço Sécio,2009
+622,,3,PS,0,0,1,3,44.62,0,3654,Cadaval,Lisboa,0,100,1.22,,False,110,1.34,10,8190,64.85,Maria João Marques Pacheco Botelho,2009
+623,,0,B.E.,0,0,1,0,6.24,0,4410,Cascais,Lisboa,0,1533,2.17,,False,818,1.16,6,70638,44.06,Rita Oliveira Calvário,2009
+624,,1,PCP-PEV,0,0,1,1,9.19,0,6494,Cascais,Lisboa,0,1533,2.17,,False,818,1.16,6,70638,44.06,Pedro Arantes Lopes de Mendonça,2009
+625,,0,PCTP/MRPP,0,0,1,0,0.44,0,311,Cascais,Lisboa,0,1533,2.17,,False,818,1.16,6,70638,44.06,Carlos Fernando Gomes de Oliveira Pacheco,2009
+626,,0,P.N.R.,0,0,1,0,0.4,0,285,Cascais,Lisboa,0,1533,2.17,,False,818,1.16,6,70638,44.06,Maria Isabel Carvalho Coutinho,2009
+627,,7,PPD/PSD.CDS-PP,1,1,1,7,53.04,1,37463,Cascais,Lisboa,0,1533,2.17,,False,818,1.16,6,70638,44.06,António D'Orey Capucho,2009
+628,,0,PPM,0,0,1,0,0.69,0,489,Cascais,Lisboa,0,1533,2.17,,False,818,1.16,6,70638,44.06,Victor Manuel Martins de Almeida,2009
+629,,3,PS,0,0,1,3,26.66,0,18835,Cascais,Lisboa,0,1533,2.17,,False,818,1.16,6,70638,44.06,Leonor Coutinho Pereira dos Santos,2009
+630,,1,PCP-PEV,0,0,1,1,8.07,0,22623,Lisboa,Lisboa,0,4267,1.52,,False,2885,1.03,53,280310,53.43,Ruben Luís Tristão de Carvalho e Silva,2009
+631,,0,PCTP/MRPP,0,0,1,0,0.67,0,1866,Lisboa,Lisboa,0,4267,1.52,,False,2885,1.03,53,280310,53.43,Carlos Alberto Vieira Paisana,2009
+632,,0,P.N.R.,0,0,1,0,0.33,0,917,Lisboa,Lisboa,0,4267,1.52,,False,2885,1.03,53,280310,53.43,José de Almeida e Vasconcellos Pinto-Coelho,2009
+633,,7,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,7,38.69,0,108457,Lisboa,Lisboa,0,4267,1.52,,False,2885,1.03,53,280310,53.43,Pedro Miguel de Santana Lopes,2009
+634,,9,PS,1,1,1,9,44.01,1,123372,Lisboa,Lisboa,0,4267,1.52,,False,2885,1.03,53,280310,53.43,António Luís Santos da Costa,2009
+635,,0,PTP,0,0,1,0,0.18,0,515,Lisboa,Lisboa,0,4267,1.52,,False,2885,1.03,53,280310,53.43,Bruno Manuel Ferreira de Sousa,2009
+636,,0,B.E.,0,0,1,0,4.24,0,3812,Loures,Lisboa,0,1566,1.74,,False,1214,1.35,18,89998,54.23,Vitor Manuel Carvalho Franco,2009
+637,,0,CDS-PP,0,0,1,0,3.83,0,3446,Loures,Lisboa,0,1566,1.74,,False,1214,1.35,18,89998,54.23,Mário Ferreira Teixeira do Carmo,2009
+638,,3,PCP-PEV,0,0,1,3,22.96,0,20667,Loures,Lisboa,0,1566,1.74,,False,1214,1.35,18,89998,54.23,Paulo Jorge Piteira Leão,2009
+639,,0,PCTP/MRPP,0,0,1,0,1.66,0,1494,Loures,Lisboa,0,1566,1.74,,False,1214,1.35,18,89998,54.23,Luís Manuel da Silva Patrício,2009
+640,,2,PPD/PSD,0,0,1,2,16.06,0,14456,Loures,Lisboa,0,1566,1.74,,False,1214,1.35,18,89998,54.23,Maria Geni Veloso das Neves,2009
+641,,6,PS,1,1,1,6,48.16,1,43343,Loures,Lisboa,0,1566,1.74,,False,1214,1.35,18,89998,54.23,Carlos Alberto Dias Teixeira,2009
+642,,0,CDS-PP,0,0,1,0,2.57,0,339,Lourinhã,Lisboa,0,266,2.01,,False,195,1.48,11,13211,59.72,José António Monteiro Bourdain,2009
+643,,0,MMS,0,0,1,0,0.43,0,57,Lourinhã,Lisboa,0,266,2.01,,False,195,1.48,11,13211,59.72,João Nunes Maria Alves,2009
+644,,0,PCP-PEV,0,0,1,0,3.82,0,505,Lourinhã,Lisboa,0,266,2.01,,False,195,1.48,11,13211,59.72,José Manuel Levy da Silva Soeiro,2009
+645,,2,PPD/PSD,0,0,1,2,32.56,0,4302,Lourinhã,Lisboa,0,266,2.01,,False,195,1.48,11,13211,59.72,Carlos Jorge Segadães de Almeida Marques,2009
+646,,5,PS,1,1,1,5,57.13,1,7547,Lourinhã,Lisboa,0,266,2.01,,False,195,1.48,11,13211,59.72,José Manuel Dias Custódio,2009
+647,,0,B.E.,0,0,1,0,4.57,0,1323,Mafra,Lisboa,0,837,2.89,,False,375,1.3,17,28940,56.06,Helder Augusto Gonçalves Fortes,2009
+648,,0,CDS-PP,0,0,1,0,5.74,0,1660,Mafra,Lisboa,0,837,2.89,,False,375,1.3,17,28940,56.06,Carlos Evangelista Sena Pinheiro,2009
+649,,0,PCP-PEV,0,0,1,0,5.95,0,1722,Mafra,Lisboa,0,837,2.89,,False,375,1.3,17,28940,56.06,Eugénio Óscar Garcia da Rosa,2009
+650,,6,PPD/PSD,1,1,1,6,52.04,1,15059,Mafra,Lisboa,0,837,2.89,,False,375,1.3,17,28940,56.06,José Maria Ministro dos Santos,2009
+651,,3,PS,0,0,1,3,27.52,0,7964,Mafra,Lisboa,0,837,2.89,,False,375,1.3,17,28940,56.06,Sérgio Paulo Mendes Mota,2009
+652,,0,B.E.,0,0,1,0,3.76,0,2396,Odivelas,Lisboa,0,988,1.55,,False,741,1.16,7,63647,54.37,António Miguel Rodrigues,2009
+653,,2,PCP-PEV,0,0,1,2,20.17,0,12838,Odivelas,Lisboa,0,988,1.55,,False,741,1.16,7,63647,54.37,Ilídio de Magalhães Ferreira,2009
+654,,4,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,4,35.74,0,22747,Odivelas,Lisboa,0,988,1.55,,False,741,1.16,7,63647,54.37,Hernâni Manuel Marques de Carvalho,2009
+655,,5,PS,1,0,1,5,37.61,1,23937,Odivelas,Lisboa,0,988,1.55,,False,741,1.16,7,63647,54.37,Susana de Fátima Carvalho Amador,2009
+656,,0,B.E.,0,0,1,0,3.91,0,3054,Oeiras,Lisboa,0,2087,2.67,,False,1380,1.77,10,78059,54.01,Francisco Manuel Vicente Figueira Silva,2009
+657,,5,I,1,0,1,5,41.52,1,32407,Oeiras,Lisboa,0,2087,2.67,,False,1380,1.77,10,78059,54.01,Isaltino Afonso Morais,2009
+658,,1,PCP-PEV,0,0,1,1,7.31,0,5703,Oeiras,Lisboa,0,2087,2.67,,False,1380,1.77,10,78059,54.01,Amílcar José da Silva Campos,2009
+659,,0,PCTP/MRPP,0,0,1,0,0.63,0,495,Oeiras,Lisboa,0,2087,2.67,,False,1380,1.77,10,78059,54.01,Fernando Carvalho Pereira,2009
+660,,2,PPD/PSD.CDS-PP.PPM,0,0,1,2,16.42,0,12821,Oeiras,Lisboa,0,2087,2.67,,False,1380,1.77,10,78059,54.01,Isabel Maria Meireles Teixeira Vasconcelos Salgado,2009
+661,,3,PS,0,0,1,3,25.77,0,20112,Oeiras,Lisboa,0,2087,2.67,,False,1380,1.77,10,78059,54.01,Marcos de Cunha e Lorena Perestrello de Vasconcellos,2009
+662,,0,B.E.,0,0,1,0,5.9,0,8121,Sintra,Lisboa,0,2400,1.74,,False,1616,1.17,20,137699,47.92,André Aurélio Marona Beja,2009
+663,,1,PCP-PEV,0,0,1,1,11.11,0,15293,Sintra,Lisboa,0,2400,1.74,,False,1616,1.17,20,137699,47.92,José Manuel Baptista Alves,2009
+664,,0,PCTP/MRPP,0,0,1,0,1.09,0,1497,Sintra,Lisboa,0,2400,1.74,,False,1616,1.17,20,137699,47.92,José Vitorino Piteira Mestre,2009
+665,,6,PPD/PSD.CDS-PP.PPM.MPT,1,1,1,6,45.25,1,62314,Sintra,Lisboa,0,2400,1.74,,False,1616,1.17,20,137699,47.92,Fernando Jorge Loureiro de Roboredo Seara,2009
+666,,4,PS,0,0,1,4,33.74,0,46458,Sintra,Lisboa,0,2400,1.74,,False,1616,1.17,20,137699,47.92,Ana Maria Rosa Martins Gomes,2009
+667,,3,PCP-PEV,1,1,1,3,54.33,1,2459,Sobral de Monte Agraço,Lisboa,0,99,2.19,,False,87,1.92,3,4526,58.73,António Lopes Bogalho,2009
+668,,1,PPD/PSD.CDS-PP,0,0,1,1,23.95,0,1084,Sobral de Monte Agraço,Lisboa,0,99,2.19,,False,87,1.92,3,4526,58.73,António José de Carvalho Caroço,2009
+669,,1,PS,0,0,1,1,17.61,0,797,Sobral de Monte Agraço,Lisboa,0,99,2.19,,False,87,1.92,3,4526,58.73,Reinaldo Manuel Soares da Costa Fragoso,2009
+670,,0,PCP-PEV,0,0,1,0,7.47,0,2824,Torres Vedras,Lisboa,0,578,1.53,,False,403,1.07,20,37817,59.1,Paulo Adelino Esteves Gonçalves,2009
+671,,3,PPD/PSD.CDS-PP,0,0,1,3,28.87,0,10917,Torres Vedras,Lisboa,0,578,1.53,,False,403,1.07,20,37817,59.1,António Paulo Veloso Martins Bento,2009
+672,,6,PS,1,1,1,6,61.07,1,23095,Torres Vedras,Lisboa,0,578,1.53,,False,403,1.07,20,37817,59.1,Carlos Manuel Soares Miguel,2009
+673,,0,B.E.,0,0,1,0,5.83,0,3199,Vila Franca de Xira,Lisboa,0,1022,1.86,,False,600,1.09,11,54893,52.19,Carlos Miguel Vilar Patrão,2009
+674,,3,PCP-PEV,0,0,1,3,23.88,0,13111,Vila Franca de Xira,Lisboa,0,1022,1.86,,False,600,1.09,11,54893,52.19,Nuno Miguel Marques Libório,2009
+675,,3,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,3,23.35,0,12820,Vila Franca de Xira,Lisboa,0,1022,1.86,,False,600,1.09,11,54893,52.19,João Manuel Correia Pires de Carvalho,2009
+676,,5,PS,1,0,1,5,43.98,1,24141,Vila Franca de Xira,Lisboa,0,1022,1.86,,False,600,1.09,11,54893,52.19,Maria da Luz Gameiro Beja Ferreira Rosinha,2009
+677,,0,B.E.,0,0,1,0,0.93,0,67,Calheta (R.A.M.),Madeira,0,62,0.86,,False,122,1.69,8,7209,57.31,Manuel Damião Ferreira dos Santos,2009
+678,,1,CDS-PP,0,0,1,1,20.0,0,1442,Calheta (R.A.M.),Madeira,0,62,0.86,,False,122,1.69,8,7209,57.31,Antero Vasconcelos e Sousa,2009
+679,,0,MPT,0,0,1,0,0.78,0,56,Calheta (R.A.M.),Madeira,0,62,0.86,,False,122,1.69,8,7209,57.31,Aurélio Pinto Gomes Serrão,2009
+680,,0,PCP-PEV,0,0,1,0,1.03,0,74,Calheta (R.A.M.),Madeira,0,62,0.86,,False,122,1.69,8,7209,57.31,José Luís de Ornelas Murzelo,2009
+681,,6,PPD/PSD,1,1,1,6,64.13,1,4623,Calheta (R.A.M.),Madeira,0,62,0.86,,False,122,1.69,8,7209,57.31,Manuel Baeta de Castro,2009
+682,,0,PS,0,0,1,0,10.58,0,763,Calheta (R.A.M.),Madeira,0,62,0.86,,False,122,1.69,8,7209,57.31,Sofia Maria Araújo Canha Sousa,2009
+683,,0,B.E.,0,0,1,0,2.92,0,471,Câmara de Lobos,Madeira,0,189,1.17,,False,331,2.05,5,16129,51.66,José Ernesto Figueira Ferraz,2009
+684,,1,CDS-PP,0,0,1,1,10.03,0,1618,Câmara de Lobos,Madeira,0,189,1.17,,False,331,2.05,5,16129,51.66,José Roberto Ribeiro Rodrigues,2009
+685,,1,MPT,0,0,1,1,13.2,0,2129,Câmara de Lobos,Madeira,0,189,1.17,,False,331,2.05,5,16129,51.66,João Izidoro Gonçalves,2009
+686,,0,PCP-PEV,0,0,1,0,5.27,0,850,Câmara de Lobos,Madeira,0,189,1.17,,False,331,2.05,5,16129,51.66,José Quintino Mendes Costa,2009
+687,,0,PND,0,0,1,0,5.59,0,901,Câmara de Lobos,Madeira,0,189,1.17,,False,331,2.05,5,16129,51.66,José Manuel da Mata Vieira Coelho,2009
+688,,4,PPD/PSD,1,1,1,4,45.82,1,7391,Câmara de Lobos,Madeira,0,189,1.17,,False,331,2.05,5,16129,51.66,Arlindo Pinto Gomes,2009
+689,,1,PS,0,0,1,1,13.94,0,2249,Câmara de Lobos,Madeira,0,189,1.17,,False,331,2.05,5,16129,51.66,Carlos Alberto Pestana Gonçalves,2009
+690,,0,B.E.,0,0,1,0,4.35,0,2433,Funchal,Madeira,0,595,1.06,,False,787,1.41,10,55992,52.75,Rodrigo Nuno Pontes de Gouveia Trancoso,2009
+691,,1,CDS-PP,0,0,1,1,10.03,0,5617,Funchal,Madeira,0,595,1.06,,False,787,1.41,10,55992,52.75,Lino Ricardo Silva Abreu,2009
+692,,0,MPT,0,0,1,0,2.08,0,1166,Funchal,Madeira,0,595,1.06,,False,787,1.41,10,55992,52.75,Roberto Paulo Ferreira Vieira,2009
+693,,1,PCP-PEV,0,0,1,1,6.87,0,3846,Funchal,Madeira,0,595,1.06,,False,787,1.41,10,55992,52.75,Artur Alberto Fernandes de Andrade,2009
+694,,1,PND,0,0,1,1,8.46,0,4737,Funchal,Madeira,0,595,1.06,,False,787,1.41,10,55992,52.75,Gil da Silva Canha,2009
+695,,7,PPD/PSD,1,1,1,7,52.2,1,29227,Funchal,Madeira,0,595,1.06,,False,787,1.41,10,55992,52.75,Miguel Filipe Machado de Albuquerque,2009
+696,,1,PS,0,0,1,1,13.54,0,7584,Funchal,Madeira,0,595,1.06,,False,787,1.41,10,55992,52.75,Rui Alberto Pereira Caetano,2009
+697,,0,B.E.,0,0,1,0,1.78,0,220,Machico,Madeira,0,137,1.11,,False,136,1.1,5,12338,58.9,Tânia Gisela Melim de Freitas,2009
+698,,0,CDS-PP,0,0,1,0,3.06,0,377,Machico,Madeira,0,137,1.11,,False,136,1.1,5,12338,58.9,Paulo Jorge Tomás do Couto,2009
+699,,0,MPT,0,0,1,0,1.82,0,224,Machico,Madeira,0,137,1.11,,False,136,1.1,5,12338,58.9,António Álvaro Aguiar Araújo,2009
+700,,0,PCP-PEV,0,0,1,0,1.46,0,180,Machico,Madeira,0,137,1.11,,False,136,1.1,5,12338,58.9,Rui Firmino Faria Nepomuceno,2009
+701,,4,PPD/PSD,1,1,1,4,50.13,1,6185,Machico,Madeira,0,137,1.11,,False,136,1.1,5,12338,58.9,Emanuel Sabino Vieira Gomes,2009
+702,,3,PS,0,0,1,3,39.54,0,4879,Machico,Madeira,0,137,1.11,,False,136,1.1,5,12338,58.9,Ricardo Miguel Nunes Franco,2009
+703,,0,B.E.,0,0,1,0,1.87,0,98,Ponta do Sol,Madeira,0,34,0.65,,False,72,1.38,3,5231,55.81,Maria Ganança Gomes Garanito,2009
+704,,0,CDS-PP,0,0,1,0,6.44,0,337,Ponta do Sol,Madeira,0,34,0.65,,False,72,1.38,3,5231,55.81,Manuel Miguel Rodrigues de Freitas,2009
+705,,0,MPT,0,0,1,0,1.15,0,60,Ponta do Sol,Madeira,0,34,0.65,,False,72,1.38,3,5231,55.81,Marla Patrícia Rodrigues Fernandes,2009
+706,,0,PCP-PEV,0,0,1,0,1.74,0,91,Ponta do Sol,Madeira,0,34,0.65,,False,72,1.38,3,5231,55.81,Jacinto Luís Gouveia Vera Cruz,2009
+707,,4,PPD/PSD,1,1,1,4,71.55,1,3743,Ponta do Sol,Madeira,0,34,0.65,,False,72,1.38,3,5231,55.81,Rui David Pita Marques Luís,2009
+708,,1,PS,0,0,1,1,15.22,0,796,Ponta do Sol,Madeira,0,34,0.65,,False,72,1.38,3,5231,55.81,João Francisco Sousa Dias,2009
+709,,3,PPD/PSD,1,1,1,3,50.95,1,1149,Porto Moniz,Madeira,0,18,0.8,,False,24,1.06,4,2255,65.5,Edgar Valter Castro Correia,2009
+710,,2,PS,0,0,1,2,45.41,0,1024,Porto Moniz,Madeira,0,18,0.8,,False,24,1.06,4,2255,65.5,João Emanuel Silva Câmara,2009
+711,,0,B.E.,0,0,1,0,1.47,0,48,Porto Santo,Madeira,0,40,1.22,,False,40,1.22,1,3273,62.12,Dulcídio Manuel Reinolds Fernandes,2009
+712,,0,CDS-PP,0,0,1,0,3.12,0,102,Porto Santo,Madeira,0,40,1.22,,False,40,1.22,1,3273,62.12,Dinarte Manuel Melim Velosa,2009
+713,,0,MPT,0,0,1,0,0.92,0,30,Porto Santo,Madeira,0,40,1.22,,False,40,1.22,1,3273,62.12,Neli Franco Gonçalves Vera Cruz,2009
+714,,0,PCP-PEV,0,0,1,0,0.55,0,18,Porto Santo,Madeira,0,40,1.22,,False,40,1.22,1,3273,62.12,João Roberto do Nascimento de Melim,2009
+715,,4,PPD/PSD,1,1,1,4,68.59,1,2245,Porto Santo,Madeira,0,40,1.22,,False,40,1.22,1,3273,62.12,Roberto Paulo Cardoso da Silva,2009
+716,,1,PS,0,0,1,1,22.91,0,750,Porto Santo,Madeira,0,40,1.22,,False,40,1.22,1,3273,62.12,Renata Marisa Correia de Sousa,2009
+717,,0,B.E.,0,0,1,0,2.04,0,150,Ribeira Brava,Madeira,0,75,1.02,,False,183,2.49,4,7359,53.92,Carlos Alberto Pereira,2009
+718,,1,CDS-PP,0,0,1,1,12.9,0,949,Ribeira Brava,Madeira,0,75,1.02,,False,183,2.49,4,7359,53.92,Rafael João Figueira de Sousa,2009
+719,,0,MPT,0,0,1,0,2.7,0,199,Ribeira Brava,Madeira,0,75,1.02,,False,183,2.49,4,7359,53.92,Martinho Dinarte Mendes Silva,2009
+720,,0,PCP-PEV,0,0,1,0,2.41,0,177,Ribeira Brava,Madeira,0,75,1.02,,False,183,2.49,4,7359,53.92,Marcelino Vitorino Santos Rodrigues,2009
+721,,5,PPD/PSD,1,1,1,5,57.68,1,4245,Ribeira Brava,Madeira,0,75,1.02,,False,183,2.49,4,7359,53.92,José Ismael Fernandes,2009
+722,,1,PS,0,0,1,1,18.77,0,1381,Ribeira Brava,Madeira,0,75,1.02,,False,183,2.49,4,7359,53.92,Alano Aires Santos Gonçalves,2009
+723,,3,I,0,0,1,3,32.03,0,6449,Santa Cruz,Madeira,0,256,1.27,,False,409,2.03,5,20137,58.94,Filipe Martiniano Martins de Sousa,2009
+724,,0,MPT,0,0,1,0,4.72,0,950,Santa Cruz,Madeira,0,256,1.27,,False,409,2.03,5,20137,58.94,Jaime Casimiro Nunes da Silva,2009
+725,,0,PCP-PEV,0,0,1,0,5.04,0,1014,Santa Cruz,Madeira,0,256,1.27,,False,409,2.03,5,20137,58.94,Luís Alberto de Vasconcelos,2009
+726,,3,PPD/PSD,1,0,1,3,41.88,1,8434,Santa Cruz,Madeira,0,256,1.27,,False,409,2.03,5,20137,58.94,José Alberto de Freitas Gonçalves,2009
+727,,1,PS,0,0,1,1,13.04,0,2625,Santa Cruz,Madeira,0,256,1.27,,False,409,2.03,5,20137,58.94,Óscar Ciríaco Teixeira,2009
+728,,0,B.E.,0,0,1,0,1.6,0,85,Santana,Madeira,0,55,1.04,,False,113,2.13,6,5305,58.43,Carlos Alberto de Faria,2009
+729,,0,CDS-PP,0,0,1,0,12.03,0,638,Santana,Madeira,0,55,1.04,,False,113,2.13,6,5305,58.43,Teófilo Alírio Reis Cunha,2009
+730,,0,MPT,0,0,1,0,0.79,0,42,Santana,Madeira,0,55,1.04,,False,113,2.13,6,5305,58.43,José Samuel Vieira Caboz,2009
+731,,0,PCP-PEV,0,0,1,0,1.56,0,83,Santana,Madeira,0,55,1.04,,False,113,2.13,6,5305,58.43,Elisa Margarita dos Santos Mendonça,2009
+732,,4,PPD/PSD,1,1,1,4,58.45,1,3101,Santana,Madeira,0,55,1.04,,False,113,2.13,6,5305,58.43,Rui Moisés Fernandes de Ascensão,2009
+733,,1,PS,0,0,1,1,22.39,0,1188,Santana,Madeira,0,55,1.04,,False,113,2.13,6,5305,58.43,Adelino Marques Teixeira da Silva,2009
+734,,0,B.E.,0,0,1,0,0.63,0,24,São Vicente,Madeira,0,60,1.59,,False,76,2.01,3,3782,56.02,Sónia de Castro Gomes e Silva,2009
+735,,0,CDS-PP,0,0,1,0,12.59,0,476,São Vicente,Madeira,0,60,1.59,,False,76,2.01,3,3782,56.02,Margarida Maria Silva Fernandes,2009
+736,,0,PCP-PEV,0,0,1,0,0.74,0,28,São Vicente,Madeira,0,60,1.59,,False,76,2.01,3,3782,56.02,António Carlos Baptista Monteiro,2009
+737,,3,PPD/PSD,1,1,1,3,48.78,1,1845,São Vicente,Madeira,0,60,1.59,,False,76,2.01,3,3782,56.02,Jorge Orlando César de Jesus Romeira,2009
+738,,2,PS,0,0,1,2,33.66,0,1273,São Vicente,Madeira,0,60,1.59,,False,76,2.01,3,3782,56.02,João Carlos Justino Mendes Gouveia,2009
+739,,0,CDS-PP,0,0,1,0,3.02,0,73,Alter do Chão,Portalegre,0,32,1.32,,False,35,1.45,4,2420,72.33,Ana Maria Gagliardini Graça Torres Miguéns Cardoso,2009
+740,,0,PCP-PEV,0,0,1,0,12.89,0,312,Alter do Chão,Portalegre,0,32,1.32,,False,35,1.45,4,2420,72.33,João Manuel Laureano Martins,2009
+741,,3,PPD/PSD,1,1,1,3,43.43,1,1051,Alter do Chão,Portalegre,0,32,1.32,,False,35,1.45,4,2420,72.33,Joviano Martins Vitorino,2009
+742,,1,PS,0,0,1,1,17.98,0,435,Alter do Chão,Portalegre,0,32,1.32,,False,35,1.45,4,2420,72.33,Maria Leal Monteiro,2009
+743,,1,XVIII,0,0,1,1,19.92,0,482,Alter do Chão,Portalegre,0,32,1.32,,False,35,1.45,4,2420,72.33,Francisco António Martins dos Reis,2009
+744,,0,CDS-PP.PPM,0,0,1,0,1.11,0,26,Arronches,Portalegre,0,20,0.86,,False,22,0.94,3,2339,80.49,António José Raimundo Baptista,2009
+745,,0,PCP-PEV,0,0,1,0,3.89,0,91,Arronches,Portalegre,0,20,0.86,,False,22,0.94,3,2339,80.49,Jorge Manuel Pereira Ventura,2009
+746,,3,PPD/PSD,1,1,1,3,54.25,1,1269,Arronches,Portalegre,0,20,0.86,,False,22,0.94,3,2339,80.49,Fermelinda de Jesus Pombo Carvalho,2009
+747,,2,PS,0,0,1,2,38.95,0,911,Arronches,Portalegre,0,20,0.86,,False,22,0.94,3,2339,80.49,Gil da Conceição Palmeiro Romão,2009
+748,,3,PCP-PEV,1,1,1,3,53.93,1,1647,Avis,Portalegre,0,82,2.69,,False,39,1.28,8,3054,74.69,Manuel Maria Libério Coelho,2009
+749,,0,PPD/PSD,0,0,1,0,8.61,0,263,Avis,Portalegre,0,82,2.69,,False,39,1.28,8,3054,74.69,António Sebastião Navalhas Sombreireiro,2009
+750,,2,PS,0,0,1,2,33.5,0,1023,Avis,Portalegre,0,82,2.69,,False,39,1.28,8,3054,74.69,Rui Manuel Varela Barrento Henriques,2009
+751,,0,PCP-PEV,0,0,1,0,6.23,0,362,Campo Maior,Portalegre,0,63,1.08,,False,43,0.74,3,5814,76.05,António José Faria de Paula Campos,2009
+752,,0,PPD/PSD,0,0,1,0,1.6,0,93,Campo Maior,Portalegre,0,63,1.08,,False,43,0.74,3,5814,76.05,Pedro Luís Bento Nabeiro,2009
+753,,3,PS,1,1,1,3,46.84,1,2723,Campo Maior,Portalegre,0,63,1.08,,False,43,0.74,3,5814,76.05,Ricardo Miguel Furtado Pinheiro,2009
+754,,2,XIX,0,0,1,2,43.52,0,2530,Campo Maior,Portalegre,0,63,1.08,,False,43,0.74,3,5814,76.05,João Manuel Borrega Burrica,2009
+755,,0,CDS-PP,0,0,1,0,1.45,0,35,Castelo de Vide,Portalegre,0,41,1.7,,False,40,1.66,4,2412,76.21,Lucina Aurora Alexandre de Morais Baptista,2009
+756,,0,PCP-PEV,0,0,1,0,4.1,0,99,Castelo de Vide,Portalegre,0,41,1.7,,False,40,1.66,4,2412,76.21,Manuel Fernando Synarle de Serpa Soares,2009
+757,,3,PPD/PSD,1,1,1,3,53.23,1,1284,Castelo de Vide,Portalegre,0,41,1.7,,False,40,1.66,4,2412,76.21,António Manuel Grincho Ribeiro,2009
+758,,2,PS,0,0,1,2,28.19,0,680,Castelo de Vide,Portalegre,0,41,1.7,,False,40,1.66,4,2412,76.21,Rui Manuel Mourato Miranda,2009
+759,,0,VI,0,0,1,0,9.66,0,233,Castelo de Vide,Portalegre,0,41,1.7,,False,40,1.66,4,2412,76.21,Tiago Fragoso Malato,2009
+760,,3,PCP-PEV,1,1,1,3,46.37,1,1297,Crato,Portalegre,0,27,0.97,,False,29,1.04,6,2797,77.14,João Teresa Ribeiro,2009
+761,,0,PPD/PSD,0,0,1,0,10.58,0,296,Crato,Portalegre,0,27,0.97,,False,29,1.04,6,2797,77.14,João António da Cruz Martins de Matos,2009
+762,,2,PS,0,0,1,2,41.04,0,1148,Crato,Portalegre,0,27,0.97,,False,29,1.04,6,2797,77.14,José Correia da Luz,2009
+763,,0,B.E.,0,0,1,0,3.54,0,381,Elvas,Portalegre,0,244,2.27,,False,99,0.92,11,10752,52.8,Luís Manuel Domingos Pedras,2009
+764,,0,MPT,0,0,1,0,1.95,0,210,Elvas,Portalegre,0,244,2.27,,False,99,0.92,11,10752,52.8,Manuel António Martins Torneiro,2009
+765,,0,PCP-PEV,0,0,1,0,3.07,0,330,Elvas,Portalegre,0,244,2.27,,False,99,0.92,11,10752,52.8,João José Alfacinha Pinheiro,2009
+766,,1,PPD/PSD.CDS-PP,0,0,1,1,19.86,0,2135,Elvas,Portalegre,0,244,2.27,,False,99,0.92,11,10752,52.8,António José Simão das Dores,2009
+767,,6,PS,1,1,1,6,68.39,1,7353,Elvas,Portalegre,0,244,2.27,,False,99,0.92,11,10752,52.8,José António Rondão Almeida,2009
+768,,0,PCP-PEV,0,0,1,0,7.3,0,175,Fronteira,Portalegre,0,32,1.34,,False,32,1.34,3,2396,74.06,Rosa Maria Pedroso Forças Peças,2009
+769,,3,PPD/PSD,1,1,1,3,53.42,1,1280,Fronteira,Portalegre,0,32,1.34,,False,32,1.34,3,2396,74.06,Pedro Namorado Lancha,2009
+770,,2,PS,0,0,1,2,35.68,0,855,Fronteira,Portalegre,0,32,1.34,,False,32,1.34,3,2396,74.06,Fernando Alves Marques Mano,2009
+771,,0,XVI,0,0,1,0,0.92,0,22,Fronteira,Portalegre,0,32,1.34,,False,32,1.34,3,2396,74.06,João Cabaço Mendeiros,2009
+772,,0,PCP-PEV,0,0,1,0,12.22,0,349,Gavião,Portalegre,0,53,1.86,,False,49,1.72,5,2857,69.03,José Luís Areias Morais,2009
+773,,1,PPD/PSD,0,0,1,1,24.29,0,694,Gavião,Portalegre,0,53,1.86,,False,49,1.72,5,2857,69.03,Paulo José Estrela Vitoriano de Matos,2009
+774,,4,PS,1,1,1,4,59.92,1,1712,Gavião,Portalegre,0,53,1.86,,False,49,1.72,5,2857,69.03,Jorge Manuel Martins de Jesus,2009
+775,,0,CDS-PP,0,0,1,0,1.14,0,29,Marvão,Portalegre,0,34,1.34,,False,46,1.81,4,2541,75.33,João de Brito Mena Antunes,2009
+776,,0,PCP-PEV,0,0,1,0,1.14,0,29,Marvão,Portalegre,0,34,1.34,,False,46,1.81,4,2541,75.33,Paulo Joaquim Anacleto Costa,2009
+777,,3,PPD/PSD,1,1,1,3,48.45,1,1231,Marvão,Portalegre,0,34,1.34,,False,46,1.81,4,2541,75.33,Victor Manuel Martins Frutuoso,2009
+778,,1,PS,0,0,1,1,24.83,0,631,Marvão,Portalegre,0,34,1.34,,False,46,1.81,4,2541,75.33,Nuno Filipe Sernache Gonçalves Lopes,2009
+779,,1,VIII,0,0,1,1,17.95,0,456,Marvão,Portalegre,0,34,1.34,,False,46,1.81,4,2541,75.33,Maria Madalena Delicado Curião Tavares,2009
+780,,0,XV,0,0,1,0,3.35,0,85,Marvão,Portalegre,0,34,1.34,,False,46,1.81,4,2541,75.33,Fernando José Machado Gomes,2009
+781,,0,PPD/PSD,0,0,1,0,14.77,0,336,Monforte,Portalegre,0,28,1.23,,False,31,1.36,4,2275,75.93,Jorge Alexandre Fernandes Capitão,2009
+782,,3,PS,1,1,1,3,47.03,1,1070,Monforte,Portalegre,0,28,1.23,,False,31,1.36,4,2275,75.93,Miguel Alexandre Ferreira Rasquinho,2009
+783,,0,B.E.,0,0,1,0,2.1,0,111,Nisa,Portalegre,0,81,1.53,,False,101,1.91,10,5288,71.18,Maria Madalena Duarte Morais,2009
+784,,0,CDS-PP,0,0,1,0,2.19,0,116,Nisa,Portalegre,0,81,1.53,,False,101,1.91,10,5288,71.18,Manuel Joaquim da Silva Baptista,2009
+785,,2,PCP-PEV,1,0,1,2,35.84,1,1895,Nisa,Portalegre,0,81,1.53,,False,101,1.91,10,5288,71.18,Maria Gabriela Pereira Menino Tsukamoto,2009
+786,,1,PPD/PSD,0,0,1,1,23.17,0,1225,Nisa,Portalegre,0,81,1.53,,False,101,1.91,10,5288,71.18,Fernanda Maria Bizarro Policarpo,2009
+787,,2,PS,0,0,1,2,33.26,0,1759,Nisa,Portalegre,0,81,1.53,,False,101,1.91,10,5288,71.18,Maria Idalina Alves Trindade,2009
+788,,2,PCP-PEV,0,0,1,2,24.13,0,2367,Ponte de Sor,Portalegre,0,145,1.48,,False,105,1.07,7,9810,63.48,João Pedro Xavier Abelho Amante,2009
+789,,1,PPD/PSD.CDS-PP,0,0,1,1,15.01,0,1472,Ponte de Sor,Portalegre,0,145,1.48,,False,105,1.07,7,9810,63.48,Joaquim Augusto Guiomar Lizardo,2009
+790,,4,PS,1,1,1,4,58.32,1,5721,Ponte de Sor,Portalegre,0,145,1.48,,False,105,1.07,7,9810,63.48,João José de Carvalho Taveira Pinto,2009
+791,,0,B.E.,0,0,1,0,1.97,0,283,Portalegre,Portalegre,0,227,1.58,,False,124,0.87,10,14332,64.15,Marco Jorge de Freitas Matos Ferreira,2009
+792,,0,CDS-PP,0,0,1,0,3.27,0,468,Portalegre,Portalegre,0,227,1.58,,False,124,0.87,10,14332,64.15,Élio Mário Castro Pereira,2009
+793,,1,PCP-PEV,0,0,1,1,12.58,0,1803,Portalegre,Portalegre,0,227,1.58,,False,124,0.87,10,14332,64.15,Hugo Chichorro e Silva Capote,2009
+794,,3,PPD/PSD,1,0,1,3,42.14,1,6039,Portalegre,Portalegre,0,227,1.58,,False,124,0.87,10,14332,64.15,José Fernando da Mata Cáceres,2009
+795,,3,PS,0,0,1,3,37.59,0,5388,Portalegre,Portalegre,0,227,1.58,,False,124,0.87,10,14332,64.15,José Maria Escarameia de Sousa,2009
+796,,0,PCP-PEV,0,0,1,0,9.61,0,343,Sousel,Portalegre,0,45,1.26,,False,57,1.6,4,3569,75.81,Álvaro Vitorino Amoroso Cartas,2009
+797,,3,PPD/PSD,1,1,1,3,50.52,1,1803,Sousel,Portalegre,0,45,1.26,,False,57,1.6,4,3569,75.81,Armando Jorge Mendonça Varela,2009
+798,,2,PS,0,0,1,2,37.01,0,1321,Sousel,Portalegre,0,45,1.26,,False,57,1.6,4,3569,75.81,Mário Alberto Azeitão Marques,2009
+799,,0,B.E.,0,0,1,0,2.16,0,758,Amarante,Porto,0,492,1.4,,False,360,1.02,40,35170,65.04,Hugo Manuel Mota Cardoso da Silva,2009
+800,,0,CDS-PP,0,0,1,0,2.18,0,768,Amarante,Porto,0,492,1.4,,False,360,1.02,40,35170,65.04,Fernando José de Moura e Silva,2009
+801,,0,PCP-PEV,0,0,1,0,2.07,0,729,Amarante,Porto,0,492,1.4,,False,360,1.02,40,35170,65.04,Gerónimo Manuel Cardoso Ferreira,2009
+802,,4,PPD/PSD,0,0,1,4,44.5,0,15652,Amarante,Porto,0,492,1.4,,False,360,1.02,40,35170,65.04,José Luis Gaspar Jorge,2009
+803,,5,PS,1,1,1,5,46.66,1,16411,Amarante,Porto,0,492,1.4,,False,360,1.02,40,35170,65.04,Armindo José Cunha Abreu,2009
+804,,0,PCP-PEV,0,0,1,0,1.4,0,197,Baião,Porto,0,152,1.08,,False,200,1.43,20,14026,72.36,José Luis Teixeira Pereira,2009
+805,,2,PPD/PSD,0,0,1,2,29.25,0,4102,Baião,Porto,0,152,1.08,,False,200,1.43,20,14026,72.36,José Carlos Pires Póvoas,2009
+806,,5,PS,1,1,1,5,66.84,1,9375,Baião,Porto,0,152,1.08,,False,200,1.43,20,14026,72.36,José Luis Pereira Carneiro,2009
+807,,0,B.E.,0,0,1,0,1.32,0,486,Felgueiras,Porto,0,369,1.0,,False,481,1.3,32,36871,73.43,Joaquim dos Santos Pinho,2009
+808,,0,MPT,0,0,1,0,1.33,0,489,Felgueiras,Porto,0,369,1.0,,False,481,1.3,32,36871,73.43,Horácio Rui Lourenço da Costa,2009
+809,,0,PCP-PEV,0,0,1,0,1.27,0,470,Felgueiras,Porto,0,369,1.0,,False,481,1.3,32,36871,73.43,Carlos Alberto Rainho dos Quinteiro,2009
+810,,0,PCTP/MRPP,0,0,1,0,0.46,0,168,Felgueiras,Porto,0,369,1.0,,False,481,1.3,32,36871,73.43,António Teixeira Gomes,2009
+811,,4,PPD/PSD.CDS-PP,1,1,1,4,48.65,1,17938,Felgueiras,Porto,0,369,1.0,,False,481,1.3,32,36871,73.43,José Inácio Cardoso Ribeiro,2009
+812,,1,PS,0,0,1,1,18.96,0,6992,Felgueiras,Porto,0,369,1.0,,False,481,1.3,32,36871,73.43,Eduardo Alberto Leite Bragança da Cunha,2009
+813,,2,XVI,0,0,1,2,25.71,0,9478,Felgueiras,Porto,0,369,1.0,,False,481,1.3,32,36871,73.43,Maria de Fátima da Cunha Felgueiras Almeida de Sousa Oliveira,2009
+814,,0,B.E.,0,0,1,0,2.95,0,2530,Gondomar,Porto,0,1472,1.72,,False,1782,2.08,12,85788,61.02,Ana Paula Conotilho de Seixas,2009
+815,,0,PCP-PEV,0,0,1,0,5.87,0,5038,Gondomar,Porto,0,1472,1.72,,False,1782,2.08,12,85788,61.02,Cristina Alexandra Marques Nogueira,2009
+816,,2,PPD/PSD.CDS-PP,0,0,1,2,15.31,0,13131,Gondomar,Porto,0,1472,1.72,,False,1782,2.08,12,85788,61.02,Rui Ferreira de Espinheira Quelhas,2009
+817,,4,PS,0,0,1,4,29.33,0,25163,Gondomar,Porto,0,1472,1.72,,False,1782,2.08,12,85788,61.02,Maria Isabel Coelho Santos,2009
+818,,5,XIII,1,0,1,5,42.75,1,36672,Gondomar,Porto,0,1472,1.72,,False,1782,2.08,12,85788,61.02,Valentim dos Santos de Loureiro,2009
+819,,0,PCP-PEV,0,0,1,0,2.9,0,826,Lousada,Porto,0,293,1.03,,False,213,0.75,25,28469,75.21,Nuno Alexandre Miguéis de Sousa Coelho,2009
+820,,3,PPD/PSD.CDS-PP,0,0,1,3,37.63,0,10712,Lousada,Porto,0,293,1.03,,False,213,0.75,25,28469,75.21,Leonel Domingos Reis Vieira da Silva,2009
+821,,4,PS,1,1,1,4,57.69,1,16425,Lousada,Porto,0,293,1.03,,False,213,0.75,25,28469,75.21,Jorge Manuel Fernandes Malheiro de Magalhães,2009
+822,,0,B.E.,0,0,1,0,4.64,0,2941,Maia,Porto,0,1422,2.24,,False,760,1.2,17,63444,60.6,Silvestre Santos Gomes Pereira,2009
+823,,0,CDS-PP,0,0,1,0,3.94,0,2502,Maia,Porto,0,1422,2.24,,False,760,1.2,17,63444,60.6,Alvaro António Monteiro Braga,2009
+824,,0,PCP-PEV,0,0,1,0,4.4,0,2792,Maia,Porto,0,1422,2.24,,False,760,1.2,17,63444,60.6,António Ferreira Neto Taveira,2009
+825,,8,PPD/PSD,1,1,1,8,57.76,1,36647,Maia,Porto,0,1422,2.24,,False,760,1.2,17,63444,60.6,António Gonçalves Bragança Fernandes,2009
+826,,3,PS,0,0,1,3,25.82,0,16380,Maia,Porto,0,1422,2.24,,False,760,1.2,17,63444,60.6,Mário José Gomes Gouveia,2009
+827,,2,XII,0,0,1,2,29.7,0,9817,Marco de Canaveses,Porto,0,224,0.68,,False,443,1.34,31,33056,72.36,Avelino Ferreira Torres,2009
+828,,0,XIV,0,0,1,0,10.46,0,3458,Marco de Canaveses,Porto,0,224,0.68,,False,443,1.34,31,33056,72.36,Manuel Norberto de Moura Soares,2009
+829,,0,B.E.,0,0,1,0,2.68,0,2363,Matosinhos,Porto,0,1273,1.44,,False,1072,1.22,10,88217,61.3,Fernando José Leite de Oliveira Queiroz,2009
+830,,4,I,0,0,1,4,30.7,0,27083,Matosinhos,Porto,0,1273,1.44,,False,1072,1.22,10,88217,61.3,José Narciso Rodrigues de Miranda,2009
+831,,0,PCP-PEV,0,0,1,0,4.37,0,3856,Matosinhos,Porto,0,1273,1.44,,False,1072,1.22,10,88217,61.3,José Honório Faria Gonçalves Novo,2009
+832,,2,PPD/PSD.CDS-PP,0,0,1,2,17.1,0,15084,Matosinhos,Porto,0,1273,1.44,,False,1072,1.22,10,88217,61.3,José Guilherme Saraiva de Oliveira Aguiar,2009
+833,,0,PPM,0,0,1,0,0.18,0,157,Matosinhos,Porto,0,1273,1.44,,False,1072,1.22,10,88217,61.3,António José Pinto Alves Trancoso,2009
+834,,5,PS,1,0,1,5,42.31,1,37329,Matosinhos,Porto,0,1273,1.44,,False,1072,1.22,10,88217,61.3,Guilherme Manuel Lopes Pinto,2009
+835,,0,B.E.,0,0,1,0,1.49,0,777,Paredes,Porto,0,580,1.11,,False,644,1.24,24,52087,73.77,Carlos Albano Brito Esteves Martins,2009
+836,,0,CDS-PP,0,0,1,0,8.48,0,4419,Paredes,Porto,0,580,1.11,,False,644,1.24,24,52087,73.77,Augusto Manuel Teixeira de Barros Ruão,2009
+837,,0,PCP-PEV,0,0,1,0,3.33,0,1732,Paredes,Porto,0,580,1.11,,False,644,1.24,24,52087,73.77,José Fernando Araújo Calçada,2009
+838,,6,PPD/PSD,1,1,1,6,57.81,1,30112,Paredes,Porto,0,580,1.11,,False,644,1.24,24,52087,73.77,Celso Manuel Gomes Ferreira,2009
+839,,3,PS,0,0,1,3,26.54,0,13823,Paredes,Porto,0,580,1.11,,False,644,1.24,24,52087,73.77,Artur Rodrigues Pereira dos Penedos,2009
+840,,0,CDS-PP,0,0,1,0,2.44,0,776,Paços de Ferreira,Porto,0,312,0.98,,False,254,0.8,16,31758,71.11,Albino Manuel Ribeiro de Abreu Meireles,2009
+841,,0,PCP-PEV,0,0,1,0,1.87,0,595,Paços de Ferreira,Porto,0,312,0.98,,False,254,0.8,16,31758,71.11,José Paulo Torres da Silva Gonçalves,2009
+842,,4,PPD/PSD,1,1,1,4,52.36,1,16627,Paços de Ferreira,Porto,0,312,0.98,,False,254,0.8,16,31758,71.11,Pedro Alexandre Oliveira Cardoso Pinto,2009
+843,,3,PS,0,0,1,3,41.55,0,13194,Paços de Ferreira,Porto,0,312,0.98,,False,254,0.8,16,31758,71.11,Humberto Fernando Leão Pacheco de Brito,2009
+844,,0,B.E.,0,0,1,0,1.33,0,627,Penafiel,Porto,0,412,0.87,,False,431,0.91,38,47133,77.09,Paulo Fernando Teles de Lemos e Silva,2009
+845,,0,PCP-PEV,0,0,1,0,3.0,0,1414,Penafiel,Porto,0,412,0.87,,False,431,0.91,38,47133,77.09,Maria Maia Vilhena Carvalho Leal,2009
+846,,6,PPD/PSD.CDS-PP,1,1,1,6,64.18,1,30248,Penafiel,Porto,0,412,0.87,,False,431,0.91,38,47133,77.09,Alberto Fernando da Silva Santos,2009
+847,,3,PS,0,0,1,3,29.71,0,14001,Penafiel,Porto,0,412,0.87,,False,431,0.91,38,47133,77.09,António José Sousa Pinto,2009
+848,,0,B.E.,0,0,1,0,4.98,0,6552,Porto,Porto,0,1816,1.38,,False,1273,0.97,15,131649,56.75,João Miguel Trancoso Vaz Teixeira Lopes,2009
+849,,1,PCP-PEV,0,0,1,1,9.8,0,12904,Porto,Porto,0,1816,1.38,,False,1273,0.97,15,131649,56.75,Rui Pedro de Araújo Sá,2009
+850,,0,PCTP/MRPP,0,0,1,0,0.7,0,915,Porto,Porto,0,1816,1.38,,False,1273,0.97,15,131649,56.75,João Manuel Valente Pinto,2009
+851,,7,PPD/PSD.CDS-PP,1,1,1,7,47.48,1,62507,Porto,Porto,0,1816,1.38,,False,1273,0.97,15,131649,56.75,Rui Fernando da Silva Rio,2009
+852,,5,PS,0,0,1,5,34.7,0,45682,Porto,Porto,0,1816,1.38,,False,1273,0.97,15,131649,56.75,Elisa Maria da Costa Guimarães Ferreira,2009
+853,,0,B.E.,0,0,1,0,2.51,0,817,Póvoa de Varzim,Porto,0,582,1.79,,False,347,1.07,12,32516,56.5,Andrea Luís Valente Rodrigues de Castro Peniche,2009
+854,,1,CDS-PP,0,0,1,1,9.96,0,3239,Póvoa de Varzim,Porto,0,582,1.79,,False,347,1.07,12,32516,56.5,António Jorge Quintas Duarte Serrano Araújo,2009
+855,,0,PCP-PEV,0,0,1,0,4.18,0,1358,Póvoa de Varzim,Porto,0,582,1.79,,False,347,1.07,12,32516,56.5,Artur Jorge da Silva Machado,2009
+856,,5,PPD/PSD,1,1,1,5,46.29,1,15052,Póvoa de Varzim,Porto,0,582,1.79,,False,347,1.07,12,32516,56.5,José Macedo Vieira,2009
+857,,3,PS,0,0,1,3,34.2,0,11121,Póvoa de Varzim,Porto,0,582,1.79,,False,347,1.07,12,32516,56.5,Ilídio Renato Garrido Matos Pereira,2009
+858,,0,CDS-PP,0,0,1,0,4.48,0,2019,Santo Tirso,Porto,0,580,1.29,,False,516,1.15,24,45021,70.06,José Eduardo Correia da Graça Martins,2009
+859,,0,PCP-PEV,0,0,1,0,3.95,0,1779,Santo Tirso,Porto,0,580,1.29,,False,516,1.15,24,45021,70.06,Abilio Dias Martins,2009
+860,,4,PPD/PSD,0,0,1,4,41.54,0,18700,Santo Tirso,Porto,0,580,1.29,,False,516,1.15,24,45021,70.06,João Manuel Machado Faria de Abreu,2009
+861,,5,PS,1,1,1,5,47.59,1,21427,Santo Tirso,Porto,0,580,1.29,,False,516,1.15,24,45021,70.06,António Alberto de Castro Fernandes,2009
+862,,0,CDS-PP,0,0,1,0,5.73,0,1364,Trofa,Porto,0,318,1.34,,False,236,0.99,8,23795,72.8,Nuno Paulo Rodrigues Serra,2009
+863,,0,PCP-PEV,0,0,1,0,2.35,0,560,Trofa,Porto,0,318,1.34,,False,236,0.99,8,23795,72.8,Maria da Conceição da Silva Farpa Silva,2009
+864,,3,PPD/PSD,0,0,1,3,43.4,0,10326,Trofa,Porto,0,318,1.34,,False,236,0.99,8,23795,72.8,Bernardino Manuel de Vasconcelos,2009
+865,,4,PS,1,1,1,4,46.19,1,10991,Trofa,Porto,0,318,1.34,,False,236,0.99,8,23795,72.8,Joana Fernanda Ferreira Lima,2009
+866,,0,B.E.,0,0,1,0,2.73,0,1279,Valongo,Porto,0,833,1.78,,False,706,1.51,5,46892,60.99,Eliseu Filipe Pinto Lopes,2009
+867,,0,PCP-PEV,0,0,1,0,4.63,0,2173,Valongo,Porto,0,833,1.78,,False,706,1.51,5,46892,60.99,José Deolindo Caetano,2009
+868,,4,PPD/PSD.CDS-PP,1,0,1,4,34.27,1,16068,Valongo,Porto,0,833,1.78,,False,706,1.51,5,46892,60.99,Fernando Horácio Moreira Pereira de Melo,2009
+869,,3,PS,0,0,1,3,27.19,0,12751,Valongo,Porto,0,833,1.78,,False,706,1.51,5,46892,60.99,José Afonso Teixeira de Magalhães Lobão,2009
+870,,0,XIV,0,0,1,0,4.96,0,2328,Valongo,Porto,0,833,1.78,,False,706,1.51,5,46892,60.99,Vitorino Francisco da Rocha Silva,2009
+871,,2,XIX,0,0,1,2,22.93,0,10754,Valongo,Porto,0,833,1.78,,False,706,1.51,5,46892,60.99,Maria José Baptista de Moura Azevedo,2009
+872,,3,PS,0,0,1,3,25.32,0,37790,Vila Nova de Gaia,Porto,0,2194,1.47,,False,1539,1.03,24,149228,59.71,Joaquim Barbosa Ferreira Couto,2009
+873,,0,B.E.,0,0,1,0,4.1,0,1741,Vila do Conde,Porto,0,861,2.03,,False,405,0.95,30,42445,64.04,Miguel Vital Andrade de Sousa,2009
+874,,0,PCP-PEV,0,0,1,0,3.11,0,1320,Vila do Conde,Porto,0,861,2.03,,False,405,0.95,30,42445,64.04,António Jorge Alexandre Marques,2009
+875,,3,PPD/PSD.CDS-PP,0,0,1,3,28.18,0,11961,Vila do Conde,Porto,0,861,2.03,,False,405,0.95,30,42445,64.04,António Pedro Pinto Martins Brás Marques,2009
+876,,6,PS,1,1,1,6,61.63,1,26157,Vila do Conde,Porto,0,861,2.03,,False,405,0.95,30,42445,64.04,Mário Hermenegildo Moreira de Almeida,2009
+877,,0,B.E.,0,0,1,0,5.32,0,1191,Abrantes,Santarém,0,419,1.87,,False,296,1.32,19,22408,60.79,Manuel António Rodrigues Lopes,2009
+878,,0,CDS-PP,0,0,1,0,3.36,0,752,Abrantes,Santarém,0,419,1.87,,False,296,1.32,19,22408,60.79,João Baptista Pico,2009
+879,,1,I,0,0,1,1,16.99,0,3806,Abrantes,Santarém,0,419,1.87,,False,296,1.32,19,22408,60.79,Albano da Conceição Pereira dos Santos,2009
+880,,0,PCP-PEV,0,0,1,0,7.01,0,1571,Abrantes,Santarém,0,419,1.87,,False,296,1.32,19,22408,60.79,Armando António Gonçalves Borges,2009
+881,,2,PPD/PSD,0,0,1,2,23.64,0,5297,Abrantes,Santarém,0,419,1.87,,False,296,1.32,19,22408,60.79,António Manuel de Santana Maia Leonardo,2009
+882,,4,PS,1,1,1,4,40.5,1,9076,Abrantes,Santarém,0,419,1.87,,False,296,1.32,19,22408,60.79,Maria do Céu de Oliveira Antunes Albuquerque,2009
+883,,0,B.E.,0,0,1,0,2.29,0,197,Alcanena,Santarém,0,128,1.49,,False,127,1.48,10,8586,65.66,Carlos Alberto Costa Vieira,2009
+884,,2,I,0,0,1,2,25.91,0,2225,Alcanena,Santarém,0,128,1.49,,False,127,1.48,10,8586,65.66,Eduardo Marcelino Ramalho Camacho,2009
+885,,0,PCP-PEV,0,0,1,0,6.43,0,552,Alcanena,Santarém,0,128,1.49,,False,127,1.48,10,8586,65.66,Suzel Abreu Frazão,2009
+886,,1,PPD/PSD.CDS-PP,0,0,1,1,16.81,0,1443,Alcanena,Santarém,0,128,1.49,,False,127,1.48,10,8586,65.66,Elsa Renata de Sousa Gaspar Nico Henriques,2009
+887,,4,PS,1,1,1,4,45.59,1,3914,Alcanena,Santarém,0,128,1.49,,False,127,1.48,10,8586,65.66,Fernanda Maria Pereira Asseiceira,2009
+888,,0,CDS-PP,0,0,1,0,3.15,0,336,Almeirim,Santarém,0,167,1.56,,False,99,0.93,4,10674,54.04,João Filipe de Viveiros Teixeira,2009
+889,,1,I,0,0,1,1,19.4,0,2071,Almeirim,Santarém,0,167,1.56,,False,99,0.93,4,10674,54.04,Francisco Manuel Mauricio do Rosário,2009
+890,,1,PCP-PEV,0,0,1,1,12.57,0,1342,Almeirim,Santarém,0,167,1.56,,False,99,0.93,4,10674,54.04,José Manuel Aranha Figueiredo,2009
+891,,0,PPD/PSD,0,0,1,0,9.51,0,1015,Almeirim,Santarém,0,167,1.56,,False,99,0.93,4,10674,54.04,Pedro Miguel Sirgado Pisco Santos,2009
+892,,5,PS,1,1,1,5,52.88,1,5644,Almeirim,Santarém,0,167,1.56,,False,99,0.93,4,10674,54.04,José Joaquim Gameiro de Sousa Gomes,2009
+893,,3,PCP-PEV,1,1,1,3,49.67,1,2185,Alpiarça,Santarém,0,100,2.27,,False,43,0.98,1,4399,66.64,Mário Fernando Atracado Pereira,2009
+894,,0,PPD/PSD.CDS-PP,0,0,1,0,5.05,0,222,Alpiarça,Santarém,0,100,2.27,,False,43,0.98,1,4399,66.64,Maria América Alcobio Cravo,2009
+895,,2,PS,0,0,1,2,42.03,0,1849,Alpiarça,Santarém,0,100,2.27,,False,43,0.98,1,4399,66.64,Sónia Isabel Fernandes Sanfona Cruz Mendes,2009
+896,,0,CDS-PP,0,0,1,0,4.42,0,462,Benavente,Santarém,0,255,2.44,,False,164,1.57,4,10459,49.23,José Manuel Ferreira Múrias,2009
+897,,5,PCP-PEV,1,1,1,5,59.69,1,6243,Benavente,Santarém,0,255,2.44,,False,164,1.57,4,10459,49.23,António José Ganhão,2009
+898,,1,PPD/PSD,0,0,1,1,18.24,0,1908,Benavente,Santarém,0,255,2.44,,False,164,1.57,4,10459,49.23,José António Salvador Rodrigues da Avó,2009
+899,,1,PS,0,0,1,1,13.64,0,1427,Benavente,Santarém,0,255,2.44,,False,164,1.57,4,10459,49.23,Ana Isabel Oliveira Reis Casquinha,2009
+900,,0,B.E.,0,0,1,0,7.35,0,842,Cartaxo,Santarém,0,281,2.45,,False,222,1.94,8,11451,55.44,Francisco Manuel Miguel Colaço,2009
+901,,1,PCP-PEV,0,0,1,1,12.36,0,1415,Cartaxo,Santarém,0,281,2.45,,False,222,1.94,8,11451,55.44,Mário Júlio Roque dos Reis,2009
+902,,2,PPD/PSD,0,0,1,2,28.9,0,3309,Cartaxo,Santarém,0,281,2.45,,False,222,1.94,8,11451,55.44,Paulo José Lopes das Neves,2009
+903,,4,PS,1,1,1,4,47.0,1,5382,Cartaxo,Santarém,0,281,2.45,,False,222,1.94,8,11451,55.44,Paulo Alexandre Fernandes Varela Simões Caldas,2009
+904,,2,PCP-PEV,1,0,1,2,43.51,1,2528,Chamusca,Santarém,0,121,2.08,,False,96,1.65,7,5810,61.07,Sérgio Morais da Conceição Carrinho,2009
+905,,1,PPD/PSD.CDS-PP,0,0,1,1,19.97,0,1160,Chamusca,Santarém,0,121,2.08,,False,96,1.65,7,5810,61.07,João Manuel Duarte Lourenço,2009
+906,,2,PS,0,0,1,2,32.79,0,1905,Chamusca,Santarém,0,121,2.08,,False,96,1.65,7,5810,61.07,Joaquim José Duarte Garrido,2009
+907,,0,CDS-PP,0,0,1,0,1.6,0,41,Constância,Santarém,0,45,1.76,,False,35,1.37,3,2560,73.44,Renato José Presume Gonçalves,2009
+908,,3,PCP-PEV,1,1,1,3,48.09,1,1231,Constância,Santarém,0,45,1.76,,False,35,1.37,3,2560,73.44,Máximo de Jesus Afonso Ferreira,2009
+909,,0,PPD/PSD,0,0,1,0,10.94,0,280,Constância,Santarém,0,45,1.76,,False,35,1.37,3,2560,73.44,António Freire de Oliveira,2009
+910,,2,PS,0,0,1,2,36.25,0,928,Constância,Santarém,0,45,1.76,,False,35,1.37,3,2560,73.44,Margarida Maria da Costa Alves Veríssimo,2009
+911,,0,B.E.,0,0,1,0,3.23,0,358,Coruche,Santarém,0,160,1.44,,False,115,1.04,8,11099,59.13,José Ricardo Serrano Guedes,2009
+912,,0,I,0,0,1,0,6.93,0,769,Coruche,Santarém,0,160,1.44,,False,115,1.04,8,11099,59.13,António Manuel Moreira da Silva,2009
+913,,2,PCP-PEV,0,0,1,2,24.9,0,2764,Coruche,Santarém,0,160,1.44,,False,115,1.04,8,11099,59.13,Ortelinda da Conceição Camões Graça Gil Nunes,2009
+914,,0,PPD/PSD,0,0,1,0,5.32,0,591,Coruche,Santarém,0,160,1.44,,False,115,1.04,8,11099,59.13,José Manuel de Sousa Potier,2009
+915,,5,PS,1,1,1,5,57.14,1,6342,Coruche,Santarém,0,160,1.44,,False,115,1.04,8,11099,59.13,Dionísio Simão Mendes,2009
+916,,1,B.E.,0,0,1,1,11.06,0,1045,Entroncamento,Santarém,0,194,2.05,,False,149,1.58,2,9449,56.21,Carlos Manuel Godinho Matias,2009
+917,,0,PCP-PEV,0,0,1,0,8.66,0,818,Entroncamento,Santarém,0,194,2.05,,False,149,1.58,2,9449,56.21,Telma Cristina Antunes Jorge,2009
+918,,4,PPD/PSD,1,1,1,4,52.52,1,4963,Entroncamento,Santarém,0,194,2.05,,False,149,1.58,2,9449,56.21,Jaime Manuel Gonçalves Ramos,2009
+919,,2,PS,0,0,1,2,24.13,0,2280,Entroncamento,Santarém,0,194,2.05,,False,149,1.58,2,9449,56.21,Carlos Alexandre Zagalo Gouveia,2009
+920,,0,CDS-PP.MPT,0,0,1,0,2.95,0,165,Ferreira do Zêzere,Santarém,0,112,2.0,,False,102,1.83,9,5588,67.49,Luís Miguel de Oliveira Russo Pistola,2009
+921,,0,PCP-PEV,0,0,1,0,0.63,0,35,Ferreira do Zêzere,Santarém,0,112,2.0,,False,102,1.83,9,5588,67.49,António Alves Matos,2009
+922,,3,PPD/PSD,1,1,1,3,52.36,1,2926,Ferreira do Zêzere,Santarém,0,112,2.0,,False,102,1.83,9,5588,67.49,Jacinto Manuel Lopes Cristas Flores,2009
+923,,2,PS,0,0,1,2,37.81,0,2113,Ferreira do Zêzere,Santarém,0,112,2.0,,False,102,1.83,9,5588,67.49,Filipe Vicente Martins,2009
+924,,0,CDS-PP,0,0,1,0,5.45,0,165,Golegã,Santarém,0,27,0.89,,False,36,1.19,2,3027,63.39,Pedro José Rodrigues Ramalheira de Azevedo,2009
+925,,0,PCP-PEV,0,0,1,0,7.8,0,236,Golegã,Santarém,0,27,0.89,,False,36,1.19,2,3027,63.39,Valter José Galrinho da Guia Martins Ferreira,2009
+926,,0,PPD/PSD,0,0,1,0,9.32,0,282,Golegã,Santarém,0,27,0.89,,False,36,1.19,2,3027,63.39,Carlos Alberto de Jesus Gonçalves Paula Simões,2009
+927,,5,PS,1,1,1,5,63.36,1,1918,Golegã,Santarém,0,27,0.89,,False,36,1.19,2,3027,63.39,José Tavares Veiga Silva Maltez,2009
+928,,0,X,0,0,1,0,11.99,0,363,Golegã,Santarém,0,27,0.89,,False,36,1.19,2,3027,63.39,Maria da Conceição Afonso Contente Rosário,2009
+929,,0,PCP-PEV,0,0,1,0,2.07,0,119,Mação,Santarém,0,88,1.53,,False,99,1.72,8,5742,76.67,António Rodrigues de Sousa Santos,2009
+930,,3,PPD/PSD,1,1,1,3,52.09,1,2991,Mação,Santarém,0,88,1.53,,False,99,1.72,8,5742,76.67,José Manuel Saldanha Rocha,2009
+931,,2,PS,0,0,1,2,42.58,0,2445,Mação,Santarém,0,88,1.53,,False,99,1.72,8,5742,76.67,Nuno Fernando Bento Neto,2009
+932,,0,CDS-PP,0,0,1,0,4.55,0,1197,Ourém,Santarém,0,433,1.65,,False,313,1.19,18,26311,59.92,Gonçalo Nuno Gagliardini Graça Pereira de Almeida,2009
+933,,0,PCP-PEV,0,0,1,0,1.94,0,511,Ourém,Santarém,0,433,1.65,,False,313,1.19,18,26311,59.92,João Filipe Mendes de Oliveira,2009
+934,,3,PPD/PSD,0,0,1,3,43.32,0,11398,Ourém,Santarém,0,433,1.65,,False,313,1.19,18,26311,59.92,Vitor Manuel de Jesus Frazão,2009
+935,,4,PS,1,1,1,4,47.35,1,12459,Ourém,Santarém,0,433,1.65,,False,313,1.19,18,26311,59.92,Paulo Alexandre Homem de Oliveira Fonseca,2009
+936,,0,B.E.,0,0,1,0,2.89,0,352,Rio Maior,Santarém,0,199,1.63,,False,170,1.39,14,12187,66.17,Alexandre Miguel Vitorino Jacinto,2009
+937,,0,I,0,0,1,0,3.13,0,381,Rio Maior,Santarém,0,199,1.63,,False,170,1.39,14,12187,66.17,Alberto Fernando Fróis Santos,2009
+938,,0,PCP-PEV,0,0,1,0,2.45,0,299,Rio Maior,Santarém,0,199,1.63,,False,170,1.39,14,12187,66.17,Carlos Ferreira Figueiredo,2009
+939,,4,PPD/PSD.CDS-PP,1,1,1,4,49.21,1,5997,Rio Maior,Santarém,0,199,1.63,,False,170,1.39,14,12187,66.17,Isaura Maria Elias Crisóstomo Bernardino Morais,2009
+940,,3,PS,0,0,1,3,39.3,0,4789,Rio Maior,Santarém,0,199,1.63,,False,170,1.39,14,12187,66.17,Silvino Manuel Gomes Sequeira,2009
+941,,4,B.E.,1,1,1,4,46.08,1,4655,Salvaterra de Magos,Santarém,0,214,2.12,,False,127,1.26,6,10101,54.75,Ana Cristina Pardal Ribeiro,2009
+942,,0,PCP-PEV,0,0,1,0,10.33,0,1043,Salvaterra de Magos,Santarém,0,214,2.12,,False,127,1.26,6,10101,54.75,Vasco Monteiro Feijão,2009
+943,,1,PPD/PSD,0,0,1,1,11.43,0,1155,Salvaterra de Magos,Santarém,0,214,2.12,,False,127,1.26,6,10101,54.75,Jorge Humberto Brardo Burgal,2009
+944,,2,PS,0,0,1,2,28.78,0,2907,Salvaterra de Magos,Santarém,0,214,2.12,,False,127,1.26,6,10101,54.75,Hélder Manuel Ramalho de Sousa Esménio,2009
+945,,0,B.E.,0,0,1,0,2.44,0,821,Santarém,Santarém,0,608,1.81,,False,359,1.07,28,33642,61.74,Carlos Manuel Vicente Marecos,2009
+946,,0,CDS-PP,0,0,1,0,3.58,0,1204,Santarém,Santarém,0,608,1.81,,False,359,1.07,28,33642,61.74,Tiago de Sampaio e Melo Marques Leite,2009
+947,,0,PCP-PEV,0,0,1,0,5.72,0,1923,Santarém,Santarém,0,608,1.81,,False,359,1.07,28,33642,61.74,José Marcelino,2009
+948,,7,PPD/PSD,1,1,1,7,64.21,1,21602,Santarém,Santarém,0,608,1.81,,False,359,1.07,28,33642,61.74,Francisco Maria Moita Flores,2009
+949,,2,PS,0,0,1,2,21.18,0,7125,Santarém,Santarém,0,608,1.81,,False,359,1.07,28,33642,61.74,António José da Piedade do Carmo,2009
+950,,0,PCP-PEV,0,0,1,0,2.11,0,59,Sardoal,Santarém,0,52,1.86,,False,42,1.5,4,2799,76.12,Maria Fernanda Marques Castelo Branco,2009
+951,,3,PPD/PSD,1,1,1,3,55.41,1,1551,Sardoal,Santarém,0,52,1.86,,False,42,1.5,4,2799,76.12,Fernando Constantino Moleirinho,2009
+952,,2,PS,0,0,1,2,39.12,0,1095,Sardoal,Santarém,0,52,1.86,,False,42,1.5,4,2799,76.12,Fernando Cascalheira Vasco,2009
+953,,0,B.E.,0,0,1,0,3.64,0,829,Tomar,Santarém,0,597,2.62,,False,461,2.02,16,22767,58.79,António Carlos Martins Godinho,2009
+954,,0,CDS-PP,0,0,1,0,5.31,0,1210,Tomar,Santarém,0,597,2.62,,False,461,2.02,16,22767,58.79,Ivo Manuel Querido dos Santos,2009
+955,,2,I,0,0,1,2,19.99,0,4552,Tomar,Santarém,0,597,2.62,,False,461,2.02,16,22767,58.79,Pedro Alexandre Ramos Marques,2009
+956,,0,II,0,0,1,0,3.23,0,736,Tomar,Santarém,0,597,2.62,,False,461,2.02,16,22767,58.79,José André de Melo e Castro Salazar Lebre,2009
+957,,0,PCP-PEV,0,0,1,0,7.32,0,1667,Tomar,Santarém,0,597,2.62,,False,461,2.02,16,22767,58.79,Bruno Vitor Domingos Graça,2009
+958,,3,PPD/PSD,1,0,1,3,34.96,1,7959,Tomar,Santarém,0,597,2.62,,False,461,2.02,16,22767,58.79,Fernando Rui Linhares Corvêlo de Sousa,2009
+959,,2,PS,0,0,1,2,20.89,0,4756,Tomar,Santarém,0,597,2.62,,False,461,2.02,16,22767,58.79,José António Becerra Vitorino,2009
+960,,0,B.E.,0,0,1,0,5.85,0,1132,Torres Novas,Santarém,0,370,1.91,,False,246,1.27,17,19363,58.95,Guilherme Sarmento Pinto,2009
+961,,0,CDS-PP,0,0,1,0,3.26,0,631,Torres Novas,Santarém,0,370,1.91,,False,246,1.27,17,19363,58.95,Carlos Filipe Godinho Gomes,2009
+962,,1,PCP-PEV,0,0,1,1,13.0,0,2517,Torres Novas,Santarém,0,370,1.91,,False,246,1.27,17,19363,58.95,Carlos António Lopes Tomé,2009
+963,,1,PPD/PSD,0,0,1,1,20.9,0,4047,Torres Novas,Santarém,0,370,1.91,,False,246,1.27,17,19363,58.95,João Parreira da Silva Sarmento,2009
+964,,5,PS,1,1,1,5,53.81,1,10420,Torres Novas,Santarém,0,370,1.91,,False,246,1.27,17,19363,58.95,António Manuel Oliveira Rodrigues,2009
+965,,0,PCP-PEV,0,0,1,0,14.73,0,589,Vila Nova da Barquinha,Santarém,0,68,1.7,,False,53,1.33,5,3998,60.05,Carlos Miguel Timóteo Pires,2009
+966,,1,PPD/PSD.CDS-PP,0,0,1,1,23.19,0,927,Vila Nova da Barquinha,Santarém,0,68,1.7,,False,53,1.33,5,3998,60.05,Manuel de Oliveira,2009
+967,,4,PS,1,1,1,4,59.05,1,2361,Vila Nova da Barquinha,Santarém,0,68,1.7,,False,53,1.33,5,3998,60.05,Vítor Miguel Martins Arnaut Pombeiro,2009
+968,,0,B.E.,0,0,1,0,2.33,0,173,Alcochete,Setúbal,0,153,2.06,,False,85,1.14,3,7426,60.1,Teresa Maria Rocha Bonito,2009
+969,,0,CDS-PP,0,0,1,0,1.94,0,144,Alcochete,Setúbal,0,153,2.06,,False,85,1.14,3,7426,60.1,José Luis Vaz e Gala,2009
+970,,5,PCP-PEV,1,1,1,5,52.42,1,3893,Alcochete,Setúbal,0,153,2.06,,False,85,1.14,3,7426,60.1,Luis Miguel Carraça Franco,2009
+971,,0,PPD/PSD,0,0,1,0,9.35,0,694,Alcochete,Setúbal,0,153,2.06,,False,85,1.14,3,7426,60.1,Jorge Dias da Costa Borges da Silva,2009
+972,,2,PS,0,0,1,2,30.76,0,2284,Alcochete,Setúbal,0,153,2.06,,False,85,1.14,3,7426,60.1,António Dias dos Santos Maduro,2009
+973,,3,PCP-PEV,0,0,1,3,43.62,0,3238,Alcácer do Sal,Setúbal,0,131,1.76,,False,80,1.08,6,7424,61.84,António dos Mártires Balona,2009
+974,,0,PPD/PSD,0,0,1,0,4.8,0,356,Alcácer do Sal,Setúbal,0,131,1.76,,False,80,1.08,6,7424,61.84,Joaquim Manuel Café Granito,2009
+975,,4,PS,1,1,1,4,45.03,1,3343,Alcácer do Sal,Setúbal,0,131,1.76,,False,80,1.08,6,7424,61.84,Pedro Manuel Igrejas da Cunha Paredes,2009
+976,,1,B.E.,0,0,1,1,7.81,0,5555,Almada,Setúbal,0,1570,2.21,,False,1211,1.7,11,71171,48.31,Helena Maria Gomes Oliveira,2009
+977,,0,CDS-PP,0,0,1,0,5.31,0,3782,Almada,Setúbal,0,1570,2.21,,False,1211,1.7,11,71171,48.31,Fernando Jorge Sousa da Pena,2009
+978,,0,MMS,0,0,1,0,0.47,0,334,Almada,Setúbal,0,1570,2.21,,False,1211,1.7,11,71171,48.31,Graciano Guerra Silva Germano,2009
+979,,5,PCP-PEV,1,0,1,5,38.67,1,27521,Almada,Setúbal,0,1570,2.21,,False,1211,1.7,11,71171,48.31,Maria Emília Guerreiro Neto de Sousa,2009
+980,,0,PCTP/MRPP,0,0,1,0,4.55,0,3237,Almada,Setúbal,0,1570,2.21,,False,1211,1.7,11,71171,48.31,Domingos António Caeiro Bulhão,2009
+981,,2,PPD/PSD,0,0,1,2,15.42,0,10977,Almada,Setúbal,0,1570,2.21,,False,1211,1.7,11,71171,48.31,Jorge Manuel Bonifácio Pedroso de Almeida,2009
+982,,3,PS,0,0,1,3,23.86,0,16984,Almada,Setúbal,0,1570,2.21,,False,1211,1.7,11,71171,48.31,Paulo José Fernandes Pedroso,2009
+983,,0,B.E.,0,0,1,0,6.05,0,2294,Barreiro,Setúbal,0,482,1.27,,False,460,1.21,8,37933,52.82,Mário Durval Póvoa do Rosário,2009
+984,,0,CDS-PP,0,0,1,0,2.65,0,1007,Barreiro,Setúbal,0,482,1.27,,False,460,1.21,8,37933,52.82,Henrique Manuel Caldeira de Castro Ferreira,2009
+985,,5,PCP-PEV,1,1,1,5,47.68,1,18087,Barreiro,Setúbal,0,482,1.27,,False,460,1.21,8,37933,52.82,Carlos Humberto Palácios Pinheiro de Carvalho,2009
+986,,0,PCTP/MRPP,0,0,1,0,2.3,0,873,Barreiro,Setúbal,0,482,1.27,,False,460,1.21,8,37933,52.82,Joaquim Carlos Salgueiro Martins,2009
+987,,1,PPD/PSD,0,0,1,1,9.02,0,3420,Barreiro,Setúbal,0,482,1.27,,False,460,1.21,8,37933,52.82,Nuno Miguel Soares Banza,2009
+988,,3,PS,0,0,1,3,29.82,0,11310,Barreiro,Setúbal,0,482,1.27,,False,460,1.21,8,37933,52.82,João Nuno da Câmara Santa Clara Gomes,2009
+989,,0,B.E.,0,0,1,0,2.11,0,175,Grândola,Setúbal,0,120,1.45,,False,83,1.0,5,8283,65.3,António Joaquim Nobre,2009
+990,,0,CDS-PP,0,0,1,0,1.12,0,93,Grândola,Setúbal,0,120,1.45,,False,83,1.0,5,8283,65.3,João Paulo Silva Charneca,2009
+991,,2,PCP-PEV,0,0,1,2,33.07,0,2739,Grândola,Setúbal,0,120,1.45,,False,83,1.0,5,8283,65.3,Rafael Francisco Lobato Rodrigues,2009
+992,,0,PPD/PSD,0,0,1,0,5.29,0,438,Grândola,Setúbal,0,120,1.45,,False,83,1.0,5,8283,65.3,António Manuel Caldeira Lucas,2009
+993,,5,PS,1,1,1,5,55.96,1,4635,Grândola,Setúbal,0,120,1.45,,False,83,1.0,5,8283,65.3,Carlos Vicente Morais Beato,2009
+994,,1,B.E.,0,0,1,1,11.6,0,3207,Moita,Setúbal,0,467,1.69,,False,325,1.18,6,27646,46.88,Joaquim Inácio Raminhos Cabaça,2009
+995,,0,CDS-PP,0,0,1,0,3.46,0,956,Moita,Setúbal,0,467,1.69,,False,325,1.18,6,27646,46.88,João Manuel Sacoto Pereira Neves,2009
+996,,5,PCP-PEV,1,1,1,5,44.93,1,12421,Moita,Setúbal,0,467,1.69,,False,325,1.18,6,27646,46.88,João Manuel de Jesus Lobo,2009
+997,,0,PCTP/MRPP,0,0,1,0,2.59,0,716,Moita,Setúbal,0,467,1.69,,False,325,1.18,6,27646,46.88,Leonel Eusébio Coelho,2009
+998,,0,PPD/PSD,0,0,1,0,7.92,0,2190,Moita,Setúbal,0,467,1.69,,False,325,1.18,6,27646,46.88,Luis Fernando Vaz do Nascimento,2009
+999,,3,PS,0,0,1,3,26.64,0,7364,Moita,Setúbal,0,467,1.69,,False,325,1.18,6,27646,46.88,António José Gonçalves Duro,2009
+1000,,0,B.E.,0,0,1,0,4.78,0,878,Montijo,Setúbal,0,375,2.04,,False,217,1.18,8,18368,48.28,Cipriano José dos Santos Pisco,2009
+1001,,1,PCP-PEV,0,0,1,1,15.85,0,2911,Montijo,Setúbal,0,375,2.04,,False,217,1.18,8,18368,48.28,Joaquim António Lopes da Silva Batalha,2009
+1002,,0,PCTP/MRPP,0,0,1,0,1.76,0,323,Montijo,Setúbal,0,375,2.04,,False,217,1.18,8,18368,48.28,Maria Manuela Ruivo Bailão Parreira,2009
+1003,,2,PPD/PSD.CDS-PP,0,0,1,2,25.65,0,4712,Montijo,Setúbal,0,375,2.04,,False,217,1.18,8,18368,48.28,Lucília Maria Samoreno Ferra,2009
+1004,,4,PS,1,1,1,4,48.74,1,8952,Montijo,Setúbal,0,375,2.04,,False,217,1.18,8,18368,48.28,Maria Amélia Macedo Antunes,2009
+1005,,0,B.E.,0,0,1,0,4.8,0,1085,Palmela,Setúbal,0,441,1.95,,False,282,1.25,5,22594,48.22,Ana Catarina Dias Y Pais Sartório de Lima,2009
+1006,,0,CDS-PP,0,0,1,0,9.76,0,2206,Palmela,Setúbal,0,441,1.95,,False,282,1.25,5,22594,48.22,Octávio Joaquim Coelho Machado,2009
+1007,,5,PCP-PEV,1,1,1,5,50.19,1,11341,Palmela,Setúbal,0,441,1.95,,False,282,1.25,5,22594,48.22,Ana Teresa Vicente Custódio de Sá,2009
+1008,,0,PPD/PSD,0,0,1,0,9.01,0,2035,Palmela,Setúbal,0,441,1.95,,False,282,1.25,5,22594,48.22,Carlos Miguel Viegas Vitorino,2009
+1009,,2,PS,0,0,1,2,23.03,0,5204,Palmela,Setúbal,0,441,1.95,,False,282,1.25,5,22594,48.22,António Fonseca Ferreira,2009
+1010,,0,B.E.,0,0,1,0,5.99,0,907,Santiago do Cacém,Setúbal,0,327,2.16,,False,170,1.12,11,15144,57.32,João Manuel Pereira da Silva,2009
+1011,,0,CDS-PP,0,0,1,0,2.86,0,433,Santiago do Cacém,Setúbal,0,327,2.16,,False,170,1.12,11,15144,57.32,Mário de Figueiredo M. Ribeiro,2009
+1012,,4,PCP-PEV,1,1,1,4,48.98,1,7417,Santiago do Cacém,Setúbal,0,327,2.16,,False,170,1.12,11,15144,57.32,Vitor Manuel Chaves de Caro Proença,2009
+1013,,1,PPD/PSD,0,0,1,1,10.92,0,1654,Santiago do Cacém,Setúbal,0,327,2.16,,False,170,1.12,11,15144,57.32,Carlos Manuel Lourenço Pereira Dias,2009
+1014,,2,PS,0,0,1,2,27.97,0,4236,Santiago do Cacém,Setúbal,0,327,2.16,,False,170,1.12,11,15144,57.32,Arnaldo Pereira Gonçalves Frade,2009
+1015,,0,MMS,0,0,1,0,0.58,0,337,Seixal,Setúbal,0,1161,1.99,,False,709,1.21,6,58409,46.13,Nelson Lopes Resende,2009
+1016,,6,PCP-PEV,1,1,1,6,47.85,1,27949,Seixal,Setúbal,0,1161,1.99,,False,709,1.21,6,58409,46.13,Alfredo José Monteiro da Costa,2009
+1017,,1,PPD/PSD,0,0,1,1,13.82,0,8072,Seixal,Setúbal,0,1161,1.99,,False,709,1.21,6,58409,46.13,Paulo Edson de Carvalho Borges Cunha,2009
+1018,,3,PS,0,0,1,3,22.41,0,13090,Seixal,Setúbal,0,1161,1.99,,False,709,1.21,6,58409,46.13,Samuel Pedro da Silva Cruz,2009
+1019,,0,B.E.,0,0,1,0,6.19,0,1163,Sesimbra,Setúbal,0,339,1.8,,False,275,1.46,3,18790,50.07,Carlos Alexandre Pinto de Oliveira Macedo,2009
+1020,,0,CDS-PP,0,0,1,0,3.69,0,694,Sesimbra,Setúbal,0,339,1.8,,False,275,1.46,3,18790,50.07,Beatriz Isabel da Luz Soares Carneiro,2009
+1021,,0,I,0,0,1,0,5.17,0,971,Sesimbra,Setúbal,0,339,1.8,,False,275,1.46,3,18790,50.07,Augusto António Marques Duarte,2009
+1022,,5,PCP-PEV,1,1,1,5,51.81,1,9736,Sesimbra,Setúbal,0,339,1.8,,False,275,1.46,3,18790,50.07,Augusto Manuel Neto Carapinha Pólvora,2009
+1023,,1,PPD/PSD,0,0,1,1,10.37,0,1949,Sesimbra,Setúbal,0,339,1.8,,False,275,1.46,3,18790,50.07,Francisco José Pereira Luís,2009
+1024,,1,PS,0,0,1,1,19.49,0,3663,Sesimbra,Setúbal,0,339,1.8,,False,275,1.46,3,18790,50.07,Américo Manuel Machado Gegaloto,2009
+1025,,0,B.E.,0,0,1,0,6.09,0,2911,Setúbal,Setúbal,0,847,1.77,,False,506,1.06,8,47799,47.62,Albérico Afonso Costa Alho,2009
+1026,,0,CDS-PP,0,0,1,0,5.81,0,2779,Setúbal,Setúbal,0,847,1.77,,False,506,1.06,8,47799,47.62,João Paulo Barros Viegas,2009
+1027,,0,MPT,0,0,1,0,0.74,0,354,Setúbal,Setúbal,0,847,1.77,,False,506,1.06,8,47799,47.62,Mário Fernando Gonçalves Nogueira,2009
+1028,,5,PCP-PEV,1,1,1,5,38.83,1,18558,Setúbal,Setúbal,0,847,1.77,,False,506,1.06,8,47799,47.62,Maria das Dores Marques Banheiro Meira,2009
+1029,,0,PCTP/MRPP,0,0,1,0,1.42,0,677,Setúbal,Setúbal,0,847,1.77,,False,506,1.06,8,47799,47.62,Carlos Manuel Duarte da Costa Gomes,2009
+1030,,1,PPD/PSD,0,0,1,1,14.48,0,6919,Setúbal,Setúbal,0,847,1.77,,False,506,1.06,8,47799,47.62,Jorge Flaviano Delgado Santana da Silva,2009
+1031,,3,PS,0,0,1,3,29.81,0,14248,Setúbal,Setúbal,0,847,1.77,,False,506,1.06,8,47799,47.62,Maria Teresa Mourão de Almeida,2009
+1032,,0,B.E.,0,0,1,0,4.89,0,368,Sines,Setúbal,0,114,1.52,,False,57,0.76,2,7524,64.69,José Carlos dos Santos Guinote,2009
+1033,,1,PCP-PEV,0,0,1,1,14.94,0,1124,Sines,Setúbal,0,114,1.52,,False,57,0.76,2,7524,64.69,Francisco Maria do Ó Pacheco,2009
+1034,,0,PPD/PSD,0,0,1,0,3.35,0,252,Sines,Setúbal,0,114,1.52,,False,57,0.76,2,7524,64.69,João Miguel da Silva Garganta Custódio,2009
+1035,,2,PS,0,0,1,2,30.69,0,2309,Sines,Setúbal,0,114,1.52,,False,57,0.76,2,7524,64.69,Idalino Sabido José,2009
+1036,,4,V,1,1,1,4,43.86,1,3300,Sines,Setúbal,0,114,1.52,,False,57,0.76,2,7524,64.69,Manuel Coelho Carvalho,2009
+1037,,0,CDS-PP,0,0,1,0,6.39,0,973,Arcos de Valdevez,Viana do Castelo,0,332,2.18,,False,218,1.43,51,15233,52.51,Augusto Carlos de Noronha Azevedo Pinto O.,2009
+1038,,0,PCP-PEV,0,0,1,0,1.9,0,289,Arcos de Valdevez,Viana do Castelo,0,332,2.18,,False,218,1.43,51,15233,52.51,Mário Acurcio Teixeira de Vasconcelos,2009
+1039,,6,PPD/PSD,1,1,1,6,68.29,1,10403,Arcos de Valdevez,Viana do Castelo,0,332,2.18,,False,218,1.43,51,15233,52.51,Francisco Rodrigues de Araújo,2009
+1040,,1,PS,0,0,1,1,19.81,0,3018,Arcos de Valdevez,Viana do Castelo,0,332,2.18,,False,218,1.43,51,15233,52.51,Julio Gomes de Abreu Viana,2009
+1041,,0,B.E.,0,0,1,0,2.28,0,256,Caminha,Viana do Castelo,0,121,1.08,,False,118,1.05,20,11219,67.39,Sebastião José Cunha Torres Correia,2009
+1042,,0,PCP-PEV,0,0,1,0,2.58,0,289,Caminha,Viana do Castelo,0,121,1.08,,False,118,1.05,20,11219,67.39,Joaquim Celestino Simões Ribeiro,2009
+1043,,4,PPD/PSD,1,1,1,4,54.31,1,6093,Caminha,Viana do Castelo,0,121,1.08,,False,118,1.05,20,11219,67.39,Júlia Paula Pires Pereira Costa,2009
+1044,,3,PS,0,0,1,3,38.7,0,4342,Caminha,Viana do Castelo,0,121,1.08,,False,118,1.05,20,11219,67.39,Jorge Paulo Aires Miranda,2009
+1045,,0,PCP-PEV,0,0,1,0,2.11,0,124,Melgaço,Viana do Castelo,0,126,2.15,,False,58,0.99,18,5873,48.63,Horácio dos Santos Lima,2009
+1046,,1,PPD/PSD,0,0,1,1,23.67,0,1390,Melgaço,Viana do Castelo,0,126,2.15,,False,58,0.99,18,5873,48.63,Manuel Fernando Ramos dos Santos,2009
+1047,,6,PS,1,1,1,6,71.09,1,4175,Melgaço,Viana do Castelo,0,126,2.15,,False,58,0.99,18,5873,48.63,António Rui Esteves Soalheiro,2009
+1048,,0,II,0,0,1,0,5.41,0,663,Monção,Viana do Castelo,0,257,2.1,,False,139,1.13,33,12247,55.69,Carlos Fernandez Alves,2009
+1049,,0,PCP-PEV,0,0,1,0,2.1,0,257,Monção,Viana do Castelo,0,257,2.1,,False,139,1.13,33,12247,55.69,António José Mendes Nunes,2009
+1050,,1,PPD/PSD,0,0,1,1,20.89,0,2558,Monção,Viana do Castelo,0,257,2.1,,False,139,1.13,33,12247,55.69,Jorge Manuel Cerqueira Nande,2009
+1051,,6,PS,1,1,1,6,68.37,1,8373,Monção,Viana do Castelo,0,257,2.1,,False,139,1.13,33,12247,55.69,José Emílio Pedreira Moreira,2009
+1052,,0,PCP-PEV,0,0,1,0,4.87,0,317,Paredes de Coura,Viana do Castelo,0,118,1.81,,False,90,1.38,21,6507,66.72,José Manuel da Cunha Alves,2009
+1053,,2,PPD/PSD,0,0,1,2,36.3,0,2362,Paredes de Coura,Viana do Castelo,0,118,1.81,,False,90,1.38,21,6507,66.72,José Augusto Viana Sousa,2009
+1054,,3,PS,1,1,1,3,55.63,1,3620,Paredes de Coura,Viana do Castelo,0,118,1.81,,False,90,1.38,21,6507,66.72,António Pereira Júnior,2009
+1055,,0,PCP-PEV,0,0,1,0,1.26,0,118,Ponte da Barca,Viana do Castelo,0,95,1.01,,False,87,0.93,25,9402,66.34,João António da Cunha Lobo,2009
+1056,,3,PPD/PSD,0,0,1,3,46.09,0,4333,Ponte da Barca,Viana do Castelo,0,95,1.01,,False,87,0.93,25,9402,66.34,Augusto Manuel dos Reis Marinho,2009
+1057,,4,PS,1,1,1,4,50.72,1,4769,Ponte da Barca,Viana do Castelo,0,95,1.01,,False,87,0.93,25,9402,66.34,António Vassalo Abreu,2009
+1058,,6,CDS-PP,1,1,1,6,64.26,1,18467,Ponte de Lima,Viana do Castelo,0,512,1.78,,False,322,1.12,51,28736,67.25,Victor Manuel Alves Mendes,2009
+1059,,0,PCP-PEV,0,0,1,0,2.88,0,828,Ponte de Lima,Viana do Castelo,0,512,1.78,,False,322,1.12,51,28736,67.25,António de Barros Pereira Pimenta,2009
+1060,,1,PPD/PSD,0,0,1,1,19.66,0,5650,Ponte de Lima,Viana do Castelo,0,512,1.78,,False,322,1.12,51,28736,67.25,Filipe Agostinho Cruz Viana,2009
+1061,,0,PS,0,0,1,0,10.29,0,2957,Ponte de Lima,Viana do Castelo,0,512,1.78,,False,322,1.12,51,28736,67.25,António Carlos Almeida de Matos Torres,2009
+1062,,4,PPD/PSD,1,1,1,4,43.88,1,3877,Valença,Viana do Castelo,0,155,1.75,,False,87,0.98,16,8835,63.2,Jorge Manuel Salgueiro Mendes,2009
+1063,,3,PS,0,0,1,3,41.0,0,3622,Valença,Viana do Castelo,0,155,1.75,,False,87,0.98,16,8835,63.2,José Luís Serra Rodrigues,2009
+1064,,0,B.E.,0,0,1,0,4.75,0,2439,Viana do Castelo,Viana do Castelo,0,1160,2.26,,False,545,1.06,40,51365,59.09,Jorge Manuel Gomes Teixeira,2009
+1065,,0,PCP-PEV,0,0,1,0,6.61,0,3396,Viana do Castelo,Viana do Castelo,0,1160,2.26,,False,545,1.06,40,51365,59.09,António Gonçalves da Silva,2009
+1066,,4,PPD/PSD.CDS-PP,0,0,1,4,35.12,0,18039,Viana do Castelo,Viana do Castelo,0,1160,2.26,,False,545,1.06,40,51365,59.09,António de Carvalho Martins,2009
+1067,,5,PS,1,1,1,5,50.2,1,25786,Viana do Castelo,Viana do Castelo,0,1160,2.26,,False,545,1.06,40,51365,59.09,José Maria da Cunha Costa,2009
+1068,,0,PCP-PEV,0,0,1,0,1.91,0,120,Vila Nova de Cerveira,Viana do Castelo,0,104,1.66,,False,74,1.18,15,6268,70.0,Filipe Alexandre Martins Vintém,2009
+1069,,1,PPD/PSD,0,0,1,1,27.33,0,1713,Vila Nova de Cerveira,Viana do Castelo,0,104,1.66,,False,74,1.18,15,6268,70.0,Aristides Manuel Rodrigues Martins,2009
+1070,,4,PS,1,1,1,4,67.92,1,4257,Vila Nova de Cerveira,Viana do Castelo,0,104,1.66,,False,74,1.18,15,6268,70.0,José Manuel Vaz Carpinteira,2009
+1071,,0,PCP-PEV,0,0,1,0,2.21,0,201,Alijó,Vila Real,0,186,2.05,,False,150,1.65,19,9090,64.86,Francisco Luis Rodrigues Fontinha,2009
+1072,,3,PPD/PSD.CDS-PP,0,0,1,3,37.85,0,3441,Alijó,Vila Real,0,186,2.05,,False,150,1.65,19,9090,64.86,Luis Miguel Gonçalves Rodrigues,2009
+1073,,4,PS,1,1,1,4,56.24,1,5112,Alijó,Vila Real,0,186,2.05,,False,150,1.65,19,9090,64.86,José Artur Fontes Cascarejo,2009
+1074,,0,CDS-PP,0,0,1,0,3.77,0,169,Boticas,Vila Real,0,111,2.48,,False,85,1.9,16,4480,58.65,António Rui Rodrigues Gomes Pereira,2009
+1075,,0,PCP-PEV,0,0,1,0,9.67,0,433,Boticas,Vila Real,0,111,2.48,,False,85,1.9,16,4480,58.65,Maria Alberta Gobnçalves Santos,2009
+1076,,5,PPD/PSD,1,1,1,5,73.08,1,3274,Boticas,Vila Real,0,111,2.48,,False,85,1.9,16,4480,58.65,Fernando Pereira Campos,2009
+1077,,0,PS,0,0,1,0,9.11,0,408,Boticas,Vila Real,0,111,2.48,,False,85,1.9,16,4480,58.65,António Bernardes Fidalgo,2009
+1078,,0,CDS-PP,0,0,1,0,2.71,0,730,Chaves,Vila Real,0,479,1.78,,False,381,1.41,51,26980,57.55,Rui Miguel Alves Sousa Pinheiro,2009
+1079,,0,PCP-PEV,0,0,1,0,4.82,0,1300,Chaves,Vila Real,0,479,1.78,,False,381,1.41,51,26980,57.55,Manuel Justino Matos Cunha,2009
+1080,,5,PPD/PSD,1,1,1,5,58.18,1,15698,Chaves,Vila Real,0,479,1.78,,False,381,1.41,51,26980,57.55,João Gonçalves Martins Batista,2009
+1081,,2,PS,0,0,1,2,31.1,0,8392,Chaves,Vila Real,0,479,1.78,,False,381,1.41,51,26980,57.55,Nuno Artur Esteves Rodrigues,2009
+1082,,0,PCP-PEV,0,0,1,0,0.36,0,13,Mesão Frio,Vila Real,0,18,0.5,,False,37,1.02,7,3628,77.62,Mário Machado da Costa,2009
+1083,,2,PPD/PSD,0,0,1,2,48.95,0,1776,Mesão Frio,Vila Real,0,18,0.5,,False,37,1.02,7,3628,77.62,Marco António Peres Teixeira da Silva,2009
+1084,,3,PS,1,1,1,3,49.17,1,1784,Mesão Frio,Vila Real,0,18,0.5,,False,37,1.02,7,3628,77.62,Alberto Monteiro Pereira,2009
+1085,,2,CDS-PP,0,0,1,2,30.12,0,1573,Mondim de Basto,Vila Real,0,44,0.84,,False,64,1.23,8,5222,59.03,Lúcio Manuel Alves Machado,2009
+1086,,0,PCP-PEV,0,0,1,0,0.8,0,42,Mondim de Basto,Vila Real,0,44,0.84,,False,64,1.23,8,5222,59.03,António Joaquim Gonçalves do Souto,2009
+1087,,0,PCTP/MRPP,0,0,1,0,0.61,0,32,Mondim de Basto,Vila Real,0,44,0.84,,False,64,1.23,8,5222,59.03,Alfredo Manuel Dinis da Costa Gonçalves,2009
+1088,,1,PPD/PSD,0,0,1,1,27.44,0,1433,Mondim de Basto,Vila Real,0,44,0.84,,False,64,1.23,8,5222,59.03,Francisco Peixoto Gomes Ribeiro,2009
+1089,,2,PS,1,0,1,2,38.95,1,2034,Mondim de Basto,Vila Real,0,44,0.84,,False,64,1.23,8,5222,59.03,Humberto da Costa Cerqueira,2009
+1090,,0,B.E.,0,0,1,0,1.4,0,132,Montalegre,Vila Real,0,183,1.93,,False,149,1.57,35,9462,61.46,Manuel Dias Baptista,2009
+1091,,0,PCP-PEV,0,0,1,0,0.81,0,77,Montalegre,Vila Real,0,183,1.93,,False,149,1.57,35,9462,61.46,José Augusto Teixeira Afonso,2009
+1092,,2,PPD/PSD.CDS-PP,0,0,1,2,34.3,0,3245,Montalegre,Vila Real,0,183,1.93,,False,149,1.57,35,9462,61.46,José Duarte Crespo Gonçalves,2009
+1093,,5,PS,1,1,1,5,59.99,1,5676,Montalegre,Vila Real,0,183,1.93,,False,149,1.57,35,9462,61.46,Fernando José Gomes Rodrigues,2009
+1094,,0,CDS-PP,0,0,1,0,2.62,0,126,Murça,Vila Real,0,66,1.37,,False,74,1.54,9,4817,64.42,Marcelino Humberto Gama,2009
+1095,,0,PCP-PEV,0,0,1,0,1.08,0,52,Murça,Vila Real,0,66,1.37,,False,74,1.54,9,4817,64.42,Carlos Manuel Sousa Araújo,2009
+1096,,2,PPD/PSD,0,0,1,2,41.06,0,1978,Murça,Vila Real,0,66,1.37,,False,74,1.54,9,4817,64.42,Paulo Augusto Breia da Fonseca Calvão,2009
+1097,,3,PS,1,1,1,3,52.34,1,2521,Murça,Vila Real,0,66,1.37,,False,74,1.54,9,4817,64.42,João Luís Teixeira Fernandes,2009
+1098,,0,CDS-PP,0,0,1,0,3.15,0,341,Peso da Régua,Vila Real,0,131,1.21,,False,184,1.7,12,10836,62.12,Maria Ernestina Magalhães Ferreira,2009
+1099,,0,PCP-PEV,0,0,1,0,2.65,0,287,Peso da Régua,Vila Real,0,131,1.21,,False,184,1.7,12,10836,62.12,António Manuel Alves Serafim,2009
+1100,,5,PPD/PSD,1,1,1,5,66.34,1,7189,Peso da Régua,Vila Real,0,131,1.21,,False,184,1.7,12,10836,62.12,Nuno Manuel Sousa Pinto de Carvalho Gonçalves,2009
+1101,,2,PS,0,0,1,2,24.95,0,2704,Peso da Régua,Vila Real,0,131,1.21,,False,184,1.7,12,10836,62.12,Jorge Manuel Monteiro de Almeida,2009
+1102,,0,PCP-PEV,0,0,1,0,1.09,0,60,Ribeira de Pena,Vila Real,0,69,1.26,,False,65,1.18,7,5490,61.54,Mário Fernando Gomes,2009
+1103,,3,PPD/PSD.CDS-PP,1,1,1,3,62.39,1,3425,Ribeira de Pena,Vila Real,0,69,1.26,,False,65,1.18,7,5490,61.54,Agostinho Alves Pinto,2009
+1104,,2,PS,0,0,1,2,34.08,0,1871,Ribeira de Pena,Vila Real,0,69,1.26,,False,65,1.18,7,5490,61.54,Rui Manuel Vaz Alves,2009
+1105,,0,B.E.,0,0,1,0,2.75,0,133,Sabrosa,Vila Real,0,69,1.43,,False,79,1.64,15,4829,66.24,Luis António Ribeiro Almeida,2009
+1106,,0,PCP-PEV,0,0,1,0,1.18,0,57,Sabrosa,Vila Real,0,69,1.43,,False,79,1.64,15,4829,66.24,José Francisco Marques Guedes,2009
+1107,,1,PPD/PSD.CDS-PP,0,0,1,1,25.8,0,1246,Sabrosa,Vila Real,0,69,1.43,,False,79,1.64,15,4829,66.24,Milcíades Emílio Croccia Barbosa de Carvalho,2009
+1108,,4,PS,1,1,1,4,67.2,1,3245,Sabrosa,Vila Real,0,69,1.43,,False,79,1.64,15,4829,66.24,José Manuel Carvalho Marques,2009
+1109,,1,PPD/PSD,0,0,1,1,28.25,0,1555,Santa Marta de Penaguião,Vila Real,0,113,2.05,,False,90,1.63,10,5505,62.43,António Rafael Gouveia Feliciano,2009
+1110,,4,PS,1,1,1,4,64.32,1,3541,Santa Marta de Penaguião,Vila Real,0,113,2.05,,False,90,1.63,10,5505,62.43,Francisco José Guedes Ribeiro,2009
+1111,,0,CDS-PP,0,0,1,0,6.33,0,756,Valpaços,Vila Real,0,242,2.03,,False,246,2.06,31,11946,54.69,Sebastião Vila das Neves,2009
+1112,,0,PCP-PEV,0,0,1,0,1.33,0,159,Valpaços,Vila Real,0,242,2.03,,False,246,2.06,31,11946,54.69,António Fernando Ribeiro Mendes,2009
+1113,,5,PPD/PSD,1,1,1,5,64.83,1,7745,Valpaços,Vila Real,0,242,2.03,,False,246,2.06,31,11946,54.69,Francisco Baptista Tavares,2009
+1114,,2,PS,0,0,1,2,23.42,0,2798,Valpaços,Vila Real,0,242,2.03,,False,246,2.06,31,11946,54.69,Ema Paula Morais Gonçalo,2009
+1115,,0,CDS-PP,0,0,1,0,6.75,0,714,Vila Pouca de Aguiar,Vila Real,0,145,1.37,,False,148,1.4,18,10576,58.77,Sandra Henriques Venâncio Rodrigues,2009
+1116,,0,PCP-PEV,0,0,1,0,1.48,0,157,Vila Pouca de Aguiar,Vila Real,0,145,1.37,,False,148,1.4,18,10576,58.77,José Carlos Magalhães Rodrigues,2009
+1117,,4,PPD/PSD,1,1,1,4,53.24,1,5631,Vila Pouca de Aguiar,Vila Real,0,145,1.37,,False,148,1.4,18,10576,58.77,Domingos Manuel Pinto Batista Dias,2009
+1118,,3,PS,0,0,1,3,35.75,0,3781,Vila Pouca de Aguiar,Vila Real,0,145,1.37,,False,148,1.4,18,10576,58.77,José Eduardo Machado Alves de Quinteiro,2009
+1119,,0,B.E.,0,0,1,0,2.94,0,909,Vila Real,Vila Real,0,443,1.43,,False,348,1.13,30,30878,62.28,Carlos Manuel Moreira Gomes,2009
+1120,,0,CDS-PP,0,0,1,0,5.77,0,1783,Vila Real,Vila Real,0,443,1.43,,False,348,1.13,30,30878,62.28,Patrique José Luís Alves,2009
+1121,,0,PCP-PEV,0,0,1,0,2.51,0,776,Vila Real,Vila Real,0,443,1.43,,False,348,1.13,30,30878,62.28,José Brandão Caldeira,2009
+1122,,4,PPD/PSD,1,1,1,4,51.37,1,15861,Vila Real,Vila Real,0,443,1.43,,False,348,1.13,30,30878,62.28,Manuel do Nascimento Martins,2009
+1123,,3,PS,0,0,1,3,34.84,0,10758,Vila Real,Vila Real,0,443,1.43,,False,348,1.13,30,30878,62.28,Rui Jorge Cordeiro Gonçalves dos Santos,2009
+1124,,0,CDS-PP,0,0,1,0,7.6,0,352,Armamar,Viseu,0,76,1.64,,False,89,1.92,19,4631,66.84,Manuel António Cardoso de Carvalho,2009
+1125,,0,PCP-PEV,0,0,1,0,11.36,0,526,Armamar,Viseu,0,76,1.64,,False,89,1.92,19,4631,66.84,António Manuel Lareiro dos Santos,2009
+1126,,4,PPD/PSD,1,1,1,4,60.96,1,2823,Armamar,Viseu,0,76,1.64,,False,89,1.92,19,4631,66.84,Hernâni Pinto da Fonseca e Almeida,2009
+1127,,1,PS,0,0,1,1,16.52,0,765,Armamar,Viseu,0,76,1.64,,False,89,1.92,19,4631,66.84,Américo Teixeira Moreira,2009
+1128,,0,CDS-PP,0,0,1,0,8.77,0,530,Carregal do Sal,Viseu,0,116,1.92,,False,108,1.79,7,6042,59.34,José António Fernandes Soares de Melo,2009
+1129,,0,PCP-PEV,0,0,1,0,1.37,0,83,Carregal do Sal,Viseu,0,116,1.92,,False,108,1.79,7,6042,59.34,António Luís da Costa Correia,2009
+1130,,4,PPD/PSD,1,1,1,4,43.59,1,2634,Carregal do Sal,Viseu,0,116,1.92,,False,108,1.79,7,6042,59.34,Atílio dos Santos Nunes,2009
+1131,,3,PS,0,0,1,3,42.55,0,2571,Carregal do Sal,Viseu,0,116,1.92,,False,108,1.79,7,6042,59.34,Rogério Mota Abrantes,2009
+1132,,0,CDS-PP,0,0,1,0,6.05,0,639,Castro Daire,Viseu,0,176,1.67,,False,163,1.54,22,10558,63.67,Manuel José Pereira Pertancho,2009
+1133,,0,I,0,0,1,0,5.95,0,628,Castro Daire,Viseu,0,176,1.67,,False,163,1.54,22,10558,63.67,José Manuel Figueiredo Ramos,2009
+1134,,0,PCP-PEV,0,0,1,0,0.96,0,101,Castro Daire,Viseu,0,176,1.67,,False,163,1.54,22,10558,63.67,Isabel de Fátima Esteves Moreira Pires Souto,2009
+1135,,3,PPD/PSD,0,0,1,3,39.82,0,4204,Castro Daire,Viseu,0,176,1.67,,False,163,1.54,22,10558,63.67,Maria Eulália da Silva Teixeira,2009
+1136,,4,PS,1,1,1,4,44.01,1,4647,Castro Daire,Viseu,0,176,1.67,,False,163,1.54,22,10558,63.67,José Fernando Carneiro Pereira,2009
+1137,,0,CDS-PP,0,0,1,0,6.19,0,801,Cinfães,Viseu,0,165,1.27,,False,209,1.61,17,12944,67.58,Jerónimo André Vieira da Silva,2009
+1138,,0,PCP-PEV,0,0,1,0,3.51,0,454,Cinfães,Viseu,0,165,1.27,,False,209,1.61,17,12944,67.58,Maria Margarida Teixeira Barbedo,2009
+1139,,2,PPD/PSD,0,0,1,2,26.56,0,3438,Cinfães,Viseu,0,165,1.27,,False,209,1.61,17,12944,67.58,Laureano Manuel Cardoso Valente,2009
+1140,,5,PS,1,1,1,5,60.85,1,7877,Cinfães,Viseu,0,165,1.27,,False,209,1.61,17,12944,67.58,José Manuel Pereira Pinto,2009
+1141,,0,I,0,0,1,0,10.44,0,1837,Lamego,Viseu,0,172,0.98,,False,336,1.91,24,17596,66.15,Manuel José Silvestre Conde,2009
+1142,,0,PCP-PEV,0,0,1,0,2.03,0,357,Lamego,Viseu,0,172,0.98,,False,336,1.91,24,17596,66.15,João Carlos Portela Cordeiro,2009
+1143,,6,PPD/PSD.CDS-PP,1,1,1,6,63.5,1,11173,Lamego,Viseu,0,172,0.98,,False,336,1.91,24,17596,66.15,Francisco Manuel Lopes,2009
+1144,,1,PS,0,0,1,1,21.15,0,3721,Lamego,Viseu,0,172,0.98,,False,336,1.91,24,17596,66.15,Agostinho Jorge de Paiva Ribeiro,2009
+1145,,0,CDS-PP,0,0,1,0,2.39,0,328,Mangualde,Viseu,0,105,0.77,,False,170,1.24,18,13714,66.65,António Albuquerque e Castro de Oliveira,2009
+1146,,0,PCP-PEV,0,0,1,0,1.1,0,151,Mangualde,Viseu,0,105,0.77,,False,170,1.24,18,13714,66.65,Manuel Rodrigues,2009
+1147,,3,PPD/PSD,0,0,1,3,35.9,0,4924,Mangualde,Viseu,0,105,0.77,,False,170,1.24,18,13714,66.65,António Soares Marques,2009
+1148,,4,PS,1,1,1,4,58.6,1,8036,Mangualde,Viseu,0,105,0.77,,False,170,1.24,18,13714,66.65,João Nuno Ferreira Gonçalves de Azevedo,2009
+1149,,0,PCP-PEV,0,0,1,0,0.91,0,67,Moimenta da Beira,Viseu,0,82,1.12,,False,109,1.49,20,7335,62.85,Augusto Coelho Praça,2009
+1150,,3,PPD/PSD.CDS-PP,0,0,1,3,43.6,0,3198,Moimenta da Beira,Viseu,0,82,1.12,,False,109,1.49,20,7335,62.85,José Carlos Pereira da Silva,2009
+1151,,4,PS,1,1,1,4,52.88,1,3879,Moimenta da Beira,Viseu,0,82,1.12,,False,109,1.49,20,7335,62.85,José Eduardo Lopes Ferreira,2009
+1152,,1,CDS-PP,0,0,1,1,14.09,0,818,Mortágua,Viseu,0,96,1.65,,False,60,1.03,10,5806,55.32,Filipe Manuel Ferreira Valente,2009
+1153,,0,PCP-PEV,0,0,1,0,1.43,0,83,Mortágua,Viseu,0,96,1.65,,False,60,1.03,10,5806,55.32,Maria Teresa de Sousa Afonso,2009
+1154,,1,PPD/PSD,0,0,1,1,21.81,0,1266,Mortágua,Viseu,0,96,1.65,,False,60,1.03,10,5806,55.32,Raul Silva Marta,2009
+1155,,5,PS,1,1,1,5,59.99,1,3483,Mortágua,Viseu,0,96,1.65,,False,60,1.03,10,5806,55.32,Afonso Sequeira Abrantes,2009
+1156,,5,PPD/PSD.CDS-PP,1,1,1,5,56.32,1,5060,Nelas,Viseu,0,144,1.6,,False,164,1.83,9,8985,64.23,Isaura Leonor Marques Figueiredo da Silva Pedro,2009
+1157,,0,PPM,0,0,1,0,5.56,0,500,Nelas,Viseu,0,144,1.6,,False,164,1.83,9,8985,64.23,José Albuquerque Vaz,2009
+1158,,2,PS,0,0,1,2,23.59,0,2120,Nelas,Viseu,0,144,1.6,,False,164,1.83,9,8985,64.23,Adelino José Borges Amaral,2009
+1159,,0,CDS-PP,0,0,1,0,5.2,0,359,Oliveira de Frades,Viseu,0,112,1.62,,False,79,1.15,12,6899,73.06,Lúcia Maria Costa Diogo,2009
+1160,,0,PCP-PEV,0,0,1,0,1.77,0,122,Oliveira de Frades,Viseu,0,112,1.62,,False,79,1.15,12,6899,73.06,Nuno Miguel Duarte Martins,2009
+1161,,4,PPD/PSD,1,1,1,4,70.71,1,4878,Oliveira de Frades,Viseu,0,112,1.62,,False,79,1.15,12,6899,73.06,Luís Manuel Martins de Vasconcelos,2009
+1162,,1,PS,0,0,1,1,19.55,0,1349,Oliveira de Frades,Viseu,0,112,1.62,,False,79,1.15,12,6899,73.06,Porfírio António Sousa Carvalho,2009
+1163,,0,MPT,0,0,1,0,6.77,0,403,Penalva do Castelo,Viseu,0,91,1.53,,False,102,1.71,13,5952,66.13,António Marques da Silva Laires,2009
+1164,,0,PCP-PEV,0,0,1,0,3.09,0,184,Penalva do Castelo,Viseu,0,91,1.53,,False,102,1.71,13,5952,66.13,António Nogueira de Matos Vilarigues,2009
+1165,,3,PPD/PSD.CDS-PP,1,1,1,3,48.1,1,2863,Penalva do Castelo,Viseu,0,91,1.53,,False,102,1.71,13,5952,66.13,Leonídio Figueiredo Gomes Monteiro,2009
+1166,,2,PS,0,0,1,2,38.79,0,2309,Penalva do Castelo,Viseu,0,91,1.53,,False,102,1.71,13,5952,66.13,Francisco Lopes de Carvalho,2009
+1167,,0,B.E.,0,0,1,0,5.64,0,126,Penedono,Viseu,0,31,1.39,,False,40,1.79,9,2235,60.95,Dinis Osvaldo Cachinho Numão,2009
+1168,,0,CDS-PP,0,0,1,0,11.1,0,248,Penedono,Viseu,0,31,1.39,,False,40,1.79,9,2235,60.95,António Maria de Carvalho Nogueira,2009
+1169,,0,PCP-PEV,0,0,1,0,0.89,0,20,Penedono,Viseu,0,31,1.39,,False,40,1.79,9,2235,60.95,Maria Cândida Sapo,2009
+1170,,3,PPD/PSD,1,1,1,3,46.71,1,1044,Penedono,Viseu,0,31,1.39,,False,40,1.79,9,2235,60.95,António Carlos Saraiva Esteves de Carvalho,2009
+1171,,2,PS,0,0,1,2,32.48,0,726,Penedono,Viseu,0,31,1.39,,False,40,1.79,9,2235,60.95,Pedro Baldaia Moreira Timóteo Rodrigues,2009
+1172,,0,PCP-PEV,0,0,1,0,2.13,0,177,Resende,Viseu,0,79,0.95,,False,124,1.49,15,8308,71.9,António José Alvelos,2009
+1173,,2,PPD/PSD,0,0,1,2,26.46,0,2198,Resende,Viseu,0,79,0.95,,False,124,1.49,15,8308,71.9,Joaquim Rodrigo de Matos Ferreira Pinto Pereira,2009
+1174,,5,PS,1,1,1,5,68.97,1,5730,Resende,Viseu,0,79,0.95,,False,124,1.49,15,8308,71.9,António Manuel Leitão Borges,2009
+1175,,0,B.E.,0,0,1,0,1.44,0,112,Santa Comba Dão,Viseu,0,119,1.53,,False,68,0.88,9,7768,65.84,José Ricardo Coelho Dias da Silva,2009
+1176,,0,CDS-PP,0,0,1,0,1.88,0,146,Santa Comba Dão,Viseu,0,119,1.53,,False,68,0.88,9,7768,65.84,António Manuel de Almeida dos Santos Azevedo,2009
+1177,,0,PCP-PEV,0,0,1,0,0.81,0,63,Santa Comba Dão,Viseu,0,119,1.53,,False,68,0.88,9,7768,65.84,Alberto Lopes de Andrade,2009
+1178,,4,PPD/PSD,1,1,1,4,50.12,1,3893,Santa Comba Dão,Viseu,0,119,1.53,,False,68,0.88,9,7768,65.84,João António de Sousa Pais Lourenço,2009
+1179,,3,PS,0,0,1,3,43.34,0,3367,Santa Comba Dão,Viseu,0,119,1.53,,False,68,0.88,9,7768,65.84,Leonel José Antunes Gouveia,2009
+1180,,0,CDS-PP,0,0,1,0,4.48,0,197,Sernancelhe,Viseu,0,65,1.48,,False,64,1.46,17,4398,66.23,Teresa de Jesus Paulo Pinto,2009
+1181,,0,PCP-PEV,0,0,1,0,0.5,0,22,Sernancelhe,Viseu,0,65,1.48,,False,64,1.46,17,4398,66.23,Osvaldo Ribeiro Peliz,2009
+1182,,3,PPD/PSD,1,1,1,3,56.12,1,2468,Sernancelhe,Viseu,0,65,1.48,,False,64,1.46,17,4398,66.23,José Mário de Almeida Cardoso,2009
+1183,,2,PS,0,0,1,2,35.97,0,1582,Sernancelhe,Viseu,0,65,1.48,,False,64,1.46,17,4398,66.23,Carlos Manuel Pestana Lacerda,2009
+1184,,0,CDS-PP,0,0,1,0,8.47,0,707,Sátão,Viseu,0,132,1.58,,False,164,1.96,12,8350,59.74,João Paulo de Figueiredo Mendes,2009
+1185,,0,PCP-PEV,0,0,1,0,0.66,0,55,Sátão,Viseu,0,132,1.58,,False,164,1.96,12,8350,59.74,Gustavo José Ferreira Cândido,2009
+1186,,4,PPD/PSD,1,1,1,4,46.97,1,3922,Sátão,Viseu,0,132,1.58,,False,164,1.96,12,8350,59.74,Alexandre Manuel Mendonça Vaz,2009
+1187,,3,PS,0,0,1,3,40.36,0,3370,Sátão,Viseu,0,132,1.58,,False,164,1.96,12,8350,59.74,Nuno Miguel Rocha Bártolo,2009
+1188,,0,PCP-PEV,0,0,1,0,1.8,0,87,São João da Pesqueira,Viseu,0,84,1.74,,False,84,1.74,14,4841,60.67,Adriana Maria Pinto A. Vieira da Silva,2009
+1189,,4,PPD/PSD,1,1,1,4,63.64,1,3081,São João da Pesqueira,Viseu,0,84,1.74,,False,84,1.74,14,4841,60.67,José António Fontão Tulha,2009
+1190,,1,PS,0,0,1,1,31.09,0,1505,São João da Pesqueira,Viseu,0,84,1.74,,False,84,1.74,14,4841,60.67,João Manuel Mendes Oliveira,2009
+1191,,0,B.E.,0,0,1,0,8.92,0,1034,São Pedro do Sul,Viseu,0,245,2.11,,False,241,2.08,19,11588,65.33,Manuel Bandeira de Almeida Pinho,2009
+1192,,0,PCP-PEV,0,0,1,0,1.77,0,205,São Pedro do Sul,Viseu,0,245,2.11,,False,241,2.08,19,11588,65.33,Eduardo Paiva Boloto,2009
+1193,,5,PPD/PSD,1,1,1,5,58.56,1,6786,São Pedro do Sul,Viseu,0,245,2.11,,False,241,2.08,19,11588,65.33,António Carlos Ferreira Rodrigues de Figueiredo,2009
+1194,,2,PS,0,0,1,2,26.55,0,3077,São Pedro do Sul,Viseu,0,245,2.11,,False,241,2.08,19,11588,65.33,José Carlos Coelho Ferreira de Almeida,2009
+1195,,0,CDS-PP,0,0,1,0,4.0,0,177,Tabuaço,Viseu,0,38,0.86,,False,52,1.17,17,4430,69.5,José Joaquim Monteiro Ferreira,2009
+1196,,0,PCP-PEV,0,0,1,0,0.45,0,20,Tabuaço,Viseu,0,38,0.86,,False,52,1.17,17,4430,69.5,Angela Maria da Silva Bártolo,2009
+1197,,2,PPD/PSD,0,0,1,2,45.49,0,2015,Tabuaço,Viseu,0,38,0.86,,False,52,1.17,17,4430,69.5,José Carlos Pinto dos Santos,2009
+1198,,3,PS,1,1,1,3,48.04,1,2128,Tabuaço,Viseu,0,38,0.86,,False,52,1.17,17,4430,69.5,João Joaquim Saraiva Ribeiro,2009
+1199,,0,CDS-PP,0,0,1,0,4.57,0,226,Tarouca,Viseu,0,56,1.13,,False,104,2.1,10,4944,61.07,Alcino Soares de Moura,2009
+1200,,0,PCP-PEV,0,0,1,0,1.66,0,82,Tarouca,Viseu,0,56,1.13,,False,104,2.1,10,4944,61.07,Vasco João Guedes Silva Ferreira,2009
+1201,,2,PPD/PSD,0,0,1,2,39.24,0,1940,Tarouca,Viseu,0,56,1.13,,False,104,2.1,10,4944,61.07,Valdemar de Carvalho Pereira,2009
+1202,,3,PS,1,1,1,3,51.29,1,2536,Tarouca,Viseu,0,56,1.13,,False,104,2.1,10,4944,61.07,Mário Caetano Teixeira Ferreira,2009
+1203,,6,PPD/PSD,1,1,1,6,70.15,1,12343,Tondela,Viseu,0,458,2.6,,False,261,1.48,26,17596,59.11,Carlos Manuel Marta Gonçalves,2009
+1204,,1,PS,0,0,1,1,17.97,0,3162,Tondela,Viseu,0,458,2.6,,False,261,1.48,26,17596,59.11,Carlos Alberto Antunes Viegas,2009
+1205,,1,CDS-PP,0,0,1,1,18.3,0,678,Vila Nova de Paiva,Viseu,0,61,1.65,,False,80,2.16,7,3704,55.05,Avantino Loureiro Beleza,2009
+1206,,0,PCP-PEV,0,0,1,0,2.56,0,95,Vila Nova de Paiva,Viseu,0,61,1.65,,False,80,2.16,7,3704,55.05,António Macário Monteiro,2009
+1207,,2,PPD/PSD,0,0,1,2,32.51,0,1204,Vila Nova de Paiva,Viseu,0,61,1.65,,False,80,2.16,7,3704,55.05,Manuel Marques Custódio,2009
+1208,,2,PS,1,0,1,2,42.82,1,1586,Vila Nova de Paiva,Viseu,0,61,1.65,,False,80,2.16,7,3704,55.05,José Morgado Ribeiro,2009
+1209,,0,B.E.,0,0,1,0,2.3,0,1202,Viseu,Viseu,0,763,1.46,,False,585,1.12,34,52291,56.45,Maria da Graça Melo Cabral Marques Pinto,2009
+1210,,0,CDS-PP,0,0,1,0,5.24,0,2740,Viseu,Viseu,0,763,1.46,,False,585,1.12,34,52291,56.45,Francisco André Dinis Reis Mendes da Silva,2009
+1211,,0,PCP-PEV,0,0,1,0,1.53,0,799,Viseu,Viseu,0,763,1.46,,False,585,1.12,34,52291,56.45,Helena Maria Sarabando Neves,2009
+1212,,7,PPD/PSD,1,1,1,7,62.06,1,32450,Viseu,Viseu,0,763,1.46,,False,585,1.12,34,52291,56.45,Fernando de Carvalho Ruas,2009
+1213,,2,PS,0,0,1,2,26.3,0,13752,Viseu,Viseu,0,763,1.46,,False,585,1.12,34,52291,56.45,Miguel Bernardo Ginestal M. Monteiro Albuquerque,2009
+1214,,0,CDS-PP,0,0,1,0,3.8,0,284,Vouzela,Viseu,0,127,1.7,,False,85,1.14,12,7468,70.55,Vasco Branquinho Rodrigues Almeida,2009
+1215,,0,PCP-PEV,0,0,1,0,1.61,0,120,Vouzela,Viseu,0,127,1.7,,False,85,1.14,12,7468,70.55,Francisco Manuel de Almeida,2009
+1216,,4,PPD/PSD,1,1,1,4,51.16,1,3821,Vouzela,Viseu,0,127,1.7,,False,85,1.14,12,7468,70.55,Armindo Telmo Antunes Ferreira,2009
+1217,,3,PS,0,0,1,3,40.59,0,3031,Vouzela,Viseu,0,127,1.7,,False,85,1.14,12,7468,70.55,Viriato António de Araújo Sousa Figueiredo Garcez,2009
+1218,,1,PCP-PEV,0,0,1,1,16.42,0,710,Alandroal,Évora,0,39,0.9,,False,35,0.81,6,4324,78.16,Custódio João da Conceição Costa,2009
+1219,,0,PPD/PSD,0,0,1,0,2.84,0,123,Alandroal,Évora,0,39,0.9,,False,35,0.81,6,4324,78.16,Núria Carla Ramires Cebola Gomes,2009
+1220,,2,PS,0,0,1,2,39.43,0,1705,Alandroal,Évora,0,39,0.9,,False,35,0.81,6,4324,78.16,João José Martins Nabais,2009
+1221,,2,XIV,1,0,1,2,39.59,1,1712,Alandroal,Évora,0,39,0.9,,False,35,0.81,6,4324,78.16,João Maria Aranha Grilo,2009
+1222,,4,PCP-PEV,1,1,1,4,64.04,1,2709,Arraiolos,Évora,0,102,2.41,,False,66,1.56,7,4230,66.3,Jerónimo José Correia dos Lóios,2009
+1223,,0,PPD/PSD.CDS-PP,0,0,1,0,7.45,0,315,Arraiolos,Évora,0,102,2.41,,False,66,1.56,7,4230,66.3,Virgilio José dos Santos Maltez,2009
+1224,,1,PS,0,0,1,1,24.54,0,1038,Arraiolos,Évora,0,102,2.41,,False,66,1.56,7,4230,66.3,Manuel Maria Correia Leitão,2009
+1225,,1,PCP-PEV,0,0,1,1,19.1,0,836,Borba,Évora,0,93,2.13,,False,62,1.42,4,4376,66.19,Joaquim José Serra Silva,2009
+1226,,0,PPD/PSD,0,0,1,0,14.19,0,621,Borba,Évora,0,93,2.13,,False,62,1.42,4,4376,66.19,Ivone da Conceição Balseiro Espiguinha,2009
+1227,,4,PS,1,1,1,4,63.16,1,2764,Borba,Évora,0,93,2.13,,False,62,1.42,4,4376,66.19,Ângelo João Guarda Verdades de Sá,2009
+1228,,0,B.E.,0,0,1,0,1.26,0,113,Estremoz,Évora,0,176,1.97,,False,128,1.43,13,8935,67.37,Luis Mariano Fitas Rodrigues Guimarães,2009
+1229,,0,CDS-PP,0,0,1,0,1.82,0,163,Estremoz,Évora,0,176,1.97,,False,128,1.43,13,8935,67.37,Luis Maria de Brito Tavares Assis e Santos,2009
+1230,,3,II,1,0,1,3,40.03,1,3577,Estremoz,Évora,0,176,1.97,,False,128,1.43,13,8935,67.37,Luis Filipe Pereira Mourinha,2009
+1231,,0,PCP-PEV,0,0,1,0,10.43,0,932,Estremoz,Évora,0,176,1.97,,False,128,1.43,13,8935,67.37,Jorge Manuel de Oliveira Pinto,2009
+1232,,1,PPD/PSD,0,0,1,1,10.96,0,979,Estremoz,Évora,0,176,1.97,,False,128,1.43,13,8935,67.37,António José Borralho Ramalho,2009
+1233,,3,PS,0,0,1,3,32.09,0,2867,Estremoz,Évora,0,176,1.97,,False,128,1.43,13,8935,67.37,José Alberto Leal Fateixa Palmeiro,2009
+1234,,4,PCP-PEV,1,1,1,4,55.03,1,5313,Montemor-o-Novo,Évora,0,210,2.18,,False,109,1.13,10,9654,61.8,Carlos Manuel Rodrigues Pinto de Sá,2009
+1235,,1,PPD/PSD,0,0,1,1,13.35,0,1289,Montemor-o-Novo,Évora,0,210,2.18,,False,109,1.13,10,9654,61.8,Maria de Lurdes Pascoal Reis Vacas de Carvalho,2009
+1236,,2,PS,0,0,1,2,28.31,0,2733,Montemor-o-Novo,Évora,0,210,2.18,,False,109,1.13,10,9654,61.8,Rogério António Pinto,2009
+1237,,1,PS,0,0,1,1,17.18,0,548,Mora,Évora,0,68,2.13,,False,37,1.16,4,3190,62.17,António José Catarro Simões,2009
+1238,,0,PCP-PEV,0,0,1,0,8.87,0,166,Mourão,Évora,0,54,2.88,,False,40,2.14,3,1872,73.3,Pedro Miguel Pires Dias,2009
+1239,,2,PPD/PSD.CDS-PP,0,0,1,2,27.88,0,522,Mourão,Évora,0,54,2.88,,False,40,2.14,3,1872,73.3,Joaquim Maria Dias Gonçalves,2009
+1240,,3,PS,1,1,1,3,48.18,1,902,Mourão,Évora,0,54,2.88,,False,40,2.14,3,1872,73.3,José Manuel Santinha Lopes,2009
+1241,,0,XVIII,0,0,1,0,10.04,0,188,Mourão,Évora,0,54,2.88,,False,40,2.14,3,1872,73.3,Manuel Inácio da Cruz Rosado,2009
+1242,,0,CDS-PP,0,0,1,0,1.04,0,46,Portel,Évora,0,52,1.17,,False,43,0.97,8,4440,73.94,Rui Miguel Pateiro Saias,2009
+1243,,1,PCP-PEV,0,0,1,1,31.24,0,1387,Portel,Évora,0,52,1.17,,False,43,0.97,8,4440,73.94,Manuel Luis Pinto Fonseca,2009
+1244,,4,PS,1,1,1,4,65.59,1,2912,Portel,Évora,0,52,1.17,,False,43,0.97,8,4440,73.94,Norberto António Lopes Patinho,2009
+1245,,4,III,1,1,1,4,53.88,1,2127,Redondo,Évora,0,68,1.72,,False,35,0.89,2,3948,62.17,Alfredo Falamino Barroso,2009
+1246,,0,PCP-PEV,0,0,1,0,9.32,0,368,Redondo,Évora,0,68,1.72,,False,35,0.89,2,3948,62.17,Vitor Manuel Martins Gonçalves Tomás,2009
+1247,,0,PPD/PSD,0,0,1,0,8.92,0,352,Redondo,Évora,0,68,1.72,,False,35,0.89,2,3948,62.17,João Gonçalves Morais Tristão,2009
+1248,,1,PS,0,0,1,1,25.28,0,998,Redondo,Évora,0,68,1.72,,False,35,0.89,2,3948,62.17,José Lopes Cortes Verdasca,2009
+1249,,1,PCP-PEV,0,0,1,1,19.41,0,1059,Reguengos de Monsaraz,Évora,0,116,2.13,,False,49,0.9,5,5456,58.66,Rui Paulo Ramalho Amendoeira,2009
+1250,,0,PPD/PSD.CDS-PP,0,0,1,0,12.9,0,704,Reguengos de Monsaraz,Évora,0,116,2.13,,False,49,0.9,5,5456,58.66,Francisco Filipe Sousa Zambujinho,2009
+1251,,4,PS,1,1,1,4,64.66,1,3528,Reguengos de Monsaraz,Évora,0,116,2.13,,False,49,0.9,5,5456,58.66,José Gabriel Paixão Calixto,2009
+1252,,4,PCP-PEV,1,1,1,4,52.2,1,3144,Vendas Novas,Évora,0,121,2.01,,False,64,1.06,2,6023,57.6,José Maria Rodrigues Figueira,2009
+1253,,1,PPD/PSD,0,0,1,1,14.49,0,873,Vendas Novas,Évora,0,121,2.01,,False,64,1.06,2,6023,57.6,Luis Filipe Campos Braga,2009
+1254,,2,PS,0,0,1,2,30.23,0,1821,Vendas Novas,Évora,0,121,2.01,,False,64,1.06,2,6023,57.6,João Luis Telha da Silva,2009
+1255,,0,B.E.,0,0,1,0,1.47,0,50,Viana do Alentejo,Évora,0,52,1.53,,False,36,1.06,3,3406,68.61,Hernâni José Martins Galvão,2009
+1256,,2,PCP-PEV,0,0,1,2,38.23,0,1302,Viana do Alentejo,Évora,0,52,1.53,,False,36,1.06,3,3406,68.61,Estevão Manuel Machado Pereira,2009
+1257,,0,PPD/PSD,0,0,1,0,5.67,0,193,Viana do Alentejo,Évora,0,52,1.53,,False,36,1.06,3,3406,68.61,Fernando Augusto Sampaio Monteiro de Brito e Silva,2009
+1258,,3,PS,1,1,1,3,52.06,1,1773,Viana do Alentejo,Évora,0,52,1.53,,False,36,1.06,3,3406,68.61,Bernardino António Bengalinha Pinto,2009
+1259,,0,CDS-PP,0,0,1,0,2.12,0,111,Vila Viçosa,Évora,0,65,1.24,,False,62,1.18,5,5246,69.26,João Miguel Letras Mestre,2009
+1260,,2,PCP-PEV,0,0,1,2,39.5,0,2072,Vila Viçosa,Évora,0,65,1.24,,False,62,1.18,5,5246,69.26,Manuel João Fontainhas Condenado,2009
+1261,,0,PPD/PSD,0,0,1,0,9.47,0,497,Vila Viçosa,Évora,0,65,1.24,,False,62,1.18,5,5246,69.26,José Joaquim Palma Rita,2009
+1262,,3,PS,1,1,1,3,46.49,1,2439,Vila Viçosa,Évora,0,65,1.24,,False,62,1.18,5,5246,69.26,Luis Filipe Braguêz Caldeirinha Roma,2009
+1263,,0,B.E.,0,0,1,0,2.83,0,742,Évora,Évora,0,477,1.82,,False,243,0.93,19,26236,54.52,José Miguel de Andrade Sampaio Ferreira,2009
+1264,,0,CDS-PP,0,0,1,0,2.25,0,590,Évora,Évora,0,477,1.82,,False,243,0.93,19,26236,54.52,Luis da Silva Madeira,2009
+1265,,3,PCP-PEV,0,0,1,3,35.02,0,9189,Évora,Évora,0,477,1.82,,False,243,0.93,19,26236,54.52,Eduardo Jorge Pratas Fernades Luciano,2009
+1266,,1,PPD/PSD,0,0,1,1,17.68,0,4638,Évora,Évora,0,477,1.82,,False,243,0.93,19,26236,54.52,António José Costa Romenos Dieb,2009
+1267,,3,PS,1,0,1,3,39.48,1,10357,Évora,Évora,0,477,1.82,,False,243,0.93,19,26236,54.52,José Ernesto Ildefonso Leão d' Oliveira,2009

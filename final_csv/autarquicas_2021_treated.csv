@@ -1,0 +1,1338 @@
+,mandates,party,presidents,votes.absoluteMajority,votes.constituenctyCounter,votes.mandates,votes.percentage,votes.presidents,votes.validVotesPercentage,votes.votes,county,district,availableMandates,blankVotes,blankVotesPercentage,displayMessage,hasNoVoting,nullVotes,nullVotesPercentage,numberParishes,numberVoters,percentageVoters,candidatos,year
+0,0,B.E.,0,0,1,0,1.53,0,1.58,212,Albergaria-a-Velha,Aveiro,0,263,1.9,,False,204,1.47,6,13873,61.23,Américo Bastos Rodrigues da Silva,2021
+1,5,CDS-PP,1,1,1,5,60.61,1,62.72,8408,Albergaria-a-Velha,Aveiro,0,263,1.9,,False,204,1.47,6,13873,61.23,António Augusto Amaral Loureiro e Santos ,2021
+2,0,MPT,0,0,1,0,0.53,0,0.55,74,Albergaria-a-Velha,Aveiro,0,263,1.9,,False,204,1.47,6,13873,61.23,Adérito Ferreira Pinto,2021
+3,0,PCP-PEV,0,0,1,0,1.64,0,1.69,227,Albergaria-a-Velha,Aveiro,0,263,1.9,,False,204,1.47,6,13873,61.23,Adelino Silva Nunes Pereira,2021
+4,2,PPD/PSD,0,0,1,2,26.07,0,26.98,3617,Albergaria-a-Velha,Aveiro,0,263,1.9,,False,204,1.47,6,13873,61.23,José Licínio Tavares Pimenta,2021
+5,0,PS,0,0,1,0,6.26,0,6.47,868,Albergaria-a-Velha,Aveiro,0,263,1.9,,False,204,1.47,6,13873,61.23,António Augusto Brito da Silva,2021
+6,0,CDS-PP,0,0,1,0,4.64,0,4.93,696,Anadia,Aveiro,0,526,3.5,,False,374,2.49,10,15015,55.24,Henrique Spínola Martins Semedo,2021
+7,5,MIAP,1,1,1,5,56.36,1,59.95,8462,Anadia,Aveiro,0,526,3.5,,False,374,2.49,10,15015,55.24,Maria Teresa Belém Correia Cardoso,2021
+8,0,PCP-PEV,0,0,1,0,4.45,0,4.73,668,Anadia,Aveiro,0,526,3.5,,False,374,2.49,10,15015,55.24,Maria de Fátima Gomes Martins da Costa Henriques Flores,2021
+9,2,PPD/PSD,0,0,1,2,28.56,0,30.39,4289,Anadia,Aveiro,0,526,3.5,,False,374,2.49,10,15015,55.24,Litério Augusto Marques,2021
+10,0,NC,0,0,1,0,2.29,0,2.36,341,Arouca,Aveiro,0,220,1.48,,False,200,1.34,16,14891,72.78,Vítor Fernando Gomes Brandão,2021
+11,0,PCP-PEV,0,0,1,0,1.77,0,1.82,263,Arouca,Aveiro,0,220,1.48,,False,200,1.34,16,14891,72.78,Francisco Manuel da Cunha Gonçalves,2021
+12,3,PPD/PSD.CDS-PP,0,0,1,3,36.43,0,37.49,5425,Arouca,Aveiro,0,220,1.48,,False,200,1.34,16,14891,72.78,Fernando Brandão Mendes,2021
+13,0,PPM,0,0,1,0,1.49,0,1.53,222,Arouca,Aveiro,0,220,1.48,,False,200,1.34,16,14891,72.78,José Maria da Costa Gomes,2021
+14,4,PS,1,1,1,4,55.2,1,56.8,8220,Arouca,Aveiro,0,220,1.48,,False,200,1.34,16,14891,72.78,Margarida Maria de Sousa Correia Belém,2021
+15,0,B.E.,0,0,1,0,6.81,0,7.28,2357,Aveiro,Aveiro,0,1447,4.18,,False,753,2.18,10,34597,49.09,Nelson Ricardo Esteves Peralta,2021
+16,0,PAN,0,0,1,0,3.29,0,3.52,1139,Aveiro,Aveiro,0,1447,4.18,,False,753,2.18,10,34597,49.09,Jorge Manuel Dias da Silva Morais,2021
+17,0,PCP-PEV,0,0,1,0,4.04,0,4.32,1398,Aveiro,Aveiro,0,1447,4.18,,False,753,2.18,10,34597,49.09,Miguel Lopes Batista Viegas,2021
+18,6,PPD/PSD.CDS-PP.PPM,1,1,1,6,48.52,1,51.82,16787,Aveiro,Aveiro,0,1447,4.18,,False,753,2.18,10,34597,49.09,José Agostinho Ribau Esteves,2021
+19,3,PS,0,0,1,3,30.97,0,33.08,10716,Aveiro,Aveiro,0,1447,4.18,,False,753,2.18,10,34597,49.09,Manuel Oliveira de Sousa,2021
+20,0,PCP-PEV,0,0,1,0,2.2,0,2.26,231,Castelo de Paiva,Aveiro,0,132,1.25,,False,175,1.66,6,10518,73.5,Manuel Moreira Rodrigues,2021
+21,3,PPD/PSD.CDS-PP,0,0,1,3,38.07,0,39.21,4004,Castelo de Paiva,Aveiro,0,132,1.25,,False,175,1.66,6,10518,73.5,José Duarte de Sousa e Rocha,2021
+22,4,PS,1,1,1,4,56.82,1,58.53,5976,Castelo de Paiva,Aveiro,0,132,1.25,,False,175,1.66,6,10518,73.5,Gonçalo Fernando da Rocha de Jesus,2021
+23,0,B.E.,0,0,1,0,2.43,0,2.55,445,Espinho,Aveiro,0,492,2.68,,False,406,2.21,4,18345,61.36,António do Couto Canastro ,2021
+24,0,CDS-PP,0,0,1,0,2.52,0,2.65,463,Espinho,Aveiro,0,492,2.68,,False,406,2.21,4,18345,61.36,Joana Salomé Ribeiro Soares,2021
+25,0,NC,0,0,1,0,3.28,0,3.44,601,Espinho,Aveiro,0,492,2.68,,False,406,2.21,4,18345,61.36,Delfim Manuel Magalhães Sousa,2021
+26,0,PCP-PEV,0,0,1,0,5.15,0,5.42,945,Espinho,Aveiro,0,492,2.68,,False,406,2.21,4,18345,61.36,Fausto Manuel da Silva Neves,2021
+27,0,PELAMINHAGENTE,0,0,1,0,9.63,0,10.12,1766,Espinho,Aveiro,0,492,2.68,,False,406,2.21,4,18345,61.36,Leonor Cristina da Costa Matos Lêdo da Fonseca ,2021
+28,4,PPD/PSD,1,1,1,4,40.45,1,42.53,7420,Espinho,Aveiro,0,492,2.68,,False,406,2.21,4,18345,61.36,Joaquim José Pinto Moreira,2021
+29,3,PS,0,0,1,3,31.65,0,33.28,5807,Espinho,Aveiro,0,492,2.68,,False,406,2.21,4,18345,61.36,Carlos Nuno Lacerda Lopes,2021
+30,0,PCP-PEV,0,0,1,0,7.49,0,7.87,934,Estarreja,Aveiro,0,319,2.56,,False,280,2.25,5,12467,51.86,Filomena de Jesus Marques Tavares,2021
+31,5,PPD/PSD.CDS-PP,1,1,1,5,58.2,1,61.14,7256,Estarreja,Aveiro,0,319,2.56,,False,280,2.25,5,12467,51.86,Diamantino Manuel Sabina,2021
+32,2,PS,0,0,1,2,29.5,0,30.99,3678,Estarreja,Aveiro,0,319,2.56,,False,280,2.25,5,12467,51.86,Catarina de Ascenção Nascimento Rodrigues,2021
+33,0,B.E.,0,0,1,0,6.66,0,7.09,632,Mealhada,Aveiro,0,398,4.19,,False,171,1.8,6,9488,51.4,Dilan Ribeiro Granjo,2021
+34,0,PCP-PEV,0,0,1,0,6.5,0,6.92,617,Mealhada,Aveiro,0,398,4.19,,False,171,1.8,6,9488,51.4,Maria Isabel Pinto Ferreira Lemos,2021
+35,3,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,3,33.26,0,35.39,3156,Mealhada,Aveiro,0,398,4.19,,False,171,1.8,6,9488,51.4,Hugo André Afonso Alves e Silva,2021
+36,4,PS,1,1,1,4,47.58,1,50.61,4514,Mealhada,Aveiro,0,398,4.19,,False,171,1.8,6,9488,51.4,Rui Manuel Leal Marqueiro,2021
+37,0,CDS-PP,0,0,1,0,5.78,0,6.05,281,Murtosa,Aveiro,0,108,2.22,,False,106,2.18,4,4860,50.03,Pedro Tomás Pereira Marques,2021
+38,0,PCP-PEV,0,0,1,0,1.98,0,2.07,96,Murtosa,Aveiro,0,108,2.22,,False,106,2.18,4,4860,50.03,Jorge Augusto Portela Vieira,2021
+39,4,PPD/PSD,1,1,1,4,72.35,1,75.68,3516,Murtosa,Aveiro,0,108,2.22,,False,106,2.18,4,4860,50.03,Joaquim Manuel dos Santos Baptista,2021
+40,1,PS,0,0,1,1,15.49,0,16.21,753,Murtosa,Aveiro,0,108,2.22,,False,106,2.18,4,4860,50.03,António Jorge Feio Bacelar Vilar,2021
+41,0,19fusc,0,0,1,0,1.39,0,1.47,500,Oliveira de Azeméis,Aveiro,0,1026,2.86,,False,761,2.12,12,35883,59.21,Sérgio Norberto Ferreira Monte,2021
+42,0,B.E.,0,0,1,0,2.37,0,2.5,851,Oliveira de Azeméis,Aveiro,0,1026,2.86,,False,761,2.12,12,35883,59.21,Diogo André Silva Barbosa,2021
+43,0,CDS-PP,0,0,1,0,5.06,0,5.32,1814,Oliveira de Azeméis,Aveiro,0,1026,2.86,,False,761,2.12,12,35883,59.21,António Pinto Moreira,2021
+44,0,PCP-PEV,0,0,1,0,1.55,0,1.63,555,Oliveira de Azeméis,Aveiro,0,1026,2.86,,False,761,2.12,12,35883,59.21,Joana Patricia de Oliveira Alves,2021
+45,4,PPD/PSD,0,0,1,4,34.23,0,36.02,12282,Oliveira de Azeméis,Aveiro,0,1026,2.86,,False,761,2.12,12,35883,59.21,Ricardo Jorge de Pinho Tavares,2021
+46,5,PS,1,1,1,5,50.42,1,53.07,18094,Oliveira de Azeméis,Aveiro,0,1026,2.86,,False,761,2.12,12,35883,59.21,Joaquim Jorge Ferreira,2021
+47,3,CDS-PP,1,0,1,3,41.5,1,44.08,4756,Oliveira do Bairro,Aveiro,0,346,3.02,,False,324,2.83,4,11460,54.56,Duarte dos Santos Almeida Novo,2021
+48,0,PCP-PEV,0,0,1,0,1.96,0,2.09,225,Oliveira do Bairro,Aveiro,0,346,3.02,,False,324,2.83,4,11460,54.56,Fernando Pereira Picanço,2021
+49,3,PPD/PSD,0,0,1,3,32.54,0,34.56,3729,Oliveira do Bairro,Aveiro,0,346,3.02,,False,324,2.83,4,11460,54.56,António Augusto Marques Mota,2021
+50,1,UPOB,0,0,1,1,18.15,0,19.28,2080,Oliveira do Bairro,Aveiro,0,346,3.02,,False,324,2.83,4,11460,54.56,Fernando José Martins da Silva,2021
+51,0,B.E.,0,0,1,0,3.38,0,3.53,939,Ovar,Aveiro,0,673,2.42,,False,555,2.0,5,27814,55.44,Ismael Ribeiro Lisboa Varanda,2021
+52,0,CDS-PP,0,0,1,0,4.35,0,4.55,1210,Ovar,Aveiro,0,673,2.42,,False,555,2.0,5,27814,55.44,Filipe João Marques Gonçalves,2021
+53,0,PCP-PEV,0,0,1,0,4.17,0,4.36,1159,Ovar,Aveiro,0,673,2.42,,False,555,2.0,5,27814,55.44,Carlos Jorge da Costa Azevedo Silva,2021
+54,7,PPD/PSD,1,1,1,7,65.05,1,68.06,18094,Ovar,Aveiro,0,673,2.42,,False,555,2.0,5,27814,55.44,Salvador Malheiro Ferreira da Silva,2021
+55,2,PS,0,0,1,2,18.64,0,19.5,5184,Ovar,Aveiro,0,673,2.42,,False,555,2.0,5,27814,55.44,Vitor Manuel Reis Amaral,2021
+56,0,B.E.,0,0,1,0,4.15,0,4.39,2992,Santa Maria da Feira,Aveiro,0,2241,3.11,,False,1623,2.25,21,72081,57.32,Luís Miguel de Sá,2021
+57,0,CDS-PP,0,0,1,0,4.33,0,4.57,3120,Santa Maria da Feira,Aveiro,0,2241,3.11,,False,1623,2.25,21,72081,57.32,Rui Jorge Ribeiro Tavares,2021
+58,0,PCP-PEV,0,0,1,0,2.71,0,2.86,1954,Santa Maria da Feira,Aveiro,0,2241,3.11,,False,1623,2.25,21,72081,57.32,Antero de Oliveira Resende,2021
+59,0,PNR,0,0,1,0,0.5,0,0.53,362,Santa Maria da Feira,Aveiro,0,2241,3.11,,False,1623,2.25,21,72081,57.32,Anselmo Filipe Brandão Gonçalves de Oliveira,2021
+60,7,PPD/PSD,1,1,1,7,50.48,1,53.33,36383,Santa Maria da Feira,Aveiro,0,2241,3.11,,False,1623,2.25,21,72081,57.32,Emídio Ferreira dos Santos Sousa,2021
+61,4,PS,0,0,1,4,32.47,0,34.31,23406,Santa Maria da Feira,Aveiro,0,2241,3.11,,False,1623,2.25,21,72081,57.32,Margarida Maria Santos Soares da Rocha Gariso ,2021
+62,1,CDS-PP,0,0,1,1,15.7,0,16.34,1194,Sever do Vouga,Aveiro,0,154,2.03,,False,144,1.89,7,7603,68.35,Ricardo Manuel Tavares da Silva ,2021
+63,0,PCP-PEV,0,0,1,0,1.46,0,1.52,111,Sever do Vouga,Aveiro,0,154,2.03,,False,144,1.89,7,7603,68.35,Raul Nogueira Tavares,2021
+64,2,PPD/PSD,0,0,1,2,32.03,0,33.33,2435,Sever do Vouga,Aveiro,0,154,2.03,,False,144,1.89,7,7603,68.35,Paulo César de Bastos Martins,2021
+65,4,PS,1,1,1,4,46.89,1,48.8,3565,Sever do Vouga,Aveiro,0,154,2.03,,False,144,1.89,7,7603,68.35,António José Martins Coutinho,2021
+66,0,B.E.,0,0,1,0,2.41,0,2.52,268,São João da Madeira,Aveiro,0,297,2.67,,False,161,1.45,1,11103,54.99,Fernando de Almeida e Sousa,2021
+67,0,PAN,0,0,1,0,1.84,0,1.92,204,São João da Madeira,Aveiro,0,297,2.67,,False,161,1.45,1,11103,54.99,Andreia Carla Gonçalves Domingos,2021
+68,0,PCP-PEV,0,0,1,0,4.02,0,4.19,446,São João da Madeira,Aveiro,0,297,2.67,,False,161,1.45,1,11103,54.99,Rita Susana Bastos de Oliveira Mendes,2021
+69,2,PPD/PSD.CDS-PP,0,0,1,2,32.23,0,33.62,3579,São João da Madeira,Aveiro,0,297,2.67,,False,161,1.45,1,11103,54.99,Paulo César Lima Cavaleiro,2021
+70,5,PS,1,1,1,5,55.37,1,57.75,6148,São João da Madeira,Aveiro,0,297,2.67,,False,161,1.45,1,11103,54.99,Jorge Manuel Rodrigues Vultos Sequeira,2021
+71,1,CDS-PP,0,0,1,1,17.27,0,18.03,2059,Vagos,Aveiro,0,309,2.59,,False,199,1.67,8,11925,54.38,João Manuel da Cruz Domingues,2021
+72,0,PCP-PEV,0,0,1,0,1.53,0,1.6,183,Vagos,Aveiro,0,309,2.59,,False,199,1.67,8,11925,54.38,Virgilio Rafael Feliciano Monteiro Dias,2021
+73,6,PPD/PSD,1,1,1,6,68.6,1,71.66,8181,Vagos,Aveiro,0,309,2.59,,False,199,1.67,8,11925,54.38,Silvério Rodrigues Regalado,2021
+74,0,PS,0,0,1,0,8.34,0,8.71,994,Vagos,Aveiro,0,309,2.59,,False,199,1.67,8,11925,54.38,Ana Maria Vasconcelos,2021
+75,5,CDS-PP,1,1,1,5,65.4,1,68.24,9207,Vale de Cambra,Aveiro,0,283,2.01,,False,301,2.14,7,14077,65.79,José Alberto Freitas Soares Pinheiro e Silva,2021
+76,0,PCP-PEV,0,0,1,0,1.62,0,1.69,228,Vale de Cambra,Aveiro,0,283,2.01,,False,301,2.14,7,14077,65.79,José Agostinho Gaspar Ferreira,2021
+77,1,PPD/PSD,0,0,1,1,17.49,0,18.25,2462,Vale de Cambra,Aveiro,0,283,2.01,,False,301,2.14,7,14077,65.79,José Pedro Vieira de Almeida,2021
+78,1,PS,0,0,1,1,11.34,0,11.83,1596,Vale de Cambra,Aveiro,0,283,2.01,,False,301,2.14,7,14077,65.79,Nelson da Silva Martins,2021
+79,0,B.E.,0,0,1,0,1.51,0,1.58,376,Águeda,Aveiro,0,601,2.41,,False,445,1.79,11,24909,58.04,Francisco Manuel Duarte Marques Vidal,2021
+80,0,CDS-PP,0,0,1,0,5.34,0,5.57,1330,Águeda,Aveiro,0,601,2.41,,False,445,1.79,11,24909,58.04,António Manuel Fernandes Martins,2021
+81,4,JUNTOS,1,1,1,4,44.1,1,46.03,10985,Águeda,Aveiro,0,601,2.41,,False,445,1.79,11,24909,58.04,Jorge Henrique Fernandes de Almeida,2021
+82,0,PCP-PEV,0,0,1,0,1.53,0,1.6,381,Águeda,Aveiro,0,601,2.41,,False,445,1.79,11,24909,58.04,Francisco Manuel Camossa Abrunhosa Simões,2021
+83,1,PPD/PSD,0,0,1,1,19.42,0,20.27,4837,Águeda,Aveiro,0,601,2.41,,False,445,1.79,11,24909,58.04,Miguel Ângelo Roque dos Santos Bouça,2021
+84,2,PS,0,0,1,2,23.9,0,24.95,5954,Águeda,Aveiro,0,601,2.41,,False,445,1.79,11,24909,58.04,Paulo Alexandre Guerra de Azevedo Seara,2021
+85,3,PS,0,0,1,3,35.17,0,37.44,5531,Ílhavo,Aveiro,0,622,3.95,,False,334,2.12,4,15728,43.74,Eduardo Conde Pinto,2021
+86,0,B.E.,0,0,1,0,2.38,0,2.47,414,Angra do Heroísmo,Açores,0,447,2.57,,False,166,0.96,19,17375,52.46,Paulo José Maio Sousa Mendes,2021
+87,0,CDS-PP,0,0,1,0,7.59,0,7.86,1318,Angra do Heroísmo,Açores,0,447,2.57,,False,166,0.96,19,17375,52.46,Maria da Graça Amaral da Silveira,2021
+88,0,PCP-PEV,0,0,1,0,1.91,0,1.97,331,Angra do Heroísmo,Açores,0,447,2.57,,False,166,0.96,19,17375,52.46,Paulo Filipe Pacheco Santos,2021
+89,2,PPD/PSD,0,0,1,2,30.37,0,31.48,5276,Angra do Heroísmo,Açores,0,447,2.57,,False,166,0.96,19,17375,52.46,Marcos duarte machado do Couto,2021
+90,5,PS,1,1,1,5,54.23,1,56.22,9423,Angra do Heroísmo,Açores,0,447,2.57,,False,166,0.96,19,17375,52.46,José Gabriel do Álamo de Meneses,2021
+91,0,B.E.,0,0,1,0,1.67,0,1.74,39,Calheta,Açores,0,62,2.66,,False,31,1.33,5,2334,63.75,Paulo Rogério Ávila Fontes,2021
+92,4,CCALHETA,1,1,1,4,62.55,1,65.15,1460,Calheta,Açores,0,62,2.66,,False,31,1.33,5,2334,63.75,Décio Natálio Almada Pereira,2021
+93,0,PCP-PEV,0,0,1,0,2.31,0,2.41,54,Calheta,Açores,0,62,2.66,,False,31,1.33,5,2334,63.75,Pedro Francisco Pessanha Ribeiro Amaral,2021
+94,0,PPD/PSD,0,0,1,0,14.1,0,14.68,329,Calheta,Açores,0,62,2.66,,False,31,1.33,5,2334,63.75,Joana Maria Brasil Reis,2021
+95,1,RC,0,0,1,1,15.38,0,16.02,359,Calheta,Açores,0,62,2.66,,False,31,1.33,5,2334,63.75,Victor Manuel Dias Fernandes,2021
+96,4,PS,1,1,1,4,61.89,1,69.2,164,Corvo,Açores,0,24,9.06,,False,4,1.51,1,265,76.15,José Manuel Alves da Silva,2021
+97,0,B.E.,0,0,1,0,1.46,0,1.49,120,Horta,Açores,0,100,1.22,,False,66,0.8,13,8224,63.16,Mario Manuel Castro Moniz,2021
+98,0,PAN,0,0,1,0,1.84,0,1.87,151,Horta,Açores,0,100,1.22,,False,66,0.8,13,8224,63.16,Hugo Filipe Labath Mesquita Rombeiro,2021
+99,0,PCP-PEV,0,0,1,0,4.79,0,4.89,394,Horta,Açores,0,100,1.22,,False,66,0.8,13,8224,63.16,Paula Rocha Peixoto Decq Mota,2021
+100,3,PPD/PSD.CDS-PP,0,0,1,3,42.81,0,43.7,3521,Horta,Açores,0,100,1.22,,False,66,0.8,13,8224,63.16,Carlos Manuel da Silveira Ferreira,2021
+101,4,PS,1,1,1,4,47.08,1,48.05,3872,Horta,Açores,0,100,1.22,,False,66,0.8,13,8224,63.16,José Leonardo Goulart da Silva,2021
+102,0,PCP-PEV,0,0,1,0,2.48,0,2.57,158,Lagoa,Açores,0,130,2.04,,False,105,1.65,5,6376,49.91,Ricardo José Lima Tavares,2021
+103,2,PPD/PSD,0,0,1,2,23.67,0,24.57,1509,Lagoa,Açores,0,130,2.04,,False,105,1.65,5,6376,49.91,Carlos Augusto Borges Rodrigues Furtado,2021
+104,5,PS,1,1,1,5,70.17,1,72.85,4474,Lagoa,Açores,0,130,2.04,,False,105,1.65,5,6376,49.91,Cristina de Fátima Silva Calisto,2021
+105,1,PPD/PSD,0,0,1,1,31.48,0,33.05,311,Lajes das Flores,Açores,0,33,3.34,,False,14,1.42,7,988,74.62,Esmeralda Maria Rodrigues da Silveira Câmara Lourenço,2021
+106,4,PS,1,1,1,4,63.77,1,66.95,630,Lajes das Flores,Açores,0,33,3.34,,False,14,1.42,7,988,74.62,Luís Carlos Martins Maciel,2021
+107,0,PCP-PEV,0,0,1,0,1.23,0,1.26,39,Lajes do Pico,Açores,0,63,1.99,,False,20,0.63,6,3171,70.42,Luis Carlos Cardoso Bettencourt ,2021
+108,3,PS,1,1,1,3,51.06,1,52.43,1619,Lajes do Pico,Açores,0,63,1.99,,False,20,0.63,6,3171,70.42,Roberto Manuel Medeiros da Silva,2021
+109,2,pm,0,0,1,2,45.1,0,46.31,1430,Lajes do Pico,Açores,0,63,1.99,,False,20,0.63,6,3171,70.42,Miguel Ãngelo de Melo Machado,2021
+110,0,PCP-PEV,0,0,1,0,2.05,0,2.12,77,Madalena,Açores,0,89,2.37,,False,34,0.9,6,3761,64.44,Sergio Manuel Goulart Gonçalves,2021
+111,3,PPD/PSD,1,1,1,3,58.44,1,60.42,2198,Madalena,Açores,0,89,2.37,,False,34,0.9,6,3761,64.44,José António Marcos Soares,2021
+112,2,PS,0,0,1,2,36.24,0,37.47,1363,Madalena,Açores,0,89,2.37,,False,34,0.9,6,3761,64.44,Jorge Fernando Rodrigues Pereira,2021
+113,0,PCP-PEV,0,0,1,0,1.25,0,1.27,43,Nordeste,Açores,0,34,0.99,,False,30,0.87,9,3444,70.54,Daniel Valério Oliveira,2021
+114,3,PPD/PSD,1,1,1,3,59.58,1,60.71,2052,Nordeste,Açores,0,34,0.99,,False,30,0.87,9,3444,70.54,Antonio Miguel Borges Soares,2021
+115,2,PS,0,0,1,2,37.31,0,38.02,1285,Nordeste,Açores,0,34,0.99,,False,30,0.87,9,3444,70.54,Carlos Alberto Medeiros Mendonça,2021
+116,0,B.E.,0,0,1,0,2.06,0,2.12,611,Ponta Delgada,Açores,0,468,1.58,,False,371,1.25,24,29607,45.72,Jorge Manuel de Morais Kol de Carvalho,2021
+117,0,CDS-PP.PPM,0,0,1,0,0.95,0,0.97,280,Ponta Delgada,Açores,0,468,1.58,,False,371,1.25,24,29607,45.72,Bruna Vasconcelos Valerio de Almeida,2021
+118,0,L,0,0,1,0,0.92,0,0.95,273,Ponta Delgada,Açores,0,468,1.58,,False,371,1.25,24,29607,45.72,José Manuel Viegas Oliveira Neto Azevedo ,2021
+119,0,PAN,0,0,1,0,1.8,0,1.86,534,Ponta Delgada,Açores,0,468,1.58,,False,371,1.25,24,29607,45.72,Pedro Miguel Vicente Neves,2021
+120,0,PCP-PEV,0,0,1,0,1.05,0,1.08,311,Ponta Delgada,Açores,0,468,1.58,,False,371,1.25,24,29607,45.72,Rui Pedro Santos Teixeira,2021
+121,5,PPD/PSD,1,1,1,5,51.28,1,52.77,15181,Ponta Delgada,Açores,0,468,1.58,,False,371,1.25,24,29607,45.72,José Manuel Cabral Dias Bolieiro,2021
+122,4,PS,0,0,1,4,39.11,0,40.25,11578,Ponta Delgada,Açores,0,468,1.58,,False,371,1.25,24,29607,45.72,Vitor Manuel Angelo de Fraga,2021
+123,0,PCP-PEV,0,0,1,0,2.37,0,2.49,90,Povoação,Açores,0,117,3.08,,False,63,1.66,6,3798,58.67,Vera Mónica Pacheco Correia,2021
+124,1,PPD/PSD,0,0,1,1,15.98,0,16.78,607,Povoação,Açores,0,117,3.08,,False,63,1.66,6,3798,58.67,Adelino de Jesus Mota Pimentel,2021
+125,4,PS,1,1,1,4,76.91,1,80.74,2921,Povoação,Açores,0,117,3.08,,False,63,1.66,6,3798,58.67,Pedro Nuno de Sousa Melo ,2021
+126,0,B.E.,0,0,1,0,2.25,0,2.32,343,Ribeira Grande,Açores,0,187,1.23,,False,234,1.54,14,15227,54.45,Antonio Manuel Raposo Lima,2021
+127,0,PCP-PEV,0,0,1,0,0.88,0,0.91,134,Ribeira Grande,Açores,0,187,1.23,,False,234,1.54,14,15227,54.45,João Manuel Arruda Gomes,2021
+128,5,PPD/PSD,1,1,1,5,66.96,1,68.86,10196,Ribeira Grande,Açores,0,187,1.23,,False,234,1.54,14,15227,54.45,Alexandre Branco Gaudêncio,2021
+129,2,PS,0,0,1,2,27.14,0,27.91,4133,Ribeira Grande,Açores,0,187,1.23,,False,234,1.54,14,15227,54.45,Fernando Moniz Sousa,2021
+130,2,PPD/PSD,0,0,1,2,46.84,0,48.73,1281,Santa Cruz da Graciosa,Açores,0,69,2.52,,False,37,1.35,4,2735,64.07,António Manuel Ramos dos Reis,2021
+131,3,PS,1,1,1,3,49.29,1,51.27,1348,Santa Cruz da Graciosa,Açores,0,69,2.52,,False,37,1.35,4,2735,64.07,Manuel Avelar Cunha Santos,2021
+132,1,PCP-PEV,0,0,1,1,19.85,0,20.44,262,Santa Cruz das Flores,Açores,0,25,1.89,,False,13,0.98,4,1320,70.03,Paulo António de Freitas Valadão,2021
+133,1,PPD/PSD,0,0,1,1,17.8,0,18.33,235,Santa Cruz das Flores,Açores,0,25,1.89,,False,13,0.98,4,1320,70.03,William Resendes Braga,2021
+134,3,PS,1,1,1,3,59.47,1,61.23,785,Santa Cruz das Flores,Açores,0,25,1.89,,False,13,0.98,4,1320,70.03,José Carlos Pimentel Mendes,2021
+135,2,PPD/PSD,0,0,1,2,38.39,0,39.63,858,São Roque do Pico,Açores,0,44,1.97,,False,26,1.16,5,2235,69.17,Francisco Duarte da Silva Bettencourt,2021
+136,3,PS,1,1,1,3,58.48,1,60.37,1307,São Roque do Pico,Açores,0,44,1.97,,False,26,1.16,5,2235,69.17,Mark Anthony Silveira,2021
+137,3,CDS-PP,1,1,1,3,53.62,1,54.94,1778,Velas,Açores,0,29,0.87,,False,51,1.54,6,3316,65.92,Luis Virgílio de Sousa da Silveira,2021
+138,0,PCP-PEV,0,0,1,0,5.46,0,5.59,181,Velas,Açores,0,29,0.87,,False,51,1.54,6,3316,65.92,António José Salgado de Almeida,2021
+139,0,PPD/PSD,0,0,1,0,7.45,0,7.63,247,Velas,Açores,0,29,0.87,,False,51,1.54,6,3316,65.92,André Cláudio Gambão Rodrigues,2021
+140,2,PS,0,0,1,2,31.06,0,31.83,1030,Velas,Açores,0,29,0.87,,False,51,1.54,6,3316,65.92,Paula Maria Bettencourt Sequeira Amarante,2021
+141,0,PCP-PEV,0,0,1,0,2.01,0,2.09,111,Vila Franca do Campo,Açores,0,122,2.2,,False,99,1.79,6,5536,52.6,Valdemiro Jorge Rebelo Borges,2021
+142,3,PPD/PSD,0,0,1,3,39.76,0,41.41,2201,Vila Franca do Campo,Açores,0,122,2.2,,False,99,1.79,6,5536,52.6,Sabrina Marilia Coutinho Furtado,2021
+143,4,PS,1,1,1,4,54.24,1,56.5,3003,Vila Franca do Campo,Açores,0,122,2.2,,False,99,1.79,6,5536,52.6,Ricardo Manuel  de Amaral Rodrigues,2021
+144,5,PS,1,1,1,5,55.65,1,57.6,5346,Vila da Praia da Vitória,Açores,0,216,2.25,,False,108,1.12,11,9606,49.57,Tibério Manuel Faria Dinis,2021
+145,0,B.E.,0,0,1,0,5.76,0,5.9,163,Vila do Porto,Açores,0,38,1.34,,False,28,0.99,5,2829,51.17,Carlos Afonso Simões Braga Oliveira,2021
+146,4,PPD/PSD,1,1,1,4,68.43,1,70.07,1936,Vila do Porto,Açores,0,38,1.34,,False,28,0.99,5,2829,51.17,Carlos Henrique Lopes Rodrigues,2021
+147,1,PS,0,0,1,1,23.47,0,24.03,664,Vila do Porto,Açores,0,38,1.34,,False,28,0.99,5,2829,51.17,João Carlos Chaves Sousa Braga,2021
+148,2,PCP-PEV,0,0,1,2,36.57,0,37.62,2104,Aljustrel,Beja,0,91,1.58,,False,69,1.2,4,5753,68.71,João Carlos Soares Mestre,2021
+149,0,PPD/PSD.CDS-PP,0,0,1,0,1.72,0,1.77,99,Aljustrel,Beja,0,91,1.58,,False,69,1.2,4,5753,68.71,Marta Sofia Ferro Maia,2021
+150,3,PS,1,1,1,3,58.93,1,60.61,3390,Aljustrel,Beja,0,91,1.58,,False,69,1.2,4,5753,68.71,Nelson Domingos Brito,2021
+151,0,B.E.,0,0,1,0,1.65,0,1.7,77,Almodôvar,Beja,0,66,1.41,,False,78,1.67,6,4679,72.52,Ana Cristina Correia Ferreira,2021
+152,0,PCP-PEV,0,0,1,0,2.05,0,2.12,96,Almodôvar,Beja,0,66,1.41,,False,78,1.67,6,4679,72.52,Sérgio Augusto Aleixo Delgado,2021
+153,1,PPD/PSD,0,0,1,1,27.21,0,28.07,1273,Almodôvar,Beja,0,66,1.41,,False,78,1.67,6,4679,72.52,António José Messias do Rosário Sebastião,2021
+154,4,PS,1,1,1,4,66.02,1,68.11,3089,Almodôvar,Beja,0,66,1.41,,False,78,1.67,6,4679,72.52,António Manuel Ascenção Mestre Bota,2021
+155,3,PCP-PEV,1,1,1,3,49.05,1,52.32,642,Alvito,Beja,0,43,3.28,,False,39,2.98,2,1309,68.5,António João Feio Valério,2021
+156,0,PPD/PSD,0,0,1,0,10.92,0,11.65,143,Alvito,Beja,0,43,3.28,,False,39,2.98,2,1309,68.5,Luis Manuel Saragoça Ferro,2021
+157,2,PS,0,0,1,2,31.78,0,33.9,416,Alvito,Beja,0,43,3.28,,False,39,2.98,2,1309,68.5,Fernando Joaquim Galhano Viola,2021
+158,0,CDS-PP.PPD/PSD,0,0,1,0,10.59,0,10.99,117,Barrancos,Beja,0,22,1.99,,False,18,1.63,1,1105,80.89,Dalila de Fátima Martins Guerra,2021
+159,2,PCP-PEV,0,0,1,2,41.18,0,42.72,455,Barrancos,Beja,0,22,1.99,,False,18,1.63,1,1105,80.89,Isabel Catarina Caçador Sabino,2021
+160,3,PS,1,1,1,3,44.62,1,46.29,493,Barrancos,Beja,0,22,1.99,,False,18,1.63,1,1105,80.89,João António Serranito Nunes,2021
+161,0,B.E.,0,0,1,0,3.43,0,3.58,573,Beja,Beja,0,421,2.52,,False,272,1.63,12,16710,56.57,José Pedro Fernandes e Oliveira,2021
+162,0,CDS-PP,0,0,1,0,3.19,0,3.33,533,Beja,Beja,0,421,2.52,,False,272,1.63,12,16710,56.57,Luis Pedro Gomes Cano Dargent,2021
+163,3,PCP-PEV,0,0,1,3,37.61,0,39.23,6284,Beja,Beja,0,421,2.52,,False,272,1.63,12,16710,56.57,João Manuel Rocha da Silva,2021
+164,0,PPD/PSD,0,0,1,0,5.38,0,5.61,899,Beja,Beja,0,421,2.52,,False,272,1.63,12,16710,56.57,José Manuel Pinela Coelho Fernandes,2021
+165,4,PS,1,1,1,4,46.25,1,48.25,7728,Beja,Beja,0,421,2.52,,False,272,1.63,12,16710,56.57,Paulo Jorge Lúcio Arsénio,2021
+166,2,PCP-PEV,0,0,1,2,42.4,0,44.24,1618,Castro Verde,Beja,0,98,2.57,,False,61,1.6,4,3816,60.77,Francisco José Caldeira Duarte,2021
+167,0,PPD/PSD.CDS-PP,0,0,1,0,2.57,0,2.68,98,Castro Verde,Beja,0,98,2.57,,False,61,1.6,4,3816,60.77,Herlânder Miguel Gonçalves Mendeiro de Mira,2021
+168,3,PS,1,1,1,3,50.86,1,53.08,1941,Castro Verde,Beja,0,98,2.57,,False,61,1.6,4,3816,60.77,António José Rosa de Brito,2021
+169,0,CDS-PP.PPD/PSD,0,0,1,0,2.68,0,2.77,80,Cuba,Beja,0,57,1.91,,False,33,1.11,4,2981,78.04,Pedro José Batista Janeiro,2021
+170,3,PCP-PEV,1,1,1,3,51.06,1,52.65,1522,Cuba,Beja,0,57,1.91,,False,33,1.11,4,2981,78.04,João Manuel Casaca Português,2021
+171,2,PS,0,0,1,2,43.24,0,44.59,1289,Cuba,Beja,0,57,1.91,,False,33,1.11,4,2981,78.04,Luis José de Brito Camacho Barriga,2021
+172,1,PCP-PEV,0,0,1,1,20.52,0,21.37,832,Ferreira do Alentejo,Beja,0,90,2.22,,False,71,1.75,4,4054,59.92,Paulo Fernando Marrafas Conde,2021
+173,0,PPD/PSD.CDS-PP,0,0,1,0,7.55,0,7.86,306,Ferreira do Alentejo,Beja,0,90,2.22,,False,71,1.75,4,4054,59.92,José Manuel Capelo Pereira,2021
+174,4,PS,1,1,1,4,67.96,1,70.77,2755,Ferreira do Alentejo,Beja,0,90,2.22,,False,71,1.75,4,4054,59.92,Luis António Pita Ameixa,2021
+175,0,CDS-PP,0,0,1,0,1.2,0,1.24,81,Moura,Beja,0,107,1.59,,False,106,1.58,5,6727,53.19,Inês Margarida Seabra Camacho Rodrigues,2021
+176,3,PCP-PEV,0,0,1,3,39.33,0,40.62,2646,Moura,Beja,0,107,1.59,,False,106,1.58,5,6727,53.19,José Maria Prazeres Pós-de-Mina,2021
+177,0,PPD/PSD,0,0,1,0,7.95,0,8.21,535,Moura,Beja,0,107,1.59,,False,106,1.58,5,6727,53.19,João Francisco Torrado Guerreiro,2021
+178,4,PS,1,1,1,4,48.34,1,49.92,3252,Moura,Beja,0,107,1.59,,False,106,1.58,5,6727,53.19,Álvaro José Pato Azedo Alegria,2021
+179,2,PCP-PEV,0,0,1,2,38.65,0,40.36,1770,Mértola,Beja,0,121,2.64,,False,73,1.59,7,4580,72.77,Orlando Manuel Fonseca Pereira,2021
+180,0,PPD/PSD,0,0,1,0,3.47,0,3.63,159,Mértola,Beja,0,121,2.64,,False,73,1.59,7,4580,72.77,David José Carreiro da Encarnação,2021
+181,3,PS,1,1,1,3,53.65,1,56.02,2457,Mértola,Beja,0,121,2.64,,False,73,1.59,7,4580,72.77,Jorge Paulo Colaço Rosa,2021
+182,0,B.E.,0,0,1,0,5.03,0,5.28,649,Odemira,Beja,0,356,2.76,,False,260,2.01,13,12909,62.63,Ana Maria de Miranda Nazaré Loureiro ,2021
+183,0,CDS-PP,0,0,1,0,2.23,0,2.34,288,Odemira,Beja,0,356,2.76,,False,260,2.01,13,12909,62.63,Mariana Valério Guerreiro Freire de Andrade,2021
+184,2,PCP-PEV,0,0,1,2,23.36,0,24.53,3016,Odemira,Beja,0,356,2.76,,False,260,2.01,13,12909,62.63,Sara Cristina Ramos Marcelino,2021
+185,0,PPD/PSD,0,0,1,0,8.92,0,9.36,1151,Odemira,Beja,0,356,2.76,,False,260,2.01,13,12909,62.63,Luis Pedro Colaço Bernardo Freitas,2021
+186,5,PS,1,1,1,5,55.69,1,58.48,7189,Odemira,Beja,0,356,2.76,,False,260,2.01,13,12909,62.63,José Alberto Candeias Guerreiro,2021
+187,0,PCP-PEV,0,0,1,0,11.88,0,12.38,415,Ourique,Beja,0,74,2.12,,False,67,1.92,4,3492,76.31,José Filipe Nogueira Estevens,2021
+188,1,PPD/PSD,0,0,1,1,21.76,0,22.68,760,Ourique,Beja,0,74,2.12,,False,67,1.92,4,3492,76.31,António Afonso Martins Guerreiro,2021
+189,4,PS,1,1,1,4,62.31,1,64.94,2176,Ourique,Beja,0,74,2.12,,False,67,1.92,4,3492,76.31,Marcelo David Coelho Guerreiro,2021
+190,0,B.E.,0,0,1,0,2.98,0,3.12,214,Serpa,Beja,0,177,2.47,,False,138,1.92,5,7178,54.31,Alberto Manuel Belo da Cunha Matos,2021
+191,4,PCP-PEV,1,1,1,4,49.04,1,51.29,3520,Serpa,Beja,0,177,2.47,,False,138,1.92,5,7178,54.31,Tomé Alexandre Martins Pires,2021
+192,0,PCTP/MRPP,0,0,1,0,3.41,0,3.57,245,Serpa,Beja,0,177,2.47,,False,138,1.92,5,7178,54.31,Joaquim José Ferreira Covas,2021
+193,0,PPD/PSD.CDS-PP,0,0,1,0,7.98,0,8.35,573,Serpa,Beja,0,177,2.47,,False,138,1.92,5,7178,54.31,António Ildefonso Varela Bettencourt,2021
+194,3,PS,0,0,1,3,32.2,0,33.67,2311,Serpa,Beja,0,177,2.47,,False,138,1.92,5,7178,54.31,Manuel Francisco Carvalho Soares,2021
+195,1,MVI,0,0,1,1,16.67,0,17.21,552,Vidigueira,Beja,0,59,1.78,,False,45,1.36,4,3312,68.8,Maria Helena Figueira D' Aguilar,2021
+196,2,PCP-PEV,1,0,1,2,44.66,1,46.1,1479,Vidigueira,Beja,0,59,1.78,,False,45,1.36,4,3312,68.8,Rui Manuel Serrano Raposo,2021
+197,2,PS,0,0,1,2,35.54,0,36.69,1177,Vidigueira,Beja,0,59,1.78,,False,45,1.36,4,3312,68.8,José Miguel Pires D' Almeida,2021
+198,1,MAIS,0,0,1,1,14.58,0,15.2,1701,Amares,Braga,0,284,2.43,,False,192,1.65,16,11670,63.61,Emanuel Augusto da Silva Magalhães,2021
+199,0,PCP-PEV,0,0,1,0,2.2,0,2.3,257,Amares,Braga,0,284,2.43,,False,192,1.65,16,11670,63.61,António Maria Almeida da Costa,2021
+200,5,PPD/PSD.CDS-PP,1,1,1,5,58.65,1,61.15,6845,Amares,Braga,0,284,2.43,,False,192,1.65,16,11670,63.61,Manuel da Rocha Moreira,2021
+201,1,PS,0,0,1,1,20.49,0,21.36,2391,Amares,Braga,0,284,2.43,,False,192,1.65,16,11670,63.61,Pedro Filipe Peixoto da Costa,2021
+202,0,MAS,0,0,1,0,1.23,0,1.27,943,Barcelos,Braga,0,1670,2.17,,False,1092,1.42,61,76928,71.69,Vasco Manuel Torres dos Santos,2021
+203,0,PCP-PEV,0,0,1,0,1.45,0,1.5,1113,Barcelos,Braga,0,1670,2.17,,False,1092,1.42,61,76928,71.69,Mário Jorge Gomes de Figueiredo,2021
+204,4,PPD/PSD.CDS-PP,0,0,1,4,32.81,0,34.03,25241,Barcelos,Braga,0,1670,2.17,,False,1092,1.42,61,76928,71.69,Mário Constantino araujo Leite da Silva Lopes,2021
+205,5,PS,1,0,1,5,41.19,1,42.72,31687,Barcelos,Braga,0,1670,2.17,,False,1092,1.42,61,76928,71.69,Miguel Jorge da Costa Gomes,2021
+206,0,B.E.,0,0,1,0,4.84,0,5.06,4565,Braga,Braga,0,2670,2.83,,False,1464,1.55,37,94308,57.63,Paula Cristina Barata Monteiro da Costa Nogueira,2021
+207,0,NC,0,0,1,0,1.17,0,1.22,1099,Braga,Braga,0,2670,2.83,,False,1464,1.55,37,94308,57.63,Armando Emílio da Costa Caldas,2021
+208,1,PCP-PEV,0,0,1,1,9.61,0,10.06,9067,Braga,Braga,0,2670,2.83,,False,1464,1.55,37,94308,57.63,Alberto Carlos Carvalho de Almeida,2021
+209,7,PPD/PSD.CDS-PP.PPM,1,1,1,7,52.06,1,54.45,49097,Braga,Braga,0,2670,2.83,,False,1464,1.55,37,94308,57.63,Ricardo Bruno Antunes Machado Rio,2021
+210,3,PS,0,0,1,3,27.94,0,29.22,26346,Braga,Braga,0,2670,2.83,,False,1464,1.55,37,94308,57.63,Jorge Miguel de Assis Caldeira Cruz Corais,2021
+211,3,IPC,0,0,1,3,45.64,0,47.04,5153,Cabeceiras de Basto,Braga,0,145,1.28,,False,191,1.69,12,11291,65.76,Jorge Agostinho Borges Machado,2021
+212,0,PCP-PEV,0,0,1,0,1.0,0,1.03,113,Cabeceiras de Basto,Braga,0,145,1.28,,False,191,1.69,12,11291,65.76,Manuel da Silva Nogueira,2021
+213,4,PS,1,1,1,4,50.39,1,51.93,5689,Cabeceiras de Basto,Braga,0,145,1.28,,False,191,1.69,12,11291,65.76,Francisco Luís Teixeira Alves,2021
+214,0,CDS-PP,0,0,1,0,3.22,0,3.33,390,Celorico de Basto,Braga,0,197,1.63,,False,181,1.5,15,12098,64.54,António José de Sousa Cerqueira,2021
+215,2,CIC,0,0,1,2,28.76,0,29.68,3479,Celorico de Basto,Braga,0,197,1.63,,False,181,1.5,15,12098,64.54,Carlos Alberto Gomes Dias Guimarâes,2021
+216,0,PCP-PEV,0,0,1,0,2.55,0,2.63,308,Celorico de Basto,Braga,0,197,1.63,,False,181,1.5,15,12098,64.54,Luís Heitor da Silva Pires Marinho,2021
+217,4,PPD/PSD,1,1,1,4,46.86,1,48.37,5669,Celorico de Basto,Braga,0,197,1.63,,False,181,1.5,15,12098,64.54,Joaquim Monteiro da Mota e Silva,2021
+218,1,PS,0,0,1,1,15.49,0,15.99,1874,Celorico de Basto,Braga,0,197,1.63,,False,181,1.5,15,12098,64.54,Eduardo Fernando de Magalhães,2021
+219,0,CDS-PP,0,0,1,0,3.71,0,3.85,767,Esposende,Braga,0,406,1.96,,False,330,1.6,9,20670,62.11,Artur Jorge da Silva Viana,2021
+220,1,JPNT,0,0,1,1,19.0,0,19.7,3927,Esposende,Braga,0,406,1.96,,False,330,1.6,9,20670,62.11,Fernando João Couto e Cepa,2021
+221,0,PCP-PEV,0,0,1,0,3.54,0,3.67,732,Esposende,Braga,0,406,1.96,,False,330,1.6,9,20670,62.11,Manuel Fernando Morgado Carvoeiro,2021
+222,6,PPD/PSD,1,1,1,6,60.45,1,62.69,12496,Esposende,Braga,0,406,1.96,,False,330,1.6,9,20670,62.11,António Benjamim da Costa Pereira,2021
+223,0,PS,0,0,1,0,9.73,0,10.09,2012,Esposende,Braga,0,406,1.96,,False,330,1.6,9,20670,62.11,Manuel Enes de Abreu,2021
+224,0,B.E.,0,0,1,0,1.7,0,1.77,549,Fafe,Braga,0,619,1.92,,False,554,1.72,25,32270,63.71,Leonel Leite Sousa de Castro,2021
+225,3,FS,0,0,1,3,36.69,0,38.08,11841,Fafe,Braga,0,619,1.92,,False,554,1.72,25,32270,63.71,Antero Silva Oliveira Barbosa Fernandes,2021
+226,0,PCP-PEV,0,0,1,0,2.36,0,2.45,762,Fafe,Braga,0,619,1.92,,False,554,1.72,25,32270,63.71,Alexandre Manuel Martins Triguinho,2021
+227,2,PPD/PSD.CDS-PP,0,0,1,2,18.36,0,19.05,5925,Fafe,Braga,0,619,1.92,,False,554,1.72,25,32270,63.71,Eugénio Fernando de Sá Cerqueira Marinho,2021
+228,4,PS,1,0,1,4,37.25,1,38.65,12020,Fafe,Braga,0,619,1.92,,False,554,1.72,25,32270,63.71,Raul Jorge Fernandes da Cunha,2021
+229,0,B.E.,0,0,1,0,2.41,0,2.49,2320,Guimarães,Braga,0,1876,1.95,,False,963,1.0,48,96147,66.73,Wladimir Augusto Correia Brito,2021
+230,0,PCP-PEV,0,0,1,0,5.2,0,5.36,4997,Guimarães,Braga,0,1876,1.95,,False,963,1.0,48,96147,66.73,José Manuel Torcato Ribeiro,2021
+231,5,PPD/PSD.CDS-PP.MPT.PPM.PPV/DC,0,0,1,5,37.91,0,39.07,36452,Guimarães,Braga,0,1876,1.95,,False,963,1.0,48,96147,66.73,André Guimarães Coelho Lima,2021
+232,6,PS,1,1,1,6,51.52,1,53.09,49539,Guimarães,Braga,0,1876,1.95,,False,963,1.0,48,96147,66.73,Domingos Bragança Salgado,2021
+233,0,MAI,0,0,1,0,10.58,0,10.85,1606,Póvoa de Lanhoso,Braga,0,214,1.41,,False,168,1.11,22,15181,65.76,Lúcio Manuel Mota Pinto da Silva,2021
+234,0,PCP-PEV,0,0,1,0,0.86,0,0.89,131,Póvoa de Lanhoso,Braga,0,214,1.41,,False,168,1.11,22,15181,65.76,António Alberto Machado de Sousa Carneiro,2021
+235,4,PPD/PSD,1,1,1,4,43.52,1,44.64,6607,Póvoa de Lanhoso,Braga,0,214,1.41,,False,168,1.11,22,15181,65.76,Avelino Adriano Gaspar da Silva,2021
+236,3,PS,0,0,1,3,42.52,0,43.62,6455,Póvoa de Lanhoso,Braga,0,214,1.41,,False,168,1.11,22,15181,65.76,Frederico de Oliveira Castro,2021
+237,0,PCP-PEV,0,0,1,0,2.13,0,2.2,108,Terras de Bouro,Braga,0,81,1.6,,False,76,1.5,14,5067,70.05,José João da Costa Guerreiro,2021
+238,2,PPD/PSD,1,0,1,2,35.07,1,36.19,1777,Terras de Bouro,Braga,0,81,1.6,,False,76,1.5,14,5067,70.05,Manuel João Sampaio Tibo,2021
+239,1,PS,0,0,1,1,28.56,0,29.47,1447,Terras de Bouro,Braga,0,81,1.6,,False,76,1.5,14,5067,70.05,Luis António de Sousa Teixeira,2021
+240,2,TBNP,0,0,1,2,31.14,0,32.14,1578,Terras de Bouro,Braga,0,81,1.6,,False,76,1.5,14,5067,70.05,Paulo Alexandre Vieira e Sousa,2021
+241,0,PCP-PEV,0,0,1,0,2.05,0,2.13,191,Vieira do Minho,Braga,0,152,1.63,,False,188,2.02,16,9321,65.96,José Luís Ribeiro Pereira,2021
+242,5,PPD/PSD.CDS-PP,1,1,1,5,62.85,1,65.23,5858,Vieira do Minho,Braga,0,152,1.63,,False,188,2.02,16,9321,65.96,António Cardoso Barbosa,2021
+243,2,PS,0,0,1,2,31.46,0,32.65,2932,Vieira do Minho,Braga,0,152,1.63,,False,188,2.02,16,9321,65.96,Jorge Augusto Mangas Abreu Dantas,2021
+244,0,B.E.,0,0,1,0,2.48,0,2.57,1884,Vila Nova de Famalicão,Braga,0,1659,2.18,,False,934,1.23,34,76005,63.86,José Luís Silva Araújo,2021
+245,0,PCP-PEV,0,0,1,0,2.9,0,3.0,2201,Vila Nova de Famalicão,Braga,0,1659,2.18,,False,934,1.23,34,76005,63.86,Domingos de Sousa Costa,2021
+246,8,PPD/PSD.CDS-PP,1,1,1,8,67.67,1,70.06,51435,Vila Nova de Famalicão,Braga,0,1659,2.18,,False,934,1.23,34,76005,63.86,Paulo Alexandre Matos Cunha,2021
+247,3,PS,0,0,1,3,23.54,0,24.37,17892,Vila Nova de Famalicão,Braga,0,1659,2.18,,False,934,1.23,34,76005,63.86,Nuno André Araujo dos Santos Reis e Sá,2021
+248,3,PS,0,0,1,3,35.52,0,37.13,10358,Vila Verde,Braga,0,796,2.73,,False,465,1.59,33,29159,63.34,José Augusto Marçal Morais,2021
+249,0,B.E.,0,0,1,0,1.6,0,1.65,231,Vizela,Braga,0,247,1.71,,False,245,1.7,5,14454,68.18,Marco Estevão Dias de Almeida,2021
+250,0,PCP-PEV,0,0,1,0,2.02,0,2.09,292,Vizela,Braga,0,247,1.71,,False,245,1.7,5,14454,68.18,António Joaquim Pereira Veiga,2021
+251,2,PPD/PSD.CDS-PP,0,0,1,2,27.18,0,28.14,3929,Vizela,Braga,0,247,1.71,,False,245,1.7,5,14454,68.18,Jorge Alexandre Mendes Pedrosa,2021
+252,2,PS,0,0,1,2,27.01,0,27.96,3904,Vizela,Braga,0,247,1.71,,False,245,1.7,5,14454,68.18,João Ilídio Monteiro da Costa,2021
+253,3,VS - VHS,1,0,1,3,38.79,1,40.15,5606,Vizela,Braga,0,247,1.71,,False,245,1.7,5,14454,68.18,Vitor Hugo Machado da Costa Salgado de Abreu,2021
+254,0,PCP-PEV,0,0,1,0,1.05,0,1.1,41,Alfândega da Fé,Bragança,0,82,2.1,,False,94,2.41,12,3904,69.15,Maria Eugénia Madureira Gouveia,2021
+255,2,PPD/PSD.CDS-PP,0,0,1,2,44.72,0,46.83,1746,Alfândega da Fé,Bragança,0,82,2.1,,False,94,2.41,12,3904,69.15,Victor José Neves Bebiano,2021
+256,3,PS,1,1,1,3,49.72,1,52.07,1941,Alfândega da Fé,Bragança,0,82,2.1,,False,94,2.41,12,3904,69.15,Berta Ferreira Milheiro Nunes,2021
+257,0,B.E.,0,0,1,0,2.72,0,2.86,516,Bragança,Bragança,0,552,2.91,,False,421,2.22,39,19001,52.61,José António Vara Freire,2021
+258,0,CDS-PP,0,0,1,0,4.19,0,4.42,797,Bragança,Bragança,0,552,2.91,,False,421,2.22,39,19001,52.61,Francisco Luís Pires Pinheiro,2021
+259,0,PCP-PEV,0,0,1,0,2.08,0,2.19,395,Bragança,Bragança,0,552,2.91,,False,421,2.22,39,19001,52.61,António Alberto Vaz Pereira Morais,2021
+260,0,PDR,0,0,1,0,1.72,0,1.81,327,Bragança,Bragança,0,552,2.91,,False,421,2.22,39,19001,52.61,Manuel António Gonçalves Vitorino,2021
+261,5,PPD/PSD,1,1,1,5,57.05,1,60.13,10840,Bragança,Bragança,0,552,2.91,,False,421,2.22,39,19001,52.61,Hernâni Dinis Venâncio Dias,2021
+262,2,PS,0,0,1,2,27.12,0,28.58,5153,Bragança,Bragança,0,552,2.91,,False,421,2.22,39,19001,52.61,Carlos Alberto Moreira Alves de Oliveira Guerra,2021
+263,0,PCP-PEV,0,0,1,0,2.71,0,2.84,116,Carrazeda de Ansiães,Bragança,0,74,1.73,,False,122,2.85,14,4275,64.11,Duarte Alberto Barbosa Tavares,2021
+264,3,PPD/PSD,1,1,1,3,48.4,1,50.72,2069,Carrazeda de Ansiães,Bragança,0,74,1.73,,False,122,2.85,14,4275,64.11,João Manuel dos Santos Lopes Gonçalves,2021
+265,2,U.C.,0,0,1,2,44.3,0,46.43,1894,Carrazeda de Ansiães,Bragança,0,74,1.73,,False,122,2.85,14,4275,64.11,Frederico Alfredo Meireles,2021
+266,0,CDS-PP.MPT.PPM,0,0,1,0,10.0,0,10.48,256,Freixo de Espada à Cinta,Bragança,0,44,1.72,,False,73,2.85,4,2559,74.5,Edgar Manuel da Conceição Gata,2021
+267,0,PCP-PEV,0,0,1,0,1.33,0,1.39,34,Freixo de Espada à Cinta,Bragança,0,44,1.72,,False,73,2.85,4,2559,74.5,Nicolau de Jesus Manso,2021
+268,3,PPD/PSD,1,1,1,3,49.28,1,51.64,1261,Freixo de Espada à Cinta,Bragança,0,44,1.72,,False,73,2.85,4,2559,74.5,Maria do Céu Quintas,2021
+269,2,PS,0,0,1,2,34.82,0,36.49,891,Freixo de Espada à Cinta,Bragança,0,44,1.72,,False,73,2.85,4,2559,74.5,Nuno Manuel Rocha Gomes Ferreira,2021
+270,0,B.E.,0,0,1,0,1.11,0,1.15,123,Macedo de Cavaleiros,Bragança,0,235,2.12,,False,199,1.79,30,11107,60.26,Amândio Fernando Angélico Choupina,2021
+271,0,PCP-PEV,0,0,1,0,1.49,0,1.56,166,Macedo de Cavaleiros,Bragança,0,235,2.12,,False,199,1.79,30,11107,60.26,Carlos Manuel Cunha Martins,2021
+272,3,PPD/PSD.CDS-PP,0,0,1,3,44.2,0,45.99,4909,Macedo de Cavaleiros,Bragança,0,235,2.12,,False,199,1.79,30,11107,60.26,Manuel Duarte Fernandes Moreno,2021
+273,4,PS,1,1,1,4,49.29,1,51.3,5475,Macedo de Cavaleiros,Bragança,0,235,2.12,,False,199,1.79,30,11107,60.26,Benjamim do Nascimento Pereira Rodrigues,2021
+274,0,PCP-PEV,0,0,1,0,1.07,0,1.12,57,Miranda do Douro,Bragança,0,93,1.75,,False,131,2.46,13,5326,69.52,Maria da Glória Gonçalves de Jesus,2021
+275,2,PPD/PSD.CDS-PP,0,0,1,2,45.27,0,47.26,2411,Miranda do Douro,Bragança,0,93,1.75,,False,131,2.46,13,5326,69.52,Manuel Rodrigo Martins,2021
+276,3,PS,1,1,1,3,49.46,1,51.63,2634,Miranda do Douro,Bragança,0,93,1.75,,False,131,2.46,13,5326,69.52,Artur Manuel Rodrigues Nunes,2021
+277,0,CDS-PP,0,0,1,0,5.42,0,5.64,781,Mirandela,Bragança,0,272,1.89,,False,303,2.1,30,14413,60.11,Paula Mara Pereira do Nascimento Lopes Garcia,2021
+278,0,PCP-PEV,0,0,1,0,1.88,0,1.96,271,Mirandela,Bragança,0,272,1.89,,False,303,2.1,30,14413,60.11,Maria Eduarda Teixeira Neves Carvalho,2021
+279,3,PPD/PSD,0,0,1,3,41.44,0,43.16,5973,Mirandela,Bragança,0,272,1.89,,False,303,2.1,30,14413,60.11,António José Pires Almor Branco,2021
+280,4,PS,1,1,1,4,47.27,1,49.23,6813,Mirandela,Bragança,0,272,1.89,,False,303,2.1,30,14413,60.11,Júlia Maria de Almeida Lima e Sequeira Rodrigues,2021
+281,0,PCP-PEV,0,0,1,0,0.97,0,1.02,69,Mogadouro,Bragança,0,181,2.54,,False,168,2.36,21,7120,66.41,Amândio Edmundo Carvalho Pereira,2021
+282,3,PPD/PSD.CDS-PP,0,0,1,3,43.03,0,45.25,3064,Mogadouro,Bragança,0,181,2.54,,False,168,2.36,21,7120,66.41,Manuel Ressureição Cordeiro,2021
+283,4,PS,1,1,1,4,51.1,1,53.73,3638,Mogadouro,Bragança,0,181,2.54,,False,168,2.36,21,7120,66.41,Francisco José Mateus Albuquerque Guimarães,2021
+284,0,PCP-PEV,0,0,1,0,1.97,0,2.08,111,Torre de Moncorvo,Bragança,0,159,2.82,,False,135,2.4,13,5634,65.16,Laurinda da Purificação Esteves Amaro,2021
+285,3,PPD/PSD.CDS-PP,1,1,1,3,56.69,1,59.81,3194,Torre de Moncorvo,Bragança,0,159,2.82,,False,135,2.4,13,5634,65.16,Nuno Jorge Rodrigues Gonçalves,2021
+286,2,PS,0,0,1,2,36.12,0,38.11,2035,Torre de Moncorvo,Bragança,0,159,2.82,,False,135,2.4,13,5634,65.16,Maria de Lurdes Mano Pontes,2021
+287,0,B.E.,0,0,1,0,7.71,0,8.02,360,Vila Flor,Bragança,0,97,2.08,,False,84,1.8,14,4667,65.0,Rui Manuel Guerra da Silva Carvalho,2021
+288,0,PCP-PEV,0,0,1,0,1.05,0,1.09,49,Vila Flor,Bragança,0,97,2.08,,False,84,1.8,14,4667,65.0,Rui Manuel Correia Tadeu,2021
+289,2,PPD/PSD.CDS-PP,0,0,1,2,39.77,0,41.37,1856,Vila Flor,Bragança,0,97,2.08,,False,84,1.8,14,4667,65.0,Pedro Miguel Saraiva Lima Cordeiro de Melo,2021
+290,3,PS,1,1,1,3,47.59,1,49.51,2221,Vila Flor,Bragança,0,97,2.08,,False,84,1.8,14,4667,65.0,Fernando Francisco Teixeira de Barros,2021
+291,0,CDS-PP.MPT,0,0,1,0,1.51,0,1.58,54,Vimioso,Bragança,0,70,1.95,,False,88,2.46,10,3583,57.63,Jorge Alberto Tomé Santos,2021
+292,0,PCP-PEV,0,0,1,0,1.48,0,1.55,53,Vimioso,Bragança,0,70,1.95,,False,88,2.46,10,3583,57.63,Altino do Nascimento Silva,2021
+293,3,PPD/PSD,1,1,1,3,57.27,1,59.91,2052,Vimioso,Bragança,0,70,1.95,,False,88,2.46,10,3583,57.63,António Jorge Fidalgo Martins,2021
+294,2,PS,0,0,1,2,35.33,0,36.96,1266,Vimioso,Bragança,0,70,1.95,,False,88,2.46,10,3583,57.63,Jorge dos Santos Rodrigues Fernandes,2021
+295,4,PS,1,1,1,4,48.64,1,50.13,3533,Vinhais,Bragança,0,71,0.98,,False,145,2.0,26,7264,68.3,Luís dos Santos Fernandes,2021
+296,0,CDS-PP,0,0,1,0,1.28,0,1.34,51,Belmonte,Castelo Branco,0,78,1.97,,False,96,2.42,4,3969,62.24,André Manuel Santos Rodrigues Barbosa,2021
+297,0,PCP-PEV,0,0,1,0,6.4,0,6.69,254,Belmonte,Castelo Branco,0,78,1.97,,False,96,2.42,4,3969,62.24,Tiago Morão Pinto Simões da Cunha,2021
+298,2,PPD/PSD.MPT,0,0,1,2,31.24,0,32.67,1240,Belmonte,Castelo Branco,0,78,1.97,,False,96,2.42,4,3969,62.24,Amândio Manuel Ferreira Melo,2021
+299,3,PS,1,1,1,3,56.69,1,59.29,2250,Belmonte,Castelo Branco,0,78,1.97,,False,96,2.42,4,3969,62.24,António Pinto Dias Rocha,2021
+300,0,B.E.,0,0,1,0,4.47,0,4.74,1194,Castelo Branco,Castelo Branco,0,890,3.33,,False,611,2.29,19,26695,53.5,Luis Vicente Barroso,2021
+301,0,CDS-PP,0,0,1,0,3.35,0,3.54,893,Castelo Branco,Castelo Branco,0,890,3.33,,False,611,2.29,19,26695,53.5,José Pedro Rebola Ferreira de Sousa,2021
+302,0,PCP-PEV,0,0,1,0,4.53,0,4.8,1209,Castelo Branco,Castelo Branco,0,890,3.33,,False,611,2.29,19,26695,53.5,Ana Maria dos Ramos Pinto Leitão,2021
+303,2,PPD/PSD,0,0,1,2,23.28,0,24.66,6214,Castelo Branco,Castelo Branco,0,890,3.33,,False,611,2.29,19,26695,53.5,Carlos Barata de Almeida,2021
+304,5,PS,1,1,1,5,58.75,1,62.25,15684,Castelo Branco,Castelo Branco,0,890,3.33,,False,611,2.29,19,26695,53.5,Luis Manuel dos Santos Correia,2021
+305,0,B.E.,0,0,1,0,2.18,0,2.28,630,Covilhã,Castelo Branco,0,755,2.61,,False,571,1.97,21,28955,61.86,João José de Sousa Corono,2021
+306,1,CDS-PP,0,0,1,1,15.1,0,15.82,4371,Covilhã,Castelo Branco,0,755,2.61,,False,571,1.97,21,28955,61.86,Adolfo Miguel Baptista Mesquita Nunes,2021
+307,1,DNCCP,0,0,1,1,18.16,0,19.03,5257,Covilhã,Castelo Branco,0,755,2.61,,False,571,1.97,21,28955,61.86,Carlos Alberto Pinto,2021
+308,0,PCP-PEV,0,0,1,0,6.21,0,6.51,1799,Covilhã,Castelo Branco,0,755,2.61,,False,571,1.97,21,28955,61.86,Mónica Cristina Cerqueira Ramôa,2021
+309,0,PPD/PSD.PPM,0,0,1,0,7.37,0,7.73,2135,Covilhã,Castelo Branco,0,755,2.61,,False,571,1.97,21,28955,61.86,Marco Samuel da Silva Baptista,2021
+310,5,PS,1,1,1,5,46.41,1,48.63,13437,Covilhã,Castelo Branco,0,755,2.61,,False,571,1.97,21,28955,61.86,Vitor Manuel Pinheiro Pereira,2021
+311,0,CDS-PP,0,0,1,0,3.52,0,3.74,568,Fundão,Castelo Branco,0,573,3.55,,False,366,2.27,23,16120,59.45,Aires Lino Almeida Patrício,2021
+312,0,PCP-PEV,0,0,1,0,6.69,0,7.11,1079,Fundão,Castelo Branco,0,573,3.55,,False,366,2.27,23,16120,59.45,Catarina Maria Queirós Monteiro Ventura Gavinhos,2021
+313,5,PPD/PSD,1,1,1,5,55.17,1,58.58,8893,Fundão,Castelo Branco,0,573,3.55,,False,366,2.27,23,16120,59.45,Paulo Alexandre Bernardo Fernandes,2021
+314,2,PS,0,0,1,2,28.79,0,30.57,4641,Fundão,Castelo Branco,0,573,3.55,,False,366,2.27,23,16120,59.45,Joana Morgadinho Bento,2021
+315,0,PCP-PEV,0,0,1,0,7.72,0,8.54,395,Idanha-a-Nova,Castelo Branco,0,300,5.86,,False,189,3.69,13,5117,58.62,João Fazendas,2021
+316,1,PPD/PSD.CDS-PP,0,0,1,1,20.91,0,23.12,1070,Idanha-a-Nova,Castelo Branco,0,300,5.86,,False,189,3.69,13,5117,58.62,António Jorge da Cruz Moreira,2021
+317,4,PS,1,1,1,4,61.81,1,68.34,3163,Idanha-a-Nova,Castelo Branco,0,300,5.86,,False,189,3.69,13,5117,58.62,Armindo Moreira Palma Jacinto,2021
+318,2,NC,0,0,1,2,35.64,0,37.19,1302,Oleiros,Castelo Branco,0,73,2.0,,False,79,2.16,10,3653,72.24,António Jorge Mendes Dias,2021
+319,0,PCP-PEV,0,0,1,0,1.81,0,1.89,66,Oleiros,Castelo Branco,0,73,2.0,,False,79,2.16,10,3653,72.24,Daniel da Silva Fernandes,2021
+320,3,PPD/PSD,1,1,1,3,58.39,1,60.93,2133,Oleiros,Castelo Branco,0,73,2.0,,False,79,2.16,10,3653,72.24,Fernando Marques Jorge,2021
+321,0,CDS-PP,0,0,1,0,1.65,0,1.73,59,Penamacor,Castelo Branco,0,72,2.01,,False,102,2.85,9,3585,74.04,António Tavares Proença,2021
+322,1,IND,0,0,1,1,27.17,0,28.55,974,Penamacor,Castelo Branco,0,72,2.01,,False,102,2.85,9,3585,74.04,Domingos Manuel Bicho Torrão,2021
+323,0,PCP-PEV,0,0,1,0,0.92,0,0.97,33,Penamacor,Castelo Branco,0,72,2.01,,False,102,2.85,9,3585,74.04,Ana Paula Cunha Martins Pinto Pires,2021
+324,4,PS,1,1,1,4,65.41,1,68.75,2345,Penamacor,Castelo Branco,0,72,2.01,,False,102,2.85,9,3585,74.04,António Luis Beites Soares,2021
+325,0,PCP-PEV,0,0,1,0,1.42,0,1.48,71,Proença-a-Nova,Castelo Branco,0,101,2.02,,False,98,1.96,4,4997,67.48,Francisco Ribeiro Delgado,2021
+326,1,PPD/PSD,0,0,1,1,20.31,0,21.15,1015,Proença-a-Nova,Castelo Branco,0,101,2.02,,False,98,1.96,4,4997,67.48,Helena Maria Ribeiro Mendonça Antunes Martins,2021
+327,4,PS,1,1,1,4,74.28,1,77.37,3712,Proença-a-Nova,Castelo Branco,0,101,2.02,,False,98,1.96,4,4997,67.48,João Manuel Ventura Grilo de Melo Lobo,2021
+328,0,CDS-PP,0,0,1,0,2.22,0,2.33,203,Sertã,Castelo Branco,0,205,2.25,,False,217,2.38,10,9124,65.65,Maria João Fernandes da Mota Torres,2021
+329,0,PCP-PEV,0,0,1,0,1.25,0,1.31,114,Sertã,Castelo Branco,0,205,2.25,,False,217,2.38,10,9124,65.65,Ema Pereira Gomes,2021
+330,5,PPD/PSD,1,1,1,5,58.43,1,61.26,5331,Sertã,Castelo Branco,0,205,2.25,,False,217,2.38,10,9124,65.65,José Farinha Nunes,2021
+331,2,PS,0,0,1,2,33.47,0,35.1,3054,Sertã,Castelo Branco,0,205,2.25,,False,217,2.38,10,9124,65.65,José Luis de Moura Martins Jacinto,2021
+332,0,PCP-PEV,0,0,1,0,3.62,0,3.77,78,Vila Velha de Ródão,Castelo Branco,0,47,2.18,,False,41,1.9,4,2156,73.53,António José Ferro Inácio,2021
+333,1,PPD/PSD.CDS-PP,0,0,1,1,23.01,0,23.98,496,Vila Velha de Ródão,Castelo Branco,0,47,2.18,,False,41,1.9,4,2156,73.53,Carlos Manuel Correia Cardoso Martins Faria,2021
+334,4,PS,1,1,1,4,69.29,1,72.24,1494,Vila Velha de Ródão,Castelo Branco,0,47,2.18,,False,41,1.9,4,2156,73.53,Luis Miguel Ferro Pereira,2021
+335,0,CDS-PP,0,0,1,0,3.39,0,3.61,70,Vila de Rei,Castelo Branco,0,42,2.04,,False,79,3.83,3,2062,73.99,Maria Cidália de Jesus Fernandes Manuel,2021
+336,0,PCP-PEV,0,0,1,0,3.06,0,3.25,63,Vila de Rei,Castelo Branco,0,42,2.04,,False,79,3.83,3,2062,73.99,Carlos Manuel Rosa de Almeida,2021
+337,4,PPD/PSD,1,1,1,4,59.7,1,63.42,1231,Vila de Rei,Castelo Branco,0,42,2.04,,False,79,3.83,3,2062,73.99,Ricardo Jorge Martins Aires,2021
+338,1,PS,0,0,1,1,27.98,0,29.73,577,Vila de Rei,Castelo Branco,0,42,2.04,,False,79,3.83,3,2062,73.99,Luís Manuel Martins Ferreira dos Santos,2021
+339,0,PCP-PEV,0,0,1,0,4.27,0,4.49,306,Arganil,Coimbra,0,182,2.54,,False,166,2.32,14,7162,67.15,José Tiago Almeida,2021
+340,4,PPD/PSD,1,1,1,4,47.71,1,50.15,3417,Arganil,Coimbra,0,182,2.54,,False,166,2.32,14,7162,67.15,Luis Paulo Carreira Fonseca da Costa,2021
+341,3,PS,0,0,1,3,43.16,0,45.36,3091,Arganil,Coimbra,0,182,2.54,,False,166,2.32,14,7162,67.15,Rui Miguel da Silva,2021
+342,5,PPD/PSD,1,1,1,5,61.27,1,65.12,11270,Cantanhede,Coimbra,0,703,3.82,,False,383,2.08,14,18393,51.14,Maria Helena Rosa de Teodósio e Cruz Gomes de Oliveira,2021
+343,2,PS,0,0,1,2,26.74,0,28.42,4919,Cantanhede,Coimbra,0,703,3.82,,False,383,2.08,14,18393,51.14,Luís Miguel Santos Silva,2021
+344,0,CpC,0,0,1,0,7.02,0,7.37,4799,Coimbra,Coimbra,0,2087,3.05,,False,1118,1.64,18,68330,53.45,Jorge Filipe de Gouveia Monteiro,2021
+345,0,PAN,0,0,1,0,1.6,0,1.68,1096,Coimbra,Coimbra,0,2087,3.05,,False,1118,1.64,18,68330,53.45,Vitor Emanuel Morgado Marques,2021
+346,1,PCP-PEV,0,0,1,1,8.3,0,8.71,5670,Coimbra,Coimbra,0,2087,3.05,,False,1118,1.64,18,68330,53.45,Francisco José Pina Queirós,2021
+347,0,PNR,0,0,1,0,0.29,0,0.31,201,Coimbra,Coimbra,0,2087,3.05,,False,1118,1.64,18,68330,53.45,Vítor Manuel Duarte Ferreira Ramalho,2021
+348,3,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,3,26.56,0,27.87,18151,Coimbra,Coimbra,0,2087,3.05,,False,1118,1.64,18,68330,53.45,Jaime Adalberto Simões Ramos,2021
+349,5,PS,1,0,1,5,35.46,1,37.21,24232,Coimbra,Coimbra,0,2087,3.05,,False,1118,1.64,18,68330,53.45,Manuel Augusto Soares Machado,2021
+350,2,SC,0,0,1,2,16.06,0,16.85,10976,Coimbra,Coimbra,0,2087,3.05,,False,1118,1.64,18,68330,53.45,José Manuel Monteiro de Carvalho e Silva,2021
+351,0,B.E.,0,0,1,0,8.0,0,8.61,643,Condeixa-a-Nova,Coimbra,0,365,4.54,,False,200,2.49,7,8034,56.41,Gisela Andreia Ferreira Coelho Martins,2021
+352,0,PCP-PEV,0,0,1,0,6.6,0,7.1,530,Condeixa-a-Nova,Coimbra,0,365,4.54,,False,200,2.49,7,8034,56.41,Anabela Batista Cortez Sotaia,2021
+353,2,PPD/PSD,0,0,1,2,21.18,0,22.79,1702,Condeixa-a-Nova,Coimbra,0,365,4.54,,False,200,2.49,7,8034,56.41,Nuno Manuel Mendes Claro,2021
+354,5,PS,1,1,1,5,57.18,1,61.51,4594,Condeixa-a-Nova,Coimbra,0,365,4.54,,False,200,2.49,7,8034,56.41,Nuno Miguel Martins Rondão Moita da Costa,2021
+355,0,B.E.,0,0,1,0,4.34,0,4.63,1230,Figueira da Foz,Coimbra,0,1185,4.18,,False,616,2.17,14,28364,49.9,Rui Miguel Curado da Silva,2021
+356,0,CDS-PP.PPM,0,0,1,0,1.8,0,1.92,511,Figueira da Foz,Coimbra,0,1185,4.18,,False,616,2.17,14,28364,49.9,Miguel Francisco Loureiro de Matos Chaves,2021
+357,0,MPT,0,0,1,0,2.48,0,2.65,703,Figueira da Foz,Coimbra,0,1185,4.18,,False,616,2.17,14,28364,49.9,António Manuel Ponte Durão,2021
+358,0,PCP-PEV,0,0,1,0,6.51,0,6.95,1846,Figueira da Foz,Coimbra,0,1185,4.18,,False,616,2.17,14,28364,49.9,Silvina da Silva Fonseca Anadio de Queiroz,2021
+359,3,PPD/PSD,0,0,1,3,28.47,0,30.4,8074,Figueira da Foz,Coimbra,0,1185,4.18,,False,616,2.17,14,28364,49.9,Carlos Alexandre dos Santos Carreira Tenreiro,2021
+360,6,PS,1,1,1,6,50.06,1,53.45,14199,Figueira da Foz,Coimbra,0,1185,4.18,,False,616,2.17,14,28364,49.9,João Albino Rainho Ataíde das Neves,2021
+361,2,I-Góis,0,0,1,2,30.88,0,31.92,852,Góis,Coimbra,0,39,1.41,,False,51,1.85,4,2759,75.71,José Alberto Domingos Rodrigues,2021
+362,0,PCP-PEV,0,0,1,0,0.69,0,0.71,19,Góis,Coimbra,0,39,1.41,,False,51,1.85,4,2759,75.71,António Flores Tavares,2021
+363,1,PPD/PSD.CDS-PP,0,0,1,1,29.1,0,30.09,803,Góis,Coimbra,0,39,1.41,,False,51,1.85,4,2759,75.71,António Rui de Sousa Godinho Sampaio,2021
+364,2,PS,1,0,1,2,36.06,1,37.28,995,Góis,Coimbra,0,39,1.41,,False,51,1.85,4,2759,75.71,Maria de Lurdes de Oliveira Castanheira,2021
+365,0,B.E.,0,0,1,0,5.18,0,5.48,423,Lousã,Coimbra,0,296,3.62,,False,159,1.95,4,8173,53.55,Maria Clara Mendes Aguilar,2021
+366,0,PCP-PEV,0,0,1,0,3.41,0,3.61,279,Lousã,Coimbra,0,296,3.62,,False,159,1.95,4,8173,53.55,Marina Maria Matos dos Santos Quaresma,2021
+367,1,PPD/PSD,0,0,1,1,19.99,0,21.17,1634,Lousã,Coimbra,0,296,3.62,,False,159,1.95,4,8173,53.55,Joaquim António Maria de Soares Lourenço,2021
+368,6,PS,1,1,1,6,65.85,1,69.73,5382,Lousã,Coimbra,0,296,3.62,,False,159,1.95,4,8173,53.55,Luís Miguel Correia Antunes,2021
+369,0,CDS-PP,0,0,1,0,0.43,0,0.45,32,Mira,Coimbra,0,195,2.62,,False,104,1.4,4,7441,56.47,Fátima Cristina Figueiredo Nogueira Peixoto,2021
+370,0,MAR,0,0,1,0,4.62,0,4.82,344,Mira,Coimbra,0,195,2.62,,False,104,1.4,4,7441,56.47,Rui Miguel dos Santos Terrível,2021
+371,0,PCP-PEV,0,0,1,0,0.7,0,0.73,52,Mira,Coimbra,0,195,2.62,,False,104,1.4,4,7441,56.47,Naara Dehoorne,2021
+372,5,PPD/PSD,1,1,1,5,60.25,1,62.77,4483,Mira,Coimbra,0,195,2.62,,False,104,1.4,4,7441,56.47,Raul José Soares de Almeida,2021
+373,2,PS,0,0,1,2,29.98,0,31.24,2231,Mira,Coimbra,0,195,2.62,,False,104,1.4,4,7441,56.47,Manuel de Jesus Martins,2021
+374,0,B.E.,0,0,1,0,2.68,0,2.77,187,Miranda do Corvo,Coimbra,0,136,1.95,,False,103,1.48,4,6981,62.97,Júlia Maria Ramos Correia,2021
+375,0,PCP-PEV,0,0,1,0,6.59,0,6.82,460,Miranda do Corvo,Coimbra,0,136,1.95,,False,103,1.48,4,6981,62.97,Ana Isabel Carvalho Sequeira Grade,2021
+376,3,PPD/PSD.CDS-PP,0,0,1,3,36.3,0,37.59,2534,Miranda do Corvo,Coimbra,0,136,1.95,,False,103,1.48,4,6981,62.97,Maria de Fátima Simões Ramos do Vale Ferreira,2021
+377,4,PS,1,1,1,4,51.01,1,52.82,3561,Miranda do Corvo,Coimbra,0,136,1.95,,False,103,1.48,4,6981,62.97,António Miguel Costa Batista,2021
+378,0,B.E.,0,0,1,0,1.4,0,1.48,199,Montemor-o-Velho,Coimbra,0,385,2.72,,False,306,2.16,11,14164,63.78,Artur Lemos da Silva,2021
+379,0,PCP-PEV,0,0,1,0,6.71,0,7.06,951,Montemor-o-Velho,Coimbra,0,385,2.72,,False,306,2.16,11,14164,63.78,Jorge Luís Forte Camarneiro,2021
+380,0,PDR,0,0,1,0,3.13,0,3.29,443,Montemor-o-Velho,Coimbra,0,385,2.72,,False,306,2.16,11,14164,63.78,Armando dos Santos Maia,2021
+381,3,PPD/PSD.CDS-PP,0,0,1,3,32.66,0,34.34,4626,Montemor-o-Velho,Coimbra,0,385,2.72,,False,306,2.16,11,14164,63.78,Luis Manuel Barbosa Marques Leal,2021
+382,4,PS,1,1,1,4,51.21,1,53.84,7254,Montemor-o-Velho,Coimbra,0,385,2.72,,False,306,2.16,11,14164,63.78,Emílio Augusto Ferreira Torrão,2021
+383,0,CDS-PP.MPT.PPM,0,0,1,0,6.74,0,7.05,821,Oliveira do Hospital,Coimbra,0,292,2.4,,False,243,2.0,16,12176,66.43,Nuno Miguel Neves Lopes Ferreira Alves,2021
+384,0,PCP-PEV,0,0,1,0,2.16,0,2.26,263,Oliveira do Hospital,Coimbra,0,292,2.4,,False,243,2.0,16,12176,66.43,Luis Martins Almeida,2021
+385,1,PPD/PSD,0,0,1,1,17.72,0,18.53,2157,Oliveira do Hospital,Coimbra,0,292,2.4,,False,243,2.0,16,12176,66.43,João Paulo Pombo de Albuquerque,2021
+386,6,PS,1,1,1,6,68.99,1,72.16,8400,Oliveira do Hospital,Coimbra,0,292,2.4,,False,243,2.0,16,12176,66.43,José Carlos Alexandrino Mendes,2021
+387,0,PCP-PEV,0,0,1,0,3.46,0,3.62,87,Pampilhosa da Serra,Coimbra,0,67,2.66,,False,48,1.91,8,2516,65.78,Helena de Jesus Carvalho Seco,2021
+388,5,PPD/PSD,1,1,1,5,78.58,1,82.34,1977,Pampilhosa da Serra,Coimbra,0,67,2.66,,False,48,1.91,8,2516,65.78,José Alberto Pacheco Brito Dias,2021
+389,0,PS,0,0,1,0,13.39,0,14.04,337,Pampilhosa da Serra,Coimbra,0,67,2.66,,False,48,1.91,8,2516,65.78,Carlos da Costa Dias Ferrão,2021
+390,0,PCP-PEV,0,0,1,0,4.75,0,4.92,407,Penacova,Coimbra,0,156,1.82,,False,129,1.51,8,8565,60.26,Isabel Maria Correia Santos Bem-Haja,2021
+391,3,PPD/PSD,0,0,1,3,35.74,0,36.97,3061,Penacova,Coimbra,0,156,1.82,,False,129,1.51,8,8565,60.26,António Simões da Cunha Santos,2021
+392,4,PS,1,1,1,4,54.75,1,56.63,4689,Penacova,Coimbra,0,156,1.82,,False,129,1.51,8,8565,60.26,Humberto José Batista Oliveira,2021
+393,0,PCP-PEV,0,0,1,0,4.0,0,4.21,128,Penela,Coimbra,0,100,3.12,,False,63,1.97,4,3201,63.55,Maria da Graça Gonçalves Pedrosa de Oliveira,2021
+394,4,PPD/PSD,1,1,1,4,63.39,1,66.79,2029,Penela,Coimbra,0,100,3.12,,False,63,1.97,4,3201,63.55,Luís Filipe da Silva Lourenço Matias,2021
+395,1,PS,0,0,1,1,27.52,0,29.0,881,Penela,Coimbra,0,100,3.12,,False,63,1.97,4,3201,63.55,Mário António dos Santos Carvalho,2021
+396,1,PCP-PEV,0,0,1,1,12.96,0,13.87,1255,Soure,Coimbra,0,376,3.88,,False,254,2.62,10,9681,56.7,Maria Manuela Lucas de Oliveira Santos,2021
+397,1,PPD/PSD.CDS-PP.PPM,0,0,1,1,21.39,0,22.88,2071,Soure,Coimbra,0,376,3.88,,False,254,2.62,10,9681,56.7,Agostinho José Jordão Gonçalves,2021
+398,5,PS,1,1,1,5,59.14,1,63.25,5725,Soure,Coimbra,0,376,3.88,,False,254,2.62,10,9681,56.7,Mário Jorge da Costa Rodrigues Nunes,2021
+399,0,CDS-PP,0,0,1,0,2.22,0,2.31,157,Tábua,Coimbra,0,122,1.72,,False,165,2.33,11,7073,67.51,Maria da Glória Pereira de Almeida Borges Gonçalves,2021
+400,0,PCP-PEV,0,0,1,0,5.37,0,5.6,380,Tábua,Coimbra,0,122,1.72,,False,165,2.33,11,7073,67.51,José Manuel Ferreira Oliveira,2021
+401,3,PPD/PSD,0,0,1,3,34.74,0,36.21,2457,Tábua,Coimbra,0,122,1.72,,False,165,2.33,11,7073,67.51,Fernando Tavares Pereira,2021
+402,4,PS,1,1,1,4,53.61,1,55.88,3792,Tábua,Coimbra,0,122,1.72,,False,165,2.33,11,7073,67.51,Mário de Almeida Loureiro,2021
+403,0,PCP-PEV,0,0,1,0,1.92,0,1.99,72,Vila Nova de Poiares,Coimbra,0,71,1.9,,False,54,1.44,4,3743,59.36,Marina Manuela dos Santos Antunes,2021
+404,1,PPD/PSD,0,0,1,1,26.5,0,27.42,992,Vila Nova de Poiares,Coimbra,0,71,1.9,,False,54,1.44,4,3743,59.36,Nelson Pedro Santos Coelho,2021
+405,4,PS,1,1,1,4,68.23,1,70.59,2554,Vila Nova de Poiares,Coimbra,0,71,1.9,,False,54,1.44,4,3743,59.36,João Miguel Sousa Henriques,2021
+406,0,B.E.,0,0,1,0,5.41,0,5.78,742,Albufeira,Faro,0,418,3.05,,False,459,3.35,4,13710,39.29,Sandra Cristina Ferreira da Costa,2021
+407,0,CDS-PP.MPT.PPM,0,0,1,0,2.65,0,2.84,364,Albufeira,Faro,0,418,3.05,,False,459,3.35,4,13710,39.29,Jorge Paulo Vasques Loureiro,2021
+408,0,PAN,0,0,1,0,3.75,0,4.01,514,Albufeira,Faro,0,418,3.05,,False,459,3.35,4,13710,39.29,Isabel Maria Louzeiro Machadinho,2021
+409,0,PCP-PEV,0,0,1,0,4.73,0,5.05,648,Albufeira,Faro,0,418,3.05,,False,459,3.35,4,13710,39.29,Maria Manuela Rosa Jorge,2021
+410,4,PPD/PSD,1,1,1,4,42.55,1,45.46,5834,Albufeira,Faro,0,418,3.05,,False,459,3.35,4,13710,39.29,Carlos Eduardo da Silva e Sousa,2021
+411,3,PS,0,0,1,3,34.51,0,36.87,4731,Albufeira,Faro,0,418,3.05,,False,459,3.35,4,13710,39.29,Ricardo Jorge Coelho Clemente,2021
+412,0,PCP-PEV,0,0,1,0,4.69,0,4.91,93,Alcoutim,Faro,0,46,2.32,,False,41,2.07,4,1983,77.55,Mário Fernando Nunes,2021
+413,1,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,1,24.81,0,25.95,492,Alcoutim,Faro,0,46,2.32,,False,41,2.07,4,1983,77.55,Jorge Manuel Revez Inácio,2021
+414,4,PS,1,1,1,4,66.11,1,69.15,1311,Alcoutim,Faro,0,46,2.32,,False,41,2.07,4,1983,77.55,Osvaldo dos Santos Gonçalves,2021
+415,1,PCP-PEV,0,0,1,1,18.73,0,19.95,484,Aljezur,Faro,0,103,3.99,,False,55,2.13,4,2584,60.46,Rogério Augusto Serrão de Oliveira Furtado,2021
+416,1,PPD/PSD.CDS-PP.MPT,0,0,1,1,16.52,0,17.6,427,Aljezur,Faro,0,103,3.99,,False,55,2.13,4,2584,60.46,Hélder Manuel da Ponte Cabrita,2021
+417,3,PS,1,1,1,3,58.63,1,62.45,1515,Aljezur,Faro,0,103,3.99,,False,55,2.13,4,2584,60.46,José Manuel Velhinho Amarelinho,2021
+418,1,CM1,0,0,1,1,21.08,0,21.75,826,Castro Marim,Faro,0,57,1.45,,False,65,1.66,4,3919,67.59,José Fernandes Estevens,2021
+419,0,PCP-PEV,0,0,1,0,2.37,0,2.45,93,Castro Marim,Faro,0,57,1.45,,False,65,1.66,4,3919,67.59,Marco Jorge António Corriente Rosa,2021
+420,2,PPD/PSD.CDS-PP,1,0,1,2,37.13,1,38.32,1455,Castro Marim,Faro,0,57,1.45,,False,65,1.66,4,3919,67.59,Francisco Augusto Caimoto Amaral,2021
+421,2,PS,0,0,1,2,36.31,0,37.48,1423,Castro Marim,Faro,0,57,1.45,,False,65,1.66,4,3919,67.59,Célia Paula Palmeiro de Brito,2021
+422,0,B.E.,0,0,1,0,3.06,0,3.17,819,Faro,Faro,0,561,2.1,,False,348,1.3,4,26747,47.32,Maria Eugénia Fernandes da Fonseca Neves Taveira,2021
+423,0,CA,0,0,1,0,1.83,0,1.9,490,Faro,Faro,0,561,2.1,,False,348,1.3,4,26747,47.32,Humberto Raimundo Joaquim Correia,2021
+424,0,PAN,0,0,1,0,2.32,0,2.4,620,Faro,Faro,0,561,2.1,,False,348,1.3,4,26747,47.32,Paulo Sérgio de Jesus Baptista,2021
+425,0,PCP-PEV,0,0,1,0,7.38,0,7.64,1975,Faro,Faro,0,561,2.1,,False,348,1.3,4,26747,47.32,António Manuel Dias Mendonça,2021
+426,5,PPD/PSD.CDS-PP.MPT.PPM,1,1,1,5,43.94,1,45.49,11753,Faro,Faro,0,561,2.1,,False,348,1.3,4,26747,47.32,Rogério Conceição Bacalhau Coelho,2021
+427,4,PS,0,0,1,4,38.06,0,39.4,10181,Faro,Faro,0,561,2.1,,False,348,1.3,4,26747,47.32,António Paulo Jacinto Eusébio,2021
+428,5,PS,1,1,1,5,61.0,1,63.51,5655,Lagoa,Faro,0,213,2.3,,False,153,1.65,4,9270,49.33,Francisco José Malveiro Martins,2021
+429,0,B.E.,0,0,1,0,5.07,0,5.38,554,Lagos,Faro,0,407,3.73,,False,221,2.02,4,10921,44.92,Manuela José Goes Ferreira da Silva,2021
+430,0,PAN,0,0,1,0,3.48,0,3.69,380,Lagos,Faro,0,407,3.73,,False,221,2.02,4,10921,44.92,Margarida Mauricio Correia,2021
+431,0,PCP-PEV,0,0,1,0,7.14,0,7.58,780,Lagos,Faro,0,407,3.73,,False,221,2.02,4,10921,44.92,Ana Paula Pereira Viana,2021
+432,1,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,1,13.67,0,14.51,1493,Lagos,Faro,0,407,3.73,,False,221,2.02,4,10921,44.92,Nuno Filipe Carreiro Ferreira,2021
+433,5,PS,1,1,1,5,52.98,1,56.21,5786,Lagos,Faro,0,407,3.73,,False,221,2.02,4,10921,44.92,Maria Joaquina Baptista Quitans de Matos,2021
+434,1,lcfci,0,0,1,1,11.9,0,12.63,1300,Lagos,Faro,0,407,3.73,,False,221,2.02,4,10921,44.92,Luis Manuel da Silva Barroso,2021
+435,0,B.E.,0,0,1,0,2.84,0,2.97,758,Loulé,Faro,0,712,2.67,,False,460,1.73,9,26666,44.59,Joaquim António Sarmento Guerreiro,2021
+436,0,PCP-PEV,0,0,1,0,2.89,0,3.02,771,Loulé,Faro,0,712,2.67,,False,460,1.73,9,26666,44.59,António José Vairinhos Martins,2021
+437,2,PPD/PSD.CDS-PP.MPT,0,0,1,2,23.97,0,25.07,6392,Loulé,Faro,0,712,2.67,,False,460,1.73,9,26666,44.59,José Manuel Valente Graça,2021
+438,7,PS,1,1,1,7,65.9,1,68.93,17573,Loulé,Faro,0,712,2.67,,False,460,1.73,9,26666,44.59,Vitor Manuel Gonçalves Aleixo,2021
+439,0,CPM,0,0,1,0,11.39,0,11.81,397,Monchique,Faro,0,60,1.72,,False,65,1.86,3,3487,72.05,João Paulo Vairinhos Duarte,2021
+440,0,PCP-PEV,0,0,1,0,4.07,0,4.22,142,Monchique,Faro,0,60,1.72,,False,65,1.86,3,3487,72.05,Ana Filipa de Jesus Veiga,2021
+441,3,PPD/PSD,1,1,1,3,43.5,1,45.12,1517,Monchique,Faro,0,60,1.72,,False,65,1.86,3,3487,72.05,Rui Miguel da Silva André,2021
+442,2,PS,0,0,1,2,37.45,0,38.85,1306,Monchique,Faro,0,60,1.72,,False,65,1.86,3,3487,72.05,Paulo Jorge Duarte Alves,2021
+443,0,B.E.,0,0,1,0,7.95,0,8.31,1312,Olhão,Faro,0,453,2.74,,False,272,1.65,4,16505,43.95,Ivo Manuel Neto Madeira Conceição,2021
+444,0,OCM,0,0,1,0,1.97,0,2.06,325,Olhão,Faro,0,453,2.74,,False,272,1.65,4,16505,43.95,Rui Alberto Costa Santos,2021
+445,0,PCP-PEV,0,0,1,0,7.89,0,8.25,1302,Olhão,Faro,0,453,2.74,,False,272,1.65,4,16505,43.95,Sebastião Manuel da Quinta Coelho,2021
+446,2,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,2,26.05,0,27.24,4299,Olhão,Faro,0,453,2.74,,False,272,1.65,4,16505,43.95,Luciano Neves de Jesus,2021
+447,5,PS,1,1,1,5,51.75,1,54.13,8542,Olhão,Faro,0,453,2.74,,False,272,1.65,4,16505,43.95,António Miguel Ventura Pina,2021
+448,1,B.E.,0,0,1,1,11.66,0,12.37,2327,Portimão,Faro,0,726,3.64,,False,423,2.12,3,19962,41.16,João Manuel Duarte Vasconcelos,2021
+449,2,CDS-PP.PPD/PSD.MPT.PPM,0,0,1,2,24.36,0,25.84,4862,Portimão,Faro,0,726,3.64,,False,423,2.12,3,19962,41.16,José Pedro da Silva Caçorino,2021
+450,0,NC,0,0,1,0,5.89,0,6.25,1175,Portimão,Faro,0,726,3.64,,False,423,2.12,3,19962,41.16,Mário José Ferreira Cintra,2021
+451,0,PCP-PEV,0,0,1,0,7.78,0,8.25,1553,Portimão,Faro,0,726,3.64,,False,423,2.12,3,19962,41.16,Isidro Manuel Ramires Vieira,2021
+452,4,PS,1,1,1,4,44.56,1,47.29,8896,Portimão,Faro,0,726,3.64,,False,423,2.12,3,19962,41.16,Isilda Maria Prazeres dos Santos Varges Gomes,2021
+453,0,B.E.,0,0,1,0,3.18,0,3.38,494,Silves,Faro,0,548,3.53,,False,361,2.32,6,15530,51.39,Rui António Alves Barradas,2021
+454,0,CDS-PP.PPM,0,0,1,0,2.32,0,2.46,360,Silves,Faro,0,548,3.53,,False,361,2.32,6,15530,51.39,Paula Cristina dos Santos Sousa,2021
+455,4,PCP-PEV,1,1,1,4,52.65,1,55.93,8177,Silves,Faro,0,548,3.53,,False,361,2.32,6,15530,51.39,Rosa Cristina Gonçalves da Palma,2021
+456,2,PPD/PSD,0,0,1,2,21.61,0,22.95,3356,Silves,Faro,0,548,3.53,,False,361,2.32,6,15530,51.39,Rogério Santos Pinto,2021
+457,1,PS,0,0,1,1,14.39,0,15.28,2234,Silves,Faro,0,548,3.53,,False,361,2.32,6,15530,51.39,Fátima Maria Semedo Ramos Matos,2021
+458,0,PCP-PEV,0,0,1,0,6.3,0,6.52,328,São Brás de Alportel,Faro,0,112,2.15,,False,68,1.31,1,5207,56.69,Francisco Bettencourt Keil Amaral,2021
+459,1,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,1,28.44,0,29.46,1481,São Brás de Alportel,Faro,0,112,2.15,,False,68,1.31,1,5207,56.69,Bruno Sousa Costa,2021
+460,4,PS,1,1,1,4,61.8,1,64.01,3218,São Brás de Alportel,Faro,0,112,2.15,,False,68,1.31,1,5207,56.69,Vitor Manuel Martins Guerreiro,2021
+461,0,B.E.,0,0,1,0,4.68,0,4.93,559,Tavira,Faro,0,394,3.3,,False,215,1.8,6,11950,53.25,José Manuel Baptista do Carmo,2021
+462,0,CDS-PP,0,0,1,0,2.28,0,2.41,273,Tavira,Faro,0,394,3.3,,False,215,1.8,6,11950,53.25,João Afonso da Cunha Rêgo de carvalho,2021
+463,0,NC,0,0,1,0,3.05,0,3.21,364,Tavira,Faro,0,394,3.3,,False,215,1.8,6,11950,53.25,Carlos Alberto Nunes dos Santos Marcelino,2021
+464,0,PCP-PEV,0,0,1,0,4.54,0,4.78,542,Tavira,Faro,0,394,3.3,,False,215,1.8,6,11950,53.25,Miguel Nuno Duarte Barão da Cunha,2021
+465,2,PPD/PSD,0,0,1,2,22.01,0,23.19,2630,Tavira,Faro,0,394,3.3,,False,215,1.8,6,11950,53.25,Elsa Maria Simas Cordeiro,2021
+466,5,PS,1,1,1,5,58.35,1,61.48,6973,Tavira,Faro,0,394,3.3,,False,215,1.8,6,11950,53.25,Jorge Manuel Nascimento Botelho,2021
+467,0,B.E.,0,0,1,0,2.71,0,2.81,258,Vila Real de Santo António,Faro,0,176,1.85,,False,157,1.65,3,9520,56.02,Maria Celeste Rodrigues dos Santos,2021
+468,1,PCP-PEV,0,0,1,1,18.79,0,19.47,1789,Vila Real de Santo António,Faro,0,176,1.85,,False,157,1.65,3,9520,56.02,Alvaro Filipe Madeira Leal,2021
+469,4,PPD/PSD,1,1,1,4,44.95,1,46.58,4279,Vila Real de Santo António,Faro,0,176,1.85,,False,157,1.65,3,9520,56.02,Maria da Conceição Cipriano Cabrita,2021
+470,2,PS,0,0,1,2,30.05,0,31.14,2861,Vila Real de Santo António,Faro,0,176,1.85,,False,157,1.65,3,9520,56.02,António Maria Farinha Murta,2021
+471,0,B.E.,0,0,1,0,7.26,0,7.59,196,Vila do Bispo,Faro,0,75,2.78,,False,42,1.55,4,2701,65.64,Sebastião Cristóvão Bon de Sousa Pernes,2021
+472,0,PCP-PEV,0,0,1,0,4.78,0,4.99,129,Vila do Bispo,Faro,0,75,2.78,,False,42,1.55,4,2701,65.64,Maria Paula Andrade Santos Vilallonga,2021
+473,1,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,1,23.92,0,25.0,646,Vila do Bispo,Faro,0,75,2.78,,False,42,1.55,4,2701,65.64,Afonso Santos Fernandes Nascimento,2021
+474,4,PS,1,1,1,4,54.94,1,57.43,1484,Vila do Bispo,Faro,0,75,2.78,,False,42,1.55,4,2701,65.64,Adelino Augusto da Rocha Soares,2021
+475,0,vbtf,0,0,1,0,4.78,0,4.99,129,Vila do Bispo,Faro,0,75,2.78,,False,42,1.55,4,2701,65.64,Fernando Manuel Cortes,2021
+476,0,PCP-PEV,0,0,1,0,0.7,0,0.72,29,Aguiar da Beira,Guarda,0,77,1.85,,False,76,1.82,10,4169,64.54,Cristiana Nunes Rodrigues,2021
+477,2,PPD/PSD,0,0,1,2,43.75,0,45.42,1824,Aguiar da Beira,Guarda,0,77,1.85,,False,76,1.82,10,4169,64.54,Fernando Augusto Costa Pires,2021
+478,3,UPNT,1,1,1,3,49.92,1,51.82,2081,Aguiar da Beira,Guarda,0,77,1.85,,False,76,1.82,10,4169,64.54,Joaquim António Marques Bonifácio,2021
+479,0,PCP-PEV,0,0,1,0,5.42,0,5.71,263,Almeida,Guarda,0,119,2.45,,False,126,2.6,16,4849,66.15,Aristides Valente de Sampaio Rodrigues,2021
+480,4,PPD/PSD,1,1,1,4,53.8,1,56.67,2609,Almeida,Guarda,0,119,2.45,,False,126,2.6,16,4849,66.15,António José Monteiro Machado,2021
+481,1,PS,0,0,1,1,24.62,0,25.93,1194,Almeida,Guarda,0,119,2.45,,False,126,2.6,16,4849,66.15,Joaquim dos Santos Fernandes,2021
+482,0,oi,0,0,1,0,11.1,0,11.69,538,Almeida,Guarda,0,119,2.45,,False,126,2.6,16,4849,66.15,António José Lourenço Correia Saraiva,2021
+483,0,CDS-PP.MPT.PPM,0,0,1,0,1.65,0,1.73,89,Celorico da Beira,Guarda,0,100,1.85,,False,145,2.68,16,5401,65.23,José Rodrigues Seco,2021
+484,1,IPNT,0,0,1,1,16.11,0,16.87,870,Celorico da Beira,Guarda,0,100,1.85,,False,145,2.68,16,5401,65.23,Júlio Manuel dos Santos,2021
+485,0,PCP-PEV,0,0,1,0,0.7,0,0.74,38,Celorico da Beira,Guarda,0,100,1.85,,False,145,2.68,16,5401,65.23,Maria Eduarda Jesus Marques Rebelo,2021
+486,2,PPD/PSD,1,0,1,2,40.7,1,42.63,2198,Celorico da Beira,Guarda,0,100,1.85,,False,145,2.68,16,5401,65.23,Carlos manuel da Fonseca Ascensão,2021
+487,2,PS,0,0,1,2,36.31,0,38.03,1961,Celorico da Beira,Guarda,0,100,1.85,,False,145,2.68,16,5401,65.23,José Albano Pereira Marques,2021
+488,0,CDS-PP,0,0,1,0,1.01,0,1.05,43,Figueira de Castelo Rodrigo,Guarda,0,59,1.39,,False,97,2.29,10,4243,74.24,Fernando José Correia Rua,2021
+489,0,PCP-PEV,0,0,1,0,0.64,0,0.66,27,Figueira de Castelo Rodrigo,Guarda,0,59,1.39,,False,97,2.29,10,4243,74.24,Maria Delfina Bazaréu Monteiro,2021
+490,2,PPD/PSD,0,0,1,2,41.79,0,43.38,1773,Figueira de Castelo Rodrigo,Guarda,0,59,1.39,,False,97,2.29,10,4243,74.24,Carlos Manuel Martins Condesso,2021
+491,3,PS,1,1,1,3,52.89,1,54.91,2244,Figueira de Castelo Rodrigo,Guarda,0,59,1.39,,False,97,2.29,10,4243,74.24,Paulo José Gomes Langrouva,2021
+492,0,CDS-PP,0,0,1,0,6.6,0,6.81,233,Fornos de Algodres,Guarda,0,56,1.59,,False,52,1.47,12,3529,70.93,Cristina Maria Campos Guerra,2021
+493,0,PCP-PEV,0,0,1,0,1.28,0,1.32,45,Fornos de Algodres,Guarda,0,56,1.59,,False,52,1.47,12,3529,70.93,Joaquim Alberto Cardoso Dias de Almeida,2021
+494,1,PPD/PSD,0,0,1,1,28.82,0,29.73,1017,Fornos de Algodres,Guarda,0,56,1.59,,False,52,1.47,12,3529,70.93,Maria Joaquina Santos Fernandes Domingues,2021
+495,4,PS,1,1,1,4,60.24,1,62.15,2126,Fornos de Algodres,Guarda,0,56,1.59,,False,52,1.47,12,3529,70.93,António Manuel Pina Fonseca,2021
+496,0,CDS-PP,0,0,1,0,5.29,0,5.63,407,Gouveia,Guarda,0,269,3.49,,False,200,2.6,16,7697,55.47,Eduardo Manuel Pinto Bernardo,2021
+497,0,PCP-PEV,0,0,1,0,3.18,0,3.39,245,Gouveia,Guarda,0,269,3.49,,False,200,2.6,16,7697,55.47,Jorge Manuel Sario de Matos,2021
+498,5,PPD/PSD,1,1,1,5,53.79,1,57.28,4140,Gouveia,Guarda,0,269,3.49,,False,200,2.6,16,7697,55.47,Luís Manuel Tadeu Marques,2021
+499,2,PS,0,0,1,2,31.65,0,33.7,2436,Gouveia,Guarda,0,269,3.49,,False,200,2.6,16,7697,55.47,João Paulo Mendes Agra,2021
+500,0,B.E.,0,0,1,0,3.04,0,3.19,718,Guarda,Guarda,0,563,2.38,,False,552,2.33,43,23652,60.86,Jorge Manuel Monteiro Mendes,2021
+501,0,CDS-PP.MPT.PPM,0,0,1,0,5.59,0,5.86,1321,Guarda,Guarda,0,563,2.38,,False,552,2.33,43,23652,60.86,Carlos Manuel Lourenço Adaixo,2021
+502,0,PCP-PEV,0,0,1,0,2.11,0,2.21,499,Guarda,Guarda,0,563,2.38,,False,552,2.33,43,23652,60.86,Carlos Jorge Canhoto Matos de Almeida,2021
+503,5,PPD/PSD,1,1,1,5,61.2,1,64.23,14476,Guarda,Guarda,0,563,2.38,,False,552,2.33,43,23652,60.86,Álvaro dos Santos Amaro,2021
+504,2,PS,0,0,1,2,23.35,0,24.51,5523,Guarda,Guarda,0,563,2.38,,False,552,2.33,43,23652,60.86,Eduardo Mendes de Brito,2021
+505,0,CDS-PP,0,0,1,0,0.68,0,0.71,16,Manteigas,Guarda,0,26,1.11,,False,66,2.82,4,2337,68.03,Pedro Melo Pinheiro Amaral Silva,2021
+506,0,PCP-PEV,0,0,1,0,3.08,0,3.21,72,Manteigas,Guarda,0,26,1.11,,False,66,2.82,4,2337,68.03,Manuel Abrantes Craveiro Aldeia,2021
+507,2,PPD/PSD,0,0,1,2,35.82,0,37.28,837,Manteigas,Guarda,0,26,1.11,,False,66,2.82,4,2337,68.03,José Manuel Custódia Biscaia,2021
+508,2,PS,1,0,1,2,39.75,1,41.38,929,Manteigas,Guarda,0,26,1.11,,False,66,2.82,4,2337,68.03,Esmeraldo Saraiva Neto Carvalhinho,2021
+509,1,UMM,0,0,1,1,16.73,0,17.42,391,Manteigas,Guarda,0,26,1.11,,False,66,2.82,4,2337,68.03,Francisco José Botão de Elvas,2021
+510,2,CDS-PP,0,0,1,2,27.83,0,29.08,1018,Meda,Guarda,0,55,1.5,,False,102,2.79,11,3658,65.96,António César Valente Figueiredo,2021
+511,0,PCP-PEV,0,0,1,0,0.85,0,0.89,31,Meda,Guarda,0,55,1.5,,False,102,2.79,11,3658,65.96,Manuel António Pinto André,2021
+512,1,PPD/PSD,0,0,1,1,26.95,0,28.16,986,Meda,Guarda,0,55,1.5,,False,102,2.79,11,3658,65.96,Aires Jorge Abreu Sampaio e Mello do Amaral,2021
+513,2,PS,1,0,1,2,40.08,1,41.87,1466,Meda,Guarda,0,55,1.5,,False,102,2.79,11,3658,65.96,Anselmo Antunes de Sousa,2021
+514,0,CDS-PP.NC.PPM,0,0,1,0,1.25,0,1.33,73,Pinhel,Guarda,0,197,3.38,,False,153,2.62,18,5834,60.36,Lino José dos Santos,2021
+515,0,PCP-PEV,0,0,1,0,1.39,0,1.48,81,Pinhel,Guarda,0,197,3.38,,False,153,2.62,18,5834,60.36,Joaquim Luís Ferreira,2021
+516,4,PPD/PSD,1,1,1,4,64.24,1,68.34,3748,Pinhel,Guarda,0,197,3.38,,False,153,2.62,18,5834,60.36,Rui Manuel Saraiva Ventura,2021
+517,1,PS,0,0,1,1,27.12,0,28.85,1582,Pinhel,Guarda,0,197,3.38,,False,153,2.62,18,5834,60.36,Esperança Nunes Fernandes Sequeira Valongo,2021
+518,0,CDS-PP.MPT,0,0,1,0,3.29,0,3.47,267,Sabugal,Guarda,0,247,3.04,,False,175,2.16,30,8119,57.66,Alfredo João Fernandes Nobre,2021
+519,0,PCP-PEV,0,0,1,0,1.9,0,2.0,154,Sabugal,Guarda,0,247,3.04,,False,175,2.16,30,8119,57.66,Flávio Sanches da Silva,2021
+520,4,PPD/PSD,1,1,1,4,51.47,1,54.29,4179,Sabugal,Guarda,0,247,3.04,,False,175,2.16,30,8119,57.66,António dos Santos Robalo,2021
+521,3,PS,0,0,1,3,38.15,0,40.24,3097,Sabugal,Guarda,0,247,3.04,,False,175,2.16,30,8119,57.66,António Bernardo Morgado Gomes Dionísio,2021
+522,1,PPD/PSD,0,0,1,1,17.23,0,18.53,2380,Seia,Guarda,0,548,3.97,,False,425,3.08,21,13816,59.94,Fabíola Maria de Almeida Figueiredo,2021
+523,5,PS,1,1,1,5,52.35,1,56.31,7232,Seia,Guarda,0,548,3.97,,False,425,3.08,21,13816,59.94,Carlos Filipe Camelo Miranda de Figueiredo,2021
+524,0,CDS-PP,0,0,1,0,5.16,0,5.43,317,Trancoso,Guarda,0,140,2.28,,False,165,2.69,21,6139,63.2,António Manuel Gomes do Nascimento,2021
+525,0,PCP-PEV,0,0,1,0,2.46,0,2.59,151,Trancoso,Guarda,0,140,2.28,,False,165,2.69,21,6139,63.2,Tiago Filipe Fonseca batista Gil,2021
+526,2,PPD/PSD,0,0,1,2,31.19,0,32.82,1915,Trancoso,Guarda,0,140,2.28,,False,165,2.69,21,6139,63.2,João António Figueiredo Rodrigues,2021
+527,3,PS,1,1,1,3,56.21,1,59.15,3451,Trancoso,Guarda,0,140,2.28,,False,165,2.69,21,6139,63.2,Amílcar José Nunes Salvador,2021
+528,0,CDS-PP.NC.PPM,0,0,1,0,11.86,0,12.38,588,Vila Nova de Foz Côa,Guarda,0,87,1.76,,False,121,2.44,14,4956,63.19,Artur José André Xavier,2021
+529,0,L,0,0,1,0,3.45,0,3.6,171,Vila Nova de Foz Côa,Guarda,0,87,1.76,,False,121,2.44,14,4956,63.19,José António Maurício Lebreiro,2021
+530,0,PCP-PEV,0,0,1,0,1.01,0,1.05,50,Vila Nova de Foz Côa,Guarda,0,87,1.76,,False,121,2.44,14,4956,63.19,André Pinto da Silva Conceição Santos,2021
+531,3,PPD/PSD,1,1,1,3,50.46,1,52.67,2501,Vila Nova de Foz Côa,Guarda,0,87,1.76,,False,121,2.44,14,4956,63.19,Gustavo de Sousa Duarte,2021
+532,2,PS,0,0,1,2,29.02,0,30.29,1438,Vila Nova de Foz Côa,Guarda,0,87,1.76,,False,121,2.44,14,4956,63.19,Jorge Manuel Pais Marçal Liça,2021
+533,0,B.E.,0,0,1,0,2.96,0,3.21,805,Alcobaça,Leiria,0,1153,4.24,,False,967,3.56,13,27184,55.6,António Rebelo Delgado Tomás,2021
+534,1,CDS-PP,0,0,1,1,15.25,0,16.54,4145,Alcobaça,Leiria,0,1153,4.24,,False,967,3.56,13,27184,55.6,Carlos Manuel Bonifácio,2021
+535,0,PCP-PEV,0,0,1,0,7.64,0,8.28,2076,Alcobaça,Leiria,0,1153,4.24,,False,967,3.56,13,27184,55.6,Rogério Manuel Madeira Raimundo,2021
+536,0,PDR,0,0,1,0,0.79,0,0.86,216,Alcobaça,Leiria,0,1153,4.24,,False,967,3.56,13,27184,55.6,Paula Lucia da Silva Baptista Abrantes,2021
+537,4,PPD/PSD,1,1,1,4,43.98,1,47.7,11956,Alcobaça,Leiria,0,1153,4.24,,False,967,3.56,13,27184,55.6,Paulo Jorge Marques Inácio,2021
+538,2,PS,0,0,1,2,21.58,0,23.4,5866,Alcobaça,Leiria,0,1153,4.24,,False,967,3.56,13,27184,55.6,Cláudia Sofia Paris Vicente,2021
+539,0,CDS-PP,0,0,1,0,12.43,0,12.91,519,Alvaiázere,Leiria,0,74,1.77,,False,81,1.94,5,4174,65.32,Nelson Paulino da Silva,2021
+540,0,PCP-PEV,0,0,1,0,1.03,0,1.07,43,Alvaiázere,Leiria,0,74,1.77,,False,81,1.94,5,4174,65.32,Tânia Margarida Pereira Gabriel,2021
+541,3,PPD/PSD,1,1,1,3,50.41,1,52.35,2104,Alvaiázere,Leiria,0,74,1.77,,False,81,1.94,5,4174,65.32,Célia Margarida Gomes Marques,2021
+542,2,PS,0,0,1,2,32.41,0,33.67,1353,Alvaiázere,Leiria,0,74,1.77,,False,81,1.94,5,4174,65.32,Carlos José Dinis Simões,2021
+543,0,CDS-PP,0,0,1,0,2.77,0,2.92,205,Ansião,Leiria,0,220,2.97,,False,150,2.03,6,7398,63.39,Gonçalo Filipe do Carmo Cunha Alves,2021
+544,0,PCP-PEV,0,0,1,0,2.53,0,2.66,187,Ansião,Leiria,0,220,2.97,,False,150,2.03,6,7398,63.39,Paulo Jorge Neves Silva,2021
+545,3,PPD/PSD,0,0,1,3,40.02,0,42.13,2961,Ansião,Leiria,0,220,2.97,,False,150,2.03,6,7398,63.39,Fernando Ribeiro Marques,2021
+546,4,PS,1,1,1,4,49.68,1,52.29,3675,Ansião,Leiria,0,220,2.97,,False,150,2.03,6,7398,63.39,António José Vicente Domingues,2021
+547,1,CDS-PP,0,0,1,1,11.99,0,13.41,968,Batalha,Leiria,0,532,6.59,,False,320,3.96,4,8073,57.04,Horácio Moita Francisco,2021
+548,0,PCP-PEV,0,0,1,0,3.64,0,4.07,294,Batalha,Leiria,0,532,6.59,,False,320,3.96,4,8073,57.04,José Joaquim Filipe Valentim,2021
+549,5,PPD/PSD,1,1,1,5,53.8,1,60.14,4343,Batalha,Leiria,0,532,6.59,,False,320,3.96,4,8073,57.04,Paulo Jorge Frazão Batista dos Santos,2021
+550,1,PS,0,0,1,1,20.02,0,22.38,1616,Batalha,Leiria,0,532,6.59,,False,320,3.96,4,8073,57.04,Carlos Emanuel Oliveira Repolho,2021
+551,0,MPT,0,0,1,0,1.37,0,1.43,87,Bombarral,Leiria,0,146,2.3,,False,145,2.28,4,6361,56.78,Luis Filipe Godinho Montez,2021
+552,0,PCP-PEV,0,0,1,0,7.88,0,8.25,501,Bombarral,Leiria,0,146,2.3,,False,145,2.28,4,6361,56.78,Maria de Los Angeles Vinuesa Peña de Oliveira,2021
+553,3,PPD/PSD.CDS-PP,0,0,1,3,37.24,0,39.03,2369,Bombarral,Leiria,0,146,2.3,,False,145,2.28,4,6361,56.78,José Manuel Gonçalves Vieira,2021
+554,4,PS,1,1,1,4,48.94,1,51.29,3113,Bombarral,Leiria,0,146,2.3,,False,145,2.28,4,6361,56.78,Ricardo Manuel da Silva Fernandes,2021
+555,0,B.E.,0,0,1,0,5.5,0,5.83,1201,Caldas da Rainha,Leiria,0,804,3.68,,False,417,1.91,12,21837,47.83,Lino Fernando Domingos Romão,2021
+556,0,CDS-PP,0,0,1,0,8.28,0,8.77,1809,Caldas da Rainha,Leiria,0,804,3.68,,False,417,1.91,12,21837,47.83,Rui Filipe Nobre Gonçalves,2021
+557,0,PCP-PEV,0,0,1,0,4.24,0,4.49,925,Caldas da Rainha,Leiria,0,804,3.68,,False,417,1.91,12,21837,47.83,José Carlos Rebelo Ferreira Faria,2021
+558,5,PPD/PSD,1,1,1,5,52.23,1,55.32,11405,Caldas da Rainha,Leiria,0,804,3.68,,False,417,1.91,12,21837,47.83,Fernando Manuel Tinta Ferreira,2021
+559,2,PS,0,0,1,2,24.16,0,25.59,5276,Caldas da Rainha,Leiria,0,804,3.68,,False,417,1.91,12,21837,47.83,Luís Miguel Simões de Albuquerque Patacho,2021
+560,0,CDS-PP.MPT,0,0,1,0,4.57,0,4.7,90,Castanheira de Pêra,Leiria,0,26,1.32,,False,31,1.57,1,1971,72.36,Miguel José Barjona de Tomaz Henriques,2021
+561,0,PCP-PEV,0,0,1,0,1.17,0,1.2,23,Castanheira de Pêra,Leiria,0,26,1.32,,False,31,1.57,1,1971,72.36,Manuel Lopes da Costa,2021
+562,3,PPD/PSD,1,1,1,3,47.54,1,48.96,937,Castanheira de Pêra,Leiria,0,26,1.32,,False,31,1.57,1,1971,72.36,Alda Maria das Neves Delgado Correia de Carvalho,2021
+563,2,PS,0,0,1,2,43.84,0,45.14,864,Castanheira de Pêra,Leiria,0,26,1.32,,False,31,1.57,1,1971,72.36,Gonçalo Abílio Alves Lopes,2021
+564,1,MFI,0,0,1,1,19.63,0,20.36,795,Figueiró dos Vinhos,Leiria,0,64,1.58,,False,81,2.0,4,4050,70.62,Carlos Alberto David dos Santos Lopes,2021
+565,0,PCP-PEV,0,0,1,0,0.64,0,0.67,26,Figueiró dos Vinhos,Leiria,0,64,1.58,,False,81,2.0,4,4050,70.62,Fernando Monteiro Valdez,2021
+566,1,PPD/PSD.CDS-PP,0,0,1,1,29.56,0,30.65,1197,Figueiró dos Vinhos,Leiria,0,64,1.58,,False,81,2.0,4,4050,70.62,Luís Filipe Antunes da Silva,2021
+567,3,PS,1,1,1,3,46.59,1,48.32,1887,Figueiró dos Vinhos,Leiria,0,64,1.58,,False,81,2.0,4,4050,70.62,Jorge Manuel Fernandes de Abreu,2021
+568,0,PCP-PEV,0,0,1,0,2.4,0,2.55,1488,Leiria,Leiria,0,2253,3.63,,False,1405,2.27,18,62026,54.6,Anabela Batista Rodrigues dos Santos,2021
+569,0,PNR,0,0,1,0,0.33,0,0.35,207,Leiria,Leiria,0,2253,3.63,,False,1405,2.27,18,62026,54.6,João Pedro Quaresma Pais do Amaral,2021
+570,3,PPD/PSD.MPT,0,0,1,3,26.96,0,28.65,16724,Leiria,Leiria,0,2253,3.63,,False,1405,2.27,18,62026,54.6,Fernando José da Costa,2021
+571,8,PS,1,1,1,8,54.46,1,57.88,33782,Leiria,Leiria,0,2253,3.63,,False,1405,2.27,18,62026,54.6,Raúl Miguel de Castro,2021
+572,0,+C,0,0,1,0,7.61,0,8.09,1281,Marinha Grande,Leiria,0,609,3.62,,False,389,2.31,3,16826,49.51,Carlos Alberto Fernandes Logrado,2021
+573,0,B.E.,0,0,1,0,4.84,0,5.15,815,Marinha Grande,Leiria,0,609,3.62,,False,389,2.31,3,16826,49.51,Ilda Maria de Oliveira Coelho,2021
+574,0,CDS-PP.PPM,0,0,1,0,0.8,0,0.85,135,Marinha Grande,Leiria,0,609,3.62,,False,389,2.31,3,16826,49.51,Paulo José Sousa Ferreira,2021
+575,2,MPM,0,0,1,2,22.05,0,23.44,3710,Marinha Grande,Leiria,0,609,3.62,,False,389,2.31,3,16826,49.51,Aurélio Pedro Monteiro Ferreira,2021
+576,2,PCP-PEV,0,0,1,2,24.54,0,26.09,4129,Marinha Grande,Leiria,0,609,3.62,,False,389,2.31,3,16826,49.51,Alexandra Filipa de Araújo Seara Dengucho ,2021
+577,0,PPD/PSD.MPT,0,0,1,0,4.86,0,5.17,818,Marinha Grande,Leiria,0,609,3.62,,False,389,2.31,3,16826,49.51,Ricardo Auigusto Morais Galo,2021
+578,3,PS,1,0,1,3,29.36,1,31.21,4940,Marinha Grande,Leiria,0,609,3.62,,False,389,2.31,3,16826,49.51,Cidália Maria de Oliveira Rosa Ferreira,2021
+579,0,B.E.,0,0,1,0,3.59,0,3.78,257,Nazaré,Leiria,0,207,2.9,,False,151,2.11,3,7149,49.08,Telma de Jesus Laborinho Ferreira,2021
+580,0,CDS-PP.MPT.PPM,0,0,1,0,2.5,0,2.64,179,Nazaré,Leiria,0,207,2.9,,False,151,2.11,3,7149,49.08,Graciano José Pascoal de Carvalho Dias,2021
+581,0,PCP-PEV,0,0,1,0,7.09,0,7.47,507,Nazaré,Leiria,0,207,2.9,,False,151,2.11,3,7149,49.08,António Manuel Caria dos Santos,2021
+582,2,PPD/PSD,0,0,1,2,25.19,0,26.52,1801,Nazaré,Leiria,0,207,2.9,,False,151,2.11,3,7149,49.08,Alberto Madail da Silva Belo,2021
+583,5,PS,1,1,1,5,56.61,1,59.59,4047,Nazaré,Leiria,0,207,2.9,,False,151,2.11,3,7149,49.08,Walter Manuel Cavaleiro Chicharro,2021
+584,0,CDS-PP,0,0,1,0,1.33,0,1.38,31,Pedrógão Grande,Leiria,0,42,1.8,,False,38,1.63,3,2327,70.73,Amélia Machado Magalhães,2021
+585,0,PCP-PEV,0,0,1,0,1.42,0,1.47,33,Pedrógão Grande,Leiria,0,42,1.8,,False,38,1.63,3,2327,70.73,Rui Baltasar Coelho da Silva Matias,2021
+586,2,PPD/PSD,0,0,1,2,38.03,0,39.39,885,Pedrógão Grande,Leiria,0,42,1.8,,False,38,1.63,3,2327,70.73,João Manuel Gomes Marques,2021
+587,3,PS,1,1,1,3,55.78,1,57.77,1298,Pedrógão Grande,Leiria,0,42,1.8,,False,38,1.63,3,2327,70.73,Valdemar Gomes Fernandes Alves,2021
+588,0,CDS-PP,0,0,1,0,1.07,0,1.12,135,Peniche,Leiria,0,283,2.25,,False,203,1.62,4,12569,50.76,João Nuno Cruz Santos,2021
+589,3,GCEPP,1,0,1,3,31.0,1,32.24,3896,Peniche,Leiria,0,283,2.25,,False,203,1.62,4,12569,50.76,Henrique Bertino Batista Antunes,2021
+590,0,MICPP,0,0,1,0,1.25,0,1.3,157,Peniche,Leiria,0,283,2.25,,False,203,1.62,4,12569,50.76,Márcia João Braz de Timóteo Henriques,2021
+591,1,PCP-PEV,0,0,1,1,15.1,0,15.71,1898,Peniche,Leiria,0,283,2.25,,False,203,1.62,4,12569,50.76,Rogério Manuel Dias Cação,2021
+592,2,PPD/PSD,0,0,1,2,28.98,0,30.15,3643,Peniche,Leiria,0,283,2.25,,False,203,1.62,4,12569,50.76,Filipe Maia de Matos Ferreira Sales,2021
+593,1,PS,0,0,1,1,18.73,0,19.48,2354,Peniche,Leiria,0,283,2.25,,False,203,1.62,4,12569,50.76,Jorge Manuel Rosendo Gonçalves,2021
+594,0,B.E.,0,0,1,0,2.33,0,2.47,612,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Gonçalo Filipe Pessa Figueiredo Costa,2021
+595,0,CDS-PP,0,0,1,0,6.44,0,6.81,1689,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Sidónio Ferreira dos Santos,2021
+596,0,IPP,0,0,1,0,1.23,0,1.3,323,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Amílcar Barros Malho,2021
+597,0,MPT,0,0,1,0,0.89,0,0.94,233,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Pascoal Duarte Oliveira,2021
+598,3,NMPH,0,0,1,3,24.39,0,25.81,6399,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Narciso Ferreira Mota,2021
+599,0,PCP-PEV,0,0,1,0,1.23,0,1.3,323,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Fernando Manuel dos Santos Domingues,2021
+600,5,PPD/PSD,1,1,1,5,46.33,1,49.02,12154,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Luís Diogo de Paiva Morão Alves Mateus,2021
+601,1,PS,0,0,1,1,11.66,0,12.34,3060,Pombal,Leiria,0,820,3.13,,False,620,2.36,13,26233,50.28,Jorge Marques dos Santos Claro,2021
+602,2,AJ SIM,0,0,1,2,24.43,0,25.89,3151,Porto de Mós,Leiria,0,405,3.14,,False,324,2.51,10,12899,60.91,Albino Pereira Januário,2021
+603,0,PCP-PEV,0,0,1,0,2.68,0,2.84,346,Porto de Mós,Leiria,0,405,3.14,,False,324,2.51,10,12899,60.91,António da Conceição Ferraria,2021
+604,3,PPD/PSD,1,0,1,3,36.96,1,39.17,4767,Porto de Mós,Leiria,0,405,3.14,,False,324,2.51,10,12899,60.91,José Jorge Couto Vala,2021
+605,2,PS,0,0,1,2,30.28,0,32.1,3906,Porto de Mós,Leiria,0,405,3.14,,False,324,2.51,10,12899,60.91,Rui Fernando Correia Marto,2021
+606,0,B.E.,0,0,1,0,3.45,0,3.63,210,Óbidos,Leiria,0,199,3.27,,False,101,1.66,7,6086,58.37,João Paulo Oliveira Cardoso,2021
+607,0,CDS-PP,0,0,1,0,1.61,0,1.69,98,Óbidos,Leiria,0,199,3.27,,False,101,1.66,7,6086,58.37,Carlos Augusto Collaço Pinto Machado,2021
+608,0,PCP-PEV,0,0,1,0,5.88,0,6.19,358,Óbidos,Leiria,0,199,3.27,,False,101,1.66,7,6086,58.37,José Rui Pereira da Silva Raposo,2021
+609,4,PPD/PSD,1,1,1,4,48.59,1,51.11,2957,Óbidos,Leiria,0,199,3.27,,False,101,1.66,7,6086,58.37,Humberto da Silva Marques,2021
+610,3,PS,0,0,1,3,35.54,0,37.38,2163,Óbidos,Leiria,0,199,3.27,,False,101,1.66,7,6086,58.37,Vítor Paulo Herculano Rodrigues,2021
+611,0,B.E.,0,0,1,0,5.15,0,5.44,903,Alenquer,Lisboa,0,597,3.4,,False,340,1.94,11,17551,49.68,Mário Luis Valada dos Santos Correia,2021
+612,1,PCP-PEV,0,0,1,1,14.07,0,14.87,2470,Alenquer,Lisboa,0,597,3.4,,False,340,1.94,11,17551,49.68,Ernesto Simões Ferreira,2021
+613,2,PPD/PSD.CDS-PP,0,0,1,2,22.0,0,23.25,3862,Alenquer,Lisboa,0,597,3.4,,False,340,1.94,11,17551,49.68,Frederico Augusto Soares Rogeiro,2021
+614,4,PS,1,1,1,4,53.44,1,56.45,9379,Alenquer,Lisboa,0,597,3.4,,False,340,1.94,11,17551,49.68,Pedro Miguel Ferreira Folgado,2021
+615,1,B.E.,0,0,1,1,6.94,0,7.38,4321,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Maria Deolinda Marques Dias Martin,2021
+616,0,MIPA,0,0,1,0,2.65,0,2.81,1646,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,José João Lopes Pica,2021
+617,0,NC,0,0,1,0,1.06,0,1.13,661,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Mário Arlindo Vieira de Carvalho,2021
+618,0,PAN,0,0,1,0,3.23,0,3.43,2009,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Patrícia Andreia Gonçalves Namora Caeiro,2021
+619,1,PCP-PEV,0,0,1,1,12.22,0,12.97,7601,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Amável José Alves,2021
+620,0,PCTP/MRPP,0,0,1,0,1.75,0,1.86,1090,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Carlos Alberto Quaresma da Costa,2021
+621,2,PPD/PSD.CDS-PP,0,0,1,2,18.09,0,19.21,11253,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Carlos Manuel dos Santos Batista da Silva,2021
+622,7,PS,1,1,1,7,47.97,1,50.94,29845,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Carla Maria Nunes Tavares,2021
+623,0,PTP,0,0,1,0,0.26,0,0.28,163,Amadora,Lisboa,0,2166,3.48,,False,1465,2.35,6,62220,42.66,Tânia Jaquelina Silva Marques,2021
+624,1,PPD/PSD,0,0,1,1,19.31,0,19.93,1291,Arruda dos Vinhos,Lisboa,0,102,1.53,,False,104,1.56,4,6684,62.25,Luis Manuel Gonçalves Rodigues,2021
+625,6,PS,1,1,1,6,71.32,1,73.59,4767,Arruda dos Vinhos,Lisboa,0,102,1.53,,False,104,1.56,4,6684,62.25,André Filipe dos Santos Matos Rijo,2021
+626,0,B.E.,0,0,1,0,7.36,0,7.87,698,Azambuja,Lisboa,0,366,3.86,,False,257,2.71,7,9487,54.16,Paulo Alexandre Miranda Louro,2021
+627,0,CDS-PP,0,0,1,0,3.7,0,3.96,351,Azambuja,Lisboa,0,366,3.86,,False,257,2.71,7,9487,54.16,Maria Madalena Furtado José de Mello Viana,2021
+628,1,PCP-PEV,0,0,1,1,20.07,0,21.48,1904,Azambuja,Lisboa,0,366,3.86,,False,257,2.71,7,9487,54.16,David José Pinto Mendes,2021
+629,2,PPD/PSD.MPT.PPM,0,0,1,2,20.64,0,22.09,1958,Azambuja,Lisboa,0,366,3.86,,False,257,2.71,7,9487,54.16,Rui Pedro Figueiredo Corça,2021
+630,4,PS,1,1,1,4,41.67,1,44.6,3953,Azambuja,Lisboa,0,366,3.86,,False,257,2.71,7,9487,54.16,Luis Manuel Abreu de Sousa,2021
+631,0,CDS-PP,0,0,1,0,4.39,0,4.58,305,Cadaval,Lisboa,0,151,2.17,,False,133,1.91,7,6947,57.37,Joana Filipa Nunes Pereira,2021
+632,0,PCP-PEV,0,0,1,0,5.82,0,6.06,404,Cadaval,Lisboa,0,151,2.17,,False,133,1.91,7,6947,57.37,Ricardo Manuel Francisco Miguel,2021
+633,5,PPD/PSD,1,1,1,5,61.05,1,63.65,4241,Cadaval,Lisboa,0,151,2.17,,False,133,1.91,7,6947,57.37,José Bernardo Nunes,2021
+634,2,PS,0,0,1,2,24.66,0,25.71,1713,Cadaval,Lisboa,0,151,2.17,,False,133,1.91,7,6947,57.37,David Alexandre Alves Vieira dos Santos,2021
+635,0,B.E.,0,0,1,0,5.25,0,5.52,4056,Cascais,Lisboa,0,2467,3.19,,False,1408,1.82,4,77325,43.54,Maria Cecilia Vicente Duarte Honório,2021
+636,0,PAN,0,0,1,0,4.56,0,4.8,3529,Cascais,Lisboa,0,2467,3.19,,False,1408,1.82,4,77325,43.54,Jorge Francisco Alves Vicente de Sousa Guerreiro,2021
+637,1,PCP-PEV,0,0,1,1,7.45,0,7.84,5759,Cascais,Lisboa,0,2467,3.19,,False,1408,1.82,4,77325,43.54,Clemente Alves,2021
+638,0,PCTP/MRPP,0,0,1,0,0.6,0,0.63,466,Cascais,Lisboa,0,2467,3.19,,False,1408,1.82,4,77325,43.54,Carlos Fernando Gomes de Oliveira Pacheco,2021
+639,0,PDR.JPP,0,0,1,0,2.11,0,2.22,1628,Cascais,Lisboa,0,2467,3.19,,False,1408,1.82,4,77325,43.54,João Paes de Sande e Castro,2021
+640,6,PPD/PSD.CDS-PP,1,1,1,6,45.94,1,48.36,35520,Cascais,Lisboa,0,2467,3.19,,False,1408,1.82,4,77325,43.54,Carlos Manuel Lavrador de Jesus Carreiras,2021
+641,4,PS,0,0,1,4,29.09,0,30.62,22492,Cascais,Lisboa,0,2467,3.19,,False,1408,1.82,4,77325,43.54,Maria Gabriela Silveira Ferreira Canavilhas,2021
+642,1,B.E.,0,0,1,1,7.14,0,7.45,18025,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Ricardo Amaral Robles,2021
+643,4,CDS-PP.MPT.PPM,0,0,1,4,20.59,0,21.48,51984,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Maria da Assunção Oliveira Cristas Machado da Graça,2021
+644,0,NC,0,0,1,0,0.59,0,0.62,1497,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Joana Beatriz Nunes Vicente Amaral Dias,2021
+645,0,PAN,0,0,1,0,3.03,0,3.16,7658,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Paula Inês Alves de Sousa Real,2021
+646,2,PCP-PEV,0,0,1,2,9.55,0,9.96,24110,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,João Manuel Peixoto Ferreira,2021
+647,0,PCTP/MRPP,0,0,1,0,0.52,0,0.54,1309,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Luis Alberto Júdice Veiga da Silva,2021
+648,0,PDR.JPP,0,0,1,0,0.32,0,0.33,809,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Carlos Alberto Dias Teixeira,2021
+649,0,PNR,0,0,1,0,0.47,0,0.49,1179,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,José de Almeida e Vasconcelos Pinto-Coelho,2021
+650,2,PPD/PSD,0,0,1,2,11.22,0,11.71,28336,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Teresa de Andrade Leal Coelho,2021
+651,8,PS,1,0,1,8,42.0,1,43.82,106037,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Fernando Medina Maciel Almeida Correia,2021
+652,0,PTP,0,0,1,0,0.14,0,0.15,352,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,Amândio Cerdeira Madaleno,2021
+653,0,PURP,0,0,1,0,0.27,0,0.28,687,Lisboa,Lisboa,0,6627,2.62,,False,3871,1.53,24,252481,51.16,António Manuel de Freitas Arruda,2021
+654,0,B.E.,0,0,1,0,3.55,0,3.72,3107,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Fabian Filipe Figueiredo,2021
+655,0,CDS-PP,0,0,1,0,2.86,0,3.01,2508,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Pedro Dias de Sousa Pestana Bastos,2021
+656,0,NC,0,0,1,0,0.84,0,0.89,740,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Nelson de Jesus Simões Batista ,2021
+657,0,PAN,0,0,1,0,2.08,0,2.19,1824,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Ana Sofia Correia da Silva,2021
+658,4,PCP-PEV,1,0,1,4,32.76,1,34.4,28701,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Bernardino José Torrão Soares,2021
+659,0,PCTP/MRPP,0,0,1,0,2.55,0,2.68,2232,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,João Vladimiro Soares Resa,2021
+660,0,PDR.JPP,0,0,1,0,0.51,0,0.53,445,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Mário Rodrigues Pontes,2021
+661,3,PPD/PSD.PPM,0,0,1,3,21.55,0,22.62,18877,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,André Claro Amaral Ventura,2021
+662,4,PS,0,0,1,4,28.24,0,29.65,24737,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Sónia Alexandra da Silva Paixão dos Santos Bernardo Lopes,2021
+663,0,PTP,0,0,1,0,0.3,0,0.32,267,Loures,Lisboa,0,2442,2.79,,False,1720,1.96,10,87600,52.31,Bruno Miguel Teixeira Gomes,2021
+664,0,CDS-PP.MPT,0,0,1,0,9.18,0,9.72,1157,Lourinhã,Lisboa,0,422,3.35,,False,286,2.27,8,12607,54.86,Pedro Tomás Oliveira Antunes,2021
+665,0,PCP-PEV,0,0,1,0,4.72,0,5.0,595,Lourinhã,Lisboa,0,422,3.35,,False,286,2.27,8,12607,54.86,José Manuel Levy da Silva Soeiro,2021
+666,0,PDR,0,0,1,0,0.52,0,0.55,66,Lourinhã,Lisboa,0,422,3.35,,False,286,2.27,8,12607,54.86,João Nunes Maria Alves,2021
+667,3,PPD/PSD,0,0,1,3,32.39,0,34.31,4083,Lourinhã,Lisboa,0,422,3.35,,False,286,2.27,8,12607,54.86,Vanda Cristina Moita Gouveia Oliveira,2021
+668,4,PS,1,1,1,4,47.58,1,50.41,5998,Lourinhã,Lisboa,0,422,3.35,,False,286,2.27,8,12607,54.86,João Duarte Anastácio Carvalho,2021
+669,7,PPD/PSD,1,1,1,7,56.79,1,59.84,18738,Mafra,Lisboa,0,1054,3.19,,False,625,1.89,11,32994,52.14,Hélder António Guerra de Sousa Silva,2021
+670,2,PS,0,0,1,2,23.15,0,24.39,7637,Mafra,Lisboa,0,1054,3.19,,False,625,1.89,11,32994,52.14,Rogério Monteiro da Costa,2021
+671,0,JPP,0,0,1,0,0.55,0,0.59,323,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,José António Rajani Oliveira Dias,2021
+672,0,PAN,0,0,1,0,3.35,0,3.55,1958,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Ana Paula Martinho Fernandes,2021
+673,2,PCP-PEV,0,0,1,2,14.82,0,15.72,8671,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Fernando Jorge Painho Ferreira,2021
+674,0,PCTP/MRPP,0,0,1,0,1.58,0,1.67,923,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Maria Paula de Mendonça sales Rato de Matos,2021
+675,0,PDR,0,0,1,0,0.24,0,0.25,139,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Ana Cristina Barradas Carnaça,2021
+676,0,PNR,0,0,1,0,0.6,0,0.64,352,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Bruno Miguel Benigno Rebelo,2021
+677,3,PPD/PSD.CDS-PP,0,0,1,3,21.7,0,23.03,12701,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Fernando Jorge Loureiro de Roboredo Seara,2021
+678,6,PS,1,1,1,6,45.08,1,47.84,26381,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Hugo Manuel dos Santos Martins,2021
+679,0,PTP,0,0,1,0,0.23,0,0.25,136,Odivelas,Lisboa,0,1915,3.27,,False,1464,2.5,4,58522,46.67,Florbela do Carmo Zorrinho Baião,2021
+680,0,B.E.,0,0,1,0,3.11,0,3.28,2556,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Miguel da Camara e Almeida Pinto,2021
+681,6,IN-OV,1,1,1,6,41.65,1,43.96,34264,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Isaltino Afonso Morais,2021
+682,2,IOMAF,0,0,1,2,14.18,0,14.97,11665,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Paulo César Sanches Casinhas da Silva Vistas,2021
+683,0,L,0,0,1,0,0.69,0,0.72,564,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Safaa Rachid El Dib,2021
+684,0,MIRO,0,0,1,0,1.12,0,1.19,924,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Sónia Maria Antas de Barros Amado Gonçalves,2021
+685,0,NC,0,0,1,0,0.51,0,0.53,417,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Maria Isabel Pereira Fernandes da Costa Jorge de Sande e Castro,2021
+686,0,PAN,0,0,1,0,2.99,0,3.15,2456,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Pedro Miguel Gonçalves Miranda Agria Torres,2021
+687,1,PCP-PEV,0,0,1,1,7.84,0,8.28,6451,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Heloísa Augusta Baião de Brito Apolónia,2021
+688,0,PCTP/MRPP,0,0,1,0,0.1,0,0.11,84,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Alda Helena Sobral Pires Lopes Gameiro,2021
+689,0,PNR,0,0,1,0,0.32,0,0.34,263,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Pedro Augusto Alves do Rio Perestrello de Vasconcellos,2021
+690,1,PPD/PSD.CDS-PP.PPM,0,0,1,1,8.77,0,9.26,7216,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Ângelo Cipriano da Cunha Fialho e Pereira,2021
+691,1,PS,0,0,1,1,13.42,0,14.17,11042,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,Joaquim Moreira Raposo,2021
+692,0,PTP,0,0,1,0,0.06,0,0.06,46,Oeiras,Lisboa,0,2788,3.39,,False,1529,1.86,5,82265,55.75,André Mendonça Madaleno,2021
+693,0,B.E.,0,0,1,0,6.28,0,6.62,8314,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Carlos Alberto Sainica Carujo,2021
+694,0,NC,0,0,1,0,1.08,0,1.14,1433,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Pedro António Lopes Ladeira,2021
+695,0,PAN,0,0,1,0,3.68,0,3.88,4874,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Maria Cristina Pacheco Rodrigues,2021
+696,1,PCP-PEV,0,0,1,1,9.43,0,9.94,12481,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Pedro Manuel da Costa Ventura,2021
+697,0,PCTP/MRPP,0,0,1,0,0.78,0,0.83,1037,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Carlos Manuel Sousa Correia,2021
+698,0,PDR.JPP,0,0,1,0,0.58,0,0.61,761,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Anabela da Costa Henriques,2021
+699,0,PNR,0,0,1,0,0.77,0,0.81,1021,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Paulo Alexandre Rodrigues Martins,2021
+700,4,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,4,29.01,0,30.57,38385,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Marco Paulo Caldeira de Almeida,2021
+701,6,PS,1,1,1,6,43.05,1,45.37,56963,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Basílio Adolfo de Mendonça Horta da França,2021
+702,0,PTP,0,0,1,0,0.21,0,0.22,275,Sintra,Lisboa,0,3800,2.87,,False,2962,2.24,11,132306,42.31,Maria José de Campos Fonseca,2021
+703,3,PCP-PEV,1,1,1,3,50.36,1,52.49,2435,Sobral de Monte Agraço,Lisboa,0,112,2.32,,False,84,1.74,3,4835,58.75,José Alberto Quintino da Silva,2021
+704,1,PPD/PSD.CDS-PP,0,0,1,1,19.38,0,20.2,937,Sobral de Monte Agraço,Lisboa,0,112,2.32,,False,84,1.74,3,4835,58.75,Joaquim Maria Reis Catarino Biancard Cruz,2021
+705,1,PS,0,0,1,1,26.2,0,27.31,1267,Sobral de Monte Agraço,Lisboa,0,112,2.32,,False,84,1.74,3,4835,58.75,Pedro Miguel da Silva Coelho dos Santos,2021
+706,0,B.E.,0,0,1,0,3.16,0,3.31,1149,Torres Vedras,Lisboa,0,978,2.69,,False,674,1.85,13,36347,53.87,Rui Manuel Pinto Ibañez Matoso,2021
+707,0,PCP-PEV,0,0,1,0,6.74,0,7.06,2450,Torres Vedras,Lisboa,0,978,2.69,,False,674,1.85,13,36347,53.87,Sérgio Rodrigo dos Santos Cipriano,2021
+708,3,PPD/PSD.CDS-PP,0,0,1,3,31.31,0,32.81,11382,Torres Vedras,Lisboa,0,978,2.69,,False,674,1.85,13,36347,53.87,Marco henriques Claudino,2021
+709,6,PS,1,1,1,6,51.06,1,53.49,18560,Torres Vedras,Lisboa,0,978,2.69,,False,674,1.85,13,36347,53.87,Carlos Manuel Antunes Bernardes,2021
+710,0,mctnl,0,0,1,0,3.17,0,3.33,1154,Torres Vedras,Lisboa,0,978,2.69,,False,674,1.85,13,36347,53.87,António Manuel de Fernandes Oliveira,2021
+711,1,B.E.,0,0,1,1,6.99,0,7.4,3784,Vila Franca de Xira,Lisboa,0,1796,3.32,,False,1192,2.2,6,54123,48.37,Carlos Miguel Vilar Patrão,2021
+712,0,PAN,0,0,1,0,3.94,0,4.17,2133,Vila Franca de Xira,Lisboa,0,1796,3.32,,False,1192,2.2,6,54123,48.37,Adélia Maria Santos Ferreira Gominho,2021
+713,4,PCP-PEV,0,0,1,4,30.45,0,32.23,16479,Vila Franca de Xira,Lisboa,0,1796,3.32,,False,1192,2.2,6,54123,48.37,Regina Célia Gonçalves Agostinho Janeiro,2021
+714,1,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,1,13.63,0,14.43,7378,Vila Franca de Xira,Lisboa,0,1796,3.32,,False,1192,2.2,6,54123,48.37,Helena Margarida Mendes Pereira de Jesus,2021
+715,5,PS,1,0,1,5,39.06,1,41.34,21141,Vila Franca de Xira,Lisboa,0,1796,3.32,,False,1192,2.2,6,54123,48.37,Alberto Simões Maia Mesquita,2021
+716,0,PTP,0,0,1,0,0.41,0,0.43,220,Vila Franca de Xira,Lisboa,0,1796,3.32,,False,1192,2.2,6,54123,48.37,Vítor Augusto Gonçalves Dias,2021
+717,1,CDS-PP,0,0,1,1,16.04,0,16.5,1076,Calheta,Madeira,0,38,0.57,,False,149,2.22,8,6710,55.51,Martinho Gouveia da Câmara,2021
+718,0,PCP-PEV,0,0,1,0,1.28,0,1.32,86,Calheta,Madeira,0,38,0.57,,False,149,2.22,8,6710,55.51,José Ferdinando Correia da Costa,2021
+719,5,PPD/PSD,1,1,1,5,65.45,1,67.33,4392,Calheta,Madeira,0,38,0.57,,False,149,2.22,8,6710,55.51,Carlos Manuel Figueira de Ornelas Teles,2021
+720,1,PS,0,0,1,1,13.16,0,13.54,883,Calheta,Madeira,0,38,0.57,,False,149,2.22,8,6710,55.51,Sofia Maria Araújo de Canha,2021
+721,0,PTP,0,0,1,0,1.28,0,1.32,86,Calheta,Madeira,0,38,0.57,,False,149,2.22,8,6710,55.51,Manuel Serafim Sousa Teles,2021
+722,0,B.E.,0,0,1,0,2.34,0,2.44,369,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,Paulo Alexandre Silva Santos,2021
+723,1,CDS-PP,0,0,1,1,10.51,0,10.94,1657,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,João Paulo Ferreira dos Santos,2021
+724,0,MPT,0,0,1,0,2.37,0,2.46,373,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,Aires Miguel Abreu de Carvalho,2021
+725,0,PCP-PEV,0,0,1,0,3.2,0,3.33,504,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,Alexandre do Carmo da Luz Fernandes,2021
+726,0,PDR,0,0,1,0,1.67,0,1.74,263,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,Francisco Dinis Fernandes Teles,2021
+727,5,PPD/PSD,1,1,1,5,62.99,1,65.56,9931,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,Pedro Emanuel Abreu Coelho,2021
+728,1,PS,0,0,1,1,11.3,0,11.76,1782,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,Amândio Unibaldo Figueira da Silva,2021
+729,0,PTP,0,0,1,0,1.71,0,1.78,270,Câmara de Lobos,Madeira,0,157,1.0,,False,460,2.92,5,15766,49.21,José Quintino Mendes Costa,2021
+730,4,PPD/PSD,0,0,1,4,32.05,0,33.44,17971,Funchal,Madeira,0,696,1.24,,False,1637,2.92,10,56070,52.75,Rubina Maria Branco Leal Vargas,2021
+731,0,PPM.PURP,0,0,1,0,2.37,0,2.48,1330,Funchal,Madeira,0,696,1.24,,False,1637,2.92,10,56070,52.75,Gil da Silva Canha,2021
+732,6,PS-BE-JPP-PDR-NC,1,1,1,6,42.05,1,43.87,23577,Funchal,Madeira,0,696,1.24,,False,1637,2.92,10,56070,52.75,Paulo Alexandre Nascimento Cafôfo,2021
+733,0,PTP,0,0,1,0,2.23,0,2.33,1252,Funchal,Madeira,0,696,1.24,,False,1637,2.92,10,56070,52.75,Raquel da Conceição Vieira Coelho,2021
+734,0,B.E.,0,0,1,0,0.99,0,1.01,116,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,José Ricardo Lemos Giestas,2021
+735,0,CDS-PP,0,0,1,0,2.0,0,2.05,235,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Marieta da Purificação Drumond de Nóbrega,2021
+736,0,JPP,0,0,1,0,4.31,0,4.43,507,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Carlos de Jesus Nunes da Costa,2021
+737,0,MPT,0,0,1,0,1.15,0,1.18,135,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Virginia Basílio Vieira Henriques,2021
+738,0,PCP-PEV,0,0,1,0,0.49,0,0.51,58,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Pedro Damião da Silva Carvalho,2021
+739,0,PCTP/MRPP,0,0,1,0,0.36,0,0.37,42,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Maria Fernanda de Abreu Calaça,2021
+740,0,PNR,0,0,1,0,0.91,0,0.94,107,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,António Álvaro Aguiar Araújo,2021
+741,2,PPD/PSD,0,0,1,2,27.74,0,28.55,3266,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Emanuel Ricardo Franco de Sousa,2021
+742,5,PS,1,1,1,5,58.61,1,60.32,6901,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Ricardo Miguel Nunes Franco,2021
+743,0,PTP,0,0,1,0,0.63,0,0.65,74,Machico,Madeira,0,123,1.04,,False,210,1.78,5,11774,56.32,Lucilia Calaça de Sousa Alves ,2021
+744,0,B.E.,0,0,1,0,1.76,0,1.81,89,Ponta do Sol,Madeira,0,29,0.57,,False,112,2.22,3,5056,52.33,Maria Ganança Gomes Garanito,2021
+745,1,CDS-PP,0,0,1,1,14.2,0,14.61,718,Ponta do Sol,Madeira,0,29,0.57,,False,112,2.22,3,5056,52.33,Sara Rubina Ferreira Madalena,2021
+746,0,MPT,0,0,1,0,0.87,0,0.9,44,Ponta do Sol,Madeira,0,29,0.57,,False,112,2.22,3,5056,52.33,Pedro Miguel Castro Manteigas,2021
+747,0,PCP-PEV,0,0,1,0,0.81,0,0.83,41,Ponta do Sol,Madeira,0,29,0.57,,False,112,2.22,3,5056,52.33,Indalécio Dario Nascimento dos Santos,2021
+748,2,PPD/PSD,0,0,1,2,38.67,0,39.78,1955,Ponta do Sol,Madeira,0,29,0.57,,False,112,2.22,3,5056,52.33,Manuel Virgilio Pereira  Ganança,2021
+749,2,PS,1,0,1,2,40.29,1,41.44,2037,Ponta do Sol,Madeira,0,29,0.57,,False,112,2.22,3,5056,52.33,Célia Maria da Silva Pecegueiro,2021
+750,0,PTP,0,0,1,0,0.61,0,0.63,31,Ponta do Sol,Madeira,0,29,0.57,,False,112,2.22,3,5056,52.33,Andreia Mabelina Ferreira Bargante,2021
+751,0,MPM,0,0,1,0,10.55,0,10.75,227,Porto Moniz,Madeira,0,8,0.37,,False,31,1.44,4,2151,68.29,Gabriel de Lima Farinha,2021
+752,0,MPT,0,0,1,0,0.14,0,0.14,3,Porto Moniz,Madeira,0,8,0.37,,False,31,1.44,4,2151,68.29,Roberto de Andrade Rodrigues,2021
+753,0,PCP-PEV,0,0,1,0,0.37,0,0.38,8,Porto Moniz,Madeira,0,8,0.37,,False,31,1.44,4,2151,68.29,Miguel Carlos Ferreira Pinto Cabral,2021
+754,1,PPD/PSD,0,0,1,1,21.43,0,21.83,461,Porto Moniz,Madeira,0,8,0.37,,False,31,1.44,4,2151,68.29,Rui Nelson da Silva Rodrigues,2021
+755,4,PS,1,1,1,4,65.36,1,66.57,1406,Porto Moniz,Madeira,0,8,0.37,,False,31,1.44,4,2151,68.29,João Emanuel Silva Câmara,2021
+756,0,PTP,0,0,1,0,0.33,0,0.33,7,Porto Moniz,Madeira,0,8,0.37,,False,31,1.44,4,2151,68.29,Manuel Amaro Gonçalves da Câmara,2021
+757,0,B.E.,0,0,1,0,1.54,0,1.59,52,Porto Santo,Madeira,0,31,0.92,,False,80,2.37,1,3382,64.08,José Tiago Silva Camacho,2021
+758,0,CDS-PP,0,0,1,0,3.7,0,3.82,125,Porto Santo,Madeira,0,31,0.92,,False,80,2.37,1,3382,64.08,João Roberto Oliveira Rodrigues,2021
+759,1,MAIS PORTO SANTO,0,0,1,1,13.36,0,13.82,452,Porto Santo,Madeira,0,31,0.92,,False,80,2.37,1,3382,64.08,José António Fernandes de Castro,2021
+760,0,PCP-PEV,0,0,1,0,2.84,0,2.93,96,Porto Santo,Madeira,0,31,0.92,,False,80,2.37,1,3382,64.08,Hugo Dinis de Vasconcelos Nóbrega,2021
+761,2,PPD/PSD,1,0,1,2,37.94,1,39.22,1283,Porto Santo,Madeira,0,31,0.92,,False,80,2.37,1,3382,64.08,José Idalino de Vasconcelos,2021
+762,2,PS,0,0,1,2,36.99,0,38.25,1251,Porto Santo,Madeira,0,31,0.92,,False,80,2.37,1,3382,64.08,Filipe Emanuel Menezes de Oliveira,2021
+763,0,PTP,0,0,1,0,0.35,0,0.37,12,Porto Santo,Madeira,0,31,0.92,,False,80,2.37,1,3382,64.08,Alcino Bernardo dos Santos Gomes,2021
+764,0,B.E.,0,0,1,0,0.67,0,0.69,52,Ribeira Brava,Madeira,0,48,0.62,,False,176,2.27,4,7770,56.72,José Luis da Costa Jaleco,2021
+765,0,JPP,0,0,1,0,6.19,0,6.37,481,Ribeira Brava,Madeira,0,48,0.62,,False,176,2.27,4,7770,56.72,João Luis Drumond Henriques,2021
+766,0,PCP-PEV,0,0,1,0,0.9,0,0.93,70,Ribeira Brava,Madeira,0,48,0.62,,False,176,2.27,4,7770,56.72,João Alexis Gordinho Faria,2021
+767,3,PPD/PSD,0,0,1,3,32.42,0,33.38,2519,Ribeira Brava,Madeira,0,48,0.62,,False,176,2.27,4,7770,56.72,Nivalda Nunes da Silva Gonçalves ,2021
+768,0,PS,0,0,1,0,4.52,0,4.65,351,Ribeira Brava,Madeira,0,48,0.62,,False,176,2.27,4,7770,56.72,Alano Aires dos Santos Gonçalves,2021
+769,0,PTP,0,0,1,0,0.63,0,0.65,49,Ribeira Brava,Madeira,0,48,0.62,,False,176,2.27,4,7770,56.72,Francisco Luís Gonçalves dos Santos,2021
+770,4,RB1,1,1,1,4,51.79,1,53.33,4024,Ribeira Brava,Madeira,0,48,0.62,,False,176,2.27,4,7770,56.72,Ricardo António Nascimento,2021
+771,0,B.E.,0,0,1,0,1.41,0,1.46,308,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Miguel Luis da Fonseca,2021
+772,0,CDS-PP,0,0,1,0,4.89,0,5.07,1066,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Maria Leontina de Freitas Serôdio da Fonseca,2021
+773,6,JPP,1,1,1,6,60.01,1,62.21,13092,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Filipe Martiniano Martins de Sousa,2021
+774,0,MPT,0,0,1,0,1.14,0,1.18,249,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Guida Maria de Sousa Vieira Teixeira,2021
+775,0,PCP-PEV,0,0,1,0,1.47,0,1.52,320,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Sílvia Martinha de Vasconcelos,2021
+776,0,PCTP/MRPP,0,0,1,0,0.35,0,0.36,76,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,José Tito de Gouveia Teixeira,2021
+777,0,PDR,0,0,1,0,0.79,0,0.82,173,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Rúben Fabiano Câmara Visinho,2021
+778,1,PPD/PSD,0,0,1,1,17.05,0,17.68,3720,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Roquelino Lourenço de Ornelas,2021
+779,0,PS,0,0,1,0,6.86,0,7.11,1497,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,Cláudio Filipe Gouveia Torres,2021
+780,0,PTP,0,0,1,0,2.49,0,2.58,543,Santa Cruz,Madeira,0,217,0.99,,False,555,2.54,5,21816,56.63,José Manuel da Mata Vieira Coelho,2021
+781,0,PTP,0,0,1,0,0.67,0,0.7,31,Santana,Madeira,0,41,0.89,,False,129,2.79,6,4626,58.09,Elsa José da Silva Pereira Cravo da Mata,2021
+782,0,SP,0,0,1,0,6.59,0,6.84,305,Santana,Madeira,0,41,0.89,,False,129,2.79,6,4626,58.09,Carlos de Sousa Pereira,2021
+783,0,MPT,0,0,1,0,1.27,0,1.33,42,São Vicente,Madeira,0,47,1.42,,False,92,2.78,3,3307,53.59,Maria Fernanda França da Silva,2021
+784,0,PCP-PEV,0,0,1,0,0.94,0,0.98,31,São Vicente,Madeira,0,47,1.42,,False,92,2.78,3,3307,53.59,Ester José Pereira,2021
+785,0,PS,0,0,1,0,13.27,0,13.86,439,São Vicente,Madeira,0,47,1.42,,False,92,2.78,3,3307,53.59,João Ricardo Catanho,2021
+786,0,PTP,0,0,1,0,1.12,0,1.17,37,São Vicente,Madeira,0,47,1.42,,False,92,2.78,3,3307,53.59,António Mendes de Andrade Câmara,2021
+787,5,UPSV,1,1,1,5,79.2,1,82.67,2619,São Vicente,Madeira,0,47,1.42,,False,92,2.78,3,3307,53.59,José António Gonçalves Garcês,2021
+788,0,B.E.,0,0,1,0,1.75,0,1.82,37,Alter do Chão,Portalegre,0,40,1.89,,False,45,2.12,4,2120,75.28,José Carita Monteiro,2021
+789,0,PCP-PEV,0,0,1,0,8.11,0,8.45,172,Alter do Chão,Portalegre,0,40,1.89,,False,45,2.12,4,2120,75.28,Romão Buxo da Trindade,2021
+790,2,PPD/PSD.CDS-PP,0,0,1,2,38.96,0,40.59,826,Alter do Chão,Portalegre,0,40,1.89,,False,45,2.12,4,2120,75.28,Luís Filipe Cardoso Belo Cané,2021
+791,3,PS,1,1,1,3,47.17,1,49.14,1000,Alter do Chão,Portalegre,0,40,1.89,,False,45,2.12,4,2120,75.28,Francisco António Martins dos Reis,2021
+792,0,CDS-PP.PPM,0,0,1,0,1.52,0,1.57,31,Arronches,Portalegre,0,37,1.81,,False,29,1.42,3,2040,78.13,Gonçalo Maria Pacheco da Câmara Pereira,2021
+793,0,PCP-PEV,0,0,1,0,3.04,0,3.14,62,Arronches,Portalegre,0,37,1.81,,False,29,1.42,3,2040,78.13,Francisco Manuel Matos Serra,2021
+794,4,PPD/PSD,1,1,1,4,62.25,1,64.34,1270,Arronches,Portalegre,0,37,1.81,,False,29,1.42,3,2040,78.13,Fermelinda de Jesus Pombo Carvalho,2021
+795,1,PS,0,0,1,1,29.95,0,30.95,611,Arronches,Portalegre,0,37,1.81,,False,29,1.42,3,2040,78.13,Carlos Manuel Cascalheira Rodrigues,2021
+796,4,PCP-PEV,1,1,1,4,61.44,1,64.33,1587,Avis,Portalegre,0,76,2.94,,False,40,1.55,6,2583,71.91,Nuno Paulo Augusto da Silva,2021
+797,0,PPD/PSD,0,0,1,0,6.08,0,6.36,157,Avis,Portalegre,0,76,2.94,,False,40,1.55,6,2583,71.91,Maria Marques Leal da Cruz Martins Caiado,2021
+798,1,PS,0,0,1,1,27.99,0,29.31,723,Avis,Portalegre,0,76,2.94,,False,40,1.55,6,2583,71.91,João Manuel Alcario Rato,2021
+799,0,B.E.,0,0,1,0,1.31,0,1.37,61,Campo Maior,Portalegre,0,115,2.47,,False,75,1.61,3,4648,63.48,Rui António David Gaita,2021
+800,0,CDS-PP.PPD/PDS.PPM,0,0,1,0,3.14,0,3.28,146,Campo Maior,Portalegre,0,115,2.47,,False,75,1.61,3,4648,63.48,Paulo Jorge Barbicas Miranda,2021
+801,1,PCP-PEV,0,0,1,1,26.46,0,27.59,1230,Campo Maior,Portalegre,0,115,2.47,,False,75,1.61,3,4648,63.48,Paulo Ivo Sabino Martins de Almeida,2021
+802,4,PS,1,1,1,4,65.0,1,67.77,3021,Campo Maior,Portalegre,0,115,2.47,,False,75,1.61,3,4648,63.48,Ricardo Miguel Furtado Pinheiro,2021
+803,0,CDS-PP,0,0,1,0,1.53,0,1.6,32,Castelo de Vide,Portalegre,0,49,2.34,,False,38,1.82,4,2093,72.9,António José Raimundo Baptista,2021
+804,0,PCP-PEV,0,0,1,0,4.35,0,4.54,91,Castelo de Vide,Portalegre,0,49,2.34,,False,38,1.82,4,2093,72.9,Raquel Isabel Pinto Vaz Raimundo ,2021
+805,3,PPD/PSD,1,1,1,3,57.05,1,59.52,1194,Castelo de Vide,Portalegre,0,49,2.34,,False,38,1.82,4,2093,72.9,António Manuel das Neves Nobre Pita,2021
+806,2,PS,0,0,1,2,32.92,0,34.35,689,Castelo de Vide,Portalegre,0,49,2.34,,False,38,1.82,4,2093,72.9,Tiago Fragoso Malato ,2021
+807,0,CDS-PP,0,0,1,0,0.78,0,0.81,19,Crato,Portalegre,0,24,0.99,,False,42,1.73,4,2422,76.89,Diogo Álvaro Marques Damião,2021
+808,1,PCP-PEV,0,0,1,1,24.61,0,25.3,596,Crato,Portalegre,0,24,0.99,,False,42,1.73,4,2422,76.89,Maria Gabriela Pereira Menino Tsukamoto,2021
+809,2,PPD/PSD,0,0,1,2,28.82,0,29.63,698,Crato,Portalegre,0,24,0.99,,False,42,1.73,4,2422,76.89,Ângelo Miguel Guerra Pires Fernandes,2021
+810,2,PS,1,0,1,2,43.06,1,44.27,1043,Crato,Portalegre,0,24,0.99,,False,42,1.73,4,2422,76.89,Joaquim Bernardo dos Santos Diogo,2021
+811,0,B.E.,0,0,1,0,1.34,0,1.39,147,Elvas,Portalegre,0,165,1.5,,False,285,2.59,7,11009,57.0,Rui Miguel Salabarda Garrido,2021
+812,0,CDS-PP,0,0,1,0,8.22,0,8.57,905,Elvas,Portalegre,0,165,1.5,,False,285,2.59,7,11009,57.0,Tiago Patrício Monteiro Telo de Abreu,2021
+813,0,PCP-PEV,0,0,1,0,3.03,0,3.16,334,Elvas,Portalegre,0,165,1.5,,False,285,2.59,7,11009,57.0,Maria Manuela dos Santos Ferreira Cunha,2021
+814,0,PPD/PSD,0,0,1,0,4.96,0,5.17,546,Elvas,Portalegre,0,165,1.5,,False,285,2.59,7,11009,57.0,Luis Manuel Pereira Caldeira Fernandes,2021
+815,4,PS,1,1,1,4,48.93,1,51.02,5387,Elvas,Portalegre,0,165,1.5,,False,285,2.59,7,11009,57.0,Nuno Miguel Fernandes Mocinha,2021
+816,3,RA-ENP,0,0,1,3,29.43,0,30.68,3240,Elvas,Portalegre,0,165,1.5,,False,285,2.59,7,11009,57.0,José António Rondão Almeida,2021
+817,0,CDS-PP.PPM,0,0,1,0,1.86,0,1.93,40,Fronteira,Portalegre,0,34,1.58,,False,36,1.68,3,2147,77.79,José Francisco Malanho Semedo,2021
+818,0,PCP-PEV,0,0,1,0,4.52,0,4.67,97,Fronteira,Portalegre,0,34,1.58,,False,36,1.68,3,2147,77.79,Bruno Ricardo Lino Vassalo,2021
+819,3,PPD/PSD,1,1,1,3,56.87,1,58.79,1221,Fronteira,Portalegre,0,34,1.58,,False,36,1.68,3,2147,77.79,Rogério David Sádio da Silva,2021
+820,2,PS,0,0,1,2,33.49,0,34.62,719,Fronteira,Portalegre,0,34,1.58,,False,36,1.68,3,2147,77.79,Pedro Namorado Lancha,2021
+821,0,PCP-PEV,0,0,1,0,13.95,0,14.71,334,Gavião,Portalegre,0,74,3.09,,False,50,2.09,4,2394,68.97,João da Silva Rufino,2021
+822,1,PPD/PSD.CDS-PP,0,0,1,1,16.88,0,17.8,404,Gavião,Portalegre,0,74,3.09,,False,50,2.09,4,2394,68.97,Eduardo Fernando Silva Matos Pereira,2021
+823,4,PS,1,1,1,4,63.99,1,67.49,1532,Gavião,Portalegre,0,74,3.09,,False,50,2.09,4,2394,68.97,José Fernando da Silva Pio,2021
+824,2,PS,0,0,1,2,31.67,0,32.98,713,Marvão,Portalegre,0,36,1.6,,False,53,2.35,4,2251,77.49,Maria Madalena Delicado Curião Tavares,2021
+825,0,CDS-PP.MPT.PPM,0,0,1,0,1.37,0,1.42,27,Monforte,Portalegre,0,39,1.98,,False,24,1.22,4,1966,73.09,Pedro Ricardo de Resende Tavares e Ferreira de Carvalho,2021
+826,4,PCP-PEV,1,1,1,4,61.5,1,63.53,1209,Monforte,Portalegre,0,39,1.98,,False,24,1.22,4,1966,73.09,Gonçalo Nuno Ribeiro Brandão Amanso Pataca Lagem,2021
+827,0,PPD/PSD,0,0,1,0,7.22,0,7.46,142,Monforte,Portalegre,0,39,1.98,,False,24,1.22,4,1966,73.09,Cristóvão da Conceição Ventura Crespo,2021
+828,1,PS,0,0,1,1,26.7,0,27.59,525,Monforte,Portalegre,0,39,1.98,,False,24,1.22,4,1966,73.09,Miguel Alexandre Ferreira Rasquinho,2021
+829,2,PCP-PEV,0,0,1,2,36.88,0,38.63,1589,Nisa,Portalegre,0,96,2.23,,False,99,2.3,7,4308,70.61,Vitor Manuel Tavares Martins,2021
+830,0,PPD/PSD.CDS-PP,0,0,1,0,8.15,0,8.53,351,Nisa,Portalegre,0,96,2.23,,False,99,2.3,7,4308,70.61,António Manuel Carita Franco,2021
+831,3,PS,1,1,1,3,50.44,1,52.83,2173,Nisa,Portalegre,0,96,2.23,,False,99,2.3,7,4308,70.61,Maria Idalina Alves Trindade,2021
+832,0,B.E.,0,0,1,0,2.95,0,3.06,248,Ponte de Sor,Portalegre,0,171,2.04,,False,126,1.5,5,8399,58.72,António Maria Ramos Ricardo,2021
+833,1,PCP-PEV,0,0,1,1,17.3,0,17.93,1453,Ponte de Sor,Portalegre,0,171,2.04,,False,126,1.5,5,8399,58.72,João Pedro Xavier Abelho Amante,2021
+834,0,PPD/PSD.CDS-PP,0,0,1,0,7.95,0,8.24,668,Ponte de Sor,Portalegre,0,171,2.04,,False,126,1.5,5,8399,58.72,Normando José Pereira Sérgio,2021
+835,6,PS,1,1,1,6,68.26,1,70.76,5733,Ponte de Sor,Portalegre,0,171,2.04,,False,126,1.5,5,8399,58.72,Hugo Luis Pereira Hilário,2021
+836,0,B.E.,0,0,1,0,0.93,0,0.96,122,Portalegre,Portalegre,0,239,1.82,,False,157,1.19,7,13165,63.19,Rui Cristóvão Carvalho da Cunha,2021
+837,0,CDS-PP,0,0,1,0,4.21,0,4.34,554,Portalegre,Portalegre,0,239,1.82,,False,157,1.19,7,13165,63.19,João Nuno de Figueiredo Ferreira Moniz,2021
+838,3,CLIP,1,0,1,3,31.6,1,32.58,4160,Portalegre,Portalegre,0,239,1.82,,False,157,1.19,7,13165,63.19,Maria Adelaide Franco Lebreiro de Aguiar Marques Teixeira,2021
+839,1,PCP-PEV,0,0,1,1,18.22,0,18.79,2399,Portalegre,Portalegre,0,239,1.82,,False,157,1.19,7,13165,63.19,Luis Manuel Madeira Pargana,2021
+840,1,PPD/PSD,0,0,1,1,13.15,0,13.56,1731,Portalegre,Portalegre,0,239,1.82,,False,157,1.19,7,13165,63.19,Armando Jorge Mendonça Varela,2021
+841,2,PS,0,0,1,2,28.89,0,29.78,3803,Portalegre,Portalegre,0,239,1.82,,False,157,1.19,7,13165,63.19,José Correia da Luz,2021
+842,0,B.E.,0,0,1,0,1.16,0,1.19,36,Sousel,Portalegre,0,21,0.68,,False,50,1.61,4,3108,76.91,Maximino Romão Mendes Ramos,2021
+843,0,PCP-PEV,0,0,1,0,4.99,0,5.1,155,Sousel,Portalegre,0,21,0.68,,False,50,1.61,4,3108,76.91,Fernando Jesus Santos Gorgulho,2021
+844,1,PPD/PSD,0,0,1,1,30.41,0,31.12,945,Sousel,Portalegre,0,21,0.68,,False,50,1.61,4,3108,76.91,Marta Susana Rebocho Carujo,2021
+845,4,PS,1,1,1,4,61.16,1,62.59,1901,Sousel,Portalegre,0,21,0.68,,False,50,1.61,4,3108,76.91,Manuel Joaquim Silva valério,2021
+846,0,B.E.,0,0,1,0,1.74,0,1.79,562,Amarante,Porto,0,480,1.49,,False,425,1.32,26,32250,61.38,António Alcino Norte Simões,2021
+847,0,PCP-PEV,0,0,1,0,1.54,0,1.59,497,Amarante,Porto,0,480,1.49,,False,425,1.32,26,32250,61.38,Carlos Manuel Pinheiro Gonçalves,2021
+848,0,PDR,0,0,1,0,1.92,0,1.97,618,Amarante,Porto,0,480,1.49,,False,425,1.32,26,32250,61.38,Abel dos Santos Afonso,2021
+849,6,PPD/PSD.CDS-PP,1,1,1,6,55.3,1,56.9,17835,Amarante,Porto,0,480,1.49,,False,425,1.32,26,32250,61.38,José Luis Gaspar Jorge,2021
+850,3,PS,0,0,1,3,36.69,0,37.75,11833,Amarante,Porto,0,480,1.49,,False,425,1.32,26,32250,61.38,Octávia Manuel da Rocha e Freitas Morais Clemente,2021
+851,0,PCP-PEV,0,0,1,0,1.75,0,1.83,198,Baião,Porto,0,260,2.3,,False,224,1.98,14,11312,64.15,Manuel Maria Abreu de Vilas Boas,2021
+852,2,PPD/PSD.CDS-PP,0,0,1,2,26.86,0,28.06,3038,Baião,Porto,0,260,2.3,,False,224,1.98,14,11312,64.15,Miguel Afonso Costa Lima Dinis Correia,2021
+853,5,PS,1,1,1,5,67.11,1,70.11,7592,Baião,Porto,0,260,2.3,,False,224,1.98,14,11312,64.15,Joaquim Paulo de Sousa Pereira,2021
+854,0,CDS-PP.NC,0,0,1,0,5.49,0,5.71,1900,Felgueiras,Porto,0,735,2.12,,False,605,1.75,20,34605,66.47,Rui Manuel Leite Miranda,2021
+855,0,JPP,0,0,1,0,1.2,0,1.25,415,Felgueiras,Porto,0,735,2.12,,False,605,1.75,20,34605,66.47,Joaquim Paulo Pinto Alves,2021
+856,5,L-PS,1,1,1,5,47.42,1,49.33,16409,Felgueiras,Porto,0,735,2.12,,False,605,1.75,20,34605,66.47,Nuno Alexandre Martins da Fonseca,2021
+857,0,PCP-PEV,0,0,1,0,1.97,0,2.05,683,Felgueiras,Porto,0,735,2.12,,False,605,1.75,20,34605,66.47,António Fernando Marinho Peixoto,2021
+858,4,PPD/PSD.PPM,0,0,1,4,40.05,0,41.66,13858,Felgueiras,Porto,0,735,2.12,,False,605,1.75,20,34605,66.47,José Inácio Cardoso Ribeiro ,2021
+859,0,B.E.,0,0,1,0,3.56,0,3.73,2907,Gondomar,Porto,0,1845,2.26,,False,1918,2.35,7,81614,56.15,Rui Manuel Lourido Nóvoa,2021
+860,2,PCP-PEV,0,0,1,2,15.38,0,16.13,12556,Gondomar,Porto,0,1845,2.26,,False,1918,2.35,7,81614,56.15,Daniel Filipe Oliveira Vieira,2021
+861,1,PPD/PSD.CDS-PP,0,0,1,1,11.03,0,11.56,9003,Gondomar,Porto,0,1845,2.26,,False,1918,2.35,7,81614,56.15,Rafael Gomes Amorim,2021
+862,6,PS,1,1,1,6,45.52,1,47.72,37147,Gondomar,Porto,0,1845,2.26,,False,1918,2.35,7,81614,56.15,Marco André dos Santos Martins Lopes,2021
+863,2,VALENTIM,0,0,1,2,19.9,0,20.86,16238,Gondomar,Porto,0,1845,2.26,,False,1918,2.35,7,81614,56.15,Valentim dos Santos de Loureiro,2021
+864,0,B.E.,0,0,1,0,1.28,0,1.31,368,Lousada,Porto,0,344,1.19,,False,385,1.34,15,28798,70.61,Maria Joaquina de Sousa Ferreira ,2021
+865,0,PCP-PEV,0,0,1,0,1.59,0,1.63,457,Lousada,Porto,0,344,1.19,,False,385,1.34,15,28798,70.61,António Carlos Valente Machado Vieira,2021
+866,3,PPD/PSD.CDS-PP,0,0,1,3,41.55,0,42.63,11967,Lousada,Porto,0,344,1.19,,False,385,1.34,15,28798,70.61,Leonel Domingos Reis Vieira da Silva,2021
+867,4,PS,1,1,1,4,53.05,1,54.43,15277,Lousada,Porto,0,344,1.19,,False,385,1.34,15,28798,70.61,Pedro Daniel Machado Gomes,2021
+868,0,PPV/CDC.PPM,0,0,1,0,0.73,0,0.78,470,Maia,Porto,0,2825,4.38,,False,1575,2.44,10,64522,56.25,António João Fontes Maia,2021
+869,5,PS-JPP,0,0,1,5,36.63,0,39.31,23634,Maia,Porto,0,2825,4.38,,False,1575,2.44,10,64522,56.25,José Francisco Ferreira da Silva Vieira de Carvalho,2021
+870,0,B.E.,0,0,1,0,1.29,0,1.33,385,Marco de Canaveses,Porto,0,371,1.24,,False,470,1.58,16,29832,64.81,Nuno Miguel Leite de Sousa Teixeira,2021
+871,1,CDS-PP,0,0,1,1,18.18,0,18.7,5422,Marco de Canaveses,Porto,0,371,1.24,,False,470,1.58,16,29832,64.81,Paulo Ramalheira Teixeira,2021
+872,0,PCP-PEV,0,0,1,0,2.84,0,2.92,846,Marco de Canaveses,Porto,0,371,1.24,,False,470,1.58,16,29832,64.81,Isabel Maria Baldaia de Silva Marques,2021
+873,2,PPD/PSD,0,0,1,2,30.67,0,31.56,9149,Marco de Canaveses,Porto,0,371,1.24,,False,470,1.58,16,29832,64.81,José António de Carvalho Soares da Mota,2021
+874,4,PS,1,1,1,4,44.21,1,45.49,13189,Marco de Canaveses,Porto,0,371,1.24,,False,470,1.58,16,29832,64.81,Cristina Lasalete Cardoso Vieira,2021
+875,0,B.E.,0,0,1,0,4.6,0,4.9,3681,Matosinhos,Porto,0,2914,3.64,,False,1893,2.37,4,79985,52.87,José Joaquim Ferreira dos Santos,2021
+876,2,Narciso,0,0,1,2,16.16,0,17.19,12926,Matosinhos,Porto,0,2914,3.64,,False,1893,2.37,4,79985,52.87,José Narciso Rodrigues de Miranda,2021
+877,0,PAN,0,0,1,0,3.17,0,3.37,2537,Matosinhos,Porto,0,2914,3.64,,False,1893,2.37,4,79985,52.87,Filipe Furtado de Antas de Almeida Cayolla,2021
+878,1,PCP-PEV,0,0,1,1,6.72,0,7.15,5374,Matosinhos,Porto,0,2914,3.64,,False,1893,2.37,4,79985,52.87,José Pedro da Silva Rodrigues,2021
+879,1,PPD/PSD,0,0,1,1,11.85,0,12.6,9475,Matosinhos,Porto,0,2914,3.64,,False,1893,2.37,4,79985,52.87,Jorge Manuel Pinto Leite de Magalhães,2021
+880,5,PS,1,0,1,5,36.32,1,38.64,29052,Matosinhos,Porto,0,2914,3.64,,False,1893,2.37,4,79985,52.87,Luisa Maria Neves Salgueiro,2021
+881,2,SIM,0,0,1,2,15.17,0,16.14,12133,Matosinhos,Porto,0,2914,3.64,,False,1893,2.37,4,79985,52.87,António Manuel Gomes Santos Parada,2021
+882,0,B.E.,0,0,1,0,1.25,0,1.29,641,Paredes,Porto,0,793,1.54,,False,1011,1.97,18,51409,70.35,Paulo Fernando Teles de Lemos e Silva,2021
+883,0,CDS-PP,0,0,1,0,3.66,0,3.79,1881,Paredes,Porto,0,793,1.54,,False,1011,1.97,18,51409,70.35,José Miguel de Garcez Rocha,2021
+884,0,MPP,0,0,1,0,2.19,0,2.27,1124,Paredes,Porto,0,793,1.54,,False,1011,1.97,18,51409,70.35,Maria Raquel Machado Moreira da Silva,2021
+885,0,PCP-PEV,0,0,1,0,2.87,0,2.97,1473,Paredes,Porto,0,793,1.54,,False,1011,1.97,18,51409,70.35,Álvaro dos Santos Pinto,2021
+886,4,PPD/PSD,0,0,1,4,36.18,0,37.5,18601,Paredes,Porto,0,793,1.54,,False,1011,1.97,18,51409,70.35,Rui Manuel Moutinho Ferreira,2021
+887,5,PS,1,1,1,5,50.35,1,52.18,25885,Paredes,Porto,0,793,1.54,,False,1011,1.97,18,51409,70.35,José Alexandre da Silva Almeida,2021
+888,0,CDS-PP,0,0,1,0,1.11,0,1.14,362,Paços de Ferreira,Porto,0,527,1.62,,False,478,1.47,12,32621,67.66,Paulo Manuel Martins Costa,2021
+889,0,PCP-PEV,0,0,1,0,1.33,0,1.38,435,Paços de Ferreira,Porto,0,527,1.62,,False,478,1.47,12,32621,67.66,José Armando Ramos Amorim,2021
+890,2,PPD/PSD,0,0,1,2,29.03,0,29.95,9470,Paços de Ferreira,Porto,0,527,1.62,,False,478,1.47,12,32621,67.66,Joaquim Agostinho Moreira da Silva Pinto,2021
+891,5,PS,1,1,1,5,64.76,1,66.82,21125,Paços de Ferreira,Porto,0,527,1.62,,False,478,1.47,12,32621,67.66,Humberto Fernando Leão Pacheco de Brito,2021
+892,0,PTP,0,0,1,0,0.69,0,0.71,224,Paços de Ferreira,Porto,0,527,1.62,,False,478,1.47,12,32621,67.66,Floriano de Sousa e Silva,2021
+893,0,B.E.,0,0,1,0,1.12,0,1.15,504,Penafiel,Porto,0,523,1.16,,False,652,1.44,28,45155,72.56,Eva Luisa da Rocha Coelho,2021
+894,0,PCP-PEV,0,0,1,0,1.52,0,1.56,687,Penafiel,Porto,0,523,1.16,,False,652,1.44,28,45155,72.56,Bruno Alexandre Ferreira de Sousa ,2021
+895,5,PPD/PSD.CDS-PP,1,1,1,5,51.87,1,53.25,23420,Penafiel,Porto,0,523,1.16,,False,652,1.44,28,45155,72.56,Antonino Aurélio Vieira de Sousa,2021
+896,4,PS,0,0,1,4,34.84,0,35.77,15731,Penafiel,Porto,0,523,1.16,,False,652,1.44,28,45155,72.56,André Manuel Loureiro Correia Ferreira,2021
+897,0,TR-PT,0,0,1,0,6.22,0,6.38,2808,Penafiel,Porto,0,523,1.16,,False,652,1.44,28,45155,72.56,Vitorino Francisco da Rocha e Silva,2021
+898,0,mmsp,0,0,1,0,1.84,0,1.89,830,Penafiel,Porto,0,523,1.16,,False,652,1.44,28,45155,72.56,Mário José Magalhães Ferreira,2021
+899,0,B.E.,0,0,1,0,5.34,0,5.51,6146,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,João Miguel Trancoso Vaz Teixeira Lopes,2021
+900,0,PAN,0,0,1,0,1.92,0,1.98,2215,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,Bebiana Maria Ribeiro da Cunha,2021
+901,1,PCP-PEV,0,0,1,1,5.89,0,6.07,6781,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,Maria Ilda da Costa Figueiredo,2021
+902,0,PNR,0,0,1,0,0.15,0,0.15,173,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,Sandra Maria Teixeira Martins,2021
+903,1,PPD/PSD.PPM,0,0,1,1,10.39,0,10.71,11952,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,Álvaro Fernando Santos Almeida,2021
+904,0,PPV/CDC,0,0,1,0,0.16,0,0.17,186,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,Orlando Manuel Leite Cruz,2021
+905,4,PS,0,0,1,4,28.55,0,29.43,32856,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,Manuel Francisco Pizarro de Sampaio e Castro,2021
+906,0,PTP,0,0,1,0,0.14,0,0.15,166,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,José Manuel da Costa Pereira,2021
+907,7,RM,1,1,1,7,44.46,1,45.83,51159,Porto,Porto,0,1826,1.59,,False,1613,1.4,7,115073,53.69,Rui de Carvalho de Araújo Moreira,2021
+908,0,B.E.,0,0,1,0,3.93,0,4.12,1176,Póvoa de Varzim,Porto,0,940,3.14,,False,471,1.57,7,29946,49.87,Vítor Eduardo Ferreira Pinto,2021
+909,0,CDS-PP,0,0,1,0,7.57,0,7.94,2267,Póvoa de Varzim,Porto,0,940,3.14,,False,471,1.57,7,29946,49.87,Pedro Luis Nero Guimarães,2021
+910,0,PAN,0,0,1,0,3.94,0,4.14,1180,Póvoa de Varzim,Porto,0,940,3.14,,False,471,1.57,7,29946,49.87,Diana Duarte Vianez,2021
+911,0,PCP-PEV,0,0,1,0,3.14,0,3.3,941,Póvoa de Varzim,Porto,0,940,3.14,,False,471,1.57,7,29946,49.87,José Rui Pereira Fonseca Ferreira,2021
+912,7,PPD/PSD,1,1,1,7,57.7,1,60.56,17280,Póvoa de Varzim,Porto,0,940,3.14,,False,471,1.57,7,29946,49.87,Aires Henrique do Couto Pereira,2021
+913,2,PS,0,0,1,2,19.0,0,19.94,5691,Póvoa de Varzim,Porto,0,940,3.14,,False,471,1.57,7,29946,49.87,Miguel Fernandes Pereira,2021
+914,6,PS,1,1,1,6,53.79,1,55.94,22454,Santo Tirso,Porto,0,990,2.37,,False,608,1.46,14,41740,66.19,Joaquim Barbosa Ferreira Couto,2021
+915,0,PCP-PEV,0,0,1,0,4.27,0,4.46,932,Trofa,Porto,0,516,2.36,,False,422,1.93,5,21832,65.09,Fernando Jorge da Silva e Sá,2021
+916,5,PPD/PSD.CDS-PP,1,1,1,5,59.61,1,62.28,13013,Trofa,Porto,0,516,2.36,,False,422,1.93,5,21832,65.09,Sérgio Humberto Pereira da Silva,2021
+917,2,PS,0,0,1,2,31.83,0,33.26,6949,Trofa,Porto,0,516,2.36,,False,422,1.93,5,21832,65.09,José Amadeu Ferreira Dias,2021
+918,0,B.E.,0,0,1,0,4.21,0,4.44,1861,Valongo,Porto,0,1318,2.98,,False,1019,2.31,4,44206,53.69,Nuno António Dias Monteiro,2021
+919,0,MPT,0,0,1,0,1.58,0,1.66,697,Valongo,Porto,0,1318,2.98,,False,1019,2.31,4,44206,53.69,António Paulo da Rocha Machado,2021
+920,0,PCP-PEV,0,0,1,0,5.22,0,5.51,2308,Valongo,Porto,0,1318,2.98,,False,1019,2.31,4,44206,53.69,Adriano Soares Ribeiro ,2021
+921,3,PPD/PSD.CDS-PP,0,0,1,3,26.39,0,27.87,11667,Valongo,Porto,0,1318,2.98,,False,1019,2.31,4,44206,53.69,Luis Miguel Mendes Ramalho,2021
+922,6,PS,1,1,1,6,57.31,1,60.51,25336,Valongo,Porto,0,1318,2.98,,False,1019,2.31,4,44206,53.69,José Manuel Pereira Ribeiro,2021
+923,0,B.E.,0,0,1,0,5.18,0,5.43,7142,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,Renato Manuel Cordeiro de Moura Soeiro,2021
+924,0,PAN,0,0,1,0,2.57,0,2.7,3546,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,Pedro Jorge Ribeiro de Castro Teixeira,2021
+925,0,PCP-PEV,0,0,1,0,4.51,0,4.74,6226,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,Mário david Ferreirinha Soares,2021
+926,0,PCTP/MRPP,0,0,1,0,0.51,0,0.53,702,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,Cristiano André Ferreira da Silva,2021
+927,0,PDR,0,0,1,0,0.27,0,0.29,376,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,José António de Jesus Vieira da Cunha,2021
+928,2,PPD/PSD.CDS-PP,0,0,1,2,20.3,0,21.31,28019,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,José Joaquim  Cancela Moura,2021
+929,9,PS,1,1,1,9,61.68,1,64.75,85118,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,Eduardo Vitor de Almeida Rodrigues,2021
+930,0,PTP,0,0,1,0,0.24,0,0.25,327,Vila Nova de Gaia,Porto,0,4192,3.04,,False,2358,1.71,15,138006,52.11,Marisa Manuela Jesus Ribeiro,2021
+931,0,B.E.,0,0,1,0,1.82,0,1.88,807,Vila do Conde,Porto,0,745,1.68,,False,675,1.52,21,44389,62.57,António Manuel Louro Miguel,2021
+932,5,NAU,1,1,1,5,47.74,1,49.32,21192,Vila do Conde,Porto,0,745,1.68,,False,675,1.52,21,44389,62.57,Maria Elisa de Carvalho Ferraz ,2021
+933,0,PCP-PEV,0,0,1,0,2.2,0,2.27,975,Vila do Conde,Porto,0,745,1.68,,False,675,1.52,21,44389,62.57,Pedro Miguel da Rocha Martins,2021
+934,1,PPD/PSD.CDS-PP,0,0,1,1,13.02,0,13.45,5781,Vila do Conde,Porto,0,745,1.68,,False,675,1.52,21,44389,62.57,Constantino Fonseca da Silva ,2021
+935,3,PS,0,0,1,3,32.02,0,33.08,14214,Vila do Conde,Porto,0,745,1.68,,False,675,1.52,21,44389,62.57,António Maria da Silva Caetano,2021
+936,1,B.E.,0,0,1,1,10.77,0,11.66,1926,Abrantes,Santarém,0,837,4.68,,False,534,2.99,13,17884,53.77,Armindo Rodrigues Silveira,2021
+937,0,CDS-PP,0,0,1,0,5.39,0,5.84,964,Abrantes,Santarém,0,837,4.68,,False,534,2.99,13,17884,53.77,José Vasco de Lacerda Ruivo Matafome,2021
+938,0,PCP-PEV,0,0,1,0,9.39,0,10.17,1679,Abrantes,Santarém,0,837,4.68,,False,534,2.99,13,17884,53.77,Luis Miguel Pires Lourenço,2021
+939,1,PPD/PSD,0,0,1,1,15.05,0,16.3,2692,Abrantes,Santarém,0,837,4.68,,False,534,2.99,13,17884,53.77,Rui Miguel Mesquita da Silva ,2021
+940,5,PS,1,1,1,5,51.73,1,56.03,9252,Abrantes,Santarém,0,837,4.68,,False,534,2.99,13,17884,53.77,Maria do Céu de Oliveira Antunes Albuquerque,2021
+941,0,PCP-PEV,0,0,1,0,9.12,0,9.66,625,Alcanena,Santarém,0,229,3.34,,False,155,2.26,7,6852,55.64,Carla José Mendes Pereira,2021
+942,2,PPD/PSD.CDS-PP.MPT,0,0,1,2,29.92,0,31.69,2050,Alcanena,Santarém,0,229,3.34,,False,155,2.26,7,6852,55.64,Gabriel de Oliveira Feitor,2021
+943,5,PS,1,1,1,5,55.36,1,58.64,3793,Alcanena,Santarém,0,229,3.34,,False,155,2.26,7,6852,55.64,Fernanda Maria Pereira Asseiceira,2021
+944,0,CDS-PP,0,0,1,0,2.31,0,2.41,212,Almeirim,Santarém,0,228,2.48,,False,164,1.78,4,9195,46.52,João Ricardo Marques Correia Vinagre,2021
+945,1,PCP-PEV,0,0,1,1,11.14,0,11.63,1024,Almeirim,Santarém,0,228,2.48,,False,164,1.78,4,9195,46.52,Sónia Isabel Campos da Silva Colaço,2021
+946,0,PPD/PSD.MPT,0,0,1,0,8.42,0,8.79,774,Almeirim,Santarém,0,228,2.48,,False,164,1.78,4,9195,46.52,Vanessa Filipa Azinheira Cláudio Duarte,2021
+947,6,PS,1,1,1,6,73.88,1,77.17,6793,Almeirim,Santarém,0,228,2.48,,False,164,1.78,4,9195,46.52,Pedro Miguel César Ribeiro,2021
+948,3,PCP-PEV,1,1,1,3,45.64,1,48.46,1762,Alpiarça,Santarém,0,144,3.73,,False,81,2.1,1,3861,61.11,Mário Fernando Atracado Pereira,2021
+949,0,PPD/PSD.CDS-PP.MPT,0,0,1,0,7.54,0,8.0,291,Alpiarça,Santarém,0,144,3.73,,False,81,2.1,1,3861,61.11,Paulo Duarte Paulino Sardinheiro,2021
+950,2,PS,0,0,1,2,41.0,0,43.54,1583,Alpiarça,Santarém,0,144,3.73,,False,81,2.1,1,3861,61.11,Sónia Isabel Fernandes Sanfona Cruz Mendes,2021
+951,0,CDS-PP,0,0,1,0,2.82,0,3.02,300,Benavente,Santarém,0,436,4.11,,False,266,2.5,4,10620,45.38,Fernando José da Costa Pereira Brites,2021
+952,4,PCP-PEV,1,1,1,4,45.5,1,48.72,4832,Benavente,Santarém,0,436,4.11,,False,266,2.5,4,10620,45.38,Carlos António Pinto Coutinho,2021
+953,1,PPD/PSD,0,0,1,1,20.92,0,22.4,2222,Benavente,Santarém,0,436,4.11,,False,266,2.5,4,10620,45.38,Ricardo Alexandre Frade de Oliveira,2021
+954,2,PS,0,0,1,2,24.14,0,25.85,2564,Benavente,Santarém,0,436,4.11,,False,266,2.5,4,10620,45.38,Pedro Nuno Simões Pereira,2021
+955,0,B.E.,0,0,1,0,4.23,0,4.49,450,Cartaxo,Santarém,0,399,3.75,,False,220,2.07,6,10633,51.67,Antóio Manuel Galhardo Rodrigues,2021
+956,0,PCP-PEV,0,0,1,0,9.74,0,10.35,1036,Cartaxo,Santarém,0,399,3.75,,False,220,2.07,6,10633,51.67,Orlando Rodrigo Casqueiro da Silva,2021
+957,2,PPD/PSD.NC,0,0,1,2,27.73,0,29.44,2948,Cartaxo,Santarém,0,399,3.75,,False,220,2.07,6,10633,51.67,Jorge Bruno da Silva Barbosa Gaspar,2021
+958,5,PS,1,1,1,5,52.48,1,55.72,5580,Cartaxo,Santarém,0,399,3.75,,False,220,2.07,6,10633,51.67,Pedro Miguel Magalhães Ribeiro,2021
+959,1,PCP-PEV,0,0,1,1,24.16,0,25.39,1247,Chamusca,Santarém,0,124,2.4,,False,125,2.42,5,5161,63.25,Gisela Maria Azevedo Trincão Matias,2021
+960,1,PPD/PSD.CDS-PP.MPT,0,0,1,1,16.92,0,17.77,873,Chamusca,Santarém,0,124,2.4,,False,125,2.42,5,5161,63.25,Rui Miguel Garrido Conde Andrade Rufino,2021
+961,3,PS,1,1,1,3,54.1,1,56.84,2792,Chamusca,Santarém,0,124,2.4,,False,125,2.42,5,5161,63.25,Paulo Jorge Mira Lucas Cegonho Queimado,2021
+962,0,MIC,0,0,1,0,7.1,0,7.34,173,Constância,Santarém,0,51,2.09,,False,27,1.11,3,2436,72.28,João Carlos Baião da Silva,2021
+963,2,PCP-PEV,0,0,1,2,30.67,0,31.68,747,Constância,Santarém,0,51,2.09,,False,27,1.11,3,2436,72.28,Júlia Maria Gonçalves Lopes de Amorim,2021
+964,3,PS,1,1,1,3,53.82,1,55.6,1311,Constância,Santarém,0,51,2.09,,False,27,1.11,3,2436,72.28,Sérgio Miguel Santos Pereira de Oliveira,2021
+965,2,PCP-PEV,0,0,1,2,23.0,0,24.16,2071,Coruche,Santarém,0,267,2.97,,False,163,1.81,6,9003,53.91,António Manuel Moreira da Silva,2021
+966,1,PPD/PSD,0,0,1,1,15.27,0,16.04,1375,Coruche,Santarém,0,267,2.97,,False,163,1.81,6,9003,53.91,Liliana Sofia Neves Ferreira dos Santos Pinto,2021
+967,4,PS,1,1,1,4,56.95,1,59.8,5127,Coruche,Santarém,0,267,2.97,,False,163,1.81,6,9003,53.91,Francisco Silvestre de Oliveira,2021
+968,1,B.E.,0,0,1,1,12.21,0,12.83,1152,Entroncamento,Santarém,0,262,2.78,,False,195,2.07,2,9436,55.19,Henrique dos Reis Leal,2021
+969,0,CDS-PP,0,0,1,0,7.2,0,7.56,679,Entroncamento,Santarém,0,262,2.78,,False,195,2.07,2,9436,55.19,Pedro Miguel Faria Gonçalves,2021
+970,0,PCP-PEV,0,0,1,0,5.35,0,5.62,505,Entroncamento,Santarém,0,262,2.78,,False,195,2.07,2,9436,55.19,Telma Cristina Antunes Jorge,2021
+971,2,PPD/PSD,0,0,1,2,24.97,0,26.24,2356,Entroncamento,Santarém,0,262,2.78,,False,195,2.07,2,9436,55.19,Jaime Manuel Gonçalves Ramos,2021
+972,4,PS,1,1,1,4,45.43,1,47.74,4287,Entroncamento,Santarém,0,262,2.78,,False,195,2.07,2,9436,55.19,Jorge Manuel Alves de Faria,2021
+973,0,+FZZ,0,0,1,0,5.79,0,6.1,296,Ferreira do Zêzere,Santarém,0,94,1.84,,False,165,3.23,7,5115,69.04,Pedro Alexandre Simões Gonçalves,2021
+974,0,B.E.,0,0,1,0,1.78,0,1.87,91,Ferreira do Zêzere,Santarém,0,94,1.84,,False,165,3.23,7,5115,69.04,Peter Viana Calafate,2021
+975,0,CDS-PP.NC,0,0,1,0,12.65,0,13.32,647,Ferreira do Zêzere,Santarém,0,94,1.84,,False,165,3.23,7,5115,69.04,António Vicente Martins,2021
+976,0,PCP-PEV,0,0,1,0,1.39,0,1.46,71,Ferreira do Zêzere,Santarém,0,94,1.84,,False,165,3.23,7,5115,69.04,António Alves Matos,2021
+977,3,PPD/PSD,1,1,1,3,44.87,1,47.26,2295,Ferreira do Zêzere,Santarém,0,94,1.84,,False,165,3.23,7,5115,69.04,Jacinto Manuel Lopes Cristas Flores,2021
+978,2,PS,0,0,1,2,28.47,0,29.98,1456,Ferreira do Zêzere,Santarém,0,94,1.84,,False,165,3.23,7,5115,69.04,Bruno José da Graça Gomes,2021
+979,1,MSN,0,0,1,1,14.85,0,15.32,468,Golegã,Santarém,0,57,1.81,,False,40,1.27,3,3151,62.94,Pedro Álvaro Ribeiro Terré Rodrigues,2021
+980,1,PCP-PEV,0,0,1,1,19.07,0,19.68,601,Golegã,Santarém,0,57,1.81,,False,40,1.27,3,3151,62.94,Luis Filipe Santana Júlio,2021
+981,0,PPD/PSD,0,0,1,0,6.16,0,6.35,194,Golegã,Santarém,0,57,1.81,,False,40,1.27,3,3151,62.94,Vitor Manuel Borges da Costa,2021
+982,3,PS,1,1,1,3,56.84,1,58.64,1791,Golegã,Santarém,0,57,1.81,,False,40,1.27,3,3151,62.94,José Tavares Veiga Silva Maltez,2021
+983,0,CDS-PP,0,0,1,0,3.53,0,3.72,163,Mação,Santarém,0,96,2.08,,False,136,2.94,6,4619,72.87,Tiago Manuel Marques Dias e Sá,2021
+984,0,PCP-PEV,0,0,1,0,2.34,0,2.46,108,Mação,Santarém,0,96,2.08,,False,136,2.94,6,4619,72.87,Maria de Fátima Girão Domingos Pereira,2021
+985,4,PPD/PSD,1,1,1,4,65.49,1,68.95,3025,Mação,Santarém,0,96,2.08,,False,136,2.94,6,4619,72.87,Vasco António Mendonça Sequeira Estrela,2021
+986,1,PS,0,0,1,1,23.62,0,24.87,1091,Mação,Santarém,0,96,2.08,,False,136,2.94,6,4619,72.87,Nuno Manuel Pedro Barreta,2021
+987,0,MOVE,0,0,1,0,9.29,0,9.86,2198,Ourém,Santarém,0,747,3.16,,False,626,2.65,13,23665,56.05,Vitor Manuel de Jesus Frazão,2021
+988,0,PCP-PEV,0,0,1,0,3.25,0,3.45,769,Ourém,Santarém,0,747,3.16,,False,626,2.65,13,23665,56.05,Sérgio José Ferreira Ribeiro,2021
+989,4,PPD/PSD.CDS-PP,1,1,1,4,47.24,1,50.15,11179,Ourém,Santarém,0,747,3.16,,False,626,2.65,13,23665,56.05,Luis Miguel Marques Grossinho Coutinho Albuquerque,2021
+990,3,PS,0,0,1,3,34.42,0,36.54,8146,Ourém,Santarém,0,747,3.16,,False,626,2.65,13,23665,56.05,Cília Maria de Jesus Seixo,2021
+991,0,B.E.,0,0,1,0,2.61,0,2.72,270,Rio Maior,Santarém,0,239,2.31,,False,195,1.88,10,10362,57.95,Francisco Daniel de Oliveira Pascoal,2021
+992,0,PCP-PEV,0,0,1,0,9.98,0,10.41,1034,Rio Maior,Santarém,0,239,2.31,,False,195,1.88,10,10362,57.95,Augusto Manuel Gonçalves Figueiredo,2021
+993,5,PPD/PSD.CDS-PP,1,1,1,5,52.87,1,55.18,5478,Rio Maior,Santarém,0,239,2.31,,False,195,1.88,10,10362,57.95,Isaura Maria Elias Crisóstomo Morais,2021
+994,2,PS,0,0,1,2,30.36,0,31.69,3146,Rio Maior,Santarém,0,239,2.31,,False,195,1.88,10,10362,57.95,Daniel Alexandre Pulquério Pinto,2021
+995,2,B.E.,0,0,1,2,22.48,0,23.79,2110,Salvaterra de Magos,Santarém,0,296,3.15,,False,221,2.35,4,9387,50.44,Ana Cristina Pardal Ribeiro,2021
+996,0,PCP-PEV,0,0,1,0,10.01,0,10.6,940,Salvaterra de Magos,Santarém,0,296,3.15,,False,221,2.35,4,9387,50.44,Francisco Modesto Nunes Monteiro,2021
+997,0,PPD/PSD.CDS-PP,0,0,1,0,9.47,0,10.02,889,Salvaterra de Magos,Santarém,0,296,3.15,,False,221,2.35,4,9387,50.44,Ana Maria Pessoa Oliveira Antunes,2021
+998,5,PS,1,1,1,5,52.53,1,55.59,4931,Salvaterra de Magos,Santarém,0,296,3.15,,False,221,2.35,4,9387,50.44,Hélder Manuel Ramalho de Sousa Esménio,2021
+999,0,B.E.,0,0,1,0,4.05,0,4.26,1124,Santarém,Santarém,0,907,3.27,,False,500,1.8,18,27776,53.71,Filipa Avelino das Neves Filipe,2021
+1000,0,CDS-PP,0,0,1,0,5.43,0,5.72,1509,Santarém,Santarém,0,907,3.27,,False,500,1.8,18,27776,53.71,António Xavier Martins da Rocha Pinto,2021
+1001,0,PCP-PEV,0,0,1,0,7.63,0,8.04,2119,Santarém,Santarém,0,907,3.27,,False,500,1.8,18,27776,53.71,José Luis Marques Cabrita,2021
+1002,0,PNR,0,0,1,0,0.58,0,0.61,162,Santarém,Santarém,0,907,3.27,,False,500,1.8,18,27776,53.71,Carlos Alberto Teles,2021
+1003,5,PPD/PSD,1,1,1,5,43.19,1,45.5,11997,Santarém,Santarém,0,907,3.27,,False,500,1.8,18,27776,53.71,Ricardo Gonçalves Ribeiro Gonçalves,2021
+1004,4,PS,0,0,1,4,34.05,0,35.87,9458,Santarém,Santarém,0,907,3.27,,False,500,1.8,18,27776,53.71,Rui Pedro de Sousa Barreiro,2021
+1005,0,PCP-PEV,0,0,1,0,3.11,0,3.26,76,Sardoal,Santarém,0,74,3.03,,False,41,1.68,4,2446,73.32,Maria Fernanda Marques Castelo Branco,2021
+1006,3,PPD/PSD,1,1,1,3,56.13,1,58.9,1373,Sardoal,Santarém,0,74,3.03,,False,41,1.68,4,2446,73.32,António Miguel Cabedal Borges,2021
+1007,2,PS,0,0,1,2,36.06,0,37.84,882,Sardoal,Santarém,0,74,3.03,,False,41,1.68,4,2446,73.32,Pedro Miguel Lobato Duque,2021
+1008,0,B.E.,0,0,1,0,6.02,0,6.45,1194,Tomar,Santarém,0,730,3.68,,False,565,2.85,11,19820,56.93,Luís Carlos Graça Reis Santos,2021
+1009,0,CDS-PP,0,0,1,0,3.34,0,3.57,661,Tomar,Santarém,0,730,3.68,,False,565,2.85,11,19820,56.93,Nuno Miguel da Conceição Ribeiro,2021
+1010,0,PCP-PEV,0,0,1,0,7.81,0,8.36,1548,Tomar,Santarém,0,730,3.68,,False,565,2.85,11,19820,56.93,Bruno Vítor Domingos Graça,2021
+1011,3,PPD/PSD,0,0,1,3,34.39,0,36.8,6817,Tomar,Santarém,0,730,3.68,,False,565,2.85,11,19820,56.93,José Manuel Mendes Delgado,2021
+1012,4,PS,1,1,1,4,40.22,1,43.03,7972,Tomar,Santarém,0,730,3.68,,False,565,2.85,11,19820,56.93,Anabela Gaspar de Freitas,2021
+1013,0,PTP,0,0,1,0,1.68,0,1.8,333,Tomar,Santarém,0,730,3.68,,False,565,2.85,11,19820,56.93,Américo Matos Fernandes Costa,2021
+1014,0,CDS-PP,0,0,1,0,4.31,0,4.58,745,Torres Novas,Santarém,0,596,3.45,,False,405,2.35,10,17268,54.68,Miguel José de Lima Bento,2021
+1015,0,PCP-PEV,0,0,1,0,9.3,0,9.87,1606,Torres Novas,Santarém,0,596,3.45,,False,405,2.35,10,17268,54.68,Ana Filipa de Castro Rodrigues,2021
+1016,1,PPD/PSD,0,0,1,1,14.85,0,15.77,2565,Torres Novas,Santarém,0,596,3.45,,False,405,2.35,10,17268,54.68,João Carlos Marques Quaresma de Oliveira,2021
+1017,5,PS,1,1,1,5,51.27,1,54.42,8853,Torres Novas,Santarém,0,596,3.45,,False,405,2.35,10,17268,54.68,Pedro Paulo Ramos Ferreira,2021
+1018,0,PCP-PEV,0,0,1,0,11.88,0,12.61,418,Vila Nova da Barquinha,Santarém,0,125,3.55,,False,81,2.3,4,3520,56.14,Maria João Botelho Gonçalves,2021
+1019,1,PPD/PSD.CDS-PP,0,0,1,1,17.1,0,18.17,602,Vila Nova da Barquinha,Santarém,0,125,3.55,,False,81,2.3,4,3520,56.14,Cláudia Virginia Viegas Fernandes Evangelho Soares Ferreira,2021
+1020,4,PS,1,1,1,4,65.17,1,69.22,2294,Vila Nova da Barquinha,Santarém,0,125,3.55,,False,81,2.3,4,3520,56.14,Fernando Manuel dos Santos Freire,2021
+1021,2,CDS-PP.PPD/PSD,0,0,1,2,23.65,0,25.89,1963,Alcochete,Setúbal,0,244,2.94,,False,472,5.69,3,8299,56.76,Vasco André Marques Pinto,2021
+1022,2,PCP-PEV,0,0,1,2,32.12,0,35.16,2666,Alcochete,Setúbal,0,244,2.94,,False,472,5.69,3,8299,56.76,José Luís dos Santos Alfélua Ferreira,2021
+1023,0,PCTP/MRPP,0,0,1,0,1.18,0,1.29,98,Alcochete,Setúbal,0,244,2.94,,False,472,5.69,3,8299,56.76,Luis Manuel Baptista Gonçalves,2021
+1024,3,PS,1,0,1,3,34.41,1,37.66,2856,Alcochete,Setúbal,0,244,2.94,,False,472,5.69,3,8299,56.76,Fernando Manuel Gonçalves Pina Pinto,2021
+1025,0,B.E.,0,0,1,0,3.48,0,3.61,220,Alcácer do Sal,Setúbal,0,117,1.85,,False,99,1.57,4,6314,59.54,Ana Maria Caixeirinho Penas,2021
+1026,4,PCP-PEV,1,1,1,4,46.82,1,48.47,2956,Alcácer do Sal,Setúbal,0,117,1.85,,False,99,1.57,4,6314,59.54,Vítor Manuel Chaves de Caro Proença,2021
+1027,0,PPD/PSD.CDS-PP,0,0,1,0,4.99,0,5.17,315,Alcácer do Sal,Setúbal,0,117,1.85,,False,99,1.57,4,6314,59.54,Frederico de Albuquerque D'Orey,2021
+1028,3,PS,0,0,1,3,41.29,0,42.75,2607,Alcácer do Sal,Setúbal,0,117,1.85,,False,99,1.57,4,6314,59.54,Clarisse Gaudino Veredas Campos,2021
+1029,1,B.E.,0,0,1,1,9.64,0,10.15,6409,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,Joana Rodrigues Mortágua,2021
+1030,0,CDS-PP,0,0,1,0,2.55,0,2.68,1694,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,António Pedro Rodrigues do Livramento Maco,2021
+1031,0,PAN,0,0,1,0,3.89,0,4.1,2588,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,Artur Jorge de Jesus Alfama,2021
+1032,4,PCP-PEV,0,0,1,4,30.84,0,32.46,20497,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,Joaquim Estevão Miguel Judas,2021
+1033,0,PCTP/MRPP,0,0,1,0,1.82,0,1.92,1211,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,Manuel de Lima e Silva,2021
+1034,0,PNR,0,0,1,0,0.44,0,0.46,290,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,João Carlos Pereira Melo do Patrocínio,2021
+1035,2,PPD/PSD,0,0,1,2,14.08,0,14.83,9362,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,Nuno Filipe Miragaia Matias,2021
+1036,4,PS,1,0,1,4,31.46,1,33.11,20910,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,Inês de Saint-Maurice Esteves de Medeiros Victorino de Almeida,2021
+1037,0,PTP,0,0,1,0,0.28,0,0.29,185,Almada,Setúbal,0,1914,2.88,,False,1412,2.12,5,66472,44.23,Sara Filipa Pinho Vilhena Dias,2021
+1038,0,B.E.,0,0,1,0,6.71,0,6.98,2302,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,Mário Durval Póvoa do Rosário,2021
+1039,0,CDS-PP,0,0,1,0,1.6,0,1.67,550,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,Jorge Miguel Esteves Teixeira,2021
+1040,0,PAN,0,0,1,0,2.73,0,2.84,937,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,Durval José Ferreira Próspero Salema,2021
+1041,4,PCP-PEV,0,0,1,4,33.28,0,34.62,11414,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,Sofia Amaro Martins,2021
+1042,0,PCTP/MRPP,0,0,1,0,1.73,0,1.8,593,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,Carlos Manuel Duarte Costa Gomes,2021
+1043,0,PNR,0,0,1,0,1.14,0,1.19,392,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,José Manuel Vaz de Almeida,2021
+1044,1,PPD/PSD,0,0,1,1,11.39,0,11.85,3906,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,Bruno Jorge Viegas Vitorino,2021
+1045,4,PS,1,0,1,4,37.54,1,39.05,12876,Barreiro,Setúbal,0,714,2.08,,False,611,1.78,4,34295,49.97,Frederico Alexandre Aljustrel da Costa Rosa,2021
+1046,0,B.E.,0,0,1,0,1.21,0,1.24,91,Grândola,Setúbal,0,107,1.42,,False,90,1.19,4,7532,61.91,José Ramos dos Santos,2021
+1047,1,GM,0,0,1,1,12.97,0,13.32,977,Grândola,Setúbal,0,107,1.42,,False,90,1.19,4,7532,61.91,António Francisco Palhinhas Candeias,2021
+1048,4,PCP-PEV,1,1,1,4,43.48,1,44.65,3275,Grândola,Setúbal,0,107,1.42,,False,90,1.19,4,7532,61.91,António de Jesus Figueira Mendes,2021
+1049,0,PNR,0,0,1,0,0.46,0,0.48,35,Grândola,Setúbal,0,107,1.42,,False,90,1.19,4,7532,61.91,David Miguel Cheinho Mariano,2021
+1050,0,PPD/PSD,0,0,1,0,7.81,0,8.02,588,Grândola,Setúbal,0,107,1.42,,False,90,1.19,4,7532,61.91,Sónia dos Reis,2021
+1051,2,PS,0,0,1,2,31.45,0,32.3,2369,Grândola,Setúbal,0,107,1.42,,False,90,1.19,4,7532,61.91,Aníbal Manuel Guerreiro Cordeiro ,2021
+1052,1,B.E.,0,0,1,1,10.35,0,10.88,2565,Moita,Setúbal,0,649,2.62,,False,573,2.31,4,24790,42.76,Joaquim Inácio Raminhos Cabaça,2021
+1053,0,PAN,0,0,1,0,3.59,0,3.78,890,Moita,Setúbal,0,649,2.62,,False,573,2.31,4,24790,42.76,Helder António Neves da Silva,2021
+1054,4,PCP-PEV,1,0,1,4,41.04,1,43.16,10173,Moita,Setúbal,0,649,2.62,,False,573,2.31,4,24790,42.76,Rui Manuel Marques Garcia,2021
+1055,0,PCTP/MRPP,0,0,1,0,2.69,0,2.83,667,Moita,Setúbal,0,649,2.62,,False,573,2.31,4,24790,42.76,Leonel Eusébio Coelho,2021
+1056,1,PPD/PSD.CDS-PP.MPT,0,0,1,1,8.45,0,8.89,2095,Moita,Setúbal,0,649,2.62,,False,573,2.31,4,24790,42.76,Luis Fernando Vaz do Nascimento,2021
+1057,3,PS,0,0,1,3,28.96,0,30.46,7178,Moita,Setúbal,0,649,2.62,,False,573,2.31,4,24790,42.76,Luis Fernando Marta Ribeiro Chula,2021
+1058,0,PAN,0,0,1,0,2.43,0,2.55,460,Montijo,Setúbal,0,550,2.91,,False,298,1.58,5,18913,44.24,Filipe Alexandre Pacheco Rodrigues,2021
+1059,2,PCP-PEV,0,0,1,2,20.11,0,21.05,3803,Montijo,Setúbal,0,550,2.91,,False,298,1.58,5,18913,44.24,Carlos Jorge Antunes de Almeida,2021
+1060,0,PCTP/MRPP,0,0,1,0,1.64,0,1.72,310,Montijo,Setúbal,0,550,2.91,,False,298,1.58,5,18913,44.24,Rogério da Veiga Pinto dos Santos,2021
+1061,1,PPD/PSD.CDS-PP,0,0,1,1,19.44,0,20.35,3676,Montijo,Setúbal,0,550,2.91,,False,298,1.58,5,18913,44.24,João Manuel Pereira Afonso,2021
+1062,4,PS,1,1,1,4,45.42,1,47.56,8591,Montijo,Setúbal,0,550,2.91,,False,298,1.58,5,18913,44.24,Nuno Miguel Caramujo Ribeira Canta,2021
+1063,0,PTP,0,0,1,0,1.4,0,1.47,265,Montijo,Setúbal,0,550,2.91,,False,298,1.58,5,18913,44.24,Luís Miguel Camarinha da Ponte,2021
+1064,0,B.E.,0,0,1,0,6.02,0,6.34,1391,Palmela,Setúbal,0,694,3.0,,False,484,2.09,4,23104,43.51,Carlos Manuel da Silva Oliveira,2021
+1065,1,MIM,0,0,1,1,8.21,0,8.65,1896,Palmela,Setúbal,0,694,3.0,,False,484,2.09,4,23104,43.51,José Calado Gertrudes,2021
+1066,4,PCP-PEV,1,0,1,4,40.67,1,42.86,9397,Palmela,Setúbal,0,694,3.0,,False,484,2.09,4,23104,43.51,Álvaro Manuel Balseiro Amaro,2021
+1067,1,PPD/PSD.CDS-PP,0,0,1,1,11.69,0,12.32,2702,Palmela,Setúbal,0,694,3.0,,False,484,2.09,4,23104,43.51,Paulo Jorge Simões Ribeiro,2021
+1068,3,PS,0,0,1,3,28.31,0,29.83,6540,Palmela,Setúbal,0,694,3.0,,False,484,2.09,4,23104,43.51,Raul Manuel Ribeiro Pinto Cristóvão,2021
+1069,0,B.E.,0,0,1,0,6.87,0,7.23,918,Santiago do Cacém,Setúbal,0,381,2.85,,False,281,2.1,8,13362,54.52,Bruno Alexandre da Silva Candeias,2021
+1070,4,PCP-PEV,1,1,1,4,45.61,1,47.98,6094,Santiago do Cacém,Setúbal,0,381,2.85,,False,281,2.1,8,13362,54.52,Álvaro dos Santos Beijinha,2021
+1071,1,PPD/PSD.CDS-PP,0,0,1,1,15.37,0,16.17,2054,Santiago do Cacém,Setúbal,0,381,2.85,,False,281,2.1,8,13362,54.52,Luís Filipe dos Santos,2021
+1072,2,PS,0,0,1,2,27.2,0,28.61,3634,Santiago do Cacém,Setúbal,0,381,2.85,,False,281,2.1,8,13362,54.52,Óscar Domingos Ramos,2021
+1073,1,B.E.,0,0,1,1,7.48,0,7.91,4442,Seixal,Setúbal,0,1891,3.18,,False,1353,2.28,4,59421,43.28,Luís Manuel Rendeiro Cordeiro,2021
+1074,0,CDS-PP,0,0,1,0,2.76,0,2.92,1639,Seixal,Setúbal,0,1891,3.18,,False,1353,2.28,4,59421,43.28,Humberto Francisco Guerreiro Batardo,2021
+1075,0,PAN,0,0,1,0,4.12,0,4.36,2448,Seixal,Setúbal,0,1891,3.18,,False,1353,2.28,4,59421,43.28,Nuno André Batista Nunes,2021
+1076,5,PCP-PEV,1,0,1,5,36.54,1,38.65,21715,Seixal,Setúbal,0,1891,3.18,,False,1353,2.28,4,59421,43.28,Joaquim Cesário Cardador dos Santos,2021
+1077,1,PPD/PSD,0,0,1,1,11.84,0,12.52,7036,Seixal,Setúbal,0,1891,3.18,,False,1353,2.28,4,59421,43.28,Manuel Pires de Andrade Pereira,2021
+1078,4,PS,0,0,1,4,31.44,0,33.25,18679,Seixal,Setúbal,0,1891,3.18,,False,1353,2.28,4,59421,43.28,Eduardo Manuel Rodrigues,2021
+1079,0,PTP,0,0,1,0,0.37,0,0.39,218,Seixal,Setúbal,0,1891,3.18,,False,1353,2.28,4,59421,43.28,António Carlos da Costa Andrade,2021
+1080,0,B.E.,0,0,1,0,5.69,0,6.02,1089,Sesimbra,Setúbal,0,580,3.03,,False,472,2.47,3,19136,44.48,Adelino Manuel Guimarães Fortunato,2021
+1081,4,PCP-PEV,1,1,1,4,41.62,1,44.04,7964,Sesimbra,Setúbal,0,580,3.03,,False,472,2.47,3,19136,44.48,Francisco Manuel Firmino de Jesus,2021
+1082,1,PPD/PSD.CDS-PP,0,0,1,1,10.17,0,10.77,1947,Sesimbra,Setúbal,0,580,3.03,,False,472,2.47,3,19136,44.48,Francisco José Pereira Luís,2021
+1083,2,PS,0,0,1,2,27.71,0,29.32,5302,Sesimbra,Setúbal,0,580,3.03,,False,472,2.47,3,19136,44.48,Américo Manuel Machado Gegaloto,2021
+1084,0,msu,0,0,1,0,9.31,0,9.85,1782,Sesimbra,Setúbal,0,580,3.03,,False,472,2.47,3,19136,44.48,Maria Argentina Amiano Marques,2021
+1085,0,B.E.,0,0,1,0,5.24,0,5.46,2354,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Sandra Mestre da Cunha,2021
+1086,0,CDS-PP,0,0,1,0,3.2,0,3.33,1437,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Ana Clara de Sousa Birrento Matos Silva,2021
+1087,0,PAN,0,0,1,0,2.86,0,2.98,1286,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Luís Humberto Pacheco Ferreira Teixeira,2021
+1088,7,PCP-PEV,1,1,1,7,49.95,1,52.03,22429,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Maria das Dores Marques Banheiro Meira,2021
+1089,0,PCTP/MRPP,0,0,1,0,1.78,0,1.86,801,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Fernando Eusébio Brazinha Firmino,2021
+1090,1,PPD/PSD,0,0,1,1,10.94,0,11.39,4910,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Nuno Miguel Oliveira de Carvalho,2021
+1091,3,PS,0,0,1,3,21.78,0,22.68,9777,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Fernando Jorge de Oliveira Paulino,2021
+1092,0,PTP,0,0,1,0,0.26,0,0.27,115,Setúbal,Setúbal,0,1099,2.45,,False,692,1.54,5,44900,43.07,Sandra Isabel da Encarnação,2021
+1093,0,B.E.,0,0,1,0,2.63,0,2.75,168,Sines,Setúbal,0,167,2.62,,False,114,1.79,2,6382,52.43,Vítor Manuel Silvestre do Espírito Santo Pereira,2021
+1094,0,CDS-PP.MPT.PPM,0,0,1,0,2.73,0,2.85,174,Sines,Setúbal,0,167,2.62,,False,114,1.79,2,6382,52.43,Paulo César Lála de Freitas,2021
+1095,1,PCP-PEV,0,0,1,1,16.39,0,17.14,1046,Sines,Setúbal,0,167,2.62,,False,114,1.79,2,6382,52.43,Hélder Alexandre Gil Guerreiro,2021
+1096,5,PS,1,1,1,5,58.59,1,61.29,3739,Sines,Setúbal,0,167,2.62,,False,114,1.79,2,6382,52.43,Nuno José Gonçalves Mascarenhas,2021
+1097,1,SIM,0,0,1,1,15.26,0,15.96,974,Sines,Setúbal,0,167,2.62,,False,114,1.79,2,6382,52.43,José Arcanjo Ferreira Costa,2021
+1098,0,CDS-PP,0,0,1,0,5.62,0,5.92,802,Arcos de Valdevez,Viana do Castelo,0,513,3.6,,False,204,1.43,36,14267,53.63,Fernando João Fernandes Fonseca,2021
+1099,0,PCP-PEV,0,0,1,0,3.86,0,4.07,551,Arcos de Valdevez,Viana do Castelo,0,513,3.6,,False,204,1.43,36,14267,53.63,Filipe Machado Faro da Costa,2021
+1100,6,PPD/PSD,1,1,1,6,67.81,1,71.39,9674,Arcos de Valdevez,Viana do Castelo,0,513,3.6,,False,204,1.43,36,14267,53.63,João Manuel do Amaral Esteves,2021
+1101,1,PS,0,0,1,1,17.68,0,18.62,2523,Arcos de Valdevez,Viana do Castelo,0,513,3.6,,False,204,1.43,36,14267,53.63,Dora Maria Ramos Brandão Machado Cruz,2021
+1102,0,CDS-PP,0,0,1,0,1.29,0,1.34,139,Caminha,Viana do Castelo,0,228,2.12,,False,163,1.52,14,10737,64.4,Ricardo António Fernandes Lopes,2021
+1103,0,PCP-PEV,0,0,1,0,2.78,0,2.88,298,Caminha,Viana do Castelo,0,228,2.12,,False,163,1.52,14,10737,64.4,João Lourenço Cravinho Alves Pires,2021
+1104,3,PPD/PSD,0,0,1,3,39.14,0,40.61,4202,Caminha,Viana do Castelo,0,228,2.12,,False,163,1.52,14,10737,64.4,Júlia Paula Pires Pereira da Costa,2021
+1105,4,PS,1,1,1,4,53.15,1,55.16,5707,Caminha,Viana do Castelo,0,228,2.12,,False,163,1.52,14,10737,64.4,Luís Miguel da Silva Mendonça Alves,2021
+1106,2,PPD/PSD.CDS-PP,0,0,1,2,32.39,0,34.2,1648,Melgaço,Viana do Castelo,0,176,3.46,,False,93,1.83,13,5088,46.12,Vitor Silvio Cardadeiro ,2021
+1107,5,PS,1,1,1,5,59.98,1,63.33,3052,Melgaço,Viana do Castelo,0,176,3.46,,False,93,1.83,13,5088,46.12,Manoel Batista Calçada Pombal,2021
+1108,0,CDS-PP,0,0,1,0,4.93,0,5.13,605,Monção,Viana do Castelo,0,263,2.14,,False,231,1.88,24,12283,60.09,José Luís Fernandes Alves,2021
+1109,0,PCP-PEV,0,0,1,0,1.04,0,1.09,128,Monção,Viana do Castelo,0,263,2.14,,False,231,1.88,24,12283,60.09,Maria Amélia Vaz Barbeitos,2021
+1110,4,PPD/PSD,1,1,1,4,47.01,1,48.98,5774,Monção,Viana do Castelo,0,263,2.14,,False,231,1.88,24,12283,60.09,António José Fernandes Barbosa,2021
+1111,3,PS,0,0,1,3,43.0,0,44.8,5282,Monção,Viana do Castelo,0,263,2.14,,False,231,1.88,24,12283,60.09,Augusto Henrique de Oliveira Domingues,2021
+1112,0,PCP-PEV,0,0,1,0,4.68,0,4.89,262,Paredes de Coura,Viana do Castelo,0,147,2.63,,False,94,1.68,16,5594,61.53,José Manuel da Cunha Alves,2021
+1113,0,PPD/PSD,0,0,1,0,14.43,0,15.08,807,Paredes de Coura,Viana do Castelo,0,147,2.63,,False,94,1.68,16,5594,61.53,Venâncio Fernandes,2021
+1114,5,PS,1,1,1,5,76.58,1,80.03,4284,Paredes de Coura,Viana do Castelo,0,147,2.63,,False,94,1.68,16,5594,61.53,Vítor Paulo Gomes Pereira,2021
+1115,0,CDS-PP,0,0,1,0,1.28,0,1.32,109,Ponte da Barca,Viana do Castelo,0,154,1.81,,False,106,1.24,17,8516,61.04,Luís Francisco Pereira de Lacerda,2021
+1116,0,PCP-PEV,0,0,1,0,1.39,0,1.43,118,Ponte da Barca,Viana do Castelo,0,154,1.81,,False,106,1.24,17,8516,61.04,Afonso Manuel Graçoeiro Gonçalves,2021
+1117,4,PPD/PSD,1,1,1,4,54.15,1,55.85,4611,Ponte da Barca,Viana do Castelo,0,154,1.81,,False,106,1.24,17,8516,61.04,Augusto Manuel dos Reis Marinho,2021
+1118,3,PS,0,0,1,3,40.14,0,41.4,3418,Ponte da Barca,Viana do Castelo,0,154,1.81,,False,106,1.24,17,8516,61.04,Inocêncio Lobo de Araújo,2021
+1119,5,CDS-PP,1,1,1,5,52.11,1,54.03,14606,Ponte de Lima,Viana do Castelo,0,570,2.03,,False,427,1.52,39,28028,66.72,Victor Manuel Alves Mendes,2021
+1120,0,M51,0,0,1,0,7.08,0,7.34,1985,Ponte de Lima,Viana do Castelo,0,570,2.03,,False,427,1.52,39,28028,66.72,António Manuel Rego Campêlo,2021
+1121,0,PCP-PEV,0,0,1,0,2.78,0,2.88,779,Ponte de Lima,Viana do Castelo,0,570,2.03,,False,427,1.52,39,28028,66.72,João Francisco Soares Pereira Gomes,2021
+1122,2,PLMT,0,0,1,2,23.66,0,24.53,6631,Ponte de Lima,Viana do Castelo,0,570,2.03,,False,427,1.52,39,28028,66.72,Abel Lima Baptista,2021
+1123,0,PPD/PSD,0,0,1,0,10.3,0,10.68,2888,Ponte de Lima,Viana do Castelo,0,570,2.03,,False,427,1.52,39,28028,66.72,Manuel Pereira da Rocha Barros,2021
+1124,0,PPM,0,0,1,0,0.51,0,0.53,142,Ponte de Lima,Viana do Castelo,0,570,2.03,,False,427,1.52,39,28028,66.72,Manuel Ribeiro da Costa,2021
+1125,0,CDS-PP,0,0,1,0,2.65,0,2.75,209,Valença,Viana do Castelo,0,174,2.21,,False,118,1.5,11,7885,58.76,Pedro Manuel Guedes de Lemos,2021
+1126,0,PCP-PEV,0,0,1,0,3.22,0,3.35,254,Valença,Viana do Castelo,0,174,2.21,,False,118,1.5,11,7885,58.76,Alípio Nunes Vaz de Sousa,2021
+1127,5,PPD/PSD,1,1,1,5,57.29,1,59.49,4517,Valença,Viana do Castelo,0,174,2.21,,False,118,1.5,11,7885,58.76,Jorge Manuel Salgueiro Mendes,2021
+1128,2,PS,0,0,1,2,33.14,0,34.41,2613,Valença,Viana do Castelo,0,174,2.21,,False,118,1.5,11,7885,58.76,Anabela de Jesus Sousa Rodrigues,2021
+1129,0,B.E.,0,0,1,0,5.32,0,5.64,2502,Viana do Castelo,Viana do Castelo,0,1797,3.82,,False,840,1.79,27,47013,55.19,Luís Filipe de Oliveira Louro,2021
+1130,0,CDS-PP.PPM,0,0,1,0,5.67,0,6.0,2664,Viana do Castelo,Viana do Castelo,0,1797,3.82,,False,840,1.79,27,47013,55.19,Ilda Maria Menezes de Araujo Novo,2021
+1131,1,PCP-PEV,0,0,1,1,8.11,0,8.59,3812,Viana do Castelo,Viana do Castelo,0,1797,3.82,,False,840,1.79,27,47013,55.19,Cláudia Cristina Viana Marinho,2021
+1132,0,PDR,0,0,1,0,0.37,0,0.39,172,Viana do Castelo,Viana do Castelo,0,1797,3.82,,False,840,1.79,27,47013,55.19,Filipe Leite da Costa,2021
+1133,2,PPD/PSD,0,0,1,2,21.25,0,22.51,9991,Viana do Castelo,Viana do Castelo,0,1797,3.82,,False,840,1.79,27,47013,55.19,Manuel Hermenegildo Ribeiro da Costa,2021
+1134,6,PS,1,1,1,6,53.68,1,56.87,25235,Viana do Castelo,Viana do Castelo,0,1797,3.82,,False,840,1.79,27,47013,55.19,José Maria da Cunha Costa,2021
+1135,0,PCP-PEV,0,0,1,0,1.63,0,1.71,95,Vila Nova de Cerveira,Viana do Castelo,0,162,2.78,,False,109,1.87,11,5837,67.13,Eusébio da Silva Moreno,2021
+1136,2,PS,0,0,1,2,35.5,0,37.23,2072,Vila Nova de Cerveira,Viana do Castelo,0,162,2.78,,False,109,1.87,11,5837,67.13,Nuno André Costa Martins da Silva,2021
+1137,3,PenCe,1,1,1,3,58.23,1,61.07,3399,Vila Nova de Cerveira,Viana do Castelo,0,162,2.78,,False,109,1.87,11,5837,67.13,João Fernando Brito Nogueira,2021
+1138,0,B.E.,0,0,1,0,9.33,0,9.8,745,Alijó,Vila Real,0,158,1.98,,False,225,2.82,14,7983,65.06,Jorge Luís Monteiro de Carvalho,2021
+1139,0,PCP-PEV,0,0,1,0,2.66,0,2.79,212,Alijó,Vila Real,0,158,1.98,,False,225,2.82,14,7983,65.06,Pedro Carvalho Marques Perry da Câmara,2021
+1140,4,PPD/PSD.CDS-PP,1,1,1,4,44.69,1,46.95,3568,Alijó,Vila Real,0,158,1.98,,False,225,2.82,14,7983,65.06,José Rodrigues Paredes,2021
+1141,3,PS,0,0,1,3,38.52,0,40.46,3075,Alijó,Vila Real,0,158,1.98,,False,225,2.82,14,7983,65.06,Luís Miguel Gonçalves Rodrigues,2021
+1142,0,PCP-PEV,0,0,1,0,4.68,0,4.95,193,Boticas,Vila Real,0,108,2.62,,False,113,2.74,10,4123,52.14,José Miguel Afonso Fernandes,2021
+1143,5,PPD/PSD,1,1,1,5,76.18,1,80.5,3141,Boticas,Vila Real,0,108,2.62,,False,113,2.74,10,4123,52.14,Fernando Eirão Queiroga,2021
+1144,0,PS,0,0,1,0,13.78,0,14.56,568,Boticas,Vila Real,0,108,2.62,,False,113,2.74,10,4123,52.14,Adérito Vaz Pinto,2021
+1145,0,B.E.,0,0,1,0,1.34,0,1.4,331,Chaves,Vila Real,0,568,2.3,,False,481,1.95,39,24725,55.37,Marcelo Leandro Araújo Pires Rodrigues,2021
+1146,0,CDS-PP,0,0,1,0,2.39,0,2.5,591,Chaves,Vila Real,0,568,2.3,,False,481,1.95,39,24725,55.37,Maria Teresa Morais Sarmento de Campos,2021
+1147,0,PCP-PEV,0,0,1,0,5.65,0,5.9,1396,Chaves,Vila Real,0,568,2.3,,False,481,1.95,39,24725,55.37,Manuel Justino Matos Cunha,2021
+1148,3,PPD/PSD,0,0,1,3,34.95,0,36.5,8641,Chaves,Vila Real,0,568,2.3,,False,481,1.95,39,24725,55.37,António Cândido Monteiro Cabeleira,2021
+1149,4,PS,1,1,1,4,51.43,1,53.71,12717,Chaves,Vila Real,0,568,2.3,,False,481,1.95,39,24725,55.37,Nuno Vaz Ribeiro,2021
+1150,0,B.E.,0,0,1,0,12.78,0,13.23,353,Mesão Frio,Vila Real,0,38,1.38,,False,56,2.03,5,2762,70.39,Mário Luís Mendes de Sousa Pinto,2021
+1151,0,CDS-PP,0,0,1,0,0.98,0,1.01,27,Mesão Frio,Vila Real,0,38,1.38,,False,56,2.03,5,2762,70.39,João Luís Marques Rebelo da Silva,2021
+1152,0,PCP-PEV,0,0,1,0,0.94,0,0.97,26,Mesão Frio,Vila Real,0,38,1.38,,False,56,2.03,5,2762,70.39,Armando Augusto Branquinho Pinto,2021
+1153,1,PPD/PSD,0,0,1,1,20.35,0,21.06,562,Mesão Frio,Vila Real,0,38,1.38,,False,56,2.03,5,2762,70.39,Eduardo Cassiano Nogueira Pinto de Miranda,2021
+1154,4,PS,1,1,1,4,61.55,1,63.72,1700,Mesão Frio,Vila Real,0,38,1.38,,False,56,2.03,5,2762,70.39,Alberto Monteiro Pereira,2021
+1155,1,CDS-PP,0,0,1,1,23.28,0,24.01,1102,Mondim de Basto,Vila Real,0,70,1.48,,False,74,1.56,6,4734,56.69,Fernando Maria Dinis de Carvalho Gomes,2021
+1156,0,PCP-PEV,0,0,1,0,2.79,0,2.88,132,Mondim de Basto,Vila Real,0,70,1.48,,False,74,1.56,6,4734,56.69,Ana Isabel da Rocha Ramos e Basptista,2021
+1157,0,PPD/PSD,0,0,1,0,12.7,0,13.09,601,Mondim de Basto,Vila Real,0,70,1.48,,False,74,1.56,6,4734,56.69,Francisco Peixoto Gomes Ribeiro,2021
+1158,4,PS,1,1,1,4,58.2,1,60.02,2755,Mondim de Basto,Vila Real,0,70,1.48,,False,74,1.56,6,4734,56.69,Humberto da Costa Cerqueira,2021
+1159,0,PCP-PEV,0,0,1,0,2.72,0,2.89,211,Montalegre,Vila Real,0,313,4.04,,False,146,1.88,25,7749,51.84,José Augusto Teixeira Afonso,2021
+1160,2,PPD/PSD.CDS-PP,0,0,1,2,30.75,0,32.69,2383,Montalegre,Vila Real,0,313,4.04,,False,146,1.88,25,7749,51.84,José António Carvalho de Moura,2021
+1161,5,PS,1,1,1,5,60.6,1,64.42,4696,Montalegre,Vila Real,0,313,4.04,,False,146,1.88,25,7749,51.84,Manuel Orlando Fernandes Alves,2021
+1162,0,CDS-PP,0,0,1,0,2.81,0,2.9,119,Murça,Vila Real,0,61,1.44,,False,78,1.84,7,4241,61.96,Luís David Perdigão Ferreira,2021
+1163,0,PCP-PEV,0,0,1,0,1.11,0,1.15,47,Murça,Vila Real,0,61,1.44,,False,78,1.84,7,4241,61.96,Carlos Manuel de Sousa Araújo,2021
+1164,3,PPD/PSD,1,1,1,3,47.82,1,49.44,2028,Murça,Vila Real,0,61,1.44,,False,78,1.84,7,4241,61.96,Mário Artur Correia Lopes,2021
+1165,2,PS,0,0,1,2,44.99,0,46.51,1908,Murça,Vila Real,0,61,1.44,,False,78,1.84,7,4241,61.96,José Maria Garcia Costa,2021
+1166,0,PCP-PEV,0,0,1,0,2.53,0,2.62,248,Peso da Régua,Vila Real,0,154,1.57,,False,180,1.84,8,9786,60.9,António Manuel Alves Serafim,2021
+1167,4,PPD/PSD,1,1,1,4,55.14,1,57.09,5396,Peso da Régua,Vila Real,0,154,1.57,,False,180,1.84,8,9786,60.9,José Manuel Gonçalves,2021
+1168,3,PS,0,0,1,3,38.91,0,40.29,3808,Peso da Régua,Vila Real,0,154,1.57,,False,180,1.84,8,9786,60.9,Agostinho Gonçalves da Santa,2021
+1169,0,CDS-PP,0,0,1,0,3.63,0,3.72,192,Ribeira de Pena,Vila Real,0,57,1.08,,False,72,1.36,5,5290,60.28,Bráulio Manuel Fernandes Ferreira,2021
+1170,0,PCP-PEV,0,0,1,0,1.13,0,1.16,60,Ribeira de Pena,Vila Real,0,57,1.08,,False,72,1.36,5,5290,60.28,Filomena Berta da Rocha Pinto Abreu Ramos,2021
+1171,2,PPD/PSD,0,0,1,2,42.85,0,43.93,2267,Ribeira de Pena,Vila Real,0,57,1.08,,False,72,1.36,5,5290,60.28,Agostinho Alves Pinto,2021
+1172,3,PS,1,1,1,3,49.94,1,51.19,2642,Ribeira de Pena,Vila Real,0,57,1.08,,False,72,1.36,5,5290,60.28,João Avelino Noronha Rodrigues de Carvalho,2021
+1173,0,PCP-PEV,0,0,1,0,2.4,0,2.52,102,Sabrosa,Vila Real,0,105,2.47,,False,85,2.0,12,4243,64.03,Fernando António Ferreira Amaral,2021
+1174,2,PPD/PSD,0,0,1,2,39.78,0,41.65,1688,Sabrosa,Vila Real,0,105,2.47,,False,85,2.0,12,4243,64.03,António Augusto Marques Ferreira de Araújo,2021
+1175,3,PS,1,1,1,3,53.33,1,55.84,2263,Sabrosa,Vila Real,0,105,2.47,,False,85,2.0,12,4243,64.03,Domingos Manuel Alves Carvas,2021
+1176,0,CDS-PP,0,0,1,0,8.59,0,8.91,426,Santa Marta de Penaguião,Vila Real,0,96,1.94,,False,78,1.57,7,4957,65.47,Roque Filipe Mesquita Brandão,2021
+1177,0,PCP-PEV,0,0,1,0,2.06,0,2.13,102,Santa Marta de Penaguião,Vila Real,0,96,1.94,,False,78,1.57,7,4957,65.47,José Rodrigues Simão,2021
+1178,1,PPD/PSD,0,0,1,1,23.24,0,24.09,1152,Santa Marta de Penaguião,Vila Real,0,96,1.94,,False,78,1.57,7,4957,65.47,Daniel Joaquim Andrade Teles,2021
+1179,4,PS,1,1,1,4,62.6,1,64.88,3103,Santa Marta de Penaguião,Vila Real,0,96,1.94,,False,78,1.57,7,4957,65.47,Luís Reguengo Machado,2021
+1180,0,CDS-PP,0,0,1,0,2.44,0,2.55,258,Valpaços,Vila Real,0,241,2.28,,False,222,2.1,25,10590,52.11,Fernando Ferreira Nogueira,2021
+1181,0,PCP-PEV,0,0,1,0,1.37,0,1.43,145,Valpaços,Vila Real,0,241,2.28,,False,222,2.1,25,10590,52.11,António Fernando do Nascimento Teixeira,2021
+1182,6,PPD/PSD,1,1,1,6,75.73,1,79.19,8020,Valpaços,Vila Real,0,241,2.28,,False,222,2.1,25,10590,52.11,Amílcar Rodrigues Alves Castro de Almeida,2021
+1183,1,PS,0,0,1,1,16.09,0,16.83,1704,Valpaços,Vila Real,0,241,2.28,,False,222,2.1,25,10590,52.11,José Manuel Mimoso Cardoso,2021
+1184,0,CDS-PP,0,0,1,0,3.44,0,3.57,317,Vila Pouca de Aguiar,Vila Real,0,169,1.83,,False,160,1.74,14,9219,57.24,Carlos Manuel Machado dos Santos,2021
+1185,0,PCP-PEV,0,0,1,0,0.81,0,0.84,75,Vila Pouca de Aguiar,Vila Real,0,169,1.83,,False,160,1.74,14,9219,57.24,António Fernando Ribeiro Mendes,2021
+1186,4,PPD/PSD,1,1,1,4,54.06,1,56.06,4984,Vila Pouca de Aguiar,Vila Real,0,169,1.83,,False,160,1.74,14,9219,57.24,António Alberto Pires Aguiar Machado,2021
+1187,3,PS,0,0,1,3,38.12,0,39.53,3514,Vila Pouca de Aguiar,Vila Real,0,169,1.83,,False,160,1.74,14,9219,57.24,José Carlos Saraiva Rendeiro,2021
+1188,0,B.E.,0,0,1,0,1.65,0,1.72,520,Vila Real,Vila Real,0,599,1.91,,False,506,1.61,20,31421,61.98,Mário Emanuel Pinto Gonçalves,2021
+1189,0,CDS-PP,0,0,1,0,3.69,0,3.83,1161,Vila Real,Vila Real,0,599,1.91,,False,506,1.61,20,31421,61.98,Joana Costa Lopes Gonçalves Rapazote,2021
+1190,0,PCP-PEV,0,0,1,0,1.36,0,1.41,426,Vila Real,Vila Real,0,599,1.91,,False,506,1.61,20,31421,61.98,João Paulo Reis Leal Correia,2021
+1191,2,PPD/PSD,0,0,1,2,25.37,0,26.3,7973,Vila Real,Vila Real,0,599,1.91,,False,506,1.61,20,31421,61.98,António Baptista de Carvalho,2021
+1192,7,PS,1,1,1,7,64.4,1,66.75,20236,Vila Real,Vila Real,0,599,1.91,,False,506,1.61,20,31421,61.98,Rui Jorge Cordeiro Gonçalves dos Santos,2021
+1193,1,CDS-PP,0,0,1,1,20.53,0,21.44,844,Armamar,Viseu,0,63,1.53,,False,112,2.72,14,4111,67.89,Jorge Augusto Fernandes Rodrigues,2021
+1194,0,PCP-PEV,0,0,1,0,5.47,0,5.72,225,Armamar,Viseu,0,63,1.53,,False,112,2.72,14,4111,67.89,António Manuel Lareiro dos Santos,2021
+1195,3,PPD/PSD,1,1,1,3,54.73,1,57.16,2250,Armamar,Viseu,0,63,1.53,,False,112,2.72,14,4111,67.89,João Paulo Soares Carvalho Pereira da Fonseca,2021
+1196,1,PS,0,0,1,1,15.01,0,15.68,617,Armamar,Viseu,0,63,1.53,,False,112,2.72,14,4111,67.89,Luciano Teixeira Gomes,2021
+1197,0,CDS-PP.PPM,0,0,1,0,5.75,0,6.15,305,Carregal do Sal,Viseu,0,210,3.96,,False,136,2.56,5,5305,55.71,José António Fernandes Soares de Melo,2021
+1198,0,PCP-PEV,0,0,1,0,2.17,0,2.32,115,Carregal do Sal,Viseu,0,210,3.96,,False,136,2.56,5,5305,55.71,António Luís da costa Correia,2021
+1199,2,PPD/PSD,0,0,1,2,36.23,0,38.76,1922,Carregal do Sal,Viseu,0,210,3.96,,False,136,2.56,5,5305,55.71,António Óscar de Almeida e Paiva,2021
+1200,3,PS,1,1,1,3,47.95,1,51.3,2544,Carregal do Sal,Viseu,0,210,3.96,,False,136,2.56,5,5305,55.71,Rogério Mota Abrantes,2021
+1201,0,PURP,0,0,1,0,1.38,0,1.47,73,Carregal do Sal,Viseu,0,210,3.96,,False,136,2.56,5,5305,55.71,Helder Duarte Dias,2021
+1202,3,PS,0,0,1,3,44.16,0,45.85,4225,Castro Daire,Viseu,0,178,1.86,,False,176,1.84,16,9568,62.31,José Fernando Carneiro Pereira,2021
+1203,0,PCP-PEV,0,0,1,0,2.42,0,2.52,274,Cinfães,Viseu,0,241,2.12,,False,233,2.05,14,11345,65.5,Avelino António Pacheco Gonçalves,2021
+1204,1,PPD/PSD.CDS-PP,0,0,1,1,18.04,0,18.83,2047,Cinfães,Viseu,0,241,2.12,,False,233,2.05,14,11345,65.5,Bruno Maciel Gouveia Rocha,2021
+1205,6,PS,1,1,1,6,75.36,1,78.65,8550,Cinfães,Viseu,0,241,2.12,,False,233,2.05,14,11345,65.5,Armando da Silva Mourisco,2021
+1206,0,B.E.,0,0,1,0,3.1,0,3.24,496,Lamego,Viseu,0,245,1.53,,False,439,2.75,18,15980,64.66,Alexandra Sofia Pinto Silva Rodrigues,2021
+1207,2,CDS-PP.PPM,0,0,1,2,24.97,0,26.09,3991,Lamego,Viseu,0,245,1.53,,False,439,2.75,18,15980,64.66,António Pinto Carreira,2021
+1208,0,PCP-PEV,0,0,1,0,2.72,0,2.84,434,Lamego,Viseu,0,245,1.53,,False,439,2.75,18,15980,64.66,José Manuel Pinto de Albuquerque Pessoa,2021
+1209,2,PPD/PSD,0,0,1,2,26.99,0,28.2,4313,Lamego,Viseu,0,245,1.53,,False,439,2.75,18,15980,64.66,Ernesto da Silva Rodrigues,2021
+1210,3,PS,1,0,1,3,37.93,1,39.63,6062,Lamego,Viseu,0,245,1.53,,False,439,2.75,18,15980,64.66,Ângelo Manuel Mendes Moura,2021
+1211,0,PCP-PEV,0,0,1,0,3.78,0,3.98,415,Mangualde,Viseu,0,327,2.98,,False,224,2.04,12,10969,58.27,Albertino Carvalho Figueiredo,2021
+1212,1,PPD/PSD,0,0,1,1,21.66,0,22.81,2376,Mangualde,Viseu,0,327,2.98,,False,224,2.04,12,10969,58.27,Joaquim Lucio Trindade Messias,2021
+1213,6,PS,1,1,1,6,69.53,1,73.21,7627,Mangualde,Viseu,0,327,2.98,,False,224,2.04,12,10969,58.27,João Nuno Ferreira Gonçalves de Azevedo,2021
+1214,1,CDS-PP.PPM,0,0,1,1,12.22,0,12.85,749,Moimenta da Beira,Viseu,0,136,2.22,,False,164,2.68,16,6128,56.22,Cristiano Dias de Almeida Costa Coelho,2021
+1215,0,PCP-PEV,0,0,1,0,1.52,0,1.6,93,Moimenta da Beira,Viseu,0,136,2.22,,False,164,2.68,16,6128,56.22,Augusto Coelho Praça,2021
+1216,2,PPD/PSD,0,0,1,2,22.49,0,23.64,1378,Moimenta da Beira,Viseu,0,136,2.22,,False,164,2.68,16,6128,56.22,João Benedito de Deus Xavier,2021
+1217,4,PS,1,1,1,4,52.53,1,55.23,3219,Moimenta da Beira,Viseu,0,136,2.22,,False,164,2.68,16,6128,56.22,José Eduardo Lopes Ferreira,2021
+1218,0,VA,0,0,1,0,6.35,0,6.67,389,Moimenta da Beira,Viseu,0,136,2.22,,False,164,2.68,16,6128,56.22,José carlos de Jesus Governo ,2021
+1219,0,CDS-PP,0,0,1,0,2.18,0,2.26,122,Mortágua,Viseu,0,133,2.37,,False,85,1.52,7,5609,62.34,Paulo Manuel Monteiro Gomes,2021
+1220,0,PCP-PEV,0,0,1,0,0.64,0,0.67,36,Mortágua,Viseu,0,133,2.37,,False,85,1.52,7,5609,62.34,Martinho Ferreira da Silva Quintela,2021
+1221,3,PPD/PSD,1,1,1,3,47.8,1,49.73,2681,Mortágua,Viseu,0,133,2.37,,False,85,1.52,7,5609,62.34,José Júlio Henriques Norte,2021
+1222,2,PS,0,0,1,2,45.5,0,47.34,2552,Mortágua,Viseu,0,133,2.37,,False,85,1.52,7,5609,62.34,Ricardo Sérgio Pardal Marques,2021
+1223,2,CDS-PP,0,0,1,2,24.98,0,26.24,2065,Nelas,Viseu,0,168,2.03,,False,231,2.79,7,8268,62.86,Manuel da Conceição Marques,2021
+1224,0,MCCD,0,0,1,0,5.65,0,5.93,467,Nelas,Viseu,0,168,2.03,,False,231,2.79,7,8268,62.86,Carlos Jorge Fernandes Mota Veiga,2021
+1225,0,PCP-PEV,0,0,1,0,1.54,0,1.61,127,Nelas,Viseu,0,168,2.03,,False,231,2.79,7,8268,62.86,Manuel Joaquim Barradas Guedelha,2021
+1226,1,PPD/PSD,0,0,1,1,14.36,0,15.08,1187,Nelas,Viseu,0,168,2.03,,False,231,2.79,7,8268,62.86,Isaura Leonor Marques Figueiredo da Silva Pedro,2021
+1227,4,PS,1,1,1,4,48.66,1,51.12,4023,Nelas,Viseu,0,168,2.03,,False,231,2.79,7,8268,62.86,José Manuel Borges da Silva,2021
+1228,3,NC,1,1,1,3,46.96,1,48.35,2869,Oliveira de Frades,Viseu,0,94,1.54,,False,82,1.34,8,6110,67.31,Paulo Manuel Robalo da Silva Ferreira,2021
+1229,0,PCP-PEV,0,0,1,0,2.67,0,2.75,163,Oliveira de Frades,Viseu,0,94,1.54,,False,82,1.34,8,6110,67.31,Nuno Miguel Duarte Martins,2021
+1230,2,PPD/PSD.CDS-PP,0,0,1,2,40.51,0,41.71,2475,Oliveira de Frades,Viseu,0,94,1.54,,False,82,1.34,8,6110,67.31,Paulo Jorge Arede Marques Antunes,2021
+1231,0,PS,0,0,1,0,6.99,0,7.2,427,Oliveira de Frades,Viseu,0,94,1.54,,False,82,1.34,8,6110,67.31,António Manuel da Silva Cabrita Grade,2021
+1232,0,PCP-PEV,0,0,1,0,2.84,0,2.98,150,Penalva do Castelo,Viseu,0,124,2.35,,False,116,2.2,11,5282,64.73,Mafalda Sofia dos Loios Serralha Vilarigues,2021
+1233,1,PPD/PSD.CDS-PP.MPT.PPM,0,0,1,1,24.74,0,25.92,1307,Penalva do Castelo,Viseu,0,124,2.35,,False,116,2.2,11,5282,64.73,Gabriel Albuquerque Costa,2021
+1234,4,PS,1,1,1,4,67.87,1,71.1,3585,Penalva do Castelo,Viseu,0,124,2.35,,False,116,2.2,11,5282,64.73,Francisco Lopes de Carvalho,2021
+1235,0,PCP-PEV,0,0,1,0,1.62,0,1.74,32,Penedono,Viseu,0,54,2.73,,False,84,4.25,7,1977,60.29,Maria Helena Lopes Martins de Sá,2021
+1236,3,PPD/PSD,1,1,1,3,55.24,1,59.38,1092,Penedono,Viseu,0,54,2.73,,False,84,4.25,7,1977,60.29,António Carlos Saraiva Esteves de Carvalho,2021
+1237,2,PS,0,0,1,2,36.17,0,38.88,715,Penedono,Viseu,0,54,2.73,,False,84,4.25,7,1977,60.29,Sónia Isabel Anjos Numão Lopes,2021
+1238,0,CDS-PP,0,0,1,0,6.73,0,6.94,528,Resende,Viseu,0,78,0.99,,False,167,2.13,11,7849,72.92,Anabela Ribeiro de Oliveira,2021
+1239,0,PCP-PEV,0,0,1,0,0.71,0,0.74,56,Resende,Viseu,0,78,0.99,,False,167,2.13,11,7849,72.92,António José de Alvelos,2021
+1240,3,PPD/PSD,0,0,1,3,42.02,0,43.37,3298,Resende,Viseu,0,78,0.99,,False,167,2.13,11,7849,72.92,Jaime António Bernardino Alves,2021
+1241,4,PS,1,1,1,4,47.42,1,48.95,3722,Resende,Viseu,0,78,0.99,,False,167,2.13,11,7849,72.92,Manuel Joaquim Garcês Trindade,2021
+1242,0,PCP-PEV,0,0,1,0,2.9,0,3.08,179,Santa Comba Dão,Viseu,0,209,3.39,,False,145,2.35,6,6166,56.43,Paulo Jorge de Jesus Nogueira,2021
+1243,2,PPD/PSD.CDS-PP,0,0,1,2,33.08,0,35.1,2040,Santa Comba Dão,Viseu,0,209,3.39,,False,145,2.35,6,6166,56.43,Daniel Pedro dos Santos,2021
+1244,5,PS,1,1,1,5,58.27,1,61.82,3593,Santa Comba Dão,Viseu,0,209,3.39,,False,145,2.35,6,6166,56.43,Leonel José Antunes Gouveia,2021
+1245,0,CDS-PP,0,0,1,0,6.03,0,6.24,238,Sernancelhe,Viseu,0,64,1.62,,False,72,1.82,13,3950,66.77,Nuno FranclimPeixoto Quintais Silva,2021
+1246,0,PCP-PEV,0,0,1,0,0.46,0,0.47,18,Sernancelhe,Viseu,0,64,1.62,,False,72,1.82,13,3950,66.77,José Ernesto Teixeira,2021
+1247,4,PPD/PSD,1,1,1,4,71.92,1,74.49,2841,Sernancelhe,Viseu,0,64,1.62,,False,72,1.82,13,3950,66.77,Carlos Silva Santiago,2021
+1248,1,PS,0,0,1,1,18.15,0,18.8,717,Sernancelhe,Viseu,0,64,1.62,,False,72,1.82,13,3950,66.77,Leonor do Céu Rodrigues do Nascimento Teixeira,2021
+1249,0,ATPS,0,0,1,0,7.34,0,7.67,563,Sátão,Viseu,0,140,1.82,,False,198,2.58,9,7674,55.51,Geraldo de Jesus Oliveira,2021
+1250,0,PCP-PEV,0,0,1,0,2.5,0,2.62,192,Sátão,Viseu,0,140,1.82,,False,198,2.58,9,7674,55.51,Ângela Maria da Silva Bártolo,2021
+1251,3,PNT,0,0,1,3,38.1,0,39.86,2924,Sátão,Viseu,0,140,1.82,,False,198,2.58,9,7674,55.51,Acácio Santos da Fonseca Pinto,2021
+1252,4,PPD/PSD,1,1,1,4,47.65,1,49.85,3657,Sátão,Viseu,0,140,1.82,,False,198,2.58,9,7674,55.51,Paulo Manuel Lopes dos Santos,2021
+1253,0,PCP-PEV,0,0,1,0,1.76,0,1.83,86,São João da Pesqueira,Viseu,0,87,1.78,,False,103,2.11,11,4881,68.73,Adriana Maria Pinto Anunciação Vieira da Silva,2021
+1254,3,PNT,1,1,1,3,54.09,1,56.28,2640,São João da Pesqueira,Viseu,0,87,1.78,,False,103,2.11,11,4881,68.73,Manuel António Natário Cordeiro,2021
+1255,2,PPD/PSD,0,0,1,2,40.26,0,41.89,1965,São João da Pesqueira,Viseu,0,87,1.78,,False,103,2.11,11,4881,68.73,Eduardo Jorge Pereira Rocha,2021
+1256,0,PCP-PEV,0,0,1,0,2.42,0,2.51,258,São Pedro do Sul,Viseu,0,182,1.71,,False,193,1.81,14,10665,65.07,João de Lima Pinheiro,2021
+1257,2,PPD/PSD,0,0,1,2,33.05,0,34.26,3525,São Pedro do Sul,Viseu,0,182,1.71,,False,193,1.81,14,10665,65.07,Daniel David Gomes Martins,2021
+1258,5,PS,1,1,1,5,61.01,1,63.24,6507,São Pedro do Sul,Viseu,0,182,1.71,,False,193,1.81,14,10665,65.07,Vítor Manuel de Almeida Figueiredo,2021
+1259,0,PCP-PEV,0,0,1,0,0.86,0,0.89,34,Tabuaço,Viseu,0,43,1.09,,False,79,2.0,13,3943,72.15,António Delfim Valério Moutinho,2021
+1260,3,PPD/PSD.CDS-PP,1,1,1,3,57.75,1,59.59,2277,Tabuaço,Viseu,0,43,1.09,,False,79,2.0,13,3943,72.15,Carlos André Teles Paulo de Carvalho,2021
+1261,2,PS,0,0,1,2,38.3,0,39.52,1510,Tabuaço,Viseu,0,43,1.09,,False,79,2.0,13,3943,72.15,João Joaquim Saraiva Ribeiro,2021
+1262,0,CDS-PP,0,0,1,0,5.54,0,5.8,255,Tarouca,Viseu,0,95,2.06,,False,113,2.45,7,4607,60.04,Jorge Pedro Monteiro Melo,2021
+1263,0,PCP-PEV,0,0,1,0,2.26,0,2.36,104,Tarouca,Viseu,0,95,2.06,,False,113,2.45,7,4607,60.04,João Carlos Portela Cordeiro,2021
+1264,3,PPD/PSD,1,1,1,3,56.76,1,59.45,2615,Tarouca,Viseu,0,95,2.06,,False,113,2.45,7,4607,60.04,Valdemar de Carvalho Pereira,2021
+1265,2,PS,0,0,1,2,30.93,0,32.39,1425,Tarouca,Viseu,0,95,2.06,,False,113,2.45,7,4607,60.04,Afonso Manuel Batista Dias,2021
+1266,0,CDS-PP,0,0,1,0,10.86,0,11.42,1786,Tondela,Viseu,0,489,2.97,,False,307,1.87,19,16442,61.52,António Manuel Dinis Ribeiro Marques,2021
+1267,0,PCP-PEV,0,0,1,0,3.56,0,3.74,585,Tondela,Viseu,0,489,2.97,,False,307,1.87,19,16442,61.52,Manuel Jorge Pereira Veiga,2021
+1268,5,PPD/PSD,1,1,1,5,57.49,1,60.42,9453,Tondela,Viseu,0,489,2.97,,False,307,1.87,19,16442,61.52,José António Gomes de Jesus,2021
+1269,2,PS,0,0,1,2,23.25,0,24.43,3822,Tondela,Viseu,0,489,2.97,,False,307,1.87,19,16442,61.52,Joaquim da Silva Mendes dos Santos,2021
+1270,0,PCP-PEV,0,0,1,0,3.52,0,3.72,114,Vila Nova de Paiva,Viseu,0,105,3.24,,False,68,2.1,5,3241,48.34,António Macário Monteiro,2021
+1271,2,PPD/PSD.CDS-PP,0,0,1,2,33.48,0,35.37,1085,Vila Nova de Paiva,Viseu,0,105,3.24,,False,68,2.1,5,3241,48.34,Manuel Marques Custódio,2021
+1272,3,PS,1,1,1,3,57.67,1,60.92,1869,Vila Nova de Paiva,Viseu,0,105,3.24,,False,68,2.1,5,3241,48.34,José Morgado Ribeiro,2021
+1273,0,B.E.,0,0,1,0,4.79,0,5.09,2293,Viseu,Viseu,0,1717,3.58,,False,1104,2.3,25,47907,50.79,Fernando José Bandeira de Figueiredo,2021
+1274,0,CDS-PP,0,0,1,0,5.1,0,5.42,2442,Viseu,Viseu,0,1717,3.58,,False,1104,2.3,25,47907,50.79,Paula Jacinta Ramos Telhada Amaral,2021
+1275,0,PAN,0,0,1,0,2.18,0,2.31,1043,Viseu,Viseu,0,1717,3.58,,False,1104,2.3,25,47907,50.79,Carolina Maria Pina de Almeida,2021
+1276,0,PCP-PEV,0,0,1,0,3.85,0,4.09,1846,Viseu,Viseu,0,1717,3.58,,False,1104,2.3,25,47907,50.79,Maria Filomena de Matos Pires,2021
+1277,6,PPD/PSD,1,1,1,6,51.74,1,54.97,24786,Viseu,Viseu,0,1717,3.58,,False,1104,2.3,25,47907,50.79,António Joaquim Almeida Henriques,2021
+1278,3,PS,0,0,1,3,26.46,0,28.12,12676,Viseu,Viseu,0,1717,3.58,,False,1104,2.3,25,47907,50.79,Lúcia Fernanda Ferreira Araújo Silva,2021
+1279,0,CDS-PP,0,0,1,0,3.46,0,3.62,217,Vouzela,Viseu,0,185,2.95,,False,99,1.58,9,6272,66.57,Paulo Lino Lopes Martins,2021
+1280,0,PCP-PEV,0,0,1,0,1.75,0,1.84,110,Vouzela,Viseu,0,185,2.95,,False,99,1.58,9,6272,66.57,Eduardo Paiva Boloto,2021
+1281,4,PPD/PSD,1,1,1,4,62.21,1,65.16,3902,Vouzela,Viseu,0,185,2.95,,False,99,1.58,9,6272,66.57,Rui Miguel Ladeira Pereira,2021
+1282,1,PS,0,0,1,1,28.05,0,29.38,1759,Vouzela,Viseu,0,185,2.95,,False,99,1.58,9,6272,66.57,António Menezes de Campos,2021
+1283,0,CDS-PP,0,0,1,0,1.97,0,2.03,70,Alandroal,Évora,0,37,1.04,,False,57,1.61,4,3549,74.11,Alberto Judas Cardigos Ramalho,2021
+1284,1,DITA,0,0,1,1,27.84,0,28.6,988,Alandroal,Évora,0,37,1.04,,False,57,1.61,4,3549,74.11,João José Martins Nabais,2021
+1285,2,PCP-PEV,0,0,1,2,28.46,0,29.23,1010,Alandroal,Évora,0,37,1.04,,False,57,1.61,4,3549,74.11,Mariana Rosa Gomes Chilra,2021
+1286,0,PPD/PSD,0,0,1,0,4.23,0,4.34,150,Alandroal,Évora,0,37,1.04,,False,57,1.61,4,3549,74.11,José Joaquim Cebola Gomes,2021
+1287,2,PS,1,0,1,2,34.85,1,35.8,1237,Alandroal,Évora,0,37,1.04,,False,57,1.61,4,3549,74.11,João Maria Aranha Grilo,2021
+1288,0,B.E.,0,0,1,0,3.19,0,3.34,123,Arraiolos,Évora,0,76,1.97,,False,89,2.31,5,3853,64.14,Amaro Joaquim Correia,2021
+1289,4,PCP-PEV,1,1,1,4,58.99,1,61.63,2273,Arraiolos,Évora,0,76,1.97,,False,89,2.31,5,3853,64.14,Sílvia Cristina Tirapicos Pinto,2021
+1290,0,PPD/PSD,0,0,1,0,7.37,0,7.7,284,Arraiolos,Évora,0,76,1.97,,False,89,2.31,5,3853,64.14,Luis Filipe Alexandre Rodrigues,2021
+1291,1,PS,0,0,1,1,26.16,0,27.33,1008,Arraiolos,Évora,0,76,1.97,,False,89,2.31,5,3853,64.14,António Francisco Correia Traguedo,2021
+1292,0,B.E.,0,0,1,0,4.62,0,4.75,199,Borba,Évora,0,52,1.21,,False,65,1.51,4,4305,69.9,Rui Manuel Guarda Verdades de Sá,2021
+1293,3,MUB,1,1,1,3,47.8,1,49.14,2058,Borba,Évora,0,52,1.21,,False,65,1.51,4,4305,69.9,António José Lopes Anselmo,2021
+1294,0,PCP-PEV,0,0,1,0,7.29,0,7.5,314,Borba,Évora,0,52,1.21,,False,65,1.51,4,4305,69.9,João Manuel Rato Proença,2021
+1295,1,PPD/PSD,0,0,1,1,13.7,0,14.09,590,Borba,Évora,0,52,1.21,,False,65,1.51,4,4305,69.9,Benjamin António Ferreira Espiguinha,2021
+1296,1,PS,0,0,1,1,23.86,0,24.52,1027,Borba,Évora,0,52,1.21,,False,65,1.51,4,4305,69.9,Agnelo dos Anjos Abelho Baltazar,2021
+1297,4,MIETZ,1,1,1,4,48.25,1,50.63,3421,Estremoz,Évora,0,210,2.96,,False,123,1.73,9,7090,60.14,Luís Filipe Pereira Mourinha,2021
+1298,0,PCP-PEV,0,0,1,0,8.62,0,9.04,611,Estremoz,Évora,0,210,2.96,,False,123,1.73,9,7090,60.14,Rui Rato Araújo Fonseca,2021
+1299,0,PPD/PSD.CDS-PP,0,0,1,0,6.71,0,7.04,476,Estremoz,Évora,0,210,2.96,,False,123,1.73,9,7090,60.14,João Gentil Branco Brito Tavares,2021
+1300,3,PS,0,0,1,3,31.72,0,33.28,2249,Estremoz,Évora,0,210,2.96,,False,123,1.73,9,7090,60.14,José Daniel Pena Sádio,2021
+1301,0,CDS-PP,0,0,1,0,9.51,0,9.93,834,Montemor-o-Novo,Évora,0,253,2.88,,False,126,1.44,7,8774,60.96,Vitor Manuel Macedo Bombico Silveira Vicente,2021
+1302,4,PCP-PEV,1,1,1,4,43.62,1,45.59,3827,Montemor-o-Novo,Évora,0,253,2.88,,False,126,1.44,7,8774,60.96,Hortênsia dos Anjos Chegado Menino,2021
+1303,0,PPD/PSD,0,0,1,0,4.8,0,5.01,421,Montemor-o-Novo,Évora,0,253,2.88,,False,126,1.44,7,8774,60.96,Patríxcia Inês Mira Seatra,2021
+1304,3,PS,0,0,1,3,37.76,0,39.46,3313,Montemor-o-Novo,Évora,0,253,2.88,,False,126,1.44,7,8774,60.96,Olímpio Manuel Vidigal Galvão,2021
+1305,4,PCP-PEV,1,1,1,4,62.9,1,66.52,1631,Mora,Évora,0,87,3.36,,False,54,2.08,4,2593,60.75,Luís Simão Duarte de Matos,2021
+1306,0,PPD/PSD,0,0,1,0,9.45,0,9.99,245,Mora,Évora,0,87,3.36,,False,54,2.08,4,2593,60.75,Duarte Hermenegildo Vaz,2021
+1307,1,PS,0,0,1,1,22.21,0,23.49,576,Mora,Évora,0,87,3.36,,False,54,2.08,4,2593,60.75,Paula Cristina Calado Chuço,2021
+1308,2,PPD/PSD,0,0,1,2,36.11,0,37.64,589,Mourão,Évora,0,37,2.27,,False,29,1.78,3,1631,72.42,Anabela Ramalho Falcato Caixeiro,2021
+1309,3,PS,1,1,1,3,45.49,1,47.41,742,Mourão,Évora,0,37,2.27,,False,29,1.78,3,1631,72.42,Maria  Clara Pimenta Pinto Martins Safara,2021
+1310,1,PCP-PEV,0,0,1,1,30.63,0,31.63,1148,Portel,Évora,0,71,1.89,,False,47,1.25,6,3748,70.46,Jorge Miguel Nunes Cravidão,2021
+1311,0,PPD/PSD.CDS-PP,0,0,1,0,2.48,0,2.56,93,Portel,Évora,0,71,1.89,,False,47,1.25,6,3748,70.46,Luís Filipe Cristino Martins Laureano Tirapicos Nunes,2021
+1312,4,PS,1,1,1,4,63.74,1,65.81,2389,Portel,Évora,0,71,1.89,,False,47,1.25,6,3748,70.46,José Manuel Clemente Grilo,2021
+1313,2,MICRE,1,0,1,2,36.01,1,37.07,1344,Redondo,Évora,0,51,1.37,,False,55,1.47,2,3732,64.13,António José Rega Matos Recto,2021
+1314,1,PCP-PEV,0,0,1,1,21.78,0,22.42,813,Redondo,Évora,0,51,1.37,,False,55,1.47,2,3732,64.13,David Manuel Palma Grave,2021
+1315,1,PPD/PSD.CDS-PP,0,0,1,1,21.46,0,22.09,801,Redondo,Évora,0,51,1.37,,False,55,1.47,2,3732,64.13,David Manuel Fialho Galego,2021
+1316,1,PS,0,0,1,1,17.9,0,18.42,668,Redondo,Évora,0,51,1.37,,False,55,1.47,2,3732,64.13,Luís Fernando Gomes Faleiro,2021
+1317,0,CDS-PP,0,0,1,0,2.44,0,2.55,121,Reguengos de Monsaraz,Évora,0,136,2.74,,False,68,1.37,4,4955,54.64,Maria de Fátima Paixão Quintas Carrilho,2021
+1318,0,PCP-PEV,0,0,1,0,10.23,0,10.67,507,Reguengos de Monsaraz,Évora,0,136,2.74,,False,68,1.37,4,4955,54.64,Helina Campilo Lobo,2021
+1319,1,PPD/PSD,0,0,1,1,20.1,0,20.96,996,Reguengos de Monsaraz,Évora,0,136,2.74,,False,68,1.37,4,4955,54.64,Elsa Maria Soares Félix Bento Góis,2021
+1320,4,PS,1,1,1,4,63.11,1,65.82,3127,Reguengos de Monsaraz,Évora,0,136,2.74,,False,68,1.37,4,4955,54.64,José Gabriel Paixão Calixto,2021
+1321,2,PCP-PEV,0,0,1,2,25.21,0,25.91,1618,Vendas Novas,Évora,0,112,1.75,,False,61,0.95,2,6418,63.7,João Teresa Ribeira,2021
+1322,0,PPD/PSD,0,0,1,0,11.0,0,11.31,706,Vendas Novas,Évora,0,112,1.75,,False,61,0.95,2,6418,63.7,Joaquim Manuel Marques Barreto Soeiro,2021
+1323,5,PS,1,1,1,5,61.09,1,62.79,3921,Vendas Novas,Évora,0,112,1.75,,False,61,0.95,2,6418,63.7,Luís Carlos Piteira Dias,2021
+1324,2,PCP-PEV,0,0,1,2,39.97,0,40.97,1255,Viana do Alentejo,Évora,0,48,1.53,,False,29,0.92,3,3140,66.33,Luís Miguel Fialho Duarte,2021
+1325,0,PPD/PSD,0,0,1,0,5.57,0,5.71,175,Viana do Alentejo,Évora,0,48,1.53,,False,29,0.92,3,3140,66.33,Caetano José Geadas Silva,2021
+1326,3,PS,1,1,1,3,52.01,1,53.31,1633,Viana do Alentejo,Évora,0,48,1.53,,False,29,0.92,3,3140,66.33,Bernardino António Bengalinha Pinto,2021
+1327,1,MUC,0,0,1,1,15.07,0,15.64,708,Vila Viçosa,Évora,0,94,2.0,,False,76,1.62,4,4697,67.37,António Inácio Borracha Jardim,2021
+1328,2,PCP-PEV,1,0,1,2,36.73,1,38.1,1725,Vila Viçosa,Évora,0,94,2.0,,False,76,1.62,4,4697,67.37,Manuel João Fontainhas Condenado,2021
+1329,0,PPD/PSD.CDS-PP,0,0,1,0,9.47,0,9.83,445,Vila Viçosa,Évora,0,94,2.0,,False,76,1.62,4,4697,67.37,Josué António Almeida Bacalhau,2021
+1330,2,PS,0,0,1,2,35.11,0,36.43,1649,Vila Viçosa,Évora,0,94,2.0,,False,76,1.62,4,4697,67.37,Anabela da Conceição Calado Canhoto Consolado,2021
+1331,0,B.E.,0,0,1,0,4.79,0,5.06,1113,Évora,Évora,0,801,3.45,,False,451,1.94,12,23234,48.9,Maria Helena de Carvalho Governo de Figueiredo,2021
+1332,0,CDS-PP.MPT.PPM,0,0,1,0,5.86,0,6.2,1362,Évora,Évora,0,801,3.45,,False,451,1.94,12,23234,48.9,Pedro D'Orey Manoel,2021
+1333,0,PAN,0,0,1,0,2.15,0,2.27,499,Évora,Évora,0,801,3.45,,False,451,1.94,12,23234,48.9,André Sapage Pereira Valente,2021
+1334,4,PCP-PEV,1,1,1,4,40.52,1,42.83,9414,Évora,Évora,0,801,3.45,,False,451,1.94,12,23234,48.9,Carlos Manuel Rodrigues Pinto de Sá,2021
+1335,1,PPD/PSD,0,0,1,1,14.9,0,15.75,3463,Évora,Évora,0,801,3.45,,False,451,1.94,12,23234,48.9,António Francisco Costa da Silva,2021
+1336,2,PS,0,0,1,2,26.39,0,27.89,6131,Évora,Évora,0,801,3.45,,False,451,1.94,12,23234,48.9,Elsa Rute Fernandes Teigão,2021
