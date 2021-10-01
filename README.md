@@ -25,3 +25,9 @@ Last but not least to [Emma](https://stackoverflow.com/users/2956135/emma?tab=pr
 # Contributing and Usage of these files
 
 Everyone is most welcome to contribute with scripts that analyse this data. If you use these files please let me know, so we can add to this section. 
+
+# Next Steps 
+
+- Create unique dataframe with all the data 
+- Arrange dataframe columns and rename them to user friendly names
+- Perform indepth analysis of the data 
