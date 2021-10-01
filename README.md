@@ -12,9 +12,13 @@ This datasets **do not** have the information about everyone that was on the lis
 # Thanks to
 
 [Micael Carvalho](https://github.com/MicaelMCarvalho) that developed the [scrapping and mining code](https://github.com/MicaelMCarvalho/autarquicasportugaldata)
-[Luis Guimarais](https://github.com/guimarais)for launching this idea that is already causing some important discussions about transparency and data avaibility in the context of local elections 
+
+[Luis Guimarais](https://github.com/guimarais) for launching this idea that is already causing some important discussions about transparency and data avaibility in the context of local elections 
+
 [Filipe Barroso](https://github.com/OldMetalmind) for being there and always trying to help
+
 [Miguel Romão](https://github.com/romanovzky) for the help in understanding the json struture 
+
 Last but not least to [Emma](https://stackoverflow.com/users/2956135/emma?tab=profile) for providing such an elegant solution to the unnesting of the json files. 
 
 
