@@ -3,7 +3,7 @@ Repo with data from local elections in Portugal from 2009 to 2013
 
 # Objective
 
-To provide to all raw data from the local elections that can be used to for analysis. The dataset has all information that is publicly available at this time
+To provide,  to all, raw data from the local elections that can be used to for analysis. The dataset has all information that is publicly available at this time
 
 # Caveats
 
