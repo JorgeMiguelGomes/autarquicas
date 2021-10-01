@@ -53,14 +53,14 @@ df_2013 = pd.concat([df_13, pd.json_normalize(df_13['total_votes'])], axis=1)
 	#2017
 res_2017 = [{**z, **{'district': x, 'county': y}} for x, y in data_2017.items() for y, z in y.items()]
 
-	# Normalize json on candidates for 2013
-df_17 = pd.json_normalize(res_2013, record_path=['candidates'], meta=['total_votes', 'county', 'district'])
+	# Normalize json on candidates for 2017
+df_17 = pd.json_normalize(res_2017, record_path=['candidates'], meta=['total_votes', 'county', 'district'])
 
-	# Expand total_votes dict for 2013
+	# Expand total_votes dict for 2017
 df_2017 = pd.concat([df_17, pd.json_normalize(df_17['total_votes'])], axis=1)
 
 	#2021
-res_2021 = [{**z, **{'district': x, 'county': y}} for x, y in data_2017.items() for y, z in y.items()]
+res_2021 = [{**z, **{'district': x, 'county': y}} for x, y in data_2021.items() for y, z in y.items()]
 
 	# Normalize json on candidates for 2021
 df_21 = pd.json_normalize(res_2021, record_path=['candidates'], meta=['total_votes', 'county', 'district'])
