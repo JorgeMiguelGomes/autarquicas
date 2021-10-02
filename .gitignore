@@ -1,0 +1,5 @@
+# plotly cache files
+cache-directory/*
+
+# exploratoyr notebooks
+*.ipynb
