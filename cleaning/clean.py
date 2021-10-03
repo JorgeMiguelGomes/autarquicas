@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Dict
 import pandas as pd
 import json
 import os
@@ -22,18 +22,24 @@ def proper_name(name: str) -> str:
     return re.sub(" +", " ", new_name)
 
 
-def coalition_to_parties(coalition: str) -> List[str]:
-    if coalition == "B.E.":
-        return ["B.E."]
-    coalition = coalition.replace(" - ", "-")
-    return coalition.split(".")
-
-
 def col_rename(col: str) -> str:
     if not "vote" in col:
-        return col
+        return "candidate" if col == "candidatos" else col
     front, back = col.split(".")
     return front+back[0].upper()+back[1:]
+
+
+def clean_coalition_name(x: str) -> str:
+    x = x.replace(" - ", "-")
+    x = re.sub("«|»", "", x)
+    return x.upper()
+
+
+def min_idx(chars: str, s: str, start: int = 0) -> int:
+    temp: str = s[start:]
+    if not any(d in temp for d in chars):
+        return -1
+    return start+min(temp.index(d) for d in chars if d in temp)
 
 
 def clean(df: pd.DataFrame) -> pd.DataFrame:
@@ -46,9 +52,29 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
             if set(df[c].unique()) == set([0, 1]):
                 df[c] = df[c].astype(bool)
 
-    df['coalition'] = df.party
-    df['parties'] = df.party.apply(coalition_to_parties)
     df['candidatos'] = df.candidatos.apply(proper_name)
+    df.party = df.party.apply(clean_coalition_name)
+
+    def coalition_to_parties(coalition: str) -> List[str]:
+        if coalition[-1] == ".":
+            return [coalition.replace(".", "")]
+        if not any(d in coalition for d in ".-/"):
+            return [coalition]
+        parties: List[str] = []
+        idx: int = min_idx(coalition, ".-/")
+        while idx >= 0 and idx < len(coalition) and any(d in coalition for d in ".-/"):
+            if coalition[:idx] in df.party:
+                parties.append(coalition[:idx])
+                coalition = coalition[idx+1:]
+                idx = 0
+            idx = min_idx(coalition, ".-/", idx+1)
+        return [coalition]
+
+    df['coalition'] = df.party
+    coalition_lookup: Dict[str, List[str]] = {
+        c: coalition_to_parties(c) for c in df.coalition.unique()
+    }
+    df['parties'] = df.coalition.apply(lambda c: coalition_lookup[c])
 
     df = df.drop(columns=['party'])
 
