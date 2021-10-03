@@ -1,3 +1,4 @@
+from typing import List
 import pandas as pd
 import json
 import os
@@ -40,18 +41,18 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
     df = df.drop(columns=['alternateCandidates', 'displayMessage',
                  'hasNoVoting', 'votes.constituenctyCounter'])
 
-    df['coalition'] = df.party
-    df.parties = df.party.apply(coalition_to_parties)
-    df['candidatos'] = df.candidatos.apply(proper_name)
-
-    df = df.drop(columns=['party'])
-
     for c in df.columns:
         if len(df[c].value_counts()) == 2:
             if set(df[c].unique()) == set([0, 1]):
                 df[c] = df[c].astype(bool)
 
-    df = df.rename(mapper=col_rename)
+    df['coalition'] = df.party
+    df['parties'] = df.party.apply(coalition_to_parties)
+    df['candidatos'] = df.candidatos.apply(proper_name)
+
+    df = df.drop(columns=['party'])
+
+    df = df.rename(mapper=col_rename, axis='columns')
     return df
 
 
@@ -59,8 +60,10 @@ if __name__ == "__main__":
     dfs = []
     for y in range(2009, 2023, 4):
         dfs.append(pd.read_csv(
-            os.path.join(BASE_PATH, 'cleaning', f'autarquicas_{y}_treated.csv')
+            os.path.join(BASE_PATH, 'final_csv',
+                         f'autarquicas_{y}_treated.csv')
         ))
     df = pd.concat(dfs)
     df = clean(df)
-    df.to_csv('autarquicas_treated.csv')
+    df.to_csv(os.path.join(
+        BASE_PATH, 'cleaning', 'autarquicas_treated.csv'))
