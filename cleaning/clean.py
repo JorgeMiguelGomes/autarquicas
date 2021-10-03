@@ -26,7 +26,7 @@ def col_rename(col: str) -> str:
     if not "vote" in col:
         return "candidate" if col == "candidatos" else col
     front, back = col.split(".")
-    return front+back[0].upper()+back[1:]
+    return front + back[0].upper() + back[1:]
 
 
 def clean_coalition_name(x: str) -> str:
@@ -39,20 +39,31 @@ def min_idx(chars: str, s: str, start: int = 0) -> int:
     temp: str = s[start:]
     if not any(d in temp for d in chars):
         return -1
-    return start+min(temp.index(d) for d in chars if d in temp)
+    return start + min(temp.index(d) for d in chars if d in temp)
 
 
 def clean(df: pd.DataFrame) -> pd.DataFrame:
     # drop cols with only nans or only 1 unique value
-    df = df.drop(columns=['alternateCandidates', 'displayMessage',
-                 'hasNoVoting', 'votes.constituenctyCounter'])
+    df = df.drop(
+        columns=[
+            "alternateCandidates",
+            "displayMessage",
+            "hasNoVoting",
+            "votes.constituenctyCounter",
+        ]
+    )
+    # drop cols which with repeated info for old elections
+    df = df.drop(columns=["mandates", "presidents"])
 
+    # convert 0/1s to bools
     for c in df.columns:
         if len(df[c].value_counts()) == 2:
             if set(df[c].unique()) == set([0, 1]):
                 df[c] = df[c].astype(bool)
 
-    df['candidatos'] = df.candidatos.apply(proper_name)
+    df["candidatos"] = df.candidatos.apply(proper_name)
+
+    # clean party names and break down coalitions
     df.party = df.party.apply(clean_coalition_name)
 
     def coalition_to_parties(coalition: str) -> List[str]:
@@ -65,31 +76,32 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
         while idx >= 0 and idx < len(coalition) and any(d in coalition for d in ".-/"):
             if coalition[:idx] in df.party:
                 parties.append(coalition[:idx])
-                coalition = coalition[idx+1:]
+                coalition = coalition[idx + 1 :]
                 idx = 0
-            idx = min_idx(coalition, ".-/", idx+1)
+            idx = min_idx(coalition, ".-/", idx + 1)
         return [coalition]
 
-    df['coalition'] = df.party
+    df["coalition"] = df.party
     coalition_lookup: Dict[str, List[str]] = {
         c: coalition_to_parties(c) for c in df.coalition.unique()
     }
-    df['parties'] = df.coalition.apply(lambda c: coalition_lookup[c])
+    df["parties"] = df.coalition.apply(lambda c: coalition_lookup[c])
 
-    df = df.drop(columns=['party'])
+    df = df.drop(columns=["party"])
 
-    df = df.rename(mapper=col_rename, axis='columns')
+    df = df.rename(mapper=col_rename, axis="columns")
     return df
 
 
 if __name__ == "__main__":
     dfs = []
     for y in range(2009, 2023, 4):
-        dfs.append(pd.read_csv(
-            os.path.join(BASE_PATH, 'final_csv',
-                         f'autarquicas_{y}_treated.csv')
-        ))
+        dfs.append(
+            pd.read_csv(
+                os.path.join(BASE_PATH, "final_csv", f"autarquicas_{y}_treated.csv"),
+                index_col=0,
+            )
+        )
     df = pd.concat(dfs)
     df = clean(df)
-    df.to_csv(os.path.join(
-        BASE_PATH, 'cleaning', 'autarquicas_treated.csv'))
+    df.to_csv(os.path.join(BASE_PATH, "cleaning", "autarquicas_treated.csv"))
