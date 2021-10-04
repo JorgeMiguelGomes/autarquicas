@@ -21,7 +21,7 @@ app = dash.Dash(__name__)
 
 cache = Cache(app.server, config={
     "CACHE_TYPE": "filesystem",
-    "CACHE_DIR": os.path.join(BASE_PATH, "dash_plotly", "cache"),
+    "CACHE_DIR": os.path.join(BASE_PATH, "dash", "cache"),
 })
 
 DROPDOWN_OPTIONS = [
