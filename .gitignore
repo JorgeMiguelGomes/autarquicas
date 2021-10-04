@@ -1,5 +1,9 @@
 # plotly cache files
 dash/cache/*
 
+# python cache files
+*__pycache__*
+*.pyc
+
 # exploratoyr notebooks
 *.ipynb
