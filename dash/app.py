@@ -50,7 +50,7 @@ DROPDOWN_OPTIONS = [
     {"label": "Parties", "value": "parties", "canX": True, "canColor": True}
 ]
 
-TIMEOUT = 60
+TIMEOUT = None  # data won't change
 
 
 @cache.memoize(timeout=TIMEOUT)

@@ -1,5 +1,5 @@
 # plotly cache files
-dash_plotly/cache/*
+dash/cache/*
 
 # exploratoyr notebooks
 *.ipynb
