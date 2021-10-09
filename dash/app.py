@@ -5,6 +5,7 @@ import os
 import re
 import time
 import pandas as pd
+import json
 
 import dash
 import dash_core_components as dcc
@@ -28,8 +29,8 @@ DROPDOWN_OPTIONS = [
     {"label": "Has Absolute Majority",
         "value": "votesAbsoluteMajority", "canColor": True},
     {"label": "Mandate votes", "value": "votesMandates", "canY": True},
-    {"label": "Votes in %", "value": "votesPercentage",
-        "canY": True},
+    {"label": "Percentage of Votes", "value": "votesPercentage",
+        "canCountyY": True},
     {"label": "is President vote", "value": "votesPresidents", "canColor": True},
     {"label": "Votes", "value": "votesVotes", "canY": True},
     {"label": "County", "value": "county", "canX": True, "canColor": True},
@@ -37,15 +38,17 @@ DROPDOWN_OPTIONS = [
     {"label": "Has available mandates?",
         "value": "availableMandates", "canColor": True},
     {"label": "Blank votes", "value": "blankVotes", "canY": True},
-    {"label": "Blank votes %", "value": "blankVotesPercentage", "canY": True},
+    {"label": "Blank votes %", "value": "blankVotesPercentage", "canCountyY": True},
     {"label": "Null votes", "value": "nullVotes", "canY": True},
-    {"label": "Null votes %", "value": "nullVotesPercentage", "canY": True},
+    {"label": "Null votes %", "value": "nullVotesPercentage", "canCountyY": True},
     {"label": "Number of Parishes", "value": "numberParishes", "canY": True},
     {"label": "Number of Voters", "value": "numberVoters", "canY": True},
-    {"label": "Percentage of Voters", "value": "percentageVoters", "canY": True},
-    {"label": "Candidate", "value": "candidate", "canX": True},
+    {"label": "Number of Voters (% of Population)",
+     "value": "percentageVoters", "canCountyY": True},
+    {"label": "Candidate", "value": "candidate", "canX": True, "canColor": True},
     {"label": "Year", "value": "year", "canX": True, "canColor": True},
-    {"label": "Valid votes in %", "value": "votesValidVotesPercentage", "canY": True},
+    {"label": "Valid votes in %",
+        "value": "votesValidVotesPercentage", "canCountyY": True},
     {"label": "Coalition", "value": "coalition", "canX": True, "canColor": True},
     {"label": "Parties", "value": "parties", "canX": True, "canColor": True}
 ]
@@ -55,9 +58,83 @@ TIMEOUT = None  # data won't change
 
 @cache.memoize(timeout=TIMEOUT)
 def dataframe():
-    return pd.read_csv(os.path.join(
+    df = pd.read_csv(os.path.join(
         BASE_PATH, "cleaning/autarquicas_treated.csv"
-    ))
+    ), index_col=0)
+    for c in df.columns:
+        if c == 'parties':
+            df[c] = df[c].apply(lambda x: x.replace(
+                "'", '"')).apply(json.loads)
+        elif set(df[c].unique()) == set(['True', 'False']):
+            df[c] = df[c].astype(bool)
+    return df
+
+
+@cache.memoize(timeout=TIMEOUT)
+def all_parties():
+    df = dataframe()
+    ps = set([]).union(*list(map(set, df.parties)))
+    ps = list(ps)
+    ps.sort(key=lambda x: x)
+    return ps
+
+
+@cache.memoize(timeout=TIMEOUT)
+def all_districts():
+    df = dataframe()
+    ps = list(df.district.unique())
+    ps.sort(key=lambda x: x)
+    return ps
+
+
+@cache.memoize(timeout=TIMEOUT)
+def counties_df():
+    df = dataframe()
+    df = df.drop_duplicates(subset=['district', 'county'])[
+        ['district', 'county']]
+    return df
+
+
+@cache.memoize(timeout=TIMEOUT)
+def x_y_color_dropdowns(id_prefix: str = "") -> html.Div:
+    return html.Div([
+        html.Div([
+            html.P("X axis attribute", style={
+                   'display': 'inline-block', 'margin': 'auto'}),
+            dcc.Dropdown(
+                id=id_prefix + "xAxis",
+                options=[
+                    {"label": r["label"], "value":r["value"]}
+                    for r in DROPDOWN_OPTIONS if "canX" in r
+                ],
+                value="year", style={'display': 'inline-block', 'width': '60%', 'margin': 'auto'})],
+            style={'width': '33%', 'display': 'inline-block'}
+        ),
+        html.Div([
+            html.P("Y axis attribute", style={
+                   'display': 'inline-block', 'margin': 'auto'}),
+            dcc.Dropdown(
+                id=id_prefix + "yAxis",
+                options=[
+                    {"label": r["label"], "value":r["value"]}
+                    for r in DROPDOWN_OPTIONS if "canY" in r or (id_prefix == "county-" and "canCountyY" in r)
+                ],
+                value="numberVoters", style={'display': 'inline-block', 'width': '60%', 'margin': 'auto'})],
+            style={'width': '33%', 'display': 'inline-block'}
+        ),
+        html.Div([
+            html.P("Color/Group attribute",
+                   style={'display': 'inline-block', 'margin': 'auto'}),
+            dcc.Dropdown(
+                id=id_prefix + "colorGroup",
+                options=[
+                    {"label": r["label"], "value":r["value"]}
+                    for r in DROPDOWN_OPTIONS if "canColor" in r
+                ],
+                value="coalition", style={'display': 'inline-block', 'width': '60%', 'margin': 'auto'})],
+            style={'width': '33%', 'display': 'inline-block'}
+        )
+    ])
 
 
 app.layout = html.Div(children=[
@@ -68,57 +145,136 @@ app.layout = html.Div(children=[
     """),
 
     html.Div([
-        html.Div([
-            html.P("X axis attribute"),
-            dcc.Dropdown(
-                id="xAxis",
-                options=[
-                    {"label": r["label"], "value":r["value"]}
-                    for r in DROPDOWN_OPTIONS if "canX" in r
-                ],
-                value="year")],
-            style={'width': '33%', 'display': 'inline-block'}
-        ),
-        html.Div([
-            html.P("Y axis attribute"),
-            dcc.Dropdown(
-                id="yAxis",
-                options=[
-                    {"label": r["label"], "value":r["value"]}
-                    for r in DROPDOWN_OPTIONS if "canY" in r
-                ],
-                value="numberVoters")],
-            style={'width': '33%', 'display': 'inline-block'}
-        ),
-        html.Div([
-            html.P("Color/Group attribute"),
-            dcc.Dropdown(
-                id="colorGroup",
-                options=[
-                    {"label": r["label"], "value":r["value"]}
-                    for r in DROPDOWN_OPTIONS if "canColor" in r and r["value"] != "year"
-                ],
-                value="county")],
-            style={'width': '33%', 'display': 'inline-block'}
+        html.H2("Pick-your-own Plot"),
+        x_y_color_dropdowns(),
+        dcc.Graph(
+            id="main-graph",
         )
     ]),
 
-    dcc.Graph(
-        id="main-graph",
-    )
+    html.Div([
+        html.H2("Plot by Parties/Coalition"),
+        html.Div([
+            html.Div([
+                html.P("Involved Parties/Coalition"),
+            ], style={'width': '15%', 'display': 'inline-block'}),
+            html.Div([
+                dcc.Dropdown(
+                    id="parties",
+                    options=[
+                        {"label": p, "value": p}
+                        for p in all_parties()
+                    ],
+                    value=["PCP-PEV"],
+                    multi=True)
+            ], style={'width': '50%', 'display': 'inline-block'}),
+            html.Div([
+                dcc.Checklist(
+                    id="coalitionOnly",
+                    options=[{"label": "Coalition only?", "value": "Yes"}],
+                    value=[]
+                )
+            ], style={'width': '20%', 'display': 'inline-block'}),
+        ]),
+        x_y_color_dropdowns("parties-"),
+        dcc.Graph(
+            id="parties-graph",
+        )
+    ]),
+    html.Div([
+        html.H2("Plot by District"),
+        html.Div([
+            html.Div([
+                html.P("District"),
+            ], style={'width': '15%', 'display': 'inline-block'}),
+            html.Div([
+                dcc.Dropdown(
+                    id="district",
+                    options=[
+                        {"label": d, "value": d}
+                        for d in all_districts()
+                    ],
+                    value="Aveiro")
+            ], style={'width': '60%', 'display': 'inline-block'}),
+        ]),
+        x_y_color_dropdowns("district-"),
+        dcc.Graph(
+            id="district-graph",
+        )
+    ]),
+    html.Div([
+        html.H2("Plot by County"),
+        html.Div([
+            html.Div([
+                html.P("District"),
+            ], style={'width': '15%', 'display': 'inline-block'}),
+            html.Div([
+                dcc.Dropdown(
+                    id="county-district",
+                    options=[
+                        {"label": d, "value": d}
+                        for d in all_districts()
+                    ],
+                    value="Aveiro")
+            ], style={'width': '35%', 'display': 'inline-block'}),
+            html.Div([
+                html.P("County"),
+            ], style={'width': '15%', 'display': 'inline-block'}),
+            html.Div([
+                dcc.Dropdown(
+                    id="county-county",
+                    options=[
+                        {"label": c, "value": c}
+                        for c in counties_df()[counties_df().district == "Aveiro"].county
+                    ],
+                    value="Águeda")
+            ], style={'width': '35%', 'display': 'inline-block'}),
+        ]),
+        x_y_color_dropdowns("county-"),
+        dcc.Graph(
+            id="county-graph",
+        )
+    ])
+
 ])
 
 
-@app.callback(
+@ app.callback(
     Output("colorGroup", "options"),
     Input("xAxis", "value")
 )
 def update_color_group(x_col_name):
     new_color_options = [
-        {"label": r["label"], "value":r["value"]}
+        {"label": r["label"], "value": r["value"]}
         for r in DROPDOWN_OPTIONS if "canColor" in r and r["value"] != x_col_name
     ]
     return new_color_options
+
+
+def group_df(x_col_name, y_col_name, color_col_name, df=dataframe()):
+    temp_df = df.copy(deep=True)
+    if "parties" in [x_col_name, color_col_name]:
+        temp_df['parties'] = temp_df['parties'].apply(str)
+    gped_df = temp_df.groupby([x_col_name, color_col_name]).sum()
+
+    gped_df = pd.DataFrame([[
+        ia, ib, v] for (ia, ib), v in zip(gped_df.index, gped_df[y_col_name])],
+        columns=[x_col_name, color_col_name, y_col_name])
+    return gped_df
+
+
+def gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name):
+    fig = px.bar(gped_df, x=x_col_name, y=y_col_name, color=color_col_name,
+                 labels={r['value']: r['label'] for r in DROPDOWN_OPTIONS})
+    if x_col_name == 'year':
+        fig.update_layout(
+            xaxis=dict(
+                tickmode='linear',
+                tick0=min(gped_df.year),
+                dtick=4
+            )
+        )
+    return fig
 
 
 @app.callback(
@@ -128,22 +284,88 @@ def update_color_group(x_col_name):
      Input("colorGroup", "value")]
 )
 def update_graph(x_col_name, y_col_name, color_col_name):
-    gped_df = dataframe().groupby([x_col_name, color_col_name]).sum()
+    gped_df = group_df(x_col_name, y_col_name, color_col_name)
+    fig = gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name)
+    return fig
 
-    gped_df = pd.DataFrame([[
-        ia, ib, v] for (ia, ib), v in zip(gped_df.index, gped_df[y_col_name])],
-        columns=[x_col_name, color_col_name, y_col_name])
 
-    fig = px.bar(gped_df, x=x_col_name, y=y_col_name, color=color_col_name,
-                 labels={r['value']: r['label'] for r in DROPDOWN_OPTIONS})
-    if x_col_name == 'year':
-        fig.update_layout(
-            xaxis=dict(
-                tickmode='linear',
-                tick0=2009,
-                dtick=4
+@app.callback(
+    Output("parties-graph", "figure"),
+    [Input("parties-xAxis", "value"),
+     Input("parties-yAxis", "value"),
+     Input("parties-colorGroup", "value"),
+     Input("parties", "value"),
+     Input("coalitionOnly", "value"), ]
+)
+def update_parties_graph(x_col_name, y_col_name, color_col_name, parties, coalition_only):
+    temp_df = dataframe()
+    if len(coalition_only) > 0:
+        temp_df = temp_df[[all(p in ps for p in parties)
+                           for ps in temp_df.parties]]
+        if len(temp_df) == 0:
+            fig = px.scatter(
+                x=[0], y=[0],
+                text=["No coalitions have all these parties:\n" +
+                      ",".join(parties)]
             )
-        )
+            fig.update_traces(textposition="top center")
+            return fig
+    else:
+        temp_df = temp_df[[any(p in ps for p in parties)
+                           for ps in temp_df.parties]]
+    gped_df = group_df(x_col_name, y_col_name, color_col_name, temp_df)
+    fig = gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name)
+
+    return fig
+
+
+@app.callback(
+    Output("district-graph", "figure"),
+    [Input("district-xAxis", "value"),
+     Input("district-yAxis", "value"),
+     Input("district-colorGroup", "value"),
+     Input("district", "value"), ]
+)
+def update_district_graph(x_col_name, y_col_name, color_col_name, district):
+    temp_df = dataframe()
+    temp_df = temp_df[temp_df.district == district]
+
+    gped_df = group_df(x_col_name, y_col_name, color_col_name, temp_df)
+    fig = gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name)
+
+    return fig
+
+
+@ app.callback(
+    [Output("county-county", "options"),
+     Output("county-county", "value")],
+    Input("county-district", "value")
+)
+def update_county_dropdown(district):
+    new_county_options = [
+        {"label": c, "value": c}
+        for c in counties_df()[counties_df().district == district].county
+    ]
+    new_county_val = new_county_options[0]['value']
+    return new_county_options, new_county_val
+
+# TODO: disable color/group when yaxis uses percentage
+
+
+@app.callback(
+    Output("county-graph", "figure"),
+    [Input("county-xAxis", "value"),
+     Input("county-yAxis", "value"),
+     Input("county-colorGroup", "value"),
+     Input("county-county", "value"), ]
+)
+def update_county_graph(x_col_name, y_col_name, color_col_name, county):
+    temp_df = dataframe()
+    temp_df = temp_df[temp_df.county == county]
+
+    gped_df = group_df(x_col_name, y_col_name, color_col_name, temp_df)
+    fig = gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name)
+
     return fig
 
 
