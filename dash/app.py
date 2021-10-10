@@ -32,7 +32,7 @@ DROPDOWN_OPTIONS = [
     {"label": "Percentage of Votes", "value": "votesPercentage",
         "canCountyY": True},
     {"label": "is President vote", "value": "votesPresidents", "canColor": True},
-    {"label": "Votes", "value": "votesVotes", "canY": True},
+    {"label": "Received Votes", "value": "votesVotes", "canY": True},
     {"label": "County", "value": "county", "canX": True, "canColor": True},
     {"label": "District", "value": "district", "canX": True, "canColor": True},
     {"label": "Has available mandates?",
@@ -181,29 +181,9 @@ app.layout = html.Div(children=[
             id="parties-graph",
         )
     ]),
+
     html.Div([
-        html.H2("Plot by District"),
-        html.Div([
-            html.Div([
-                html.P("District"),
-            ], style={'width': '15%', 'display': 'inline-block'}),
-            html.Div([
-                dcc.Dropdown(
-                    id="district",
-                    options=[
-                        {"label": d, "value": d}
-                        for d in all_districts()
-                    ],
-                    value="Aveiro")
-            ], style={'width': '60%', 'display': 'inline-block'}),
-        ]),
-        x_y_color_dropdowns("district-"),
-        dcc.Graph(
-            id="district-graph",
-        )
-    ]),
-    html.Div([
-        html.H2("Plot by County"),
+        html.H2("Plot by District/County"),
         html.Div([
             html.Div([
                 html.P("District"),
@@ -223,7 +203,7 @@ app.layout = html.Div(children=[
             html.Div([
                 dcc.Dropdown(
                     id="county-county",
-                    options=[
+                    options=[{"label": "(All)", "value": "(All)"}]+[
                         {"label": c, "value": c}
                         for c in counties_df()[counties_df().district == "Aveiro"].county
                     ],
@@ -253,6 +233,9 @@ def update_color_group(x_col_name):
 
 def group_df(x_col_name, y_col_name, color_col_name, df=dataframe()):
     temp_df = df.copy(deep=True)
+    if color_col_name == "year":
+        temp_df["year"] = temp_df["year"].apply(str)
+        # hack to make it sure categories instead of colormap
     if "parties" in [x_col_name, color_col_name]:
         temp_df['parties'] = temp_df['parties'].apply(str)
     gped_df = temp_df.groupby([x_col_name, color_col_name]).sum()
@@ -264,8 +247,11 @@ def group_df(x_col_name, y_col_name, color_col_name, df=dataframe()):
 
 
 def gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name):
-    fig = px.bar(gped_df, x=x_col_name, y=y_col_name, color=color_col_name,
-                 labels={r['value']: r['label'] for r in DROPDOWN_OPTIONS})
+    kwargs = dict(x=x_col_name, y=y_col_name, color=color_col_name,
+                  labels={r['value']: r['label'] for r in DROPDOWN_OPTIONS})
+    if "Percentage" in y_col_name:
+        kwargs.pop("color")
+    fig = px.bar(gped_df, **kwargs)
     if x_col_name == 'year':
         fig.update_layout(
             xaxis=dict(
@@ -319,34 +305,17 @@ def update_parties_graph(x_col_name, y_col_name, color_col_name, parties, coalit
     return fig
 
 
-@app.callback(
-    Output("district-graph", "figure"),
-    [Input("district-xAxis", "value"),
-     Input("district-yAxis", "value"),
-     Input("district-colorGroup", "value"),
-     Input("district", "value"), ]
-)
-def update_district_graph(x_col_name, y_col_name, color_col_name, district):
-    temp_df = dataframe()
-    temp_df = temp_df[temp_df.district == district]
-
-    gped_df = group_df(x_col_name, y_col_name, color_col_name, temp_df)
-    fig = gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name)
-
-    return fig
-
-
 @ app.callback(
     [Output("county-county", "options"),
      Output("county-county", "value")],
     Input("county-district", "value")
 )
 def update_county_dropdown(district):
-    new_county_options = [
+    new_county_options = [{"label": "(All)", "value": "(All)"}] + [
         {"label": c, "value": c}
         for c in counties_df()[counties_df().district == district].county
     ]
-    new_county_val = new_county_options[0]['value']
+    new_county_val = new_county_options[1]['value']
     return new_county_options, new_county_val
 
 # TODO: disable color/group when yaxis uses percentage
@@ -357,11 +326,15 @@ def update_county_dropdown(district):
     [Input("county-xAxis", "value"),
      Input("county-yAxis", "value"),
      Input("county-colorGroup", "value"),
+     Input("county-district", "value"),
      Input("county-county", "value"), ]
 )
-def update_county_graph(x_col_name, y_col_name, color_col_name, county):
+def update_county_graph(x_col_name, y_col_name, color_col_name, district, county):
     temp_df = dataframe()
-    temp_df = temp_df[temp_df.county == county]
+    if county == "(All)":
+        temp_df = temp_df[temp_df.district == district]
+    else:
+        temp_df = temp_df[temp_df.county == county]
 
     gped_df = group_df(x_col_name, y_col_name, color_col_name, temp_df)
     fig = gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name)
