@@ -100,6 +100,16 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
     df = df.drop(columns=["party"])
 
     df = df.rename(mapper=col_rename, axis="columns")
+
+    # calculate percentages
+    df['votesPercentage'] = df['votesVotes'] / df['numberVoters'] * 100
+    df['blankVotesPercentage'] = df['blankVotes'] / \
+        df['numberVoters'] * 100
+    df['nullVotesPercentage'] = df['nullVotes'] / \
+        df['numberVoters'] * 100
+    df['votesValidVotesPercentage'] = df['votesVotes'] / \
+        (df['numberVoters'] - df['blankVotes'] - df['nullVotes']) * 100
+
     return df
 
 
