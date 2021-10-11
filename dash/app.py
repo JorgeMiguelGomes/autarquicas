@@ -71,6 +71,30 @@ def dataframe():
 
 
 @cache.memoize(timeout=TIMEOUT)
+def distrct_dataframe():
+    df = dataframe()
+    df['population'] = df['numberVoters'] / df['percentageVoters'] * 100
+    gped_df = df.groupby(['year', 'district']).sum()[['votesVotes']]
+    atts_df = df.drop_duplicates(subset=['year', 'district'])[
+        ['year', 'district', 'numberVoters', 'numberParishes', 'blankVotes', 'nullVotes', 'population']]
+    del df
+    gped_df = gped_df.reset_index()  # makes year, district column reappear
+    gped_df = pd.merge(gped_df, atts_df, on=['year', 'district'])
+    gped_df['votesPercentage'] = gped_df['votesVotes'] / \
+        gped_df['numberVoters'] * 100
+    gped_df['blankVotesPercentage'] = gped_df['blankVotes'] / \
+        gped_df['numberVoters'] * 100
+    gped_df['nullVotesPercentage'] = gped_df['nullVotes'] / \
+        gped_df['numberVoters'] * 100
+    gped_df['votesValidVotesPercentage'] = gped_df['votesVotes'] / \
+        (gped_df['numberVoters'] -
+         gped_df['blankVotes'] - gped_df['nullVotes']) * 100
+    gped_df['percentageVoters'] = gped_df['numberVoters'] / \
+        gped_df['population'] * 100
+    return gped_df
+
+
+@cache.memoize(timeout=TIMEOUT)
 def all_parties():
     df = dataframe()
     ps = set([]).union(*list(map(set, df.parties)))
@@ -238,18 +262,18 @@ def group_df(x_col_name, y_col_name, color_col_name, df=dataframe()):
         # hack to make it sure categories instead of colormap
     if "parties" in [x_col_name, color_col_name]:
         temp_df['parties'] = temp_df['parties'].apply(str)
-    gped_df = temp_df.groupby([x_col_name, color_col_name]).sum()
+    group_cols = [x_col_name]+([color_col_name] if color_col_name else [])
+    gped_df = temp_df.groupby(group_cols).sum()
 
-    gped_df = pd.DataFrame([[
-        ia, ib, v] for (ia, ib), v in zip(gped_df.index, gped_df[y_col_name])],
-        columns=[x_col_name, color_col_name, y_col_name])
+    gped_df = pd.DataFrame([([t] if type(t) == int else list(t))+[v] for t, v in zip(gped_df.index, gped_df[y_col_name])],
+                           columns=group_cols+[y_col_name])
     return gped_df
 
 
 def gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name):
     kwargs = dict(x=x_col_name, y=y_col_name, color=color_col_name,
                   labels={r['value']: r['label'] for r in DROPDOWN_OPTIONS})
-    if "Percentage" in y_col_name:
+    if color_col_name is None:
         kwargs.pop("color")
     fig = px.bar(gped_df, **kwargs)
     if x_col_name == 'year':
@@ -318,7 +342,17 @@ def update_county_dropdown(district):
     new_county_val = new_county_options[1]['value']
     return new_county_options, new_county_val
 
-# TODO: disable color/group when yaxis uses percentage
+
+# @ app.callback(
+#     [Output("county-xAxis", "options"),
+#      Output("county-yAxis", "options"),
+#      Output("county-yAxis", "options")],
+#     Input("county-district", "value")
+# )
+# def update_x_y_color_dropdown(district):
+#     if district == "(All)":
+
+#     return new_county_options, new_county_val
 
 
 @app.callback(
@@ -330,9 +364,10 @@ def update_county_dropdown(district):
      Input("county-county", "value"), ]
 )
 def update_county_graph(x_col_name, y_col_name, color_col_name, district, county):
-    temp_df = dataframe()
+    temp_df = distrct_dataframe() if county == "(All)" else dataframe()
     if county == "(All)":
         temp_df = temp_df[temp_df.district == district]
+        color_col_name = None
     else:
         temp_df = temp_df[temp_df.county == county]
 
