@@ -25,35 +25,14 @@ cache = Cache(app.server, config={
     "CACHE_DIR": os.path.join(BASE_PATH, "dash", "cache"),
 })
 
-DROPDOWN_OPTIONS = [
-    {"label": "Has Absolute Majority",
-        "value": "votesAbsoluteMajority", "canColor": True},
-    {"label": "Mandate votes", "value": "votesMandates", "canY": True},
-    {"label": "Percentage of Votes", "value": "votesPercentage",
-        "canCountyY": True},
-    {"label": "is President vote", "value": "votesPresidents", "canColor": True},
-    {"label": "Received Votes", "value": "votesVotes", "canY": True},
-    {"label": "County", "value": "county", "canX": True, "canColor": True},
-    {"label": "District", "value": "district", "canX": True, "canColor": True},
-    {"label": "Has available mandates?",
-        "value": "availableMandates", "canColor": True},
-    {"label": "Blank votes", "value": "blankVotes", "canY": True},
-    {"label": "Blank votes %", "value": "blankVotesPercentage", "canCountyY": True},
-    {"label": "Null votes", "value": "nullVotes", "canY": True},
-    {"label": "Null votes %", "value": "nullVotesPercentage", "canCountyY": True},
-    {"label": "Number of Parishes", "value": "numberParishes", "canY": True},
-    {"label": "Number of Voters", "value": "numberVoters", "canY": True},
-    {"label": "Number of Voters (% of Population)",
-     "value": "percentageVoters", "canCountyY": True},
-    {"label": "Candidate", "value": "candidate", "canX": True, "canColor": True},
-    {"label": "Year", "value": "year", "canX": True, "canColor": True},
-    {"label": "Valid votes in %",
-        "value": "votesValidVotesPercentage", "canCountyY": True},
-    {"label": "Coalition", "value": "coalition", "canX": True, "canColor": True},
-    {"label": "Parties", "value": "parties", "canX": True, "canColor": True}
-]
-
 TIMEOUT = None  # data won't change
+
+
+@cache.memoize(timeout=TIMEOUT)
+def dropdown_options():
+    with open(os.path.join(BASE_PATH, "dash/dropdown_options.json"), "r") as f:
+        jsn = json.load(f)
+    return jsn
 
 
 @cache.memoize(timeout=TIMEOUT)
@@ -129,7 +108,7 @@ def x_y_color_dropdowns(id_prefix: str = "") -> html.Div:
                 id=id_prefix + "xAxis",
                 options=[
                     {"label": r["label"], "value":r["value"]}
-                    for r in DROPDOWN_OPTIONS if "canX" in r
+                    for r in dropdown_options() if "canX" in r
                 ],
                 value="year", style={'display': 'inline-block', 'width': '60%', 'margin': 'auto'})],
             style={'width': '33%', 'display': 'inline-block'}
@@ -141,7 +120,7 @@ def x_y_color_dropdowns(id_prefix: str = "") -> html.Div:
                 id=id_prefix + "yAxis",
                 options=[
                     {"label": r["label"], "value":r["value"]}
-                    for r in DROPDOWN_OPTIONS if "canY" in r or (id_prefix == "county-" and "canCountyY" in r)
+                    for r in dropdown_options() if "canY" in r or (id_prefix == "county-" and "canCountyY" in r)
                 ],
                 value="numberVoters", style={'display': 'inline-block', 'width': '60%', 'margin': 'auto'})],
             style={'width': '33%', 'display': 'inline-block'}
@@ -153,7 +132,7 @@ def x_y_color_dropdowns(id_prefix: str = "") -> html.Div:
                 id=id_prefix + "colorGroup",
                 options=[
                     {"label": r["label"], "value":r["value"]}
-                    for r in DROPDOWN_OPTIONS if "canColor" in r
+                    for r in dropdown_options() if "canColor" in r
                 ],
                 value="coalition", style={'display': 'inline-block', 'width': '60%', 'margin': 'auto'})],
             style={'width': '33%', 'display': 'inline-block'}
@@ -250,7 +229,7 @@ app.layout = html.Div(children=[
 def update_color_group(x_col_name):
     new_color_options = [
         {"label": r["label"], "value": r["value"]}
-        for r in DROPDOWN_OPTIONS if "canColor" in r and r["value"] != x_col_name
+        for r in dropdown_options() if "canColor" in r and r["value"] != x_col_name
     ]
     return new_color_options
 
@@ -272,7 +251,7 @@ def group_df(x_col_name, y_col_name, color_col_name, df=dataframe()):
 
 def gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name):
     kwargs = dict(x=x_col_name, y=y_col_name, color=color_col_name,
-                  labels={r['value']: r['label'] for r in DROPDOWN_OPTIONS})
+                  labels={r['value']: r['label'] for r in dropdown_options()})
     if color_col_name is None:
         kwargs.pop("color")
     fig = px.bar(gped_df, **kwargs)
