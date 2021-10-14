@@ -123,6 +123,6 @@ if __name__ == "__main__":
                 index_col=0,
             )
         )
-    df = pd.concat(dfs)
+    df = pd.concat(dfs, ignore_index=True)
     df = clean(df)
     df.to_csv(os.path.join(BASE_PATH, "cleaning", "autarquicas_treated.csv"))
