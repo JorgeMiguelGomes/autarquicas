@@ -37,11 +37,6 @@
         "canColor": true
     },
     {
-        "label": "Has available mandates?",
-        "value": "availableMandates",
-        "canColor": true
-    },
-    {
         "label": "Blank votes",
         "value": "blankVotes",
         "canY": true
@@ -96,13 +91,11 @@
     {
         "label": "Coalition",
         "value": "coalition",
-        "canX": true,
         "canColor": true
     },
     {
         "label": "Parties",
         "value": "parties",
-        "canX": true,
         "canColor": true
     }
 ]

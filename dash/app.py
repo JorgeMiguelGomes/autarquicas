@@ -238,7 +238,7 @@ def group_df(x_col_name, y_col_name, color_col_name, df=dataframe()):
     temp_df = df.copy(deep=True)
     if color_col_name == "year":
         temp_df["year"] = temp_df["year"].apply(str)
-        # hack to make it sure categories instead of colormap
+        # hack to make it show as categories instead of colormap
     if "parties" in [x_col_name, color_col_name]:
         temp_df['parties'] = temp_df['parties'].apply(str)
     group_cols = [x_col_name]+([color_col_name] if color_col_name else [])
@@ -263,6 +263,8 @@ def gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name):
                 dtick=4
             )
         )
+    else:
+        fig.update_xaxes(categoryorder='total descending')
     return fig
 
 
@@ -343,12 +345,16 @@ def update_county_dropdown(district):
      Input("county-county", "value"), ]
 )
 def update_county_graph(x_col_name, y_col_name, color_col_name, district, county):
-    temp_df = distrct_dataframe() if county == "(All)" else dataframe()
-    if county == "(All)":
+    if county == "(All)" and not "county" in [x_col_name, color_col_name]:
+        temp_df = distrct_dataframe()
         temp_df = temp_df[temp_df.district == district]
         color_col_name = None
     else:
-        temp_df = temp_df[temp_df.county == county]
+        temp_df = dataframe()
+        if county == "(All)":
+            temp_df = temp_df[temp_df.district == district]
+        else:
+            temp_df = temp_df[temp_df.county == county]
 
     gped_df = group_df(x_col_name, y_col_name, color_col_name, temp_df)
     fig = gen_bar_graph(gped_df, x_col_name, y_col_name, color_col_name)
