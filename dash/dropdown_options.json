@@ -1,0 +1,101 @@
+[
+    {
+        "label": "Has Absolute Majority",
+        "value": "votesAbsoluteMajority",
+        "canColor": true
+    },
+    {
+        "label": "Mandate votes",
+        "value": "votesMandates",
+        "canY": true
+    },
+    {
+        "label": "Percentage of Votes",
+        "value": "votesPercentage",
+        "canCountyY": true
+    },
+    {
+        "label": "is President vote",
+        "value": "votesPresidents",
+        "canColor": true
+    },
+    {
+        "label": "Received Votes",
+        "value": "votesVotes",
+        "canY": true
+    },
+    {
+        "label": "County",
+        "value": "county",
+        "canX": true,
+        "canColor": true
+    },
+    {
+        "label": "District",
+        "value": "district",
+        "canX": true,
+        "canColor": true
+    },
+    {
+        "label": "Blank votes",
+        "value": "blankVotes",
+        "canY": true
+    },
+    {
+        "label": "Blank votes %",
+        "value": "blankVotesPercentage",
+        "canCountyY": true
+    },
+    {
+        "label": "Null votes",
+        "value": "nullVotes",
+        "canY": true
+    },
+    {
+        "label": "Null votes %",
+        "value": "nullVotesPercentage",
+        "canCountyY": true
+    },
+    {
+        "label": "Number of Parishes",
+        "value": "numberParishes",
+        "canY": true
+    },
+    {
+        "label": "Number of Voters",
+        "value": "numberVoters",
+        "canY": true
+    },
+    {
+        "label": "Number of Voters (% of Population)",
+        "value": "percentageVoters",
+        "canCountyY": true
+    },
+    {
+        "label": "Candidate",
+        "value": "candidate",
+        "canX": true,
+        "canColor": true
+    },
+    {
+        "label": "Year",
+        "value": "year",
+        "canX": true,
+        "canColor": true
+    },
+    {
+        "label": "Valid votes in %",
+        "value": "votesValidVotesPercentage",
+        "canCountyY": true
+    },
+    {
+        "label": "Coalition",
+        "value": "coalition",
+        "canColor": true
+    },
+    {
+        "label": "Parties",
+        "value": "parties",
+        "canColor": true
+    }
+]
